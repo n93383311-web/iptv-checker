@@ -2,7 +2,7 @@ import os
 import re
 import requests
 
-INPUT_DIR = "input_lists"
+INPUT_DIR = "input_lists2"
 OUTPUT_FILE = "output/working.m3u"
 
 def extract_urls(text):
