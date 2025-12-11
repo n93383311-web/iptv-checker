@@ -1,0 +1,385 @@
+#EXTM3U
+#EXTINF:0 tvg-id=\"PROTV.ro\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",PRO TV HD
+http://optimus-tv.com:8080/asim/asim123/564743
+#EXTINF:0 tvg-id=\"PROTV.ro\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",PRO TV FHD
+http://optimus-tv.com:8080/asim/asim123/564744
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",ANTENA 1 HD
+http://optimus-tv.com:8080/asim/asim123/564745
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",ANTENA 1 FHD
+http://optimus-tv.com:8080/asim/asim123/564746
+#EXTINF:0 tvg-id=\"PrimaTV.cz\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",Prima TV HD
+http://optimus-tv.com:8080/asim/asim123/564747
+#EXTINF:0 tvg-id=\"KanalD.tr\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",KANAL D HD
+http://optimus-tv.com:8080/asim/asim123/564749
+#EXTINF:0 tvg-id=\"KanalD.tr\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",KANAL D FHD
+http://optimus-tv.com:8080/asim/asim123/564750
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",ANTENA STARS HD
+http://optimus-tv.com:8080/asim/asim123/564751
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",ANTENA STARS FHD
+http://optimus-tv.com:8080/asim/asim123/564752
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",TVR 1 HD
+http://optimus-tv.com:8080/asim/asim123/564753
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",TVR 1 FHD
+http://optimus-tv.com:8080/asim/asim123/564754
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",TVR 2 HD
+http://optimus-tv.com:8080/asim/asim123/564755
+#EXTINF:0 tvg-id=\"TVR2.ro\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",TVR 2
+http://optimus-tv.com:8080/asim/asim123/564756
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",TVR 3 HD
+http://optimus-tv.com:8080/asim/asim123/564757
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",TVR INTERNATIONAL HD
+http://optimus-tv.com:8080/asim/asim123/564758
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",A7 TV HD
+http://optimus-tv.com:8080/asim/asim123/564759
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",B1 TV HD
+http://optimus-tv.com:8080/asim/asim123/564760
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",NATIONAL TV HD
+http://optimus-tv.com:8080/asim/asim123/564761
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",AGRO TV HD
+http://optimus-tv.com:8080/asim/asim123/564762
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",ROMANIA TV FHD
+http://optimus-tv.com:8080/asim/asim123/564765
+#EXTINF:0 tvg-id=\"Digi24.ro\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",DIGI 24 HD
+http://optimus-tv.com:8080/asim/asim123/564766
+#EXTINF:0 tvg-id=\"Digi24.ro\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",DIGI 24 FHD
+http://optimus-tv.com:8080/asim/asim123/564767
+#EXTINF:0 tvg-id=\"Antena3.es\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",ANTENA 3 HD
+http://optimus-tv.com:8080/asim/asim123/564768
+#EXTINF:0 tvg-id=\"Antena3.es\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",ANTENA 3 FULLHD
+http://optimus-tv.com:8080/asim/asim123/564769
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",REALITATEAN PLUS HD
+http://optimus-tv.com:8080/asim/asim123/564773
+#EXTINF:0 tvg-id=\"KanalD2.ro\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",BUCURESTI TV
+http://optimus-tv.com:8080/asim/asim123/564781
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",EST TV HD
+http://optimus-tv.com:8080/asim/asim123/564782
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",INTERMEDIA TV HD
+http://optimus-tv.com:8080/asim/asim123/564790
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",BUCOVINA TV FHD
+http://optimus-tv.com:8080/asim/asim123/564795
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",ALFA OMEGA FHD
+http://optimus-tv.com:8080/asim/asim123/564797
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",TRINITAS FHD
+http://optimus-tv.com:8080/asim/asim123/564798
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",CREDO TV FHD
+http://optimus-tv.com:8080/asim/asim123/564800
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",INTERMEDIA SUCEAVA HD
+http://optimus-tv.com:8080/asim/asim123/728195
+#EXTINF:0 tvg-id=\"Duna.hu\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",DUNA TV HD
+http://optimus-tv.com:8080/asim/asim123/728194
+#EXTINF:0 tvg-id=\"n24.de\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",N24 HD
+http://optimus-tv.com:8080/asim/asim123/728193
+#EXTINF:0 tvg-id=\"TV5MondeFBS.fr\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",TV5 MONDE FHD
+http://optimus-tv.com:8080/asim/asim123/728192
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",NATIONAL CLUJ HD
+http://optimus-tv.com:8080/asim/asim123/728191
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",B1 TV HD
+http://optimus-tv.com:8080/asim/asim123/728189
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",PRO-X HD
+http://optimus-tv.com:8080/asim/asim123/728188
+#EXTINF:0 tvg-id=\"fashion\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",FASHION TV FHD
+http://optimus-tv.com:8080/asim/asim123/728200
+#EXTINF:0 tvg-id=\"Crime-InvestigationHD.us\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",CI HD
+http://optimus-tv.com:8080/asim/asim123/728196
+#EXTINF:0 tvg-id=\"TV2.dk\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",TV 2 HD
+http://optimus-tv.com:8080/asim/asim123/728528
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",MOZI+ HD
+http://optimus-tv.com:8080/asim/asim123/728527
+#EXTINF:0 tvg-id=\"prime-md\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",PRIME HD
+http://optimus-tv.com:8080/asim/asim123/728526
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",SUPER TV 2HD
+http://optimus-tv.com:8080/asim/asim123/728525
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",IZAURA TV HD
+http://optimus-tv.com:8080/asim/asim123/728524
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",M2 / PETOFI HD
+http://optimus-tv.com:8080/asim/asim123/728523
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",DUNA WORL / M4 SPORT+ FHD
+http://optimus-tv.com:8080/asim/asim123/728522
+#EXTINF:0 tvg-id=\"cnn\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",CNN FHD
+http://optimus-tv.com:8080/asim/asim123/728517
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",CNBC EUROPE FHD
+http://optimus-tv.com:8080/asim/asim123/728519
+#EXTINF:0 tvg-id=\"france24\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",FRANCE 24 FHD
+http://optimus-tv.com:8080/asim/asim123/728520
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",MEDIASET ITALIA HD
+http://optimus-tv.com:8080/asim/asim123/728521
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",ANTENA 1 HD
+http://optimus-tv.com:8080/asim/asim123/564745
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",ANTENA 1 FHD
+http://optimus-tv.com:8080/asim/asim123/564746
+#EXTINF:0 tvg-id=\"PrimaTV.cz\" group-title=\"ROU ⋅ ROMÂNIA ÎN DIRECT\",Prima TV HD
+http://optimus-tv.com:8080/asim/asim123/564747
+#EXTINF:0 tvg-id=\"HBO.hu\" group-title=\"ROU ⋅ CINEMA\",HBO HD
+http://optimus-tv.com:8080/asim/asim123/564806
+#EXTINF:0 tvg-id=\"HBO.hu\" group-title=\"ROU ⋅ CINEMA\",HBO FHD
+http://optimus-tv.com:8080/asim/asim123/564807
+#EXTINF:0 tvg-id=\"HBO2.pl\" group-title=\"ROU ⋅ CINEMA\",HBO 2 HD
+http://optimus-tv.com:8080/asim/asim123/564808
+#EXTINF:0 tvg-id=\"HBO2.pl\" group-title=\"ROU ⋅ CINEMA\",HBO 2 FHD
+http://optimus-tv.com:8080/asim/asim123/564809
+#EXTINF:0 tvg-id=\"HBO3.pl\" group-title=\"ROU ⋅ CINEMA\",HBO 3 HD
+http://optimus-tv.com:8080/asim/asim123/564810
+#EXTINF:0 tvg-id=\"HBO3.pl\" group-title=\"ROU ⋅ CINEMA\",HBO 3 FHD
+http://optimus-tv.com:8080/asim/asim123/564811
+#EXTINF:0 tvg-id=\"AMC.uk\" group-title=\"ROU ⋅ CINEMA\",AMC HD
+http://optimus-tv.com:8080/asim/asim123/564812
+#EXTINF:0 tvg-id=\"AMC.uk\" group-title=\"ROU ⋅ CINEMA\",AMC FHD
+http://optimus-tv.com:8080/asim/asim123/564813
+#EXTINF:0 tvg-id=\"AXNWhite.pt\" group-title=\"ROU ⋅ CINEMA\",AXN WHITE HD
+http://optimus-tv.com:8080/asim/asim123/564815
+#EXTINF:0 tvg-id=\"AXN.it\" group-title=\"ROU ⋅ CINEMA\",AXN HD
+http://optimus-tv.com:8080/asim/asim123/564816
+#EXTINF:0 tvg-id=\"AXNBlack.pt\" group-title=\"ROU ⋅ CINEMA\",AXN BLACK HD
+http://optimus-tv.com:8080/asim/asim123/564818
+#EXTINF:0 tvg-id=\"AXN.it\" group-title=\"ROU ⋅ CINEMA\",AXN FHD
+http://optimus-tv.com:8080/asim/asim123/564817
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",BOLLYWOOD TV HD
+http://optimus-tv.com:8080/asim/asim123/564819
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",BOLLYWOOD TV FHD
+http://optimus-tv.com:8080/asim/asim123/564820
+#EXTINF:0 tvg-id=\"bollywood-hd\" group-title=\"ROU ⋅ CINEMA\",BOLLYWOOD HD
+http://optimus-tv.com:8080/asim/asim123/728536
+#EXTINF:0 tvg-id=\"CineMAX.ro\" group-title=\"ROU ⋅ CINEMA\",CINEMAX HD
+http://optimus-tv.com:8080/asim/asim123/564824
+#EXTINF:0 tvg-id=\"CineMAX.ro\" group-title=\"ROU ⋅ CINEMA\",CINEMAX FHD
+http://optimus-tv.com:8080/asim/asim123/564825
+#EXTINF:0 tvg-id=\"Cinemax2.cz\" group-title=\"ROU ⋅ CINEMA\",CINEMAX 2 HD
+http://optimus-tv.com:8080/asim/asim123/564826
+#EXTINF:0 tvg-id=\"Cinemax2.cz\" group-title=\"ROU ⋅ CINEMA\",CINEMAX 2 FHD
+http://optimus-tv.com:8080/asim/asim123/564827
+#EXTINF:0 tvg-id=\"ComedyCentral.uk\" group-title=\"ROU ⋅ CINEMA\",COMEDY CENTRAL FHD
+http://optimus-tv.com:8080/asim/asim123/564828
+#EXTINF:0 tvg-id=\"epic-drama\" group-title=\"ROU ⋅ CINEMA\",EPIC DRAMA HD
+http://optimus-tv.com:8080/asim/asim123/564829
+#EXTINF:0 tvg-id=\"film-box\" group-title=\"ROU ⋅ CINEMA\",FILMBOX HD
+http://optimus-tv.com:8080/asim/asim123/564832
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",FILMBOX STAR HD
+http://optimus-tv.com:8080/asim/asim123/564833
+#EXTINF:0 tvg-id=\"FilmboxFamily.cz\" group-title=\"ROU ⋅ CINEMA\",FILMBOX FAMILY HD
+http://optimus-tv.com:8080/asim/asim123/564834
+#EXTINF:0 tvg-id=\"FilmboxExtra.pl\" group-title=\"ROU ⋅ CINEMA\",FILMBOX EXTRA HD
+http://optimus-tv.com:8080/asim/asim123/564835
+#EXTINF:0 tvg-id=\"FilmboxPremium.pl\" group-title=\"ROU ⋅ CINEMA\",FILMBOX PREMIUM FHD
+http://optimus-tv.com:8080/asim/asim123/564836
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",FILM CAFE HD
+http://optimus-tv.com:8080/asim/asim123/564837
+#EXTINF:0 tvg-id=\"PROCinema.ro\" group-title=\"ROU ⋅ CINEMA\",PRO CINEMA HD
+http://optimus-tv.com:8080/asim/asim123/564839
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",HAPPY CHANNEL HD
+http://optimus-tv.com:8080/asim/asim123/564838
+#EXTINF:0 tvg-id=\"PROCinema.ro\" group-title=\"ROU ⋅ CINEMA\",PRO CINEMA HD
+http://optimus-tv.com:8080/asim/asim123/564840
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",ACASA GOLD HD
+http://optimus-tv.com:8080/asim/asim123/564841
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",ACASA HD
+http://optimus-tv.com:8080/asim/asim123/564842
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",ACASA FHD
+http://optimus-tv.com:8080/asim/asim123/564843
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",DIVA HD
+http://optimus-tv.com:8080/asim/asim123/564844
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",WARNERBROS HD
+http://optimus-tv.com:8080/asim/asim123/564846
+#EXTINF:0 tvg-id=\"tv1000\" group-title=\"ROU ⋅ CINEMA\",TV 1000
+http://optimus-tv.com:8080/asim/asim123/564847
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",COMEDY EST HD
+http://optimus-tv.com:8080/asim/asim123/728175
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",DIVA UNIVERSAL HD
+http://optimus-tv.com:8080/asim/asim123/728174
+#EXTINF:0 tvg-id=\"ProGold.ro\" group-title=\"ROU ⋅ CINEMA\",PRO GOLD HD
+http://optimus-tv.com:8080/asim/asim123/728173
+#EXTINF:0 tvg-id=\"tnt\" group-title=\"ROU ⋅ CINEMA\",TNT FHD
+http://optimus-tv.com:8080/asim/asim123/728170
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",BOLLYWOOD CLASIC HD
+http://optimus-tv.com:8080/asim/asim123/728169
+#EXTINF:0 tvg-id=\"paramount\" group-title=\"ROU ⋅ CINEMA\",Paramount Channel
+http://optimus-tv.com:8080/asim/asim123/728168
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ CINEMA\",TDC HD
+http://optimus-tv.com:8080/asim/asim123/728203
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",#HFAE ⋅ LATINO HITS FHD
+http://optimus-tv.com:8080/asim/asim123/645666
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",#HFAE ⋅ CLASSIC ROCK FHD
+http://optimus-tv.com:8080/asim/asim123/645665
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",#HFAE ⋅ CLASSIC ROCK 2 HD
+http://optimus-tv.com:8080/asim/asim123/645664
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",#HFAE ⋅ K-POP FHD
+http://optimus-tv.com:8080/asim/asim123/645663
+#EXTINF:0 tvg-id=\"UTV.uk\" group-title=\"ROU ⋅ MUZICA\",UTV HD
+http://optimus-tv.com:8080/asim/asim123/564849
+#EXTINF:0 tvg-id=\"UTV.uk\" group-title=\"ROU ⋅ MUZICA\",UTV FHD
+http://optimus-tv.com:8080/asim/asim123/564850
+#EXTINF:0 tvg-id=\"KissTV.uk\" group-title=\"ROU ⋅ MUZICA\",KISS TV HD
+http://optimus-tv.com:8080/asim/asim123/564851
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",ZU TV HD
+http://optimus-tv.com:8080/asim/asim123/564852
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",ZU TV FHD
+http://optimus-tv.com:8080/asim/asim123/564853
+#EXTINF:0 tvg-id=\"mtv-hits\" group-title=\"ROU ⋅ MUZICA\",MTV HITS HD
+http://optimus-tv.com:8080/asim/asim123/564856
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",MOOZ DANCE HD
+http://optimus-tv.com:8080/asim/asim123/564855
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",MTV 80s HD
+http://optimus-tv.com:8080/asim/asim123/564858
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",MTV CLUB HD
+http://optimus-tv.com:8080/asim/asim123/564859
+#EXTINF:0 tvg-id=\"c-music\" group-title=\"ROU ⋅ MUZICA\",STINGRAY CMUSIC HD
+http://optimus-tv.com:8080/asim/asim123/728516
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",PARTY MIX HD
+http://optimus-tv.com:8080/asim/asim123/564861
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",HIT MUSIC CHANNEL HD
+http://optimus-tv.com:8080/asim/asim123/564860
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",MAGIC TV HD
+http://optimus-tv.com:8080/asim/asim123/564864
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",MUSIC CHANNEL HD
+http://optimus-tv.com:8080/asim/asim123/564865
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",FAVORIT TV FHD
+http://optimus-tv.com:8080/asim/asim123/564875
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",ETNO HD
+http://optimus-tv.com:8080/asim/asim123/564876
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",HORA TV HD
+http://optimus-tv.com:8080/asim/asim123/564879
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",STINGRAY ICONCERT HD
+http://optimus-tv.com:8080/asim/asim123/564881
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ MUZICA\",MDI TV HD
+http://optimus-tv.com:8080/asim/asim123/728180
+#EXTINF:0 tvg-id=\"Boomerang.uk\" group-title=\"ROU ⋅ KIDS / COPII\",BOOMERANG HD
+http://optimus-tv.com:8080/asim/asim123/564885
+#EXTINF:0 tvg-id=\"cartoon\" group-title=\"ROU ⋅ KIDS / COPII\",CARTOON NETWORK FHD
+http://optimus-tv.com:8080/asim/asim123/564886
+#EXTINF:0 tvg-id=\"Disney.uk\" group-title=\"ROU ⋅ KIDS / COPII\",DISNEY CHANNEL HD
+http://optimus-tv.com:8080/asim/asim123/564887
+#EXTINF:0 tvg-id=\"DisneyJunior.uk\" group-title=\"ROU ⋅ KIDS / COPII\",DISNEY JUNIOR HD
+http://optimus-tv.com:8080/asim/asim123/564888
+#EXTINF:0 tvg-id=\"DuckTV.hu\" group-title=\"ROU ⋅ KIDS / COPII\",DUCK TV FHD
+http://optimus-tv.com:8080/asim/asim123/564890
+#EXTINF:0 tvg-id=\"MiniMax.ro\" group-title=\"ROU ⋅ KIDS / COPII\",MINIMAX HD
+http://optimus-tv.com:8080/asim/asim123/564891
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ KIDS / COPII\",JIMJAM FHD
+http://optimus-tv.com:8080/asim/asim123/564892
+#EXTINF:0 tvg-id=\"NickJr.de\" group-title=\"ROU ⋅ KIDS / COPII\",NICK JR. HD
+http://optimus-tv.com:8080/asim/asim123/564893
+#EXTINF:0 tvg-id=\"nickelod-hd\" group-title=\"ROU ⋅ KIDS / COPII\",NICKELODEON FHD
+http://optimus-tv.com:8080/asim/asim123/564894
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ KIDS / COPII\",TEENICK FHD
+http://optimus-tv.com:8080/asim/asim123/564895
+#EXTINF:0 tvg-id=\"NickelodeonHD.pl\" group-title=\"ROU ⋅ KIDS / COPII\",NICKTOONS HD
+http://optimus-tv.com:8080/asim/asim123/564896
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ KIDS / COPII\",TRALALA HD
+http://optimus-tv.com:8080/asim/asim123/564899
+#EXTINF:0 tvg-id=\"animal-hd\" group-title=\"ROU ⋅ DOCUMENTATIE\",ANIMAL PLANET HD
+http://optimus-tv.com:8080/asim/asim123/564901
+#EXTINF:0 tvg-id=\"animal_rus\" group-title=\"ROU ⋅ DOCUMENTATIE\",Animal Planet
+http://optimus-tv.com:8080/asim/asim123/564902
+#EXTINF:0 tvg-id=\"BBCEarth.pl\" group-title=\"ROU ⋅ DOCUMENTATIE\",BBC Earth HD
+http://optimus-tv.com:8080/asim/asim123/564904
+#EXTINF:0 tvg-id=\"BBCEarth.pl\" group-title=\"ROU ⋅ DOCUMENTATIE\",BBC Earth
+http://optimus-tv.com:8080/asim/asim123/564905
+#EXTINF:0 tvg-id=\"CrimeAndInvestigationNetwork.uk\" group-title=\"ROU ⋅ DOCUMENTATIE\",Crime & Investigation
+http://optimus-tv.com:8080/asim/asim123/564908
+#EXTINF:0 tvg-id=\"da_vinci-rus\" group-title=\"ROU ⋅ DOCUMENTATIE\",DaVinci Learning
+http://optimus-tv.com:8080/asim/asim123/564909
+#EXTINF:0 tvg-id=\"DigiWorld.ro\" group-title=\"ROU ⋅ DOCUMENTATIE\",DIGI World
+http://optimus-tv.com:8080/asim/asim123/564913
+#EXTINF:0 tvg-id=\"DigiLife.ro\" group-title=\"ROU ⋅ DOCUMENTATIE\",DIGI Life HD
+http://optimus-tv.com:8080/asim/asim123/564914
+#EXTINF:0 tvg-id=\"discov_rus-hd\" group-title=\"ROU ⋅ DOCUMENTATIE\",Discovery Channel HD
+http://optimus-tv.com:8080/asim/asim123/564916
+#EXTINF:0 tvg-id=\"discov_sci\" group-title=\"ROU ⋅ DOCUMENTATIE\",Discovery Science FHD
+http://optimus-tv.com:8080/asim/asim123/564918
+#EXTINF:0 tvg-id=\"id-extra\" group-title=\"ROU ⋅ DOCUMENTATIE\",Investigation Discovery
+http://optimus-tv.com:8080/asim/asim123/564919
+#EXTINF:0 tvg-id=\"discov_turbo-extra\" group-title=\"ROU ⋅ DOCUMENTATIE\",Discovery Turbo Xtra
+http://optimus-tv.com:8080/asim/asim123/564920
+#EXTINF:0 tvg-id=\"history-rus\" group-title=\"ROU ⋅ DOCUMENTATIE\",History
+http://optimus-tv.com:8080/asim/asim123/564922
+#EXTINF:0 tvg-id=\"HistoryHD.ru\" group-title=\"ROU ⋅ DOCUMENTATIE\",History HD
+http://optimus-tv.com:8080/asim/asim123/564921
+#EXTINF:0 tvg-id=\"LoveNature.nl\" group-title=\"ROU ⋅ DOCUMENTATIE\",Love Nature HD
+http://optimus-tv.com:8080/asim/asim123/564923
+#EXTINF:0 tvg-id=\"LoveNature.uk\" group-title=\"ROU ⋅ DOCUMENTATIE\",Love Nature
+http://optimus-tv.com:8080/asim/asim123/564924
+#EXTINF:0 tvg-id=\"natgeo_hd\" group-title=\"ROU ⋅ DOCUMENTATIE\",National Geographic HD
+http://optimus-tv.com:8080/asim/asim123/564925
+#EXTINF:0 tvg-id=\"natgeo\" group-title=\"ROU ⋅ DOCUMENTATIE\",National Geographic
+http://optimus-tv.com:8080/asim/asim123/564926
+#EXTINF:0 tvg-id=\"wild-hd\" group-title=\"ROU ⋅ DOCUMENTATIE\",National Geographic Wild HD
+http://optimus-tv.com:8080/asim/asim123/564927
+#EXTINF:0 tvg-id=\"natgeowild\" group-title=\"ROU ⋅ DOCUMENTATIE\",National Geographic Wild
+http://optimus-tv.com:8080/asim/asim123/564928
+#EXTINF:0 tvg-id=\"explorer\" group-title=\"ROU ⋅ DOCUMENTATIE\",VIASAT EXPLORE HD
+http://optimus-tv.com:8080/asim/asim123/564930
+#EXTINF:0 tvg-id=\"explorer\" group-title=\"ROU ⋅ DOCUMENTATIE\",VIASAT EXPLORE
+http://optimus-tv.com:8080/asim/asim123/564931
+#EXTINF:0 tvg-id=\"history\" group-title=\"ROU ⋅ DOCUMENTATIE\",Viasat History HD
+http://optimus-tv.com:8080/asim/asim123/564932
+#EXTINF:0 tvg-id=\"history\" group-title=\"ROU ⋅ DOCUMENTATIE\",VIASAT HISTORY
+http://optimus-tv.com:8080/asim/asim123/564933
+#EXTINF:0 tvg-id=\"nature-history\" group-title=\"ROU ⋅ DOCUMENTATIE\",VIASAT NATURE HD
+http://optimus-tv.com:8080/asim/asim123/564934
+#EXTINF:0 tvg-id=\"viasat-nature\" group-title=\"ROU ⋅ DOCUMENTATIE\",Viasat Nature
+http://optimus-tv.com:8080/asim/asim123/564935
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ DOCUMENTATIE\",Travel Mix Channel HD
+http://optimus-tv.com:8080/asim/asim123/564938
+#EXTINF:0 tvg-id=\"TravelXP.in\" group-title=\"ROU ⋅ DOCUMENTATIE\",Travel XP HD
+http://optimus-tv.com:8080/asim/asim123/564939
+#EXTINF:0 tvg-id=\"travel-hd\" group-title=\"ROU ⋅ DOCUMENTATIE\",Travel Channel HD
+http://optimus-tv.com:8080/asim/asim123/564940
+#EXTINF:0 tvg-id=\"docubox-hd\" group-title=\"ROU ⋅ DOCUMENTATIE\",DocuBox HD
+http://optimus-tv.com:8080/asim/asim123/564941
+#EXTINF:0 tvg-id=\"CBSReality.ru\" group-title=\"ROU ⋅ DOCUMENTATIE\",CBS Reality
+http://optimus-tv.com:8080/asim/asim123/564942
+#EXTINF:0 tvg-id=\"fight-box-hd\" group-title=\"ROU ⋅ DOCUMENTATIE\",FightBox HD
+http://optimus-tv.com:8080/asim/asim123/564943
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ DOCUMENTATIE\",TV PAPRIKA HD
+http://optimus-tv.com:8080/asim/asim123/564946
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ DOCUMENTATIE\",TLC ROMANIA HD
+http://optimus-tv.com:8080/asim/asim123/564948
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ SPORT\",DIGI 4K FHD
+http://optimus-tv.com:8080/asim/asim123/564952
+#EXTINF:0 tvg-id=\"DigiSport1.hu\" group-title=\"ROU ⋅ SPORT\",DIGI SPORT 1 HD
+http://optimus-tv.com:8080/asim/asim123/564953
+#EXTINF:0 tvg-id=\"DigiSport1.hu\" group-title=\"ROU ⋅ SPORT\",DIGI SPORT 1 FHD
+http://optimus-tv.com:8080/asim/asim123/564954
+#EXTINF:0 tvg-id=\"DigiSport2.hu\" group-title=\"ROU ⋅ SPORT\",DIGI SPORT 2 HD
+http://optimus-tv.com:8080/asim/asim123/564955
+#EXTINF:0 tvg-id=\"DigiSport2.hu\" group-title=\"ROU ⋅ SPORT\",DIGI SPORT 2 FHD
+http://optimus-tv.com:8080/asim/asim123/564956
+#EXTINF:0 tvg-id=\"DigiSport3.ro\" group-title=\"ROU ⋅ SPORT\",DIGI SPORT 3 HD
+http://optimus-tv.com:8080/asim/asim123/564957
+#EXTINF:0 tvg-id=\"DigiSport3.ro\" group-title=\"ROU ⋅ SPORT\",DIGI SPORT 3 FHD
+http://optimus-tv.com:8080/asim/asim123/564958
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ SPORT\",DIGI SPORT 4 HD
+http://optimus-tv.com:8080/asim/asim123/564959
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ SPORT\",DIGI SPORT 4 FHD
+http://optimus-tv.com:8080/asim/asim123/564960
+#EXTINF:0 tvg-id=\"esp-hd\" group-title=\"ROU ⋅ SPORT\",EUROSPORT 1 HD
+http://optimus-tv.com:8080/asim/asim123/564961
+#EXTINF:0 tvg-id=\"esp2\" group-title=\"ROU ⋅ SPORT\",Eurosport 2 FHD
+http://optimus-tv.com:8080/asim/asim123/564962
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ SPORT\",EXTREME SPORTS CHANNEL FHD
+http://optimus-tv.com:8080/asim/asim123/564964
+#EXTINF:0 tvg-id=\"SportExtraHD.ro\" group-title=\"ROU ⋅ SPORT\",SPORT EXTRA FHD
+http://optimus-tv.com:8080/asim/asim123/564965
+#EXTINF:0 tvg-id=\"OrangeSport1.ro\" group-title=\"ROU ⋅ SPORT\",ORANGE SPORT 1 HD
+http://optimus-tv.com:8080/asim/asim123/564976
+#EXTINF:0 tvg-id=\"OrangeSport2.ro\" group-title=\"ROU ⋅ SPORT\",ORANGE SPORT 2 HD
+http://optimus-tv.com:8080/asim/asim123/564977
+#EXTINF:0 tvg-id=\"OrangeSport3.ro\" group-title=\"ROU ⋅ SPORT\",ORANGE SPORT 3 HD
+http://optimus-tv.com:8080/asim/asim123/564978
+#EXTINF:0 tvg-id=\"OrangeSport4.ro\" group-title=\"ROU ⋅ SPORT\",ORANGE SPORT 4 HD
+http://optimus-tv.com:8080/asim/asim123/564979
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ SPORT\",PRO ARENA HD
+http://optimus-tv.com:8080/asim/asim123/564980
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ SPORT\",PRO ARENA FHD
+http://optimus-tv.com:8080/asim/asim123/564981
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ SPORT\",TELEKOM SPORT 1 FHD
+http://optimus-tv.com:8080/asim/asim123/728185
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ SPORT\",TELEKOM SPORT 2 FHD
+http://optimus-tv.com:8080/asim/asim123/728186
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ SPORT\",TELEKOM SPORT 3 HD
+http://optimus-tv.com:8080/asim/asim123/728187
+#EXTINF:0 tvg-id=\"ext\" group-title=\"ROU ⋅ SPORT\",LOOK SPORT 1 FHD
+http://optimus-tv.com:8080/asim/asim123/728183
+#EXTINF:0 tvg-id=\"LOOKSPORT+.ro\" group-title=\"ROU ⋅ SPORT\",LOOK PLUS FHD
+http://optimus-tv.com:8080/asim/asim123/728184
+#EXTINF:0 tvg-id=\"AutoMotorundSportChannel.de\" group-title=\"ROU ⋅ SPORT\",AUTO MOTOR SPORT FHD
+http://optimus-tv.com:8080/asim/asim123/728539

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,SRT
+http://90.84.231.177:8000/play/a003/index.m3u8
+#EXTINF:-1,Super TV
+http://90.84.231.177:8000/play/a001/index.m3u8
+#EXTINF:-1,Super TV HD
+http://90.84.231.177:8000/play/a002/index.m3u8
+#EXTINF:-1,Super TV HD - 10M
+http://90.84.231.177:8000/play/a005/index.m3u8

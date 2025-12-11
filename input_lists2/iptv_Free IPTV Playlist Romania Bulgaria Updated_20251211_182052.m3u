@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF: -1 tvg-name=\"|BG| BULGARIA |BG|\" group-title=\"BG| BULGARIA\", |BG| BULGARIA |BG|
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=131368&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  BNT 1 FHD\" group-title=\"BG| BULGARIA\", BG|  BNT 1 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205452&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  BNT 2 FHD\" group-title=\"BG| BULGARIA\", BG|  BNT 2 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205451&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  BNT 3 FHD\" group-title=\"BG| BULGARIA\", BG|  BNT 3 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205450&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  BNT 4 FHD\" group-title=\"BG| BULGARIA\", BG|  BNT 4 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205449&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  BTV Cinema\" group-title=\"BG| BULGARIA\", BG|  BTV Cinema
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205448&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  BTV Action\" group-title=\"BG| BULGARIA\", BG|  BTV Action
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205447&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Film+ HD\" group-title=\"BG| BULGARIA\", BG|  Film+ HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205437&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Filmbox Extra HD\" group-title=\"BG| BULGARIA\", BG|  Filmbox Extra HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205435&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Filmbox Plus HD\" group-title=\"BG| BULGARIA\", BG|  Filmbox Plus HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205434&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  FOX Crime HD\" group-title=\"BG| BULGARIA\", BG|  FOX Crime HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205433&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  FOX HD\" group-title=\"BG| BULGARIA\", BG|  FOX HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205432&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  FOX Life HD\" group-title=\"BG| BULGARIA\", BG|  FOX Life HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205431&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  HBO HD\" group-title=\"BG| BULGARIA\", BG|  HBO HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205430&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  HBO2 FHD\" group-title=\"BG| BULGARIA\", BG|  HBO2 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205429&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  HBO3 HD\" group-title=\"BG| BULGARIA\", BG|  HBO3 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205428&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Cinemax HD\" group-title=\"BG| BULGARIA\", BG|  Cinemax HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205442&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  CINEMAX 2 HD\" group-title=\"BG| BULGARIA\", BG|  CINEMAX 2 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205420&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Action Plus HD\" group-title=\"BG| BULGARIA\", BG|  Action Plus HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205454&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Balkanika Music HD\" group-title=\"BG| BULGARIA\", BG|  Balkanika Music HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205453&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  bTV Lady\" group-title=\"BG| BULGARIA\", BG|  bTV Lady
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205446&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Kino Nova\" group-title=\"BG| BULGARIA\", BG|  Kino Nova
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205445&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Nova TV\" group-title=\"BG| BULGARIA\", BG|  Nova TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205444&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  BOX TV\" group-title=\"BG| BULGARIA\", BG|  BOX TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205443&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  DIEMA FAMILY\" group-title=\"BG| BULGARIA\", BG|  DIEMA FAMILY
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205441&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Movie Strar\" group-title=\"BG| BULGARIA\", BG|  Movie Strar
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205427&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  TV 1000\" group-title=\"BG| BULGARIA\", BG|  TV 1000
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205425&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  RING TV\" group-title=\"BG| BULGARIA\", BG|  RING TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205424&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Roma TV\" group-title=\"BG| BULGARIA\", BG|  Roma TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205423&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Diema Sport 1\" group-title=\"BG| BULGARIA\", BG|  Diema Sport 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205422&extension=ts
+#EXTINF: -1 tvg-name=\"BG|  Diema Sport 2\" group-title=\"BG| BULGARIA\", BG|  Diema Sport 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=205421&extension=ts

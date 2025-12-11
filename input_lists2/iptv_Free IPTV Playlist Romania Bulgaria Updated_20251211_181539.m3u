@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1,AXN
+http://79.124.21.250:9981/play/a00g/index.m3u8?token=test
+#EXTINF:-1,Alfa
+http://79.124.21.250:9981/play/a00x/index.m3u8?token=test
+#EXTINF:-1,BNT1 HD
+http://79.124.21.250:9981/play/a001/index.m3u8?token=test
+#EXTINF:-1,BNT2 HD
+http://79.124.21.250:9981/play/a00d/index.m3u8?token=test
+#EXTINF:-1,BNT3 HD
+http://79.124.21.250:9981/play/a00s/index.m3u8?token=test
+#EXTINF:-1,Balkanika HD
+http://79.124.21.250:9981/play/a017/index.m3u8?token=test
+#EXTINF:-1,BloombergBG
+http://79.124.21.250:9981/play/a01g/index.m3u8?token=test
+#EXTINF:-1,Cartoon
+http://79.124.21.250:9981/play/a00w/index.m3u8?token=test
+#EXTINF:-1,Diema
+http://79.124.21.250:9981/play/a006/index.m3u8?token=test
+#EXTINF:-1,DiemaFam
+http://79.124.21.250:9981/play/a00b/index.m3u8?token=test
+#EXTINF:-1,DiemaSport
+http://79.124.21.250:9981/play/a00r/index.m3u8?token=test
+#EXTINF:-1,DiemaSport2
+http://79.124.21.250:9981/play/a00q/index.m3u8?token=test
+#EXTINF:-1,DiemaSport3
+http://79.124.21.250:9981/play/a01h/index.m3u8?token=test
+#EXTINF:-1,Discovery
+http://79.124.21.250:9981/play/a005/index.m3u8?token=test
+#EXTINF:-1,DiscoveryExtra
+http://79.124.21.250:9981/play/a011/index.m3u8?token=test
+#EXTINF:-1,Disney Jun
+http://79.124.21.250:9981/play/a01d/index.m3u8?token=test
+#EXTINF:-1,DisneyCh
+http://79.124.21.250:9981/play/a00v/index.m3u8?token=test
+#EXTINF:-1,EuroSport2
+http://79.124.21.250:9981/play/a00f/index.m3u8?token=test
+#EXTINF:-1,FAN
+http://79.124.21.250:9981/play/a016/index.m3u8?token=test
+#EXTINF:-1,FanFolk
+http://79.124.21.250:9981/play/a01b/index.m3u8?token=test
+#EXTINF:-1,Folklor
+http://79.124.21.250:9981/play/a019/index.m3u8?token=test
+#EXTINF:-1,Kanal 3
+http://79.124.21.250:9981/play/a01e/index.m3u8?token=test
+#EXTINF:-1,Kanal3
+http://79.124.21.250:9981/play/a015/index.m3u8?token=test
+#EXTINF:-1,KinoNova
+http://79.124.21.250:9981/play/a004/index.m3u8?token=test
+#EXTINF:-1,Max Sport 1 HD
+http://79.124.21.250:9981/play/a00n/index.m3u8?token=test
+#EXTINF:-1,NGWild
+http://79.124.21.250:9981/play/a00y/index.m3u8?token=test
+#EXTINF:-1,NastVremia
+http://79.124.21.250:9981/play/a009/index.m3u8?token=test
+#EXTINF:-1,NatGeo
+http://79.124.21.250:9981/play/a00c/index.m3u8?token=test
+#EXTINF:-1,Nike Jun
+http://79.124.21.250:9981/play/a01c/index.m3u8?token=test
+#EXTINF:-1,Nikelodeon
+http://79.124.21.250:9981/play/a013/index.m3u8?token=test
+#EXTINF:-1,Nova
+http://79.124.21.250:9981/play/a003/index.m3u8?token=test
+#EXTINF:-1,Nova HD
+http://79.124.21.250:9981/play/a012/index.m3u8?token=test
+#EXTINF:-1,Nova Sport HD
+http://79.124.21.250:9981/play/a00e/index.m3u8?token=test
+#EXTINF:-1,Planeta
+http://79.124.21.250:9981/play/a007/index.m3u8?token=test
+#EXTINF:-1,PlanetaFolk
+http://79.124.21.250:9981/play/a018/index.m3u8?token=test
+#EXTINF:-1,Ring
+http://79.124.21.250:9981/play/a00o/index.m3u8?token=test
+#EXTINF:-1,Skat
+http://79.124.21.250:9981/play/a00h/index.m3u8?token=test
+#EXTINF:-1,Star Crime HD
+http://79.124.21.250:9981/play/a00j/index.m3u8?token=test
+#EXTINF:-1,Star HD
+http://79.124.21.250:9981/play/a010/index.m3u8?token=test
+#EXTINF:-1,Star Life HD
+http://79.124.21.250:9981/play/a00i/index.m3u8?token=test
+#EXTINF:-1,TLC
+http://79.124.21.250:9981/play/a00p/index.m3u8?token=test
+#EXTINF:-1,TV1 HD
+http://79.124.21.250:9981/play/a008/index.m3u8?token=test
+#EXTINF:-1,TheVoice HD
+http://79.124.21.250:9981/play/a00t/index.m3u8?token=test
+#EXTINF:-1,VTK
+http://79.124.21.250:9981/play/a01f/index.m3u8?token=test
+#EXTINF:-1,ViaExplor HD
+http://79.124.21.250:9981/play/a00u/index.m3u8?token=test
+#EXTINF:-1,bTV
+http://79.124.21.250:9981/play/a002/index.m3u8?token=test
+#EXTINF:-1,bTVAction
+http://79.124.21.250:9981/play/a00m/index.m3u8?token=test
+#EXTINF:-1,bTVCinema
+http://79.124.21.250:9981/play/a00k/index.m3u8?token=test
+#EXTINF:-1,bTVComedy
+http://79.124.21.250:9981/play/a00l/index.m3u8?token=test
+#EXTINF:-1,bTVLady
+http://79.124.21.250:9981/play/a00z/index.m3u8?token=test
+#EXTINF:-1,baby TV
+http://79.124.21.250:9981/play/a01a/index.m3u8?token=test

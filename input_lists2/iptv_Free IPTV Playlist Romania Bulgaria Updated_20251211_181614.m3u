@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 group-title=\"Болгария\",Travel TV
+https://streamer103.neterra.tv/travel/travel_SD.m3u8
+#EXTINF:-1 group-title=\"Болгария\",Light Channel
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 group-title=\"Болгария\",Tiankov FOLK
+https://streamer103.neterra.tv/tiankov-folk/tiankov-folk_SD.m3u8
+#EXTINF:-1 group-title=\"Болгария\",Code Fashion TV
+https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title=\"Болгария\",LTV
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 group-title=\"Болгария\",EuroFolk TV
+https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041_sd.m3u8
+#EXTINF:-1 group-title=\"Болгария\",RIMEX TV
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 group-title=\"Болгария\",Евроком
+https://live.ecomservice.bg/hls/stream.m3u8
+#EXTINF:-1 group-title=\"Болгария\",BNT
+http://78.130.248.5:81/stream/channelid/531942714?profile=pass
+#EXTINF:-1 group-title=\"Болгария\",bTV
+http://78.130.248.5:81/stream/channelid/1779173997?profile=pass
+#EXTINF:-1 group-title=\"Болгария\",Nova TV
+http://78.130.248.5:81/stream/channelid/693880053?profile=pass
+#EXTINF:-1 group-title=\"Болгария\",BNT2
+http://78.130.248.5:81/stream/channelid/811247589?profile=pass
+#EXTINF:-1 group-title=\"Болгария\",BNT3
+http://78.130.248.5:81/stream/channelid/256219489?profile=pass
+#EXTINF:-1 group-title=\"Болгария\",Bulgaria on Air
+http://78.130.248.5:81/stream/channelid/1109420898?profile=pass
+#EXTINF:-1 group-title=\"Болгария\",Пловдивска Православна ТВ
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=\"https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png\" group-title=\"Болгария \",This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8

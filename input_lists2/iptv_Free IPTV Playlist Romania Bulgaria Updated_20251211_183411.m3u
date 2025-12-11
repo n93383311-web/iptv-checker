@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0 tvg-name=\"RO: Digi Sport 1 HD\" tvg-logo=\"http://team.ga/images/chIcons/1108.png\" tvg-rec=\"0\", RO: Digi Sport 1 HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch1108/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZtd73cCOoLMD_Z8o8NGDEEwmY3zXIWrcNRyP27T769KL
+#EXTINF:0 tvg-name=\"RO: Digi Sport 2 HD\" tvg-logo=\"http://team.ga/images/chIcons/1112.png\" tvg-rec=\"0\", RO: Digi Sport 2 HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch1112/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZqfpngeSFzTYvCcl-f4myCxgWl2-f2-mGf7IvUOo-67i
+#EXTINF:0 tvg-name=\"RO: Digi Sport 3 HD\" tvg-logo=\"http://team.ga/images/chIcons/1113.png\" tvg-rec=\"0\", RO: Digi Sport 3 HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch1113/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZkgHEl5J9feGSHNszUlOqPLOezrdOi0Im_GP-viDai5X
+#EXTINF:0 tvg-name=\"RO: Digi Sport 4 HD\" tvg-logo=\"http://team.ga/images/chIcons/1117.png\" tvg-rec=\"0\", RO: Digi Sport 4 HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch1117/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZuAySgWL5KJ5ZSE6FhtaxClV_pdaTpFiWSMv8PCr8mrJ
+#EXTINF:0 tvg-name=\"RO: Eurosport 1 HD\" tvg-logo=\"http://team.ga/images/chIcons/1832.png\" tvg-rec=\"0\", RO: Eurosport 1 HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch1832/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZv7HRGYFwS2NpBRx1p3EkO4qLJIKVXZyrM9h3-3Y1ZOt
+#EXTINF:0 tvg-name=\"RO: Eurosport 2 HD\" tvg-logo=\"http://team.ga/images/chIcons/1831.png\" tvg-rec=\"0\", RO: Eurosport 2 HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch1831/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZqZ-8MHL242QZlptPxsObm0BcAonV-Gx4qsyKEhh7wwg
+#EXTINF:0 tvg-name=\"RO: Prima Sport 1 HD\" tvg-logo=\"http://team.ga/images/chIcons/1844.png\" tvg-rec=\"0\", RO: Prima Sport 1 HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch1844/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZtj8rh3GPHkrcwm0eVwnm3fGe50rtZDwhL-C7q8kyUnI
+#EXTINF:0 tvg-name=\"RO: Prima Sport 2 HD\" tvg-logo=\"http://team.ga/images/chIcons/1847.png\" tvg-rec=\"0\", RO: Prima Sport 2 HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch1847/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZqTmlVPug4eKb9Qni-716pjxpPObWRr2OlnAXCCAviwT
+#EXTINF:0 tvg-name=\"RO: Prima Sport 3 HD\" tvg-logo=\"http://team.ga/images/chIcons/1845.png\" tvg-rec=\"0\", RO: Prima Sport 3 HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch1845/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZuztXvn2MeK05PKuojgnbuGbEIGc0t3X-igHcNUbsa3f
+#EXTINF:0 tvg-name=\"RO: Prima Sport 4 HD\" tvg-logo=\"http://team.ga/images/chIcons/1846.png\" tvg-rec=\"0\", RO: Prima Sport 4 HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch1846/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZlZW9qcfaAQ7dOwJhmKzZh-AjihiVkehdNzXVCUVNY1q
+#EXTINF:0 tvg-name=\"RO: Prima Sport 5 HD\" tvg-logo=\"http://team.ga/images/chIcons/3094.png\" tvg-rec=\"0\", RO: Prima Sport 5 HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch3094/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZvth9QuAW4EzavdtiCVptE-Pln4xOOIwKYjXoVCFqRM3
+#EXTINF:0 tvg-name=\"RO: TVR Sport HD\" tvg-logo=\"http://team.ga/images/chIcons/3086.png\" tvg-rec=\"0\", RO: TVR Sport HD
+#EXTGRP:27. Romania
+http://3.team.ga:80/ch3086/mono.m3u8?token=mmarsus.LUGgpd-2hD3t2VEVUeKWZnztM9Aah27S1CodVl_cppAjh6hlVHFD2vdxCLThKEUG

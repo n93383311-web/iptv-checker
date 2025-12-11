@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=\"360\" group-title=\"Румыния\"  tvg-logo=\"https://m3u.admuspeh.my/icon/Pro%20TV%20RO.png\" catchup-days=\"0\", Pro TV HD RO
+http://cdn.admuspeh.my/8699/video.m3u8?token=khRuGEjwuHvQe6gM
+#EXTINF:-1 tvg-id=\"361\" group-title=\"Румыния\"  tvg-logo=\"https://m3u.admuspeh.my/icon/TVR%201%20RO.png\" catchup-days=\"0\", TVR 1 RO
+http://cdn.admuspeh.my/8700/video.m3u8?token=khRuGEjwuHvQe6gM
+#EXTINF:-1 tvg-id=\"362\" group-title=\"Румыния\"  tvg-logo=\"https://m3u.admuspeh.my/icon/TVR%202%20RO.png\" catchup-days=\"0\", TVR 2 RO
+http://cdn.admuspeh.my/8701/video.m3u8?token=khRuGEjwuHvQe6gM
+#EXTINF:-1 tvg-id=\"363\" group-title=\"Румыния\"  tvg-logo=\"https://m3u.admuspeh.my/icon/TVR%203%20RO.png\" catchup-days=\"0\", TVR 3 RO
+http://cdn.admuspeh.my/8702/video.m3u8?token=khRuGEjwuHvQe6gM
+#EXTINF:-1 tvg-id=\"928\" group-title=\"Румыния\"  tvg-logo=\"https://m3u.admuspeh.my/icon/Prima%20Sport%201%20HD%20RO.png\" catchup-days=\"0\", Prima Sport 1 RO
+http://cdn.admuspeh.my/8554/video.m3u8?token=khRuGEjwuHvQe6gM
+#EXTINF:-1 tvg-id=\"929\" group-title=\"Румыния\"  tvg-logo=\"https://m3u.admuspeh.my/icon/Prima%20Sport%202%20HD%20RO.png\" catchup-days=\"0\", Prima Sport 2 RO
+http://cdn.admuspeh.my/8555/video.m3u8?token=khRuGEjwuHvQe6gM
+#EXTINF:-1 tvg-id=\"930\" group-title=\"Румыния\"  tvg-logo=\"https://m3u.admuspeh.my/icon/DIGI%20Sport%201%20HD%20RO.png\" catchup-days=\"0\", Digi Sport 1 RO
+http://cdn.admuspeh.my/8556/video.m3u8?token=khRuGEjwuHvQe6gM
+#EXTINF:-1 tvg-id=\"931\" group-title=\"Румыния\"  tvg-logo=\"https://m3u.admuspeh.my/icon/DIGI%20Sport%202%20HD%20RO.png\" catchup-days=\"0\", Digi Sport 2 RO
+http://cdn.admuspeh.my/8558/video.m3u8?token=khRuGEjwuHvQe6gM
+#EXTINF:-1 tvg-id=\"932\" group-title=\"Румыния\"  tvg-logo=\"https://m3u.admuspeh.my/icon/DIGI%20Sport%203%20HD%20RO.png\" catchup-days=\"0\", Digi Sport 3 RO
+http://cdn.admuspeh.my/8561/video.m3u8?token=khRuGEjwuHvQe6gM
+#EXTINF:-1 tvg-id=\"933\" group-title=\"Румыния\"  tvg-logo=\"https://m3u.admuspeh.my/icon/DIGI%20Sport%204%20HD%20RO.png\" catchup-days=\"0\", Digi Sport 4 RO
+http://cdn.admuspeh.my/8563/video.m3u8?token=khRuGEjwuHvQe6gM

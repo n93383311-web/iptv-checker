@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF: -1 tvg-name=\"HU|  AMC\" group-title=\"HU| HUNGARY\", HU|  AMC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213510&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Animal Planet\" group-title=\"HU| HUNGARY\", HU|  Animal Planet
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213509&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  ATV\" group-title=\"HU| HUNGARY\", HU|  ATV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213508&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  AXN\" group-title=\"HU| HUNGARY\", HU|  AXN
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213507&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  AXN Black\" group-title=\"HU| HUNGARY\", HU|  AXN Black
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213506&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  AXN White\" group-title=\"HU| HUNGARY\", HU|  AXN White
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213505&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Boomerang\" group-title=\"HU| HUNGARY\", HU|  Boomerang
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213504&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Cartoon Network\" group-title=\"HU| HUNGARY\", HU|  Cartoon Network
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213503&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  DIGI Sport 1\" group-title=\"HU| HUNGARY\", HU|  DIGI Sport 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213502&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  DIGI Sport 2\" group-title=\"HU| HUNGARY\", HU|  DIGI Sport 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213501&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  DIGI Sport 3\" group-title=\"HU| HUNGARY\", HU|  DIGI Sport 3
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213500&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Discovery Channel\" group-title=\"HU| HUNGARY\", HU|  Discovery Channel
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213499&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Discovery Science\" group-title=\"HU| HUNGARY\", HU|  Discovery Science
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213498&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Eurosport 1\" group-title=\"HU| HUNGARY\", HU|  Eurosport 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213497&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Eurosport 2\" group-title=\"HU| HUNGARY\", HU|  Eurosport 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213496&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Extreme Sports\" group-title=\"HU| HUNGARY\", HU|  Extreme Sports
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213495&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  film\" group-title=\"HU| HUNGARY\", HU|  film
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213494&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Filmbox Arthouse\" group-title=\"HU| HUNGARY\", HU|  Filmbox Arthouse
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213493&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  FilmBox Premium\" group-title=\"HU| HUNGARY\", HU|  FilmBox Premium
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213492&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Filmbox\" group-title=\"HU| HUNGARY\", HU|  Filmbox
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213491&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Film Mania\" group-title=\"HU| HUNGARY\", HU|  Film Mania
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213490&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Filmbox Plus\" group-title=\"HU| HUNGARY\", HU|  Filmbox Plus
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213489&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  FilmCafe\" group-title=\"HU| HUNGARY\", HU|  FilmCafe
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213488&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  FIX TV\" group-title=\"HU| HUNGARY\", HU|  FIX TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213487&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Galaxy\" group-title=\"HU| HUNGARY\", HU|  Galaxy
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213486&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  H!T MUSIC Channel\" group-title=\"HU| HUNGARY\", HU|  H!T MUSIC Channel
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213485&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  HBO\" group-title=\"HU| HUNGARY\", HU|  HBO
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213484&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  HBO 2\" group-title=\"HU| HUNGARY\", HU|  HBO 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213483&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  HBO 3\" group-title=\"HU| HUNGARY\", HU|  HBO 3
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213482&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  HISTORY\" group-title=\"HU| HUNGARY\", HU|  HISTORY
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213481&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Humor\" group-title=\"HU| HUNGARY\", HU|  Humor
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213480&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Izaura TV\" group-title=\"HU| HUNGARY\", HU|  Izaura TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213479&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Kiwi TV\" group-title=\"HU| HUNGARY\", HU|  Kiwi TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213478&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  m1\" group-title=\"HU| HUNGARY\", HU|  m1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213477&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Megamax\" group-title=\"HU| HUNGARY\", HU|  Megamax
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213476&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Mozi\" group-title=\"HU| HUNGARY\", HU|  Mozi
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213475&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  MTV EU\" group-title=\"HU| HUNGARY\", HU|  MTV EU
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213474&extension=ts
+#EXTINF:- 1 tvg-name=\"HU|  Music Channel\" group-title=\"HU| HUNGARY\", HU|  Music Channel
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213473&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Muzsika TV\" group-title=\"HU| HUNGARY\", HU|  Muzsika TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213472&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Nat Geo HD\" group-title=\"HU| HUNGARY\", HU|  Nat Geo HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213471&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Nickelodeon\" group-title=\"HU| HUNGARY\", HU|  Nickelodeon
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213470&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Paramount Channel\" group-title=\"HU| HUNGARY\", HU|  Paramount Channel
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213469&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Prime\" group-title=\"HU| HUNGARY\", HU|  Prime
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213468&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  RTL\" group-title=\"HU| HUNGARY\", HU|  RTL
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213467&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  RTL Spike\" group-title=\"HU| HUNGARY\", HU|  RTL Spike
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213466&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  SlagerTV\" group-title=\"HU| HUNGARY\", HU|  SlagerTV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213465&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Sorozat\" group-title=\"HU| HUNGARY\", HU|  Sorozat
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213464&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Spektrum\" group-title=\"HU| HUNGARY\", HU|  Spektrum
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213463&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Spektrum Home\" group-title=\"HU| HUNGARY\", HU|  Spektrum Home
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213462&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Spiler TV\" group-title=\"HU| HUNGARY\", HU|  Spiler TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213461&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Sport2\" group-title=\"HU| HUNGARY\", HU|  Sport2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213460&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Sport5\" group-title=\"HU| HUNGARY\", HU|  Sport5
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213459&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Story 4\" group-title=\"HU| HUNGARY\", HU|  Story 4
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213458&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  TLC\" group-title=\"HU| HUNGARY\", HU|  TLC
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213457&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Travel Channel\" group-title=\"HU| HUNGARY\", HU|  Travel Channel
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213456&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  TV2\" group-title=\"HU| HUNGARY\", HU|  TV2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213455&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Viasat History\" group-title=\"HU| HUNGARY\", HU|  Viasat History
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213454&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  VIASAT 3\" group-title=\"HU| HUNGARY\", HU|  VIASAT 3
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213453&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  VIASAT6\" group-title=\"HU| HUNGARY\", HU|  VIASAT6
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213452&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  CBS Reality\" group-title=\"HU| HUNGARY\", HU|  CBS Reality
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213451&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Chili TV\" group-title=\"HU| HUNGARY\", HU|  Chili TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213450&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Cinemax\" group-title=\"HU| HUNGARY\", HU|  Cinemax
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213449&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Cinemax 2\" group-title=\"HU| HUNGARY\", HU|  Cinemax 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213448&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Comedy Central\" group-title=\"HU| HUNGARY\", HU|  Comedy Central
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213447&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Cool\" group-title=\"HU| HUNGARY\", HU|  Cool
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213446&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  DaVinci Learning\" group-title=\"HU| HUNGARY\", HU|  DaVinci Learning
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213445&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Digi Animal World\" group-title=\"HU| HUNGARY\", HU|  Digi Animal World
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213444&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  DIGI Animal World HD\" group-title=\"HU| HUNGARY\", HU|  DIGI Animal World HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213443&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  DIGI Film\" group-title=\"HU| HUNGARY\", HU|  DIGI Film
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213442&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Digi Life\" group-title=\"HU| HUNGARY\", HU|  Digi Life
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213441&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  DIGI World HD\" group-title=\"HU| HUNGARY\", HU|  DIGI World HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213440&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Disney Channel\" group-title=\"HU| HUNGARY\", HU|  Disney Channel
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213439&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Duck TV\" group-title=\"HU| HUNGARY\", HU|  Duck TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213438&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Duna HD\" group-title=\"HU| HUNGARY\", HU|  Duna HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213437&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Duna Televizio\" group-title=\"HU| HUNGARY\", HU|  Duna Televizio
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213436&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Duna World\" group-title=\"HU| HUNGARY\", HU|  Duna World
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213435&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  FEM3\" group-title=\"HU| HUNGARY\", HU|  FEM3
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213434&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Food Network\" group-title=\"HU| HUNGARY\", HU|  Food Network
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213433&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Heti TV\" group-title=\"HU| HUNGARY\", HU|  Heti TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213432&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Hir TV\" group-title=\"HU| HUNGARY\", HU|  Hir TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213431&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  m2 / Petofi TV\" group-title=\"HU| HUNGARY\", HU|  m2 / Petofi TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213430&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  M4-SD (HU)\" group-title=\"HU| HUNGARY\", HU|  M4-SD (HU)
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213429&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  M5\" group-title=\"HU| HUNGARY\", HU|  M5
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213428&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  MTV DANCE\" group-title=\"HU| HUNGARY\", HU|  MTV DANCE
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213427&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Nat Geo Wild HD\" group-title=\"HU| HUNGARY\", HU|  Nat Geo Wild HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213426&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Paprika TV\" group-title=\"HU| HUNGARY\", HU|  Paprika TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213425&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  RTL II HD\" group-title=\"HU| HUNGARY\", HU|  RTL II HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213424&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  RTL Klub\" group-title=\"HU| HUNGARY\", HU|  RTL Klub
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213423&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  Sport 1 HD\" group-title=\"HU| HUNGARY\", HU|  Sport 1 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213422&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  SuperTV2\" group-title=\"HU| HUNGARY\", HU|  SuperTV2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213421&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  The Fishing & Hunting HD\" group-title=\"HU| HUNGARY\", HU|  The Fishing & Hunting HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213420&extension=ts
+#EXTINF: -1 tvg-name=\"HU|  VH1 Europe\" group-title=\"HU| HUNGARY\", HU|  VH1 Europe
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=213419&extension=ts
+#EXTINF: -1 tvg-name=\"|HU| HUNGARY  |HU|\" group-title=\"HU| HUNGARY\", |HU| HUNGARY  |HU|
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:B2:CB:FA&stream=131341&extension=ts

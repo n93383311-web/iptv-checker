@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/DOLCE-SPORT-2.jpeg\" group-title=\"RO| CANALE DE SPORT\",RO| PRIMA SPORT 2 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92488&extension=ts&play_token=nt56VouRiT
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/looksporthd.png\" group-title=\"RO| CANALE DE SPORT\",RO| PRIMA SPORT 2 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92477&extension=ts&play_token=V7MUw953qi
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/looksporthd.png\" group-title=\"RO| CANALE DE SPORT\",RO| PRIMA SPORT 3 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92476&extension=ts&play_token=Xgh56DRdkv
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/DOLCE-SPORT-3.jpg\" group-title=\"RO| CANALE DE SPORT\",RO| PRIMA SPORT 3
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56111&extension=ts&play_token=bOehdlNgqu
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/DOLCE-SPORT-4.jpeg\" group-title=\"RO| CANALE DE SPORT\",RO| PRIMA SPORT 4 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92486&extension=ts&play_token=ZoiXJrYb3r
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/TELEKOM-L-SPORT-4-HD.jpeg\" group-title=\"RO| CANALE DE SPORT\",RO| PRIMA SPORT 4
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92680&extension=ts&play_token=BCUfJkmmZa
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/logos/eurosport1.png\" group-title=\"RO| CANALE DE SPORT\",RO| EUROSPORT 1 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56110&extension=ts&play_token=DFMOxolSLr
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/logos/eurosport2.png\" group-title=\"RO| CANALE DE SPORT\",RO| EUROSPORT 2 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56109&extension=ts&play_token=RljRfzb5vX
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/extremesports.png\" group-title=\"RO| CANALE DE SPORT\",RO| EXTREME SPORTS
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459773&extension=ts&play_token=BzZesxXGfQ
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/extremesportschannel.png\" group-title=\"RO| CANALE DE SPORT\",RO| EXTREME SPORTS CHANNEL
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56060&extension=ts&play_token=KpGCVBUVLf
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/fightbox.png\" group-title=\"RO| CANALE DE SPORT\",RO| FIGHTBOX
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92584&extension=ts&play_token=CxkiQ1PFBu
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/TELEKOM-L-SPORT-2-HD.jpeg\" group-title=\"RO| CANALE DE SPORT\",RO| Prima Sport 2
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56039&extension=ts&play_token=RPC9mGfJzs
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/prox.png\" group-title=\"RO| CANALE DE SPORT\",RO| PRO ARENA  HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459763&extension=ts&play_token=25PQWaeElh
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/prox.png\" group-title=\"RO| CANALE DE SPORT\",RO| Pro Arena
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92467&extension=ts&play_token=gJ13XXAK3G
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/DIGI-4K.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| DIGI 4K UHD [Only For 4K Devices]
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=443338&extension=ts&play_token=0o9Vx1at3j
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/animalplanethd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO|  ANIMAL PLANET HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207910&extension=ts&play_token=eufv47GMdd
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/crimeinvest.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO|  CRIME INVESTIGATION
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207956&extension=ts&play_token=FPF9dwvD54
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/digiworldhdhu.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO|  DIGI WORLD FHD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207965&extension=ts&play_token=BEXVWgzaXT
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/discoverychannel.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO|  DISCOVERY CHANNEL
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207918&extension=ts&play_token=9Ae3wPZy5j
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/EUROPE/DTX.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO|  DTX HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207967&extension=ts&play_token=sLheRSvgaj
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/historyhd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO|  HISTORY HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207927&extension=ts&play_token=hgl1PUuvrK
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/natgeohd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO|  NAT GEO FHD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207986&extension=ts&play_token=SQDKuK9GR7
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/TRAVEL-MIX.jpg\" group-title=\"RO| CANALE DOCUMENTARE\",RO|  TRAVEL MIX FHD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=208012&extension=ts&play_token=7jvJvcKXw9
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/viasatexplore.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO|  VIASAT EXPLORER
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207940&extension=ts&play_token=lGwZZ0EAYE
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/animalplanethd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| ANIMAL PLANET HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459737&extension=ts&play_token=VdJcW0lorR
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/bbcearth.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| BBC EARTH FHD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1132498&extension=ts&play_token=rqKpLt2JeV
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/crimeandinvestigations.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| CRIME&INVESTIGATION NETWORK
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459778&extension=ts&play_token=wEgZE3SSMz
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/digianimalworld.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| DIGI ANIMAL WORLD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56122&extension=ts&play_token=E1AAI2cBRh
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/EUROPE/DIGIANIMALWORLD.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| DIGI ANIMAL WORLD HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1041529&extension=ts&play_token=XSiEB9ZzLZ
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/digilife.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| DIGI LIFE
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56120&extension=ts&play_token=Z7PefFmX0q
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/digiworldhdhu.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| DIGI WORLD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56115&extension=ts&play_token=0FGnZEIt8C
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/discovery.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| DISCOVERY
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56068&extension=ts&play_token=JnX0qAfuNy
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/discoveryhd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| DISCOVERY HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459752&extension=ts&play_token=mS3lOvI625
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/discoveryscience.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| DISCOVERY SCIENCE
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459774&extension=ts&play_token=UV24iD2qXR
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/discoverycasehd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| DISCOVERY CASE HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92561&extension=ts&play_token=2ozXkwYeaN
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/docubox.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| DOCUBOX
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92490&extension=ts&play_token=UoIrhdHGGC
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/fishingandhunting.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| FISHING & HUNTING
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56107&extension=ts&play_token=xTFh3x0JUv
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/historychannel.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| HISTORY CHANNEL
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56103&extension=ts&play_token=NXka2jjLPs
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/id.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| ID
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459768&extension=ts&play_token=LnIWT06YPZ
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/investigationdiscoveryhd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| INVESTIGATION DISCOVERY HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92610&extension=ts&play_token=NfUDf8HuyH
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/logos/LOVE-NATURE.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| LOVE NATURE
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1464637&extension=ts&play_token=khSnPWYtNa
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/natgeowildhd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| NAT GEO WILD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56097&extension=ts&play_token=81cjqqQEo3
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/natgeographicro.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| NAT GEOGRAPHIC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56096&extension=ts&play_token=2YKeJECbLg
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/travelchannelhd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| TRAVEL CHANNEL HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=319098&extension=ts&play_token=0yaYyPHaOH
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/travelhd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| TRAVEL HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459739&extension=ts&play_token=PNMY5JZIJu
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/TRAVEL-MIX.jpg\" group-title=\"RO| CANALE DOCUMENTARE\",RO| TRAVEL MIX
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459777&extension=ts&play_token=7WAFbiPcT4
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/travelxp.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| TRAVEL XP HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459735&extension=ts&play_token=4Wl3D3MmNc
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/viasatexplorehd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| VIASAT EXPLORE HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459755&extension=ts&play_token=PAqOjz1Mdj
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/viasathistory.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| VIASAT HISTORY
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56029&extension=ts&play_token=gHHMZ3KXkW
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/viasathistory.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| VIASAT HISTORY HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459740&extension=ts&play_token=IzGMtIc9Ho
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/viasatnature.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| VIASAT NATURE
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56087&extension=ts&play_token=YwlLS2C8oO
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/viasatnaturehd.png\" group-title=\"RO| CANALE DOCUMENTARE\",RO| VIASAT NATURE HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=459756&extension=ts&play_token=yKbpXwvBrK
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/1musicchannel.png\" group-title=\"RO| CANALE MUZICALE\",RO| 1 MUSIC CHANNEL
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92506&extension=ts&play_token=hyhNGHvg2J
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/logos/CLUB-MTV.png\" group-title=\"RO| CANALE MUZICALE\",RO| CLUB MTV
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1464651&extension=ts&play_token=CsHv7j3w0C
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/DIASPORA-TV.png\" group-title=\"RO| CANALE MUZICALE\",RO|  DIASPORA TV FHD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207958&extension=ts&play_token=ImjlvJLDGO
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/EUROPE/FAVORIT.png\" group-title=\"RO| CANALE MUZICALE\",RO| FAVORIT TV
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1429937&extension=ts&play_token=6BkCAlrfHT
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/hitmusicro.png\" group-title=\"RO| CANALE MUZICALE\",RO|  HIT MUSIC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207980&extension=ts&play_token=Vqy7tz54QN
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/HORA-TV.jpeg\" group-title=\"RO| CANALE MUZICALE\",RO| HORA TV
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=92603&extension=ts&play_token=vPzYEavICw
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/EUROPE/HORA.png\" group-title=\"RO| CANALE MUZICALE\",RO| HORA TV HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1041541&extension=ts&play_token=5NVxC1VxGT
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/kisstv.png\" group-title=\"RO| CANALE MUZICALE\",RO| KISS TV
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56102&extension=ts&play_token=Q2C04ipvp8
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/MAGIC-TV.jpeg\" group-title=\"RO| CANALE MUZICALE\",RO|  MAGIC TV FHD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207983&extension=ts&play_token=LPexqKGrZ1
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/MAGIC-TV.jpeg\" group-title=\"RO| CANALE MUZICALE\",RO| MAGIC TV FHD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=319159&extension=ts&play_token=gpD7PcSqfr
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/logos/MEZZO.png\" group-title=\"RO| CANALE MUZICALE\",RO| MEZZO
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1464633&extension=ts&play_token=c9l1pFkaSL
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/moozdance.png\" group-title=\"RO| CANALE MUZICALE\",RO| MOOZ RO
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56054&extension=ts&play_token=MIXKNWfUWO
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/logos/MTV-00s.png\" group-title=\"RO| CANALE MUZICALE\",RO| MTV 00s
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1464631&extension=ts&play_token=oIenatU45U
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/logos/MTV-80s.png\" group-title=\"RO| CANALE MUZICALE\",RO| MTV 80s
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1464630&extension=ts&play_token=54ZUymizCt
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/mtvdance.png\" group-title=\"RO| CANALE MUZICALE\",RO|  MTV DANCE
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207931&extension=ts&play_token=e2JjQIhuwA
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/mtvhits.png\" group-title=\"RO| CANALE MUZICALE\",RO|  MTV HITS
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=207932&extension=ts&play_token=xudd87t40B
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/mtvrocks.png\" group-title=\"RO| CANALE MUZICALE\",RO| MTV ROCKS
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56053&extension=ts&play_token=pmXkw0iYVE
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/logos/STINGRAY-CMUSIC.png\" group-title=\"RO| CANALE MUZICALE\",RO| STINGRAY CMUSIC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1464624&extension=ts&play_token=uDudKFo8ZQ
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/logos/STINGRAY-ICONCERTS.png\" group-title=\"RO| CANALE MUZICALE\",RO| STINGRAY ICONCERTS
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1464623&extension=ts&play_token=1WVoauZNZo
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/EUROPE/TARFA.png\" group-title=\"RO| CANALE MUZICALE\",RO| TARFA TV HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1041540&extension=ts&play_token=ZwhtjHHXhf
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/utv.png\" group-title=\"RO| CANALE MUZICALE\",RO| UTV
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56032&extension=ts&play_token=xasGgTV2w6
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/EUROPE/UTV.png\" group-title=\"RO| CANALE MUZICALE\",RO| UTV HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=1041537&extension=ts&play_token=j0ljXRhrrb
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/vh1.png\" group-title=\"RO| CANALE MUZICALE\",RO| VH 1
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56031&extension=ts&play_token=zzhJLW8BuE
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/vh1classic.png\" group-title=\"RO| CANALE MUZICALE\",RO| VH 1 CLASSIC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56030&extension=ts&play_token=b1KoKOA6qw
+#EXTINF:-1 tvg-logo=\"http://103.176.90.118/picons/logos/zutv.png\" group-title=\"RO| CANALE MUZICALE\",RO| ZU TV
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:75:E4:36&stream=56028&extension=ts&play_token=XU2UuWeujR

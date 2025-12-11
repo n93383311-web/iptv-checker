@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=\"ducktv.day\" tvg-name=\"\" group-title=\"BULGARIA\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/b81a407ea72b161e893e23683cb39c5f.png\",BG: DUCK TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1719.ts
+#EXTINF:-1 tvg-id=\"60d3583ef310610007fb02b1\" tvg-name=\"\" group-title=\"BULGARIA\" tvg-logo=\"http://s3.i3ns.net/cs/etc/blank-icon.png\",BG: EURONEWS
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1720.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-07/8229a80dfb06304f701f51e89c5503a5.jpg\",BG: KANAL 0
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1721.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2024-04/016bfd7fbc906b1ff51c5bb40b0de79d.jpg\",BG: LIGHT CHANNEL
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1722.ts
+#EXTINF:-1 tvg-id=\"mtv 00s\" tvg-name=\"\" group-title=\"BULGARIA\" tvg-logo=\"http://s3.i3ns.net:2052/cs/etc/blank-icon.png\",BG: MTV 00S
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1723.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA\" tvg-logo=\"http://s3.i3ns.net:2052/cs/etc/blank-icon.png\",BG: MTV 80S
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1724.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/bc78bf61dc04f6ebf74b71d43fc7f1aa.png\",BG: RODINA
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1725.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/945b3c88e3c477d112b08903ca6e1edd.png\",BG: SKAT
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1726.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/066ce1f83c59ebdfa91973e800587fb8.png\",BG: VTK
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1727.ts
+#EXTINF:-1 tvg-id=\"cbsreality.pl\" tvg-name=\"\" group-title=\"BULGARIA ➾ DOCUMENTARY\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/6cc4810dbf5ec7283107b76c0091cdf5.png\",BG: CBS REALITY
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1739.ts
+#EXTINF:-1 tvg-id=\"investigationdiscovery.uk\" tvg-name=\"\" group-title=\"BULGARIA ➾ DOCUMENTARY\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/505d95f201e4ebee89a342f7935ccc2a.png\",BG: CRIME+ INVESTIGATION
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1740.ts
+#EXTINF:-1 tvg-id=\"discoverychannel.uk\" tvg-name=\"\" group-title=\"BULGARIA ➾ DOCUMENTARY\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/8392984e0f43cc89aaf0b1877a1c1c16.png\",BG: DISCOVERY WORLD
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1741.ts
+#EXTINF:-1 tvg-id=\"docubox.tr\" tvg-name=\"\" group-title=\"BULGARIA ➾ DOCUMENTARY\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-09/1734b902c00c615754c9cc1cc05eb908.png\",BG: DOCUBOX
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1742.ts
+#EXTINF:-1 tvg-id=\"history.de\" tvg-name=\"\" group-title=\"BULGARIA ➾ DOCUMENTARY\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/47ba525a8e6709862b7adb179c838769.png\",BG: HISTORY
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1743.ts
+#EXTINF:-1 tvg-id=\"investigationdiscovery.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ DOCUMENTARY\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/b2ce464518474fe5182dd4a5306f4983.png\",BG: INVESTIGATION DISCOVERY
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1744.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ DOCUMENTARY\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/69044b1b292dd9c2fdce3e13a8f94e2d.png\",BG: TRAVEL TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1745.ts
+#EXTINF:-1 tvg-id=\"polsatviasatexpl.pl\" tvg-name=\"\" group-title=\"BULGARIA ➾ DOCUMENTARY\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/d8586c7a3e666f4a01444bf9e5eb00f8.png\",BG: VIASAT EXPLORE
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1746.ts
+#EXTINF:-1 tvg-id=\"viasathistory.tr\" tvg-name=\"\" group-title=\"BULGARIA ➾ DOCUMENTARY\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-06/6af8890088c5ba51800f18d2bcb5b2b8.png\",BG: VIASAT HISTORY
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1747.ts
+#EXTINF:-1 tvg-id=\"baby-tv\" tvg-name=\"\" group-title=\"BULGARIA ➾ KIDS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/554a1dbfe2c22f7bb3d3d53a065a4fa1.png\",BG: BABY TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1764.ts
+#EXTINF:-1 tvg-id=\"boomerang.de\" tvg-name=\"\" group-title=\"BULGARIA ➾ KIDS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/bb5a424c02e97e3d31d47ae25e303653.png\",BG: BOOMERANG
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1765.ts
+#EXTINF:-1 tvg-id=\"cartoonnetwork.de\" tvg-name=\"\" group-title=\"BULGARIA ➾ KIDS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/053f22bbe7c371cc90536400b957dee1.png\",BG: CARTOON NETWORK
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1766.ts
+#EXTINF:-1 tvg-id=\"davincilearning.ro\" tvg-name=\"\" group-title=\"BULGARIA ➾ KIDS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-05/2dc1634a0140bf76d3e0f76f1c1fa085.png\",BG: DA VINCI LEARNING
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1767.ts
+#EXTINF:-1 tvg-id=\"disneychannel.de\" tvg-name=\"\" group-title=\"BULGARIA ➾ KIDS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/023a778ed7fc53bef2db3568bd6fff7b.png\",BG: DISNEY CHANNEL
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1768.ts
+#EXTINF:-1 tvg-id=\"disney-junior\" tvg-name=\"\" group-title=\"BULGARIA ➾ KIDS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-09/6ed0886c29e249c2e2fe3d1df76a6539.png\",BG: DISNEY JUNIOR
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1769.ts
+#EXTINF:-1 tvg-id=\"ekids.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ KIDS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/2b251da1c62ecec4cebee01ed1164827.png\",BG: EKIDS
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1770.ts
+#EXTINF:-1 tvg-id=\"jimjam\" tvg-name=\"\" group-title=\"BULGARIA ➾ KIDS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-09/6427879dcc618463b16a7448de4cc5c9.png\",BG: JIMJAM
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1771.ts
+#EXTINF:-1 tvg-id=\"nickjr.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ KIDS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/13cd4d60e65f839c9a9f9341c4042d9e.jpg\",BG: NICK JR
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1772.ts
+#EXTINF:-1 tvg-id=\"nickelodeon.de\" tvg-name=\"\" group-title=\"BULGARIA ➾ KIDS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/e9a165f3d2e73570934840138faa4aa1.png\",BG: NICKELODEON
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1773.ts
+#EXTINF:-1 tvg-id=\"nicktoons.de\" tvg-name=\"\" group-title=\"BULGARIA ➾ KIDS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-06/7bb0b8bc9d1fd08b033db6a264c22aa5.png\",BG: NICKTOONS
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1774.ts
+#EXTINF:-1 tvg-id=\"24kitchen.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/d5566fb057121178097ae139eb78c3c0.png\",BG: 24 KITCHEN
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1818.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/5029841218ec98e97ba534792a6d8ddb.png\",BG: 7/8 TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1819.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-07/fca7bde19929cea41e89b3e46578695b.jpg\",BG: AGRO TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1820.ts
+#EXTINF:-1 tvg-id=\"btv.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-06/e7dc620582892912b4c91809be3f8896.png\",BG: BTV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1821.ts
+#EXTINF:-1 tvg-id=\"bulgariaonair.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/dd163d511472d0298f7f0d22d26c9ab9.png\",BG: BULGARIA ON AIR
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1822.ts
+#EXTINF:-1 tvg-id=\"diema.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/a77f9b0908cd2eba2d0a714939b8dd0e.png\",BG: DIEMA
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1823.ts
+#EXTINF:-1 tvg-id=\"diemafamily.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/1a056f42c351ba7baddd29fbe0f8c728.png\",BG: DIEMA FAMILY
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1824.ts
+#EXTINF:-1 tvg-id=\"food-network\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/f1a76aca65a5eb23d0d9cb24ef6b3636.png\",BG: FOOD NETWORK
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1825.ts
+#EXTINF:-1 tvg-id=\"hgtv.de\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-06/3aca267395b7aec0a9afce94c9f42b1e.png\",BG: HGTV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1826.ts
+#EXTINF:-1 tvg-id=\"24kitchen.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/9d40d921f7cea9de300626733b9a71f2.png\",BG: HOBBY LOV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1827.ts
+#EXTINF:-1 tvg-id=\"magic.ro\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/4bdf5a6b45363d0af76ded14c7656942.png\",BG: MAGIC TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1828.ts
+#EXTINF:-1 tvg-id=\"nova.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/0554779c5b5168029bf7baf58ed5e8b3.png\",BG: NOVA TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1829.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-05/a27463aa2a0a24e2fd87716d61afaa27.png\",BG: PLOVDIVSKA PRAVOSLAVNA TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1830.ts
+#EXTINF:-1 tvg-id=\"tlc\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/02508a37a239a950647916600778d329.png\",BG: TLC
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1831.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/e3c10d9dde507b8df9723b8e6d26b79c.png\",BG: TV 1
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1832.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ LIFESTYLE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-08/08bd67bcdb2e9fc96f87d7e6a3723726.png\",BG: WNESS TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1833.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOTOR SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-09/a923d8ec860e1511f2a9d7c58981d82f.png\",BG: AUTO MOTOR SPORT
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1775.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOTOR SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-07/8059b35ae05b6cbc9768c49fbe182f47.png\",BG: MOTORVISION
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1776.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-09/a974ab80069c5e471a8ea9895967eac9.png\",BG: ACTION BOX
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1791.ts
+#EXTINF:-1 tvg-id=\"alfa.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-07/7653b32f69a37457f057f9090d9219df.png\",BG: ALFA TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1792.ts
+#EXTINF:-1 tvg-id=\"amc\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/0742584c913f87b4965f2d25d360ff9a.png\",BG: AMC
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1793.ts
+#EXTINF:-1 tvg-id=\"axn hd\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/9e98386c52dc5e2a78611c7a0bc8a50a.png\",BG: AXN
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1794.ts
+#EXTINF:-1 tvg-id=\"axnblack.pl\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-09/4612cb2dab499eb4ac765e5f9feecea1.png\",BG: AXN BLACK
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1795.ts
+#EXTINF:-1 tvg-id=\"axnwhite.pl\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-06/e31528c0d1f0604565f0c3a4dc68aae9.png\",BG: AXN WHITE
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1796.ts
+#EXTINF:-1 tvg-id=\"btvaction.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/a49df39bf4976034d3cfcb9f4ce765ae.png\",BG: BTV ACTION
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1797.ts
+#EXTINF:-1 tvg-id=\"btvcinema.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/fafbbc81d328af154102c02e19b07eea.png\",BG: BTV CINEMA
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1798.ts
+#EXTINF:-1 tvg-id=\"btvcomedy.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/b41ae46fab3df82763e193dec088613a.png\",BG: BTV COMEDY
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1799.ts
+#EXTINF:-1 tvg-id=\"btvlady.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/249f0d50918d0f6aa08471f4d0ea3b71.png\",BG: BTV LADY
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1800.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-09/cd8b27655027926881e0c1d0e7df5b14.png\",BG: CINE BOX
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1801.ts
+#EXTINF:-1 tvg-id=\"cinemax.ro\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/ccff86c236d670c88aa9a92515b4bba1.png\",BG: CINEMAX
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1802.ts
+#EXTINF:-1 tvg-id=\"cinemax2.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/6cecf3151167cd7de02a7a15ea1e9002.png\",BG: CINEMAX 2
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1803.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-09/9ec1fa085bdd3b6b7273fc5c2c6b9631.png\",BG: COMEDY BOX
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1804.ts
+#EXTINF:-1 tvg-id=\"epic-drama\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/20553f4f6d204347f3174932b2c4eaae.png\",BG: EPIC DRAMA
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1805.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net/cs/etc/blank-icon.png\",BG: FILM PLUS
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1806.ts
+#EXTINF:-1 tvg-id=\"filmboxextra.ro\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/d70f1ed5925dfcddd9b4259d6acec4c3.png\",BG: FILMBOX EXTRA
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1807.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-06/0cf86fc960a2b6e360801ffba3938142.png\",BG: FILMBOX STARS
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1808.ts
+#EXTINF:-1 tvg-id=\"fox\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/23626e29f195a0a574f0dfc8c8d7e658.png\",BG: FOX
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1809.ts
+#EXTINF:-1 tvg-id=\"foxcrime.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/eb886958ac211dea60a0f0032d9bd699.png\",BG: FOX CRIME
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1810.ts
+#EXTINF:-1 tvg-id=\"foxlife.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/e94909e93a6f950ec56f17ed88c1f574.png\",BG: FOX LIFE
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1811.ts
+#EXTINF:-1 tvg-id=\"hbo.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/37074987a2cd735e6231e6cd400ce60a.png\",BG: HBO
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1812.ts
+#EXTINF:-1 tvg-id=\"hbo2.ca\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-08/02059f62f68c2dc87d94fe070f56b39c.png\",BG: HBO 2
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1813.ts
+#EXTINF:-1 tvg-id=\"hbo3.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/118ae8fcdfcb86729d6422b76b600320.png\",BG: HBO 3
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1814.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/d11275e8ab539c4e7eb18f90e850306a.png\",BG: KINO NOVA
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1815.ts
+#EXTINF:-1 tvg-id=\"moviestar.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/0fa4fce9f763859d3f145b86c5a4f02e.png\",BG: MOVIE STAR
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1816.ts
+#EXTINF:-1 tvg-id=\"tv1000\" tvg-name=\"\" group-title=\"BULGARIA ➾ MOVIE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/02be817c8df6140552e6ada55bd7ccf3.png\",BG: TV 1000
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1817.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/e4d74d0bec4e5ff1cc6209ad29f6e3ca.png\",BG: BALKANIKA MUSIC TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1748.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-06/67090df416fc62e66f014fd918e21810.png\",BG: BG MUSIC CHANNEL
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1749.ts
+#EXTINF:-1 tvg-id=\"box-tv\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/5392ba58b401a283a182a9f02fc2c0c4.png\",BG: BOX TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1750.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/d29feb096e853274ec700c9a029c129a.png\",BG: CITY TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1751.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/cs/etc/blank-icon.png\",BG: EUROFOLK TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1752.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/ce3a75218659982e333ebd35f89e6ba3.png\",BG: FEN FOLK
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1753.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/6c022035e75f507bea77e0b15d2e269c.png\",BG: FEN TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1754.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/db758c188f489231b68a5d06bf3c2d22.png\",BG: FOLKLOR TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1755.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/047f0387ca1f69a5f9dafcf5e89859cf.png\",BG: HIT MIX
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1756.ts
+#EXTINF:-1 tvg-id=\"planetafolk.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/978f1f6cf426a708a80402914ce84438.png\",BG: PLANETA FOLK
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1757.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/fa23a428e7270df45c46b62647ffd1d5.png\",BG: PLANETA TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1758.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-08/1d1bc8ee66683093b3118cc4a5a7051f.jpg\",BG: ROMA TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1759.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/1e01b5cb83e63b5f00853569f3e52e99.png\",BG: THE VOICE TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1760.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/366a56afd5bf522120eb60a5108639d6.png\",BG: TIANKOV FOLK
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1761.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2022-04/fd0fa5ff1432fcc1c7710f80d32b8718.png\",BG: TIANKOV ORIENT FOLK
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1762.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ MUSIC\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2022-06/a75516342ff01426b269b8383e4c6e1c.png\",BG: V2BEAT TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1763.ts
+#EXTINF:-1 tvg-id=\"animalplanet.de\" tvg-name=\"\" group-title=\"BULGARIA ➾ NATURE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/f589d322b0dab7ed1de011b092f2c455.png\",BG: ANIMAL PLANET
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1777.ts
+#EXTINF:-1 tvg-id=\"nat geo hd\" tvg-name=\"\" group-title=\"BULGARIA ➾ NATURE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/32d9484e63dbb07887c08c71ef151af4.png\",BG: NAT GEO
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1778.ts
+#EXTINF:-1 tvg-id=\"nat geo wild\" tvg-name=\"\" group-title=\"BULGARIA ➾ NATURE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/e373072b6f192ac552d3d95c6e7349ed.png\",BG: NAT GEO WILD
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1779.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ NATURE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-07/ded9f3aa5325599d2c732ad55b120b2a.svg\",BG: OKHOTA I RYBALKA
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1780.ts
+#EXTINF:-1 tvg-id=\"viasatnature.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ NATURE\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-06/571db258525f48437f560c5c7a68c6ff.png\",BG: VIASAT NATURE
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1781.ts
+#EXTINF:-1 tvg-id=\"al jazeera english\" tvg-name=\"\" group-title=\"BULGARIA ➾ NEWS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2023-06/06899f4dd067651eeeb30ed0be4ffd17.png\",BG: ALJAZEERA ENGLISH
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1782.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ NEWS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/9b46e06e6b2c4f06b23e8560d02c60e5.jpg\",BG: BLOOMBERG TV
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1783.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ NEWS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/9ae8640f21005add970ee2b50e8ed491.png\",BG: BNT 1
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1784.ts
+#EXTINF:-1 tvg-id=\"bnt2.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ NEWS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/cfaf2994d6ca8a83e542a6ca4b65b9db.png\",BG: BNT 2
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1785.ts
+#EXTINF:-1 tvg-id=\"bnt3.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ NEWS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/55a901309eab26a9f68c19e59dd326a1.png\",BG: BNT 3
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1786.ts
+#EXTINF:-1 tvg-id=\"bnt4.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ NEWS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/dc3a83ad7452a29e0b86ae60a4f3c1cc.png\",BG: BNT 4
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1787.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ NEWS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/a7a56f72c2ee1de21f43637c83c814af.png\",BG: BULGARIA 24
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1788.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ NEWS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/aa45328abc900f9a3a08492ca5a72965.png\",BG: EVROKOM
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1789.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ NEWS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-09/b23485494c8f8331771fb971c41e45c0.png\",BG: NOVA NEWS
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1790.ts
+#EXTINF:-1 tvg-id=\"diemasport.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/9ac9490872a74c0c05fc4af402ebea1d.png\",BG: DIEMA SPORT
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1728.ts
+#EXTINF:-1 tvg-id=\"diema-sport-2\" tvg-name=\"\" group-title=\"BULGARIA ➾ SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/7091344dc1997cf3eaf65cdc4745168e.png\",BG: DIEMA SPORT 2
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1729.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2022-04/11a7872b15a6d53648900b17a7ac4b9f.png\",BG: DIEMA SPORT 3
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1730.ts
+#EXTINF:-1 tvg-id=\"eurosport1.de\" tvg-name=\"\" group-title=\"BULGARIA ➾ SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/9062adb13596cbbf1d3fb9b1ef7ebbb9.png\",BG: EUROSPORT 1
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1731.ts
+#EXTINF:-1 tvg-id=\"eurosport2.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/e95e437e427ab9a0ff25505049a57c29.png\",BG: EUROSPORT 2
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1732.ts
+#EXTINF:-1 tvg-id=\"maxsport1.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/f6b2689e64fee5a1b949025009295116.png\",BG: MAX SPORT 1
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1733.ts
+#EXTINF:-1 tvg-id=\"maxsport2.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/1778bf510c1faa63eb03357bd100036c.png\",BG: MAX SPORT 2
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1734.ts
+#EXTINF:-1 tvg-id=\"maxsport3.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/8401bec47f0faa8fd74db2bfc508550b.png\",BG: MAX SPORT 3
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1735.ts
+#EXTINF:-1 tvg-id=\"24kitchen.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2020-08/089325939b31e224302cf93a59be325e.png\",BG: MAX SPORT 4
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1736.ts
+#EXTINF:-1 tvg-id=\"nova.bg\" tvg-name=\"\" group-title=\"BULGARIA ➾ SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/e5530cf51403f6f7477028fb17c52af1.png\",BG: NOVA SPORT
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1737.ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"\" group-title=\"BULGARIA ➾ SPORTS\" tvg-logo=\"http://s3.i3ns.net:2052/portal/picon/2021-05/fa8371c1337570fe3c71f94058299c42.png\",BG: RING
+http://x3m.li/live/SqM$G4ox/EGz1p$xv/1738.ts

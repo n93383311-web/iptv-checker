@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="✪ WELCOME ✪" tvg-logo="https://ministrydesigns.com/mt-content/uploads/2021/02/church-welcome.jpg" group-title="✪ ROMANIA TV ✪",✪ WELCOME ✪
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/216141
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/PRO_TV_HD_%28Alternate_version%29.png/revision/latest/scale-to-width-down/250?cb=20230112063500" group-title="✪ ROMANIA TV ✪",Pro TV SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33762
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/PRO_TV_HD_%28Alternate_version%29.png/revision/latest/scale-to-width-down/250?cb=20230112063500" group-title="✪ ROMANIA TV ✪",Pro TV HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33761
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/PRO_TV_HD_%28Alternate_version%29.png/revision/latest/scale-to-width-down/250?cb=20230112063500" group-title="✪ ROMANIA TV ✪",Pro TV FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33760
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV 4K (UHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/PRO_TV_HD_%28Alternate_version%29.png/revision/latest/scale-to-width-down/250?cb=20230112063500" group-title="✪ ROMANIA TV ✪",Pro TV 4K (UHD)
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/260601
+#EXTINF:-1 tvg-id="" tvg-name="PRO TV Cinema" tvg-logo="https://www.prohomecinema.co/wp-content/uploads/2020/06/cropped-pro-R5-02-scaled-1.jpg" group-title="✪ ROMANIA TV ✪",PRO TV Cinema
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/228705
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV News FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Pro_TV_News_%282012%29.jpg/revision/latest?cb=20171005155434" group-title="✪ ROMANIA TV ✪",Pro TV News FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/121341
+#EXTINF:-1 tvg-id="protvinternational.ro" tvg-name="Pro TV International SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Pro_TV_International_slogan_2007.png/revision/latest/scale-to-width-down/250?cb=20230617105710" group-title="✪ ROMANIA TV ✪",Pro TV International SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33794
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 SD" tvg-logo="https://w7.pngwing.com/pngs/356/946/png-transparent-antena-1-hd-logo.png" group-title="✪ ROMANIA TV ✪",Antena 1 SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33765
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 HD" tvg-logo="https://w7.pngwing.com/pngs/356/946/png-transparent-antena-1-hd-logo.png" group-title="✪ ROMANIA TV ✪",Antena 1 HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33764
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 FHD" tvg-logo="https://w7.pngwing.com/pngs/356/946/png-transparent-antena-1-hd-logo.png" group-title="✪ ROMANIA TV ✪",Antena 1 FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33763
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 4K (UHD)" tvg-logo="https://w7.pngwing.com/pngs/356/946/png-transparent-antena-1-hd-logo.png" group-title="✪ ROMANIA TV ✪",Antena 1 4K (UHD)
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/260600
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1 Cinema" tvg-logo="https://www.antena3.ro/thumbs/amp/2016/02/09/surpriza-anuntata-de-antena-1-361336.jpg" group-title="✪ ROMANIA TV ✪",ANTENA 1 Cinema
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/228706
+#EXTINF:-1 tvg-id="" tvg-name="MIREASA - BAIETI ( Antena Play )" tvg-logo="http://vsrespo.s90.me:80/images/QCqX5p5x3Y181Q8jwb82JB6VSIuJhstt2nszcbGwrB03s_A0kFfb71AcOs947LsM.png" group-title="✪ ROMANIA TV ✪",MIREASA - BAIETI ( Antena Play )
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/260160
+#EXTINF:-1 tvg-id="" tvg-name="MIREASA - FETE ( Antena Play )" tvg-logo="http://vsrespo.s90.me:80/images/QCqX5p5x3Y181Q8jwb82JB6VSIuJhstt2nszcbGwrB03s_A0kFfb71AcOs947LsM.png" group-title="✪ ROMANIA TV ✪",MIREASA - FETE ( Antena Play )
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/260161
+#EXTINF:-1 tvg-id="" tvg-name="MIREASA - CONFESIUNI ( Antena Play )" tvg-logo="http://1.mal1.vip:80/images/QCqX5p5x3Y181Q8jwb82JJdS9gaTMsXg-XAZjwxbVW0-WPDcjZ5KpiByIqcZhG0v.png" group-title="✪ ROMANIA TV ✪",MIREASA - CONFESIUNI ( Antena Play )
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/259262
+#EXTINF:-1 tvg-id="" tvg-name="MIREASA - PARTY ( Antena Play )" tvg-logo="http://1.mal1.vip:80/images/QCqX5p5x3Y181Q8jwb82JDM4k6lyxp6b4WyXxf5nYDbnbwIvNgWvlXWTDtSFeYGO.png" group-title="✪ ROMANIA TV ✪",MIREASA - PARTY ( Antena Play )
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/259261
+#EXTINF:-1 tvg-id="" tvg-name="Insula Iubirii Sezon 08 ( Antena Play )" tvg-logo="http://vsrespo.s90.me:80/images/nbgVukvdsS2JBhfR4ifwqQVTmN8rXqtfaMtHj3PLKWSydwBaOqdEFNhmXjLJavwakuYFeJ_bPHYEQ3XeCvR0fvPyebqzyU3Y-rbjrqGNl6Y.png" group-title="✪ ROMANIA TV ✪",Insula Iubirii Sezon 08 ( Antena Play )
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/260155
+#EXTINF:-1 tvg-id="" tvg-name="Ca Tine (Antena Play)" tvg-logo="https://www.infocontact.ro/wp-content/uploads/2023/10/pret-antenaplay-abonament.jpg" group-title="✪ ROMANIA TV ✪",Ca Tine (Antena Play)
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/246085
+#EXTINF:-1 tvg-id="" tvg-name="Hello Taste (Antena Play)" tvg-logo="https://antenaplay.ro/AntenaPlay_fb.jpg" group-title="✪ ROMANIA TV ✪",Hello Taste (Antena Play)
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/249142
+#EXTINF:-1 tvg-id="" tvg-name="Antena Monden (Antena Play)" tvg-logo="" group-title="✪ ROMANIA TV ✪",Antena Monden (Antena Play)
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/249236
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Play (Antena Play)" tvg-logo="https://img.observatornews.ro/0/2016/7/16/181933/1468671515ab883a38.jpg?w=1200" group-title="✪ ROMANIA TV ✪",Comedy Play (Antena Play)
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/246083
+#EXTINF:-1 tvg-id="" tvg-name="Observator News (Antena Play)" tvg-logo="https://cdn6.aptoide.com/imgs/9/1/7/9175d16b1bd67f32e848b2a20f4eb245_fgraphic.png" group-title="✪ ROMANIA TV ✪",Observator News (Antena Play)
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/249238
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D SD" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="✪ ROMANIA TV ✪",Kanal D SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33772
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D HD" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="✪ ROMANIA TV ✪",Kanal D HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33771
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D FHD" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="✪ ROMANIA TV ✪",Kanal D FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33770
+#EXTINF:-1 tvg-id="kanald2.ro" tvg-name="Kanal D2 HD" tvg-logo="https://logowik.com/content/uploads/images/kanal-d2106.logowik.com.webp" group-title="✪ ROMANIA TV ✪",Kanal D2 HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/146434
+#EXTINF:-1 tvg-id="kanald2.ro" tvg-name="Kanal D2 FHD" tvg-logo="https://logowik.com/content/uploads/images/kanal-d2106.logowik.com.webp" group-title="✪ ROMANIA TV ✪",Kanal D2 FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/146435
+#EXTINF:-1 tvg-id="procinema.ro" tvg-name="Pro Cinema HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/PRO_Cinema_%282009-2014%29.png/revision/latest/scale-to-width-down/250?cb=20210822134051" group-title="✪ ROMANIA TV ✪",Pro Cinema HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/146436
+#EXTINF:-1 tvg-id="procinema.ro" tvg-name="Pro Cinema FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/PRO_Cinema_%282009-2014%29.png/revision/latest/scale-to-width-down/250?cb=20210822134051" group-title="✪ ROMANIA TV ✪",Pro Cinema FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/107960
+#EXTINF:-1 tvg-id="tvrinfo.ro" tvg-name="TVR INFO FHD" tvg-logo="https://yt3.googleusercontent.com/RyU_r-dpKEQK7_kkPdtrt0GbFFhMyxWjWS46qvggQUA9q6Lyd9jzPjla6sxl_dczbcew1l2WQA=s900-c-k-c0x00ffffff-no-rj" group-title="✪ ROMANIA TV ✪",TVR INFO FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/116857
+#EXTINF:-1 tvg-id="tvr1.ro" tvg-name="TVR 1 SD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyd6-7a5c675d-d679-4373-b373-006b556d784a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anlkNi03YTVjNjc1ZC1kNjc5LTQzNzMtYjM3My0wMDZiNTU2ZDc4NGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zaE7SLx8r_kWtm-cPpUN0wAkuflRgDhXCu4AQUF7Z-g" group-title="✪ ROMANIA TV ✪",TVR 1 SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33791
+#EXTINF:-1 tvg-id="tvr1.ro" tvg-name="TVR 1 HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyd6-7a5c675d-d679-4373-b373-006b556d784a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anlkNi03YTVjNjc1ZC1kNjc5LTQzNzMtYjM3My0wMDZiNTU2ZDc4NGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zaE7SLx8r_kWtm-cPpUN0wAkuflRgDhXCu4AQUF7Z-g" group-title="✪ ROMANIA TV ✪",TVR 1 HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/146437
+#EXTINF:-1 tvg-id="tvr1.ro" tvg-name="TVR 1 FHD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyd6-7a5c675d-d679-4373-b373-006b556d784a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anlkNi03YTVjNjc1ZC1kNjc5LTQzNzMtYjM3My0wMDZiNTU2ZDc4NGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zaE7SLx8r_kWtm-cPpUN0wAkuflRgDhXCu4AQUF7Z-g" group-title="✪ ROMANIA TV ✪",TVR 1 FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33788
+#EXTINF:-1 tvg-id="tvr2.ro" tvg-name="TVR 2 SD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyoh-2985154c-dd94-4e60-80e2-28a256f0fc54.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anlvaC0yOTg1MTU0Yy1kZDk0LTRlNjAtODBlMi0yOGEyNTZmMGZjNTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fE-jaORyBDila5rezfLw3w529ueHPvRzyRWkmVG3ZM4" group-title="✪ ROMANIA TV ✪",TVR 2 SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33790
+#EXTINF:-1 tvg-id="tvr2.ro" tvg-name="TVR 2 HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyoh-2985154c-dd94-4e60-80e2-28a256f0fc54.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anlvaC0yOTg1MTU0Yy1kZDk0LTRlNjAtODBlMi0yOGEyNTZmMGZjNTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fE-jaORyBDila5rezfLw3w529ueHPvRzyRWkmVG3ZM4" group-title="✪ ROMANIA TV ✪",TVR 2 HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/146438
+#EXTINF:-1 tvg-id="tvr2.ro" tvg-name="TVR 2 FHD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyoh-2985154c-dd94-4e60-80e2-28a256f0fc54.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anlvaC0yOTg1MTU0Yy1kZDk0LTRlNjAtODBlMi0yOGEyNTZmMGZjNTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fE-jaORyBDila5rezfLw3w529ueHPvRzyRWkmVG3ZM4" group-title="✪ ROMANIA TV ✪",TVR 2 FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/56156
+#EXTINF:-1 tvg-id="tvr3.ro" tvg-name="TVR 3 SD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyue-e0cc77c8-df35-4613-943e-fad2f1b05330.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anl1ZS1lMGNjNzdjOC1kZjM1LTQ2MTMtOTQzZS1mYWQyZjFiMDUzMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TZsG72WlEx8ck7FFAvdk6POegDXifbq_X1M2ON-xufA" group-title="✪ ROMANIA TV ✪",TVR 3 SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33789
+#EXTINF:-1 tvg-id="tvr3.ro" tvg-name="TVR 3 HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/datjyue-e0cc77c8-df35-4613-943e-fad2f1b05330.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGF0anl1ZS1lMGNjNzdjOC1kZjM1LTQ2MTMtOTQzZS1mYWQyZjFiMDUzMzAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TZsG72WlEx8ck7FFAvdk6POegDXifbq_X1M2ON-xufA" group-title="✪ ROMANIA TV ✪",TVR 3 HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/146440
+#EXTINF:-1 tvg-id="tvrinternational.ro" tvg-name="TVR International SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/TVR_International_stacked_2022.png/revision/latest/scale-to-width-down/250?cb=20240414172046" group-title="✪ ROMANIA TV ✪",TVR International SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/56141
+#EXTINF:-1 tvg-id="tvrcultural.ro" tvg-name="TVR CULTURAL FHD" tvg-logo="https://bmcmedia.org:2083/images/z0Jls3khql2x0Wmk_HIuLXU2EGe1wRW4p1ZQs2bUPMH7ZeHWl-iKH1oejToZ35ZC.png" group-title="✪ ROMANIA TV ✪",TVR CULTURAL FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/206446
+#EXTINF:-1 tvg-id="" tvg-name="TVR Folclor FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/1200px-TVR_Folclor_Logo_2023.svg.png" group-title="✪ ROMANIA TV ✪",TVR Folclor FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/162780
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="Prima TV SD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/18/Prima_TV_%282014%29.png/revision/latest/scale-to-width-down/591?cb=20230525214500" group-title="✪ ROMANIA TV ✪",Prima TV SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33785
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="Prima TV HD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/18/Prima_TV_%282014%29.png/revision/latest/scale-to-width-down/591?cb=20230525214500" group-title="✪ ROMANIA TV ✪",Prima TV HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/146441
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="Prima TV FHD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/18/Prima_TV_%282014%29.png/revision/latest/scale-to-width-down/591?cb=20230525214500" group-title="✪ ROMANIA TV ✪",Prima TV FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/107943
+#EXTINF:-1 tvg-id="prima4k.ro" tvg-name="PRIMA 4K (UHD)" tvg-logo="http://mainsev.serveftp.com:8880/images/dXdS4CTbr4TX1TXaDF8Aiw447n01lZzh4A1Tfz82fsoNnG6ec9HBybBe3gm6-DAbCjte6tDBMIDY2qHLjSKBlA.png" group-title="✪ ROMANIA TV ✪",PRIMA 4K (UHD)
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/229323
+#EXTINF:-1 tvg-id="primanews.ro" tvg-name="PRIMA NEWS FHD" tvg-logo="http://balanta201.org:8880/download/logo/VSV.@reload1KmnlprT/wZVSZ65p@rPL9f5mh78FgT/131555" group-title="✪ ROMANIA TV ✪",PRIMA NEWS FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/255763
+#EXTINF:-1 tvg-id="arcadia.ro" tvg-name="PRIMA WORLD FHD" tvg-logo="http://balanta201.org:8880/download/logo/VSV.@reload1KmnlprT/wZVSZ65p@rPL9f5mh78FgT/1894" group-title="✪ ROMANIA TV ✪",PRIMA WORLD FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/255861
+#EXTINF:-1 tvg-id="acasa.ro" tvg-name="Acasa TV HD" tvg-logo="https://assets.protv.ro/assets/acasatv/2014/05/21/image_galleries/50428/acasa-tv-audiente-in-crestere-in-prime-time_3_size1.png" group-title="✪ ROMANIA TV ✪",Acasa TV HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/146442
+#EXTINF:-1 tvg-id="acasagold.ro" tvg-name="Acasa Gold SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Acasa_Gold_protos_17.png/revision/latest/scale-to-width-down/250?cb=20221120163017" group-title="✪ ROMANIA TV ✪",Acasa Gold SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33777
+#EXTINF:-1 tvg-id="acasagold.ro" tvg-name="ACASA GOLD FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Acasa_Gold_protos_17.png/revision/latest/scale-to-width-down/250?cb=20221120163017" group-title="✪ ROMANIA TV ✪",ACASA GOLD FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/167805
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="Digi 24 SD" tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwNyUyRjA1JTJGOTM0NjI2XzkzNDYy/Nl9kaWdpMjQucG5nJnc9ODAwJmhhc2g9/OGRmMjAwODc5YjNmMDBlZDEyY2M0MjE5OWYzMjJhNzU=.thumb.jpg" group-title="✪ ROMANIA TV ✪",Digi 24 SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33784
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="DIGI 24 FHD" tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTgl/MkYwNyUyRjA1JTJGOTM0NjI2XzkzNDYy/Nl9kaWdpMjQucG5nJnc9ODAwJmhhc2g9/OGRmMjAwODc5YjNmMDBlZDEyY2M0MjE5OWYzMjJhNzU=.thumb.jpg" group-title="✪ ROMANIA TV ✪",DIGI 24 FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/162582
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 CNN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQ2mcSEjdCQJn57fqwSbBvPfFlj4zchN5NutBI1Y-GA&s" group-title="✪ ROMANIA TV ✪",Antena 3 CNN SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33767
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 CNN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQ2mcSEjdCQJn57fqwSbBvPfFlj4zchN5NutBI1Y-GA&s" group-title="✪ ROMANIA TV ✪",Antena 3 CNN HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/121389
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 CNN FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQ2mcSEjdCQJn57fqwSbBvPfFlj4zchN5NutBI1Y-GA&s" group-title="✪ ROMANIA TV ✪",Antena 3 CNN FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33766
+#EXTINF:-1 tvg-id="" tvg-name="RO TV VALENCIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8un4ITirZKogAhkvss0CNes93z3B-IM38VU1rNOJ2A&s" group-title="✪ ROMANIA TV ✪",RO TV VALENCIA
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/171954
+#EXTINF:-1 tvg-id="realitateaplus.ro" tvg-name="Realitatea Plus FHD" tvg-logo="https://media.realitatea.net/multimedia/image/202302/w1920/logo_realitatea_plus_82182700_17d94d3f02.jpg" group-title="✪ ROMANIA TV ✪",Realitatea Plus FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/37266
+#EXTINF:-1 tvg-id="realitateaplus.ro" tvg-name="Realitatea Plus SD" tvg-logo="https://media.realitatea.net/multimedia/image/202302/w1920/logo_realitatea_plus_82182700_17d94d3f02.jpg" group-title="✪ ROMANIA TV ✪",Realitatea Plus SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/146445
+#EXTINF:-1 tvg-id="realitateaplus.ro" tvg-name="Realitatea Plus HD" tvg-logo="https://media.realitatea.net/multimedia/image/202302/w1920/logo_realitatea_plus_82182700_17d94d3f02.jpg" group-title="✪ ROMANIA TV ✪",Realitatea Plus HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/146444
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Star HD" tvg-logo="https://media.realitatea.net/multimedia/image/202301/w1920/r-starrr_6297369d8b.jpg" group-title="✪ ROMANIA TV ✪",Realitatea Star HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/249237
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Sportiva HD" tvg-logo="http://mainsev.serveftp.com:8880/images/dXdS4CTbr4TX1TXaDF8Aiw447n01lZzh4A1Tfz82fsrpY7GpxSayF-ZTdSp5KKPI2804Y463a5L6rYZQz6uQN4c3eqdwUBbWj47rEZBi9tY.png" group-title="✪ ROMANIA TV ✪",Realitatea Sportiva HD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/228691
+#EXTINF:-1 tvg-id="euronews.ro" tvg-name="EURONEWS ROMANIA FHD" tvg-logo="https://rds.live/wp-content/uploads/2023/01/EURONEWS-ROMANIA.png.webp" group-title="✪ ROMANIA TV ✪",EURONEWS ROMANIA FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/186376
+#EXTINF:-1 tvg-id="nasultv.ro" tvg-name="Nasul TV SD" tvg-logo="https://www.nasul.tv/wp-content/uploads/2013/01/logoNasul2.png" group-title="✪ ROMANIA TV ✪",Nasul TV SD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/56139
+#EXTINF:-1 tvg-id="romaniatv.ro" tvg-name="Romania TV FHD" tvg-logo="https://www.romaniatv.net/wp-content/uploads/2012/02/rtv_logo_58789800.jpg" group-title="✪ ROMANIA TV ✪",Romania TV FHD
+http://bestavb.maria-db.co:8008/Adrian_Elvis/gSWPy61DYT/33779

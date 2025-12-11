@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="✪ WELCOME ✪" tvg-logo="https://ministrydesigns.com/mt-content/uploads/2021/02/church-welcome.jpg" group-title="✪ ROMANIA TV ✪",✪ WELCOME ✪
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/216141
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/PRO_TV_HD_%28Alternate_version%29.png/revision/latest/scale-to-width-down/250?cb=20230112063500" group-title="✪ ROMANIA TV ✪",Pro TV FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33760
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/PRO_TV_HD_%28Alternate_version%29.png/revision/latest/scale-to-width-down/250?cb=20230112063500" group-title="✪ ROMANIA TV ✪",Pro TV HD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33761
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/PRO_TV_HD_%28Alternate_version%29.png/revision/latest/scale-to-width-down/250?cb=20230112063500" group-title="✪ ROMANIA TV ✪",Pro TV SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33762
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV 4K (UHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/PRO_TV_HD_%28Alternate_version%29.png/revision/latest/scale-to-width-down/250?cb=20230112063500" group-title="✪ ROMANIA TV ✪",Pro TV 4K (UHD)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/260601
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="PRO TV (FIBRA)" tvg-logo="http://1.mal1.vip:80/images/QCqX5p5x3Y181Q8jwb82JHetlVWc0xnDNYp68Xxz1673pgUSAxCKmTm8pF-CTl0_zpo1S896v7oa_SxvM8n-rw.jpg" group-title="✪ ROMANIA TV ✪",PRO TV (FIBRA)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259229
+#EXTINF:-1 tvg-id="" tvg-name="PRO TV Cinema" tvg-logo="https://www.prohomecinema.co/wp-content/uploads/2020/06/cropped-pro-R5-02-scaled-1.jpg" group-title="✪ ROMANIA TV ✪",PRO TV Cinema
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/228705
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV News FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Pro_TV_News_%282012%29.jpg/revision/latest?cb=20171005155434" group-title="✪ ROMANIA TV ✪",Pro TV News FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/121341
+#EXTINF:-1 tvg-id="protvinternational.ro" tvg-name="Pro TV International SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Pro_TV_International_slogan_2007.png/revision/latest/scale-to-width-down/250?cb=20230617105710" group-title="✪ ROMANIA TV ✪",Pro TV International SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33794
+#EXTINF:-1 tvg-id="" tvg-name="PRO TV CHISINAU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Pro_TV_Chi%C8%99in%C4%83u_%282016%29.svg/1200px-Logo_Pro_TV_Chi%C8%99in%C4%83u_%282016%29.svg.png" group-title="✪ ROMANIA TV ✪",PRO TV CHISINAU
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/260623
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 FHD" tvg-logo="https://w7.pngwing.com/pngs/356/946/png-transparent-antena-1-hd-logo.png" group-title="✪ ROMANIA TV ✪",Antena 1 FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33763
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 HD" tvg-logo="https://w7.pngwing.com/pngs/356/946/png-transparent-antena-1-hd-logo.png" group-title="✪ ROMANIA TV ✪",Antena 1 HD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33764
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 SD" tvg-logo="https://w7.pngwing.com/pngs/356/946/png-transparent-antena-1-hd-logo.png" group-title="✪ ROMANIA TV ✪",Antena 1 SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33765
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 4K (UHD)" tvg-logo="https://w7.pngwing.com/pngs/356/946/png-transparent-antena-1-hd-logo.png" group-title="✪ ROMANIA TV ✪",Antena 1 4K (UHD)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/260600
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="ANTENA 1 (FIBRA)" tvg-logo="http://1.mal1.vip:80/images/QCqX5p5x3Y181Q8jwb82JHXVf8ICIRbqHzczZiTvqGJ__prRTA2Vvmg20e-waKOcdyHPgPPHUyue-pvurDO5yA.png" group-title="✪ ROMANIA TV ✪",ANTENA 1 (FIBRA)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259230
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1 Cinema" tvg-logo="https://www.antena3.ro/thumbs/amp/2016/02/09/surpriza-anuntata-de-antena-1-361336.jpg" group-title="✪ ROMANIA TV ✪",ANTENA 1 Cinema
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/228706
+#EXTINF:-1 tvg-id="procinema.ro" tvg-name="Pro Cinema FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/PRO_Cinema_%282009-2014%29.png/revision/latest/scale-to-width-down/250?cb=20210822134051" group-title="✪ ROMANIA TV ✪",Pro Cinema FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/107960
+#EXTINF:-1 tvg-id="procinema.ro" tvg-name="Pro Cinema HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/PRO_Cinema_%282009-2014%29.png/revision/latest/scale-to-width-down/250?cb=20210822134051" group-title="✪ ROMANIA TV ✪",Pro Cinema HD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/146436
+#EXTINF:-1 tvg-id="happychannel.ro" tvg-name="Happy Channel FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Happy_Channel_%282014-2016%2C_prelaunch%2C_alternative_version%29.png/revision/latest/scale-to-width-down/250?cb=20230109153119" group-title="✪ ROMANIA TV ✪",Happy Channel FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33775
+#EXTINF:-1 tvg-id="happychannel.ro" tvg-name="Happy Channel SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Happy_Channel_%282014-2016%2C_prelaunch%2C_alternative_version%29.png/revision/latest/scale-to-width-down/250?cb=20230109153119" group-title="✪ ROMANIA TV ✪",Happy Channel SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33776
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="ANTENA 3 CNN (FIBRA)" tvg-logo="http://1.mal1.vip:80/images/QCqX5p5x3Y181Q8jwb82JMHroZy0hLsD3nM-pNt2dXJAhGoReksCZWSfXjxkEaXw.png" group-title="✪ ROMANIA TV ✪",ANTENA 3 CNN (FIBRA)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259218
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 CNN FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQ2mcSEjdCQJn57fqwSbBvPfFlj4zchN5NutBI1Y-GA&s" group-title="✪ ROMANIA TV ✪",Antena 3 CNN FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33766
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 CNN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQ2mcSEjdCQJn57fqwSbBvPfFlj4zchN5NutBI1Y-GA&s" group-title="✪ ROMANIA TV ✪",Antena 3 CNN HD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/121389
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 CNN SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfQ2mcSEjdCQJn57fqwSbBvPfFlj4zchN5NutBI1Y-GA&s" group-title="✪ ROMANIA TV ✪",Antena 3 CNN SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33767
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="Antena Stars FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Antena_Srars_Logo_%282022-present%29.png" group-title="✪ ROMANIA TV ✪",Antena Stars FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33768
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="Antena Stars HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Antena_Srars_Logo_%282022-present%29.png" group-title="✪ ROMANIA TV ✪",Antena Stars HD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/146447
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="Antena Stars SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Antena_Srars_Logo_%282022-present%29.png" group-title="✪ ROMANIA TV ✪",Antena Stars SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33769
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="ANTENA STARS 4K (UHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Antena_Srars_Logo_%282022-present%29.png" group-title="✪ ROMANIA TV ✪",ANTENA STARS 4K (UHD)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/186004
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="ANTENA STARS (FIBRA)" tvg-logo="http://1.mal1.vip:80/images/QCqX5p5x3Y181Q8jwb82JI1WWU2uu1TkiZ2IlfGCRs58BW3cVe5QfjtHAsNfXNqp.jpg" group-title="✪ ROMANIA TV ✪",ANTENA STARS (FIBRA)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259221
+#EXTINF:-1 tvg-id="" tvg-name="MIREASA - BAIETI ( Antena Play )" tvg-logo="http://vsrespo.s90.me:80/images/QCqX5p5x3Y181Q8jwb82JB6VSIuJhstt2nszcbGwrB03s_A0kFfb71AcOs947LsM.png" group-title="✪ ROMANIA TV ✪",MIREASA - BAIETI ( Antena Play )
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/260160
+#EXTINF:-1 tvg-id="" tvg-name="MIREASA - FETE ( Antena Play )" tvg-logo="http://vsrespo.s90.me:80/images/QCqX5p5x3Y181Q8jwb82JB6VSIuJhstt2nszcbGwrB03s_A0kFfb71AcOs947LsM.png" group-title="✪ ROMANIA TV ✪",MIREASA - FETE ( Antena Play )
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/260161
+#EXTINF:-1 tvg-id="" tvg-name="MIREASA - CONFESIUNI ( Antena Play )" tvg-logo="http://1.mal1.vip:80/images/QCqX5p5x3Y181Q8jwb82JJdS9gaTMsXg-XAZjwxbVW0-WPDcjZ5KpiByIqcZhG0v.png" group-title="✪ ROMANIA TV ✪",MIREASA - CONFESIUNI ( Antena Play )
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259262
+#EXTINF:-1 tvg-id="" tvg-name="MIREASA - PARTY ( Antena Play )" tvg-logo="http://1.mal1.vip:80/images/QCqX5p5x3Y181Q8jwb82JDM4k6lyxp6b4WyXxf5nYDbnbwIvNgWvlXWTDtSFeYGO.png" group-title="✪ ROMANIA TV ✪",MIREASA - PARTY ( Antena Play )
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259261
+#EXTINF:-1 tvg-id="" tvg-name="Insula Iubirii Sezon 08 ( Antena Play )" tvg-logo="http://vsrespo.s90.me:80/images/nbgVukvdsS2JBhfR4ifwqQVTmN8rXqtfaMtHj3PLKWSydwBaOqdEFNhmXjLJavwakuYFeJ_bPHYEQ3XeCvR0fvPyebqzyU3Y-rbjrqGNl6Y.png" group-title="✪ ROMANIA TV ✪",Insula Iubirii Sezon 08 ( Antena Play )
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/260155
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Play (Antena Play)" tvg-logo="https://img.observatornews.ro/0/2016/7/16/181933/1468671515ab883a38.jpg?w=1200" group-title="✪ ROMANIA TV ✪",Comedy Play (Antena Play)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/246083
+#EXTINF:-1 tvg-id="" tvg-name="Hello Taste (Antena Play)" tvg-logo="https://antenaplay.ro/AntenaPlay_fb.jpg" group-title="✪ ROMANIA TV ✪",Hello Taste (Antena Play)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/249142
+#EXTINF:-1 tvg-id="" tvg-name="Antena Monden (Antena Play)" tvg-logo="" group-title="✪ ROMANIA TV ✪",Antena Monden (Antena Play)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/249236
+#EXTINF:-1 tvg-id="" tvg-name="Ca Tine (Antena Play)" tvg-logo="https://www.infocontact.ro/wp-content/uploads/2023/10/pret-antenaplay-abonament.jpg" group-title="✪ ROMANIA TV ✪",Ca Tine (Antena Play)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/246085
+#EXTINF:-1 tvg-id="" tvg-name="Observator News (Antena Play)" tvg-logo="https://cdn6.aptoide.com/imgs/9/1/7/9175d16b1bd67f32e848b2a20f4eb245_fgraphic.png" group-title="✪ ROMANIA TV ✪",Observator News (Antena Play)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/249238
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1 ( Antena Play )" tvg-logo="http://1.mal1.vip:80/images/aB4S4fADRiKIuXvPwvhhISlv0A5am23LS2xDVNWd5S8kECBc6hzLZ1LcwNWkwS3Xy7nFSTfF-RHPARncaSD0k1M_DbsE8IH0vrp8DUl58TI.png" group-title="✪ ROMANIA TV ✪",Formula 1 ( Antena Play )
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259252
+#EXTINF:-1 tvg-id="" tvg-name="Formula 2 ( Antena Play )" tvg-logo="http://1.mal1.vip:80/images/aB4S4fADRiKIuXvPwvhhISlv0A5am23LS2xDVNWd5S8NkR6Qi1EEF2W7-ajz7pZgfl9ZNMh2yOqf5w_KMmn1BIOxHe3wOIbrP4WIv6ot-EQ.png" group-title="✪ ROMANIA TV ✪",Formula 2 ( Antena Play )
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259253
+#EXTINF:-1 tvg-id="" tvg-name="Formula 1 Academy ( Antena Play )" tvg-logo="http://1.mal1.vip:80/images/aB4S4fADRiKIuXvPwvhhISlv0A5am23LS2xDVNWd5S-TTr1UiSmNrFE9eNw6pSDb7-cBlL5BPXNvcldZ-4IIvU3_1HFycA0e1KdopuobPgM.png" group-title="✪ ROMANIA TV ✪",Formula 1 Academy ( Antena Play )
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259257
+#EXTINF:-1 tvg-id="" tvg-name="Longines Global Champions Tour 2024 ( Antena Play )" tvg-logo="http://1.mal1.vip:80/images/aB4S4fADRiKIuXvPwvhhISlv0A5am23LS2xDVNWd5S_GNyjJpOjaxxZzhzGx7fGJ8Zsp5ZvU03gnnfEs8hjJXRH73MYO8K5xQ-jacO5FhBo.png" group-title="✪ ROMANIA TV ✪",Longines Global Champions Tour 2024 ( Antena Play )
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259260
+#EXTINF:-1 tvg-id="alephnews.ro" tvg-name="ALEPH NEWS FHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQeUgyT2s2PeqbGV8pnjdGE_0fTRnjsB_bxhCSO8ZMRQ=s900-c-k-c0x00ffffff-no-rj" group-title="✪ ROMANIA TV ✪",ALEPH NEWS FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/162782
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="KANAL D (FIBRA)" tvg-logo="http://1.mal1.vip:80/images/QCqX5p5x3Y181Q8jwb82JCgq9NxrEtay2hkFSn5pdY5DjNe3MIqZVk_u8wkHJEKDNVfFOtnI_8XJQ6dqE76EHw.jpg" group-title="✪ ROMANIA TV ✪",KANAL D (FIBRA)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259223
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D FHD" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="✪ ROMANIA TV ✪",Kanal D FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33770
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D HD" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="✪ ROMANIA TV ✪",Kanal D HD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33771
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D SD" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="✪ ROMANIA TV ✪",Kanal D SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33772
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D 4K (UHD)" tvg-logo="https://umbrellamedia.ro/wp-content/uploads/2015/11/500x500canal-d.jpg" group-title="✪ ROMANIA TV ✪",Kanal D 4K (UHD)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/53740
+#EXTINF:-1 tvg-id="kanald2.ro" tvg-name="Kanal D2 FHD" tvg-logo="https://logowik.com/content/uploads/images/kanal-d2106.logowik.com.webp" group-title="✪ ROMANIA TV ✪",Kanal D2 FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/146435
+#EXTINF:-1 tvg-id="kanald2.ro" tvg-name="Kanal D2 HD" tvg-logo="https://logowik.com/content/uploads/images/kanal-d2106.logowik.com.webp" group-title="✪ ROMANIA TV ✪",Kanal D2 HD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/146434
+#EXTINF:-1 tvg-id="kanald2.ro" tvg-name="KANAL D2 4K (UHD)" tvg-logo="https://logowik.com/content/uploads/images/kanal-d2106.logowik.com.webp" group-title="✪ ROMANIA TV ✪",KANAL D2 4K (UHD)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/206570
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="PRIMA TV (FIBRA)" tvg-logo="http://1.mal1.vip:80/images/QCqX5p5x3Y181Q8jwb82JHIfI3URTZ3uWfT12g-RKjuL95ql-WcGAKNNx8ojowFz.jpg" group-title="✪ ROMANIA TV ✪",PRIMA TV (FIBRA)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/259220
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="Prima TV FHD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/18/Prima_TV_%282014%29.png/revision/latest/scale-to-width-down/591?cb=20230525214500" group-title="✪ ROMANIA TV ✪",Prima TV FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/107943
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="Prima TV HD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/18/Prima_TV_%282014%29.png/revision/latest/scale-to-width-down/591?cb=20230525214500" group-title="✪ ROMANIA TV ✪",Prima TV HD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/146441
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="Prima TV SD" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/1/18/Prima_TV_%282014%29.png/revision/latest/scale-to-width-down/591?cb=20230525214500" group-title="✪ ROMANIA TV ✪",Prima TV SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33785
+#EXTINF:-1 tvg-id="prima4k.ro" tvg-name="PRIMA 4K (UHD)" tvg-logo="http://mainsev.serveftp.com:8880/images/dXdS4CTbr4TX1TXaDF8Aiw447n01lZzh4A1Tfz82fsoNnG6ec9HBybBe3gm6-DAbCjte6tDBMIDY2qHLjSKBlA.png" group-title="✪ ROMANIA TV ✪",PRIMA 4K (UHD)
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/229323
+#EXTINF:-1 tvg-id="primanews.ro" tvg-name="PRIMA NEWS FHD" tvg-logo="http://balanta201.org:8880/download/logo/VSV.@reload1KmnlprT/wZVSZ65p@rPL9f5mh78FgT/131555" group-title="✪ ROMANIA TV ✪",PRIMA NEWS FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/255763
+#EXTINF:-1 tvg-id="arcadia.ro" tvg-name="PRIMA WORLD FHD" tvg-logo="http://balanta201.org:8880/download/logo/VSV.@reload1KmnlprT/wZVSZ65p@rPL9f5mh78FgT/1894" group-title="✪ ROMANIA TV ✪",PRIMA WORLD FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/255861
+#EXTINF:-1 tvg-id="" tvg-name="PRIMA COMEDY SD" tvg-logo="https://bmcmedia.org:2083/images/z0Jls3khql2x0Wmk_HIuLR2-XEaM32A8zEDQ6osA1QSoptCp52YT2EdJja5Sa2nK.png" group-title="✪ ROMANIA TV ✪",PRIMA COMEDY SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/206428
+#EXTINF:-1 tvg-id="" tvg-name="National TV SD" tvg-logo="" group-title="✪ ROMANIA TV ✪",National TV SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/260592
+#EXTINF:-1 tvg-id="national24plus.ro" tvg-name="National 24 Plus SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/N24_Plus_2009.svg/revision/latest/scale-to-width-down/250?cb=20210807184954" group-title="✪ ROMANIA TV ✪",National 24 Plus SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33782
+#EXTINF:-1 tvg-id="romaniatv.ro" tvg-name="Romania TV FHD" tvg-logo="https://www.romaniatv.net/wp-content/uploads/2012/02/rtv_logo_58789800.jpg" group-title="✪ ROMANIA TV ✪",Romania TV FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/33779
+#EXTINF:-1 tvg-id="nasultv.ro" tvg-name="Nasul TV SD" tvg-logo="https://www.nasul.tv/wp-content/uploads/2013/01/logoNasul2.png" group-title="✪ ROMANIA TV ✪",Nasul TV SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/56139
+#EXTINF:-1 tvg-id="realitateaplus.ro" tvg-name="Realitatea Plus FHD" tvg-logo="https://media.realitatea.net/multimedia/image/202302/w1920/logo_realitatea_plus_82182700_17d94d3f02.jpg" group-title="✪ ROMANIA TV ✪",Realitatea Plus FHD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/37266
+#EXTINF:-1 tvg-id="realitateaplus.ro" tvg-name="Realitatea Plus HD" tvg-logo="https://media.realitatea.net/multimedia/image/202302/w1920/logo_realitatea_plus_82182700_17d94d3f02.jpg" group-title="✪ ROMANIA TV ✪",Realitatea Plus HD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/146444
+#EXTINF:-1 tvg-id="realitateaplus.ro" tvg-name="Realitatea Plus SD" tvg-logo="https://media.realitatea.net/multimedia/image/202302/w1920/logo_realitatea_plus_82182700_17d94d3f02.jpg" group-title="✪ ROMANIA TV ✪",Realitatea Plus SD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/146445
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Star HD" tvg-logo="https://media.realitatea.net/multimedia/image/202301/w1920/r-starrr_6297369d8b.jpg" group-title="✪ ROMANIA TV ✪",Realitatea Star HD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/249237
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Sportiva HD" tvg-logo="http://mainsev.serveftp.com:8880/images/dXdS4CTbr4TX1TXaDF8Aiw447n01lZzh4A1Tfz82fsrpY7GpxSayF-ZTdSp5KKPI2804Y463a5L6rYZQz6uQN4c3eqdwUBbWj47rEZBi9tY.png" group-title="✪ ROMANIA TV ✪",Realitatea Sportiva HD
+http://gameone.ddns.net:8008/CodrutCaltia/fR4pmBx/228691

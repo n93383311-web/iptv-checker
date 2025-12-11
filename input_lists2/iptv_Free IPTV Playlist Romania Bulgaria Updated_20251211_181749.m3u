@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/BNT_1_logo.svg.png\" group-title=\"BG ⋅ България BULGARIA\", BNT 1 HD
+http://optimus-tv.com:8080/asim/asim123/6291
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/BNT_3_logo.svg.png\" group-title=\"BG ⋅ България BULGARIA\", BNT 3 HD
+http://optimus-tv.com:8080/asim/asim123/6295
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/BNT_4_logo.svg.png\" group-title=\"BG ⋅ България BULGARIA\", BNT 4 HD
+http://optimus-tv.com:8080/asim/asim123/6297
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/BTV-logo.png\" group-title=\"BG ⋅ България BULGARIA\", BTV HD
+http://optimus-tv.com:8080/asim/asim123/6301
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/Peo1QiZ.png\" group-title=\"BG ⋅ България BULGARIA\", AXN BLACK FHD
+http://optimus-tv.com:8080/asim/asim123/451322
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/AXN_HD_Logo_2015.png\" group-title=\"BG ⋅ България BULGARIA\", AXN HD
+http://optimus-tv.com:8080/asim/asim123/6285
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Diema_logo.png\" group-title=\"BG ⋅ България BULGARIA\", DIEMA TV HD
+http://optimus-tv.com:8080/asim/asim123/6329
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Citytv_HD_logo.svg.png\" group-title=\"BG ⋅ България BULGARIA\", CITY TV HD
+http://optimus-tv.com:8080/asim/asim123/6321
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Fox.png\" group-title=\"BG ⋅ България BULGARIA\", FOX HD
+http://optimus-tv.com:8080/asim/asim123/6352
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Fox_life_bg_2014.png\" group-title=\"BG ⋅ България BULGARIA\", FOX LIFE HD
+http://optimus-tv.com:8080/asim/asim123/6356
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Btv-lady.png\" group-title=\"BG ⋅ България BULGARIA\", BTV LADY HD
+http://optimus-tv.com:8080/asim/asim123/6309
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/243-2431424_amc-hd-amc-tv.png\" group-title=\"BG ⋅ България BULGARIA\", AMC HD
+http://optimus-tv.com:8080/asim/asim123/6280
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/Leoa2dI.png\" group-title=\"BG ⋅ България BULGARIA\", MOVIE STAR HD
+http://optimus-tv.com:8080/asim/asim123/451318
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/dA4JlZi.png\" group-title=\"BG ⋅ България BULGARIA\", MUSIC CHANNEL HD
+http://optimus-tv.com:8080/asim/asim123/451331
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/png-transparent-bulgaria-balkanika-tv-logo-television-music-national-geographic-animal-jam-television-logo-silver.png\" group-title=\"BG ⋅ България BULGARIA\", BALKANIKA MUSIC TV HD
+http://optimus-tv.com:8080/asim/asim123/6287
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/citymusoc.png\" group-title=\"BG ⋅ България BULGARIA\", CITY MUSIC FHD
+http://optimus-tv.com:8080/asim/asim123/728213
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/qVVmxsv.png\" group-title=\"BG ⋅ България BULGARIA\", FOLKLOR TV FHD
+http://optimus-tv.com:8080/asim/asim123/728212
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/SDTWGkDL.png\" group-title=\"BG ⋅ България BULGARIA\", BALKANIKA MTV FHD
+http://optimus-tv.com:8080/asim/asim123/728211
+#EXTINF:-1 tvg-logo=\"http://127.0.0.1/\" group-title=\"BG ⋅ България BULGARIA\", iConcerts HD
+http://optimus-tv.com:8080/asim/asim123/728244
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/gRFQ35W.png\" group-title=\"BG ⋅ България BULGARIA\", DUCK TV HD
+http://optimus-tv.com:8080/asim/asim123/728243
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/img_20190615_112944.png\" group-title=\"BG ⋅ България BULGARIA\", TV 1000 BALKAN HD
+http://optimus-tv.com:8080/asim/asim123/564704
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/plwIeOG.png\" group-title=\"BG ⋅ България BULGARIA\", DIEMA HD
+http://optimus-tv.com:8080/asim/asim123/564702
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/yqkU0l4.png\" group-title=\"BG ⋅ България BULGARIA\", EVROKOM HD
+http://optimus-tv.com:8080/asim/asim123/564700
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/SevenEightTV.png\" group-title=\"BG ⋅ България BULGARIA\", 7/8 TV HD
+http://optimus-tv.com:8080/asim/asim123/564698
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/bntletterlogo-design-on-black-background-bnt-creative-initials-letter-logo-concept-bnt-letter-design-vector.png\" group-title=\"BG ⋅ България BULGARIA\", BNT WORD FHD
+http://optimus-tv.com:8080/asim/asim123/564697
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/uk_unitedKindom_logo/food-networlogo.png\" group-title=\"BG ⋅ България BULGARIA\", FOOD NETWORK HD
+http://optimus-tv.com:8080/asim/asim123/728209
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/VTK.png\" group-title=\"BG ⋅ България BULGARIA\", VTK FHD
+http://optimus-tv.com:8080/asim/asim123/728259
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/tv1.png\" group-title=\"BG ⋅ България BULGARIA\", TV1 FHD
+http://optimus-tv.com:8080/asim/asim123/728258
+#EXTINF:-1 tvg-logo=\"http://127.0.0.1/\" group-title=\"BG ⋅ България BULGARIA\", TV EUROPE
+http://optimus-tv.com:8080/asim/asim123/728257
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/SKAT.png\" group-title=\"BG ⋅ България BULGARIA\", SKAT FHD
+http://optimus-tv.com:8080/asim/asim123/728255
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/rodianno.png\" group-title=\"BG ⋅ България BULGARIA\", RODINATV FHD
+http://optimus-tv.com:8080/asim/asim123/728254
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/KANAL3-LOGO.png\" group-title=\"BG ⋅ България BULGARIA\", KANAL 3 FHD
+http://optimus-tv.com:8080/asim/asim123/728253
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/bulgaria.png\" group-title=\"BG ⋅ България BULGARIA\", BULGARIA 24 FHD
+http://optimus-tv.com:8080/asim/asim123/728251
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/BNPTV.png\" group-title=\"BG ⋅ България BULGARIA\", BNP TV FHD
+http://optimus-tv.com:8080/asim/asim123/728250
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/BHTV_LOGO.png\" group-title=\"BG ⋅ България BULGARIA\", BH TV HD
+http://optimus-tv.com:8080/asim/asim123/728249
+#EXTINF:-1 tvg-logo=\"http://127.0.0.1/\" group-title=\"BG ⋅ България BULGARIA\", Alfa TV
+http://optimus-tv.com:8080/asim/asim123/728247
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/agrotv.png\" group-title=\"BG ⋅ България BULGARIA\", AGRO TV HD
+http://optimus-tv.com:8080/asim/asim123/728246
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bulgaria_logo/novanews.png\" group-title=\"BG ⋅ България BULGARIA\", NOVA NEWS FHD
+http://optimus-tv.com:8080/asim/asim123/728245
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/uk_unitedKindom_logo/BLOOMBERG.png\" group-title=\"BG ⋅ България BULGARIA\", BLOOMBERG TV HD
+http://optimus-tv.com:8080/asim/asim123/451330
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/%D0%A2heVoiceTV-logo.png\" group-title=\"BG ⋅ България BULGARIA\", THE VOICE HD
+http://optimus-tv.com:8080/asim/asim123/6402
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Tiankovfolk.png\" group-title=\"BG ⋅ България BULGARIA\", TIANKOV FOLK ORIENT HD
+http://optimus-tv.com:8080/asim/asim123/6403
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/unnsasamed.png\" group-title=\"BG ⋅ България BULGARIA\", RING HD
+http://optimus-tv.com:8080/asim/asim123/6396
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/pX4U9OG.png\" group-title=\"BG ⋅ България BULGARIA\", DOCU BOX HD
+http://optimus-tv.com:8080/asim/asim123/451337
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/24kitchen.png\" group-title=\"BG ⋅ България BULGARIA\", 24 KITCHEN HD
+http://optimus-tv.com:8080/asim/asim123/6275
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/nbv21kE.png\" group-title=\"BG ⋅ България BULGARIA\", FEN TV HD
+http://optimus-tv.com:8080/asim/asim123/6351
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/606-6069542_bulgaria-national-brand-logos-for-countries-hd-png.png\" group-title=\"BG ⋅ България BULGARIA\", CARTOON NETWORK FHD
+http://optimus-tv.com:8080/asim/asim123/6289
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/6ipG3Kg.png\" group-title=\"BG ⋅ България BULGARIA\", PLANETA TV HD
+http://optimus-tv.com:8080/asim/asim123/451341
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Alfa_TV_(Bulgaria)_logo.png\" group-title=\"BG ⋅ България BULGARIA\", EKIDS HD
+http://optimus-tv.com:8080/asim/asim123/6279
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/PFC-Cherno-More-HD-Logo.png\" group-title=\"BG ⋅ България BULGARIA\", ANIMAL PLANET EUROPE HD
+http://optimus-tv.com:8080/asim/asim123/6315
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/mijHkPw.png\" group-title=\"BG ⋅ България BULGARIA\", NOVA TV FULLHD
+http://optimus-tv.com:8080/asim/asim123/6413
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/Logo_RomaTV2014.png\" group-title=\"BG ⋅ България BULGARIA\", ROMA TV
+http://optimus-tv.com:8080/asim/asim123/451356
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/164-1640553_tv-logo-djazz-tv-hd-logo-hd-png.png\" group-title=\"BG ⋅ България BULGARIA\", VIASAT NATURE
+http://optimus-tv.com:8080/asim/asim123/6334
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Bstv.png\" group-title=\"BG ⋅ България BULGARIA\", NICK JUNIOR FHD
+http://optimus-tv.com:8080/asim/asim123/6300
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/axnbulgaribg.png\" group-title=\"BG ⋅ България BULGARIA\", AXN BULGARIA HD
+http://optimus-tv.com:8080/asim/asim123/6323
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/hobby-TV.png\" group-title=\"BG ⋅ България BULGARIA\", HOBBY TV HD
+http://optimus-tv.com:8080/asim/asim123/6367
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/eLB10s6.png\" group-title=\"BG ⋅ България BULGARIA\", TV EVROPA HD
+http://optimus-tv.com:8080/asim/asim123/6369
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Magic_TV_BG.png\" group-title=\"BG ⋅ България BULGARIA\", MAGICTV HD
+http://optimus-tv.com:8080/asim/asim123/6374
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Planeta_folk.png\" group-title=\"BG ⋅ България BULGARIA\", PLANETA FOLK TV HD
+http://optimus-tv.com:8080/asim/asim123/6393
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Planeta_tv_hd.png\" group-title=\"BG ⋅ България BULGARIA\", PLANETA HD
+http://optimus-tv.com:8080/asim/asim123/6394
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/320px-Retro_Music_TV_logo.png\" group-title=\"BG ⋅ България BULGARIA\", RETRO MUSIC TV
+http://optimus-tv.com:8080/asim/asim123/6395
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Diema_Family.png\" group-title=\"BG ⋅ кино / KINO\", DIEMA FAMILY HD
+http://optimus-tv.com:8080/asim/asim123/6324
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/HBO_HD_logo.png\" group-title=\"BG ⋅ кино / KINO\", HBO HD
+http://optimus-tv.com:8080/asim/asim123/6358
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Btv-cotmedy%20(1).png\" group-title=\"BG ⋅ кино / KINO\", BTV CINEMA HD
+http://optimus-tv.com:8080/asim/asim123/6306
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Epic_Drama_2018.png\" group-title=\"BG ⋅ кино / KINO\", EPIC DRAMA HD
+http://optimus-tv.com:8080/asim/asim123/6340
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/LogoBabyTV-2021-MAIN_logo.png\" group-title=\"BG ⋅ кино / KINO\", BABY TV HD
+http://optimus-tv.com:8080/asim/asim123/6286
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/Disney_Junior.svg.png\" group-title=\"BG ⋅ кино / KINO\", DISNEY JUNIOR HD
+http://optimus-tv.com:8080/asim/asim123/451343
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/KinoNova.png\" group-title=\"BG ⋅ кино / KINO\", KINO NOVA HD
+http://optimus-tv.com:8080/asim/asim123/6373
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/146-1466430_nickelodeon-channel-hd-logo-hd-png-download.png\" group-title=\"BG ⋅ кино / KINO\", NICKELODEON HD
+http://optimus-tv.com:8080/asim/asim123/6388
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/inJdir.png\" group-title=\"BG ⋅ документация / DOKUMENTATSIYA\", TLC HD
+http://optimus-tv.com:8080/asim/asim123/6404
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Animal_Planet_HD.svg.png\" group-title=\"BG ⋅ документация / DOKUMENTATSIYA\", ANIMAL PLANET HD
+http://optimus-tv.com:8080/asim/asim123/6282
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/Idxtralarge.png\" group-title=\"BG ⋅ документация / DOKUMENTATSIYA\", DISCOVERY ID XTRA HD
+http://optimus-tv.com:8080/asim/asim123/451334
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Viasat_History_2009.png\" group-title=\"BG ⋅ документация / DOKUMENTATSIYA\", VIASAT HISTORY HD
+http://optimus-tv.com:8080/asim/asim123/6416
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Viasat_Nature.png\" group-title=\"BG ⋅ документация / DOKUMENTATSIYA\", VIASAT NATURE HD
+http://optimus-tv.com:8080/asim/asim123/6417
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Travel_Channel_HD_Ldsogo%20(1).png\" group-title=\"BG ⋅ документация / DOKUMENTATSIYA\", TRAVEL CHANNEL HD
+http://optimus-tv.com:8080/asim/asim123/6407
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Nat_Geo_Wild_HD_logo.png\" group-title=\"BG ⋅ документация / DOKUMENTATSIYA\", NAT GEO WILD HD
+http://optimus-tv.com:8080/asim/asim123/6387
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/UK_logo/it_logo/RJrJGbW.png\" group-title=\"BG ⋅ спортен / SPORTEN\", ARENA SPORT 1 FULLHD
+http://optimus-tv.com:8080/asim/asim123/564679
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Diema_Sport_HD_logo.png\" group-title=\"BG ⋅ спортен / SPORTEN\", DIEMA SPORT HD
+http://optimus-tv.com:8080/asim/asim123/6328
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/DIEMA_SPORT_2.png\" group-title=\"BG ⋅ спортен / SPORTEN\", DIEMA SPORT 2 HD
+http://optimus-tv.com:8080/asim/asim123/6327
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/png-transparent-background-hd-eurosport-1-logo-eurosport-hd-television-dazn-streaxming-media-text.png\" group-title=\"BG ⋅ спортен / SPORTEN\", EUROSPORT 1 HD
+http://optimus-tv.com:8080/asim/asim123/6342
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/png-transparent-eurosport-1-high-definition-television-eurosport-2-television-channel-eurosport-hd-television-text-logo-thumbnail.png\" group-title=\"BG ⋅ спортен / SPORTEN\", EUROSPORT 2 HD
+http://optimus-tv.com:8080/asim/asim123/6343
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Auto_motor_sport_channel_logo.png\" group-title=\"BG ⋅ спортен / SPORTEN\", AUTO MOTOR SPORT HD
+http://optimus-tv.com:8080/asim/asim123/6283
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/logo_sport_r1.png\" group-title=\"BG ⋅ спортен / SPORTEN\", TRACE SPORT STARS HD
+http://optimus-tv.com:8080/asim/asim123/6406
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/EDGEsport+Dark.png\" group-title=\"BG ⋅ спортен / SPORTEN\", EDGE SPORT HD
+http://optimus-tv.com:8080/asim/asim123/6338
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/inydir.png\" group-title=\"BG ⋅ спортен / SPORTEN\", WELLNESS SPORT HD
+http://optimus-tv.com:8080/asim/asim123/6420
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/romania_logo/TVAUT.png\" group-title=\"BG ⋅ спортен / SPORTEN\", 100 AUTOMOTO TV FHD
+http://optimus-tv.com:8080/asim/asim123/728220
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/romania_logo/diemasport.png\" group-title=\"BG ⋅ спортен / SPORTEN\", DIEMA SPORT 3 HD
+http://optimus-tv.com:8080/asim/asim123/728217
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/Nova_Sport_(Bulgaria)_logo.png\" group-title=\"BG ⋅ спортен / SPORTEN\", NOVA SPORT HD
+http://optimus-tv.com:8080/asim/asim123/6389
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/max_sport_1_hd.png\" group-title=\"BG ⋅ спортен / SPORTEN\", MAX SPORT 1 HD
+http://optimus-tv.com:8080/asim/asim123/6376
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/max-sport-2-hd-371x230.png\" group-title=\"BG ⋅ спортен / SPORTEN\", MAX SPORT 2 HD
+http://optimus-tv.com:8080/asim/asim123/6378
+#EXTINF:-1 tvg-logo=\"http://onecentcdn.com/newpicon/bg/tv-station-max-sport-4-1834.png\" group-title=\"BG ⋅ спортен / SPORTEN\", MAX SPORT 4 HD
+http://optimus-tv.com:8080/asim/asim123/6382

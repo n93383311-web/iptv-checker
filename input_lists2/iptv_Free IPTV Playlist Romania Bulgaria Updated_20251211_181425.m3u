@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,4U TV
+http://195.230.27.108:8002/play/a011/index.m3u8
+#EXTINF:-1,4U TV HD
+http://195.230.27.108:8002/play/a00n/index.m3u8
+#EXTINF:-1,Avang TV HD
+http://195.230.27.108:8002/play/a00l/index.m3u8
+#EXTINF:-1,BBC Persian
+http://195.230.27.108:8002/play/a009/index.m3u8
+#EXTINF:-1,Cine Film HD
+http://195.230.27.108:8002/play/a00i/index.m3u8
+#EXTINF:-1,Damac TV HD
+http://195.230.27.108:8002/play/a003/index.m3u8
+#EXTINF:-1,Didgah TV
+http://195.230.27.108:8002/play/a00d/index.m3u8
+#EXTINF:-1,Erfan halgheh
+http://195.230.27.108:8002/play/a00z/index.m3u8
+#EXTINF:-1,ICC HD
+http://195.230.27.108:8002/play/a00s/index.m3u8
+#EXTINF:-1,ITN HD
+http://195.230.27.108:8002/play/a00q/index.m3u8
+#EXTINF:-1,Iran International
+http://195.230.27.108:8002/play/a00y/index.m3u8
+#EXTINF:-1,Iran International
+http://195.230.27.108:8002/play/a00e/index.m3u8
+#EXTINF:-1,Iran International HD
+http://195.230.27.108:8002/play/a004/index.m3u8
+#EXTINF:-1,Kanal Jadid HD
+http://195.230.27.108:8002/play/a00o/index.m3u8
+#EXTINF:-1,Kanal Yek HD
+http://195.230.27.108:8002/play/a00c/index.m3u8
+#EXTINF:-1,Kanal Yek SD
+http://195.230.27.108:8002/play/a00g/index.m3u8
+#EXTINF:-1,MBC Persia HD
+http://195.230.27.108:8002/play/a00m/index.m3u8
+#EXTINF:-1,Manoto
+http://195.230.27.108:8002/play/a00b/index.m3u8
+#EXTINF:-1,Manoto HD
+http://195.230.27.108:8002/play/a001/index.m3u8
+#EXTINF:-1,Manoto HD +1
+http://195.230.27.108:8002/play/a00p/index.m3u8
+#EXTINF:-1,Manoto HD +2
+http://195.230.27.108:8002/play/a00k/index.m3u8
+#EXTINF:-1,Manoto SD
+http://195.230.27.108:8002/play/a00u/index.m3u8
+#EXTINF:-1,Mohabat Radio
+http://195.230.27.108:8002/play/a00x/index.m3u8
+#EXTINF:-1,Mohabat TV
+http://195.230.27.108:8002/play/a00v/index.m3u8
+#EXTINF:-1,NHL Service-1
+http://195.230.27.108:8002/play/a012/index.m3u8
+#EXTINF:-1,NHL Service-2
+http://195.230.27.108:8002/play/a013/index.m3u8
+#EXTINF:-1,NOW
+http://195.230.27.108:8002/play/a00r/index.m3u8
+#EXTINF:-1,Navahang SD
+http://195.230.27.108:8002/play/a00t/index.m3u8
+#EXTINF:-1,PARS TV
+http://195.230.27.108:8002/play/a00f/index.m3u8
+#EXTINF:-1,PBC Tapesh HD
+http://195.230.27.108:8002/play/a019/index.m3u8
+#EXTINF:-1,PBC Tapesh HD
+http://195.230.27.108:8002/play/a018/index.m3u8
+#EXTINF:-1,Payom TV
+http://195.230.27.108:8002/play/a010/index.m3u8
+#EXTINF:-1,Persiana HD
+http://195.230.27.108:8002/play/a006/index.m3u8
+#EXTINF:-1,Radio Javan HD
+http://195.230.27.108:8002/play/a005/index.m3u8
+#EXTINF:-1,Radio Mojdeh
+http://195.230.27.108:8002/play/a00w/index.m3u8
+#EXTINF:-1,Simaye-Azadi
+http://195.230.27.108:8002/play/a00a/index.m3u8
+#EXTINF:-1,TFN
+http://195.230.27.108:8002/play/a015/index.m3u8
+#EXTINF:-1,TFN
+http://195.230.27.108:8002/play/a008/index.m3u8
+#EXTINF:-1,TMTV HD
+http://195.230.27.108:8002/play/a00j/index.m3u8
+#EXTINF:-1,Today HD
+http://195.230.27.108:8002/play/a007/index.m3u8

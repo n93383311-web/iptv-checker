@@ -1,0 +1,457 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/129\" tvg-id=\"ebb476485e51ce8f668c1be8b090db21\",{name-not-set}
+http://79.114.87.95:9981/stream/channelid/1215739115?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/129\" tvg-id=\"1e2b51c478fbc1957510d9b737b9688f\",Etno TV
+http://79.114.87.95:9981/stream/channelid/1146170142?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/145\" tvg-id=\"17c74adcd25175669b8067377fad6662\" tvg-chno=\"1\",DIGI Sport 1
+http://79.114.87.95:9981/stream/channelid/1548404503?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/39\" tvg-id=\"f28e85aa58111b0e552dca03f3473484\" tvg-chno=\"2\",DIGI Sport 1 HD
+http://79.114.87.95:9981/stream/channelid/713395954?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/98\" tvg-id=\"78ea8baa2dcdf012a8606bcb664ddebf\" tvg-chno=\"3\",DIGI Sport 2 HD
+http://79.114.87.95:9981/stream/channelid/713812600?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/90\" tvg-id=\"3249909cd0a40259de5d87e46029b95f\" tvg-chno=\"4\",DIGI Sport 2
+http://79.114.87.95:9981/stream/channelid/479217970?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/83\" tvg-id=\"9e345f16de5cb4d67c88fc07cc294988\" tvg-chno=\"5\",DIGI Sport 3 HD
+http://79.114.87.95:9981/stream/channelid/375338142?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/146\" tvg-id=\"b16079210a016b66cd33ad935ef168fb\" tvg-chno=\"6\",DIGI Sport 3
+http://79.114.87.95:9981/stream/channelid/561602737?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/181\" tvg-id=\"6f2baf2929c0407ec21c84efec165795\" tvg-chno=\"7\",DIGI Sport 4 HD
+http://79.114.87.95:9981/stream/channelid/699345775?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/74\" tvg-id=\"b35459b375198f1bb7609b1cab86797a\" tvg-chno=\"9\",Eurosport
+http://79.114.87.95:9981/stream/channelid/861492403?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/196\" tvg-id=\"8b25abf4c3c662e6e9a24397493a9df8\" tvg-chno=\"11\",Eurosport 2
+http://79.114.87.95:9981/stream/channelid/1957373323?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/186\" tvg-id=\"bc468c8a7c1795134e5d9114175a31fc\" tvg-chno=\"12\",PRIMA SPORT 1 HD
+http://79.114.87.95:9981/stream/channelid/176965308?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/33\" tvg-id=\"5411b0c90b6d3686456e10f9fb75f944\" tvg-chno=\"13\",PRIMA SPORT 1
+http://79.114.87.95:9981/stream/channelid/1236275540?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/187\" tvg-id=\"ea47d1a5d2c435076466dc806b9cca08\" tvg-chno=\"14\",PRIMA SPORT 2 HD
+http://79.114.87.95:9981/stream/channelid/634472426?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/185\" tvg-id=\"ecd65ed121afcb4a63e5c526444776ed\" tvg-chno=\"15\",PRIMA SPORT 2
+http://79.114.87.95:9981/stream/channelid/1365169900?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/180\" tvg-id=\"98bd8155f68b63a9adbe15f4bd7bbc23\" tvg-chno=\"16\",PRIMA SPORT 3 HD
+http://79.114.87.95:9981/stream/channelid/1434566040?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/182\" tvg-id=\"5bdebddfcd6032a63ab9cc70b261cfda\" tvg-chno=\"17\",PRIMA SPORT 3
+http://79.114.87.95:9981/stream/channelid/1606278747?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/208\" tvg-id=\"167013fe81c544702bfc6bfe17d70b72\" tvg-chno=\"18\",Sportextra HD
+http://79.114.87.95:9981/stream/channelid/2115203094?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/190\" tvg-id=\"789d466742e1e72a19208428908cb297\" tvg-chno=\"19\",PRO ARENA HD
+http://79.114.87.95:9981/stream/channelid/1732681080?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/78\" tvg-id=\"4aaa90201340c505a035e0e24838a035\" tvg-chno=\"20\",PRO ARENA
+http://79.114.87.95:9981/stream/channelid/546351690?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/228\" tvg-id=\"a51763dd222332b8da88e4b2f12b1a46\" tvg-chno=\"21\",TVR SPORT HD
+http://79.114.87.95:9981/stream/channelid/1566775205?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/52\" tvg-id=\"57b7da13a26fcc51d8d066fec9f46960\" tvg-chno=\"22\",TVR1 HD
+http://79.114.87.95:9981/stream/channelid/333100887?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/226\" tvg-id=\"d50e989c8e233d06c8ac385f03e7233f\" tvg-chno=\"23\",TVR 1
+http://79.114.87.95:9981/stream/channelid/479727317?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/231\" tvg-id=\"2e846929af42017b372716baf6a67684\" tvg-chno=\"24\",TVR2 HD
+http://79.114.87.95:9981/stream/channelid/694780974?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/227\" tvg-id=\"7fbedad822d3dc4227e0194b8a221a29\" tvg-chno=\"25\",TVR 2
+http://79.114.87.95:9981/stream/channelid/1490730623?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/233\" tvg-id=\"ee6ba7dce73374ef3eeea36bac41c1b7\" tvg-chno=\"26\",TVR 3
+http://79.114.87.95:9981/stream/channelid/1554476014?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/188\" tvg-id=\"5a72a6cdb7c285ee93937582532eb267\" tvg-chno=\"27\",PRO TV HD
+http://79.114.87.95:9981/stream/channelid/1302753882?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/124\" tvg-id=\"4e9d1400c96eb4255c1cf1d82ecee190\" tvg-chno=\"28\",PRO TV
+http://79.114.87.95:9981/stream/channelid/1350990?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/160\" tvg-id=\"610a758a8343a5ec4c144081b8a11c07\" tvg-chno=\"29\",Antena 1 HD
+http://79.114.87.95:9981/stream/channelid/175442529?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/72\" tvg-id=\"96691a0d45b75bd353b40fe97e94d81f\" tvg-chno=\"30\",Antena 1
+http://79.114.87.95:9981/stream/channelid/219834774?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/123\" tvg-id=\"8b5767394bc823e424719bcae80e1242\" tvg-chno=\"31\",Kanal D HD
+http://79.114.87.95:9981/stream/channelid/963073931?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/76\" tvg-id=\"053637e9006583fb91f65b5a6b39e27e\" tvg-chno=\"32\",Kanal D
+http://79.114.87.95:9981/stream/channelid/1765225989?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/183\" tvg-id=\"c861389a80014298bde7b3c9077ca48b\" tvg-chno=\"33\",PRIMA TV HD
+http://79.114.87.95:9981/stream/channelid/439902664?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/120\" tvg-id=\"a598f9f5152cacb590cf982a27517765\" tvg-chno=\"34\",PRIMA TV
+http://79.114.87.95:9981/stream/channelid/1979291813?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/198\" tvg-id=\"00b27602198b4fb1dc353233dede1860\" tvg-chno=\"35\",Happy Channel HD
+http://79.114.87.95:9981/stream/channelid/41333248?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/75\" tvg-id=\"efd55bea7746fecd4d4a1848c9b582f2\" tvg-chno=\"36\",Happy Channel
+http://79.114.87.95:9981/stream/channelid/1784403439?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/162\" tvg-id=\"295b978c5158e51e8da9e27f869d9043\" tvg-chno=\"37\",Antena Stars HD
+http://79.114.87.95:9981/stream/channelid/211245865?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/95\" tvg-id=\"cc198eeff93ec56785856fad5549d446\" tvg-chno=\"38\",Antena Stars
+http://79.114.87.95:9981/stream/channelid/1871583692?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/209\" tvg-id=\"17af11a164567903df38adf2fca139a5\" tvg-chno=\"39\",National TV
+http://79.114.87.95:9981/stream/channelid/554807063?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/14\" tvg-id=\"3803fc14dedef28b1b16eac93eb4762c\" tvg-chno=\"40\",National 24 Plus
+http://79.114.87.95:9981/stream/channelid/352060216?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/213\" tvg-id=\"d472a3bed41dc31669f6e3b8d1cc8488\" tvg-chno=\"41\",Metropola TV HD
+http://79.114.87.95:9981/stream/channelid/1050899156?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/210\" tvg-id=\"7dc9ff266d1ee4ecb1621e7977f284de\" tvg-chno=\"42\",Metropola TV
+http://79.114.87.95:9981/stream/channelid/654297469?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/212\" tvg-id=\"51bcd28ffac994cb243c2b0e4449d749\" tvg-chno=\"43\",Etno TV HD
+http://79.114.87.95:9981/stream/channelid/265469009?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/219\" tvg-id=\"0e9b9829b66f380f2a170f4bb09aa0e0\" tvg-chno=\"44\",Kanal D2 HD
+http://79.114.87.95:9981/stream/channelid/697867022?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/221\" tvg-id=\"bcf33d3c9fd289a490c0641549503607\" tvg-chno=\"45\",Kanal D2
+http://79.114.87.95:9981/stream/channelid/1010693052?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/149\" tvg-id=\"315451d0799e59323c1ccc57a77741ce\" tvg-chno=\"46\",A7
+http://79.114.87.95:9981/stream/channelid/1347507249?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/133\" tvg-id=\"10ab801333760f3601b308b1f92c83fb\" tvg-chno=\"47\",Inedit TV
+http://79.114.87.95:9981/stream/channelid/327199504?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/245\" tvg-id=\"ecc26e3c87e1eb2386042813fde1f914\" tvg-chno=\"48\",Moldova TV
+http://79.114.87.95:9981/stream/channelid/1013891820?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/193\" tvg-id=\"0c57a3a9537c75e23de48d947c50d90a\" tvg-chno=\"49\",Favorit TV
+http://79.114.87.95:9981/stream/channelid/698570508?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/240\" tvg-id=\"6f5b933b8c7c66b315cd009fc9212b78\" tvg-chno=\"50\",Global News
+http://79.114.87.95:9981/stream/channelid/999512943?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/273\" tvg-id=\"9c8c2c3de77dbb19d7dc031253683eee\" tvg-chno=\"51\",Travel Mix
+http://79.114.87.95:9981/stream/channelid/1026329756?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/151\" tvg-id=\"fda43776dc71c433a412be79f30141d5\" tvg-chno=\"52\",ACASA HD
+http://79.114.87.95:9981/stream/channelid/1983358205?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/99\" tvg-id=\"36f551609e6bcb8c2b8cc61e58ca6e65\" tvg-chno=\"53\",ACASA
+http://79.114.87.95:9981/stream/channelid/1615983926?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/269\" tvg-id=\"ca564390b92d2785f8ccd6afce495cde\" tvg-chno=\"54\",TeleMoldova Plus
+http://79.114.87.95:9981/stream/channelid/272848586?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/224\" tvg-id=\"bbc18c9c591a81addcb7836bb9eec8a9\" tvg-chno=\"55\",TVR INFO HD
+http://79.114.87.95:9981/stream/channelid/478986683?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/166\" tvg-id=\"cf0dae09b6dfe1ed78804c1c81482af9\" tvg-chno=\"56\",B1 HD
+http://79.114.87.95:9981/stream/channelid/162401743?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/85\" tvg-id=\"67ed86c06e93eef1aeadd9e654b442c2\" tvg-chno=\"57\",B1
+http://79.114.87.95:9981/stream/channelid/1082584423?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/189\" tvg-id=\"74bd401abba2debd8f09bde45691c473\" tvg-chno=\"58\",Romania TV HD
+http://79.114.87.95:9981/stream/channelid/440450420?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/17\" tvg-id=\"b4ebfceb1a5527c73f9c75bb1a57b26c\" tvg-chno=\"59\",Romania TV
+http://79.114.87.95:9981/stream/channelid/1811737524?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/54\" tvg-id=\"b2ad5919360c240dd4248e8d3fd9f0a1\" tvg-chno=\"60\",DIGI 24 HD
+http://79.114.87.95:9981/stream/channelid/425307570?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/87\" tvg-id=\"b4d56548b29a7e6cc9753b22328e9349\" tvg-chno=\"61\",DIGI 24
+http://79.114.87.95:9981/stream/channelid/1214633396?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/161\" tvg-id=\"2ed4e14cfa6ffa8674383eb4801605f9\" tvg-chno=\"62\",Antena 3 HD
+http://79.114.87.95:9981/stream/channelid/1289868334?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/73\" tvg-id=\"11e19ad7d7ac9d03972985b30d4c7fc4\" tvg-chno=\"63\",Antena 3
+http://79.114.87.95:9981/stream/channelid/1469767953?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/177\" tvg-id=\"dcca4c37515c1888ca7c07e6c5d7b6bf\" tvg-chno=\"64\",Realitatea Plus HD
+http://79.114.87.95:9981/stream/channelid/927779548?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/125\" tvg-id=\"13ee01b662f1619a54026d57b36edbce\" tvg-chno=\"65\",Realitatea Plus
+http://79.114.87.95:9981/stream/channelid/906096147?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/252\" tvg-id=\"a87e55b5882964e81a95edd5e85b54c2\" tvg-chno=\"66\",PRIMA NEWS
+http://79.114.87.95:9981/stream/channelid/894795432?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/238\" tvg-id=\"7a1c41b4e6a1a1878d954ef728feccb5\" tvg-chno=\"67\",Euronews RO HD
+http://79.114.87.95:9981/stream/channelid/876682362?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/237\" tvg-id=\"971d77cd4edad2a4efb1602c6050492e\" tvg-chno=\"68\",Euronews RO
+http://79.114.87.95:9981/stream/channelid/1299651991?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/157\" tvg-id=\"8ffb6b00a896bad5be770d60fff91ead\" tvg-chno=\"69\",Aleph News
+http://79.114.87.95:9981/stream/channelid/7076751?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/247\" tvg-id=\"b88f94bc0b73a65a01f4f67882b48452\" tvg-chno=\"70\",NCN
+http://79.114.87.95:9981/stream/channelid/1016369080?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/172\" tvg-id=\"3ee7a83f4f79deb0c36b5643ca98605f\" tvg-chno=\"71\",Canal 33
+http://79.114.87.95:9981/stream/channelid/1068033854?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/241\" tvg-id=\"2a9de569491643b41e6b6521745e084c\" tvg-chno=\"72\",Kapital TV
+http://79.114.87.95:9981/stream/channelid/1776655658?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/171\" tvg-id=\"f5d931bc47bbeeb49b43de7959ba8bd9\" tvg-chno=\"73\",CNN
+http://79.114.87.95:9981/stream/channelid/1009900021?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/31\" tvg-id=\"2215398744bee685a86f11a275602f84\" tvg-chno=\"74\",BBC World News
+http://79.114.87.95:9981/stream/channelid/121181474?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/150\" tvg-id=\"2a18187a1c2051344c1745ae49bb7bf3\" tvg-chno=\"78\",ACASA GOLD HD
+http://79.114.87.95:9981/stream/channelid/2048399402?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/53\" tvg-id=\"c0a10fe02c65254fbd18a6463f7de541\" tvg-chno=\"79\",ACASA GOLD
+http://79.114.87.95:9981/stream/channelid/1611637184?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/218\" tvg-id=\"d11a580a3f910a6fe8eb707387b53fab\" tvg-chno=\"82\",PRO CINEMA HD
+http://79.114.87.95:9981/stream/channelid/173546193?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/122\" tvg-id=\"626dc6c22f10c96847f05aa52f1dbc5f\" tvg-chno=\"83\",PRO CINEMA
+http://79.114.87.95:9981/stream/channelid/1120300386?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/57\" tvg-id=\"6e07100e8ac2195eb9d80a5591f0d651\" tvg-chno=\"84\",Diva
+http://79.114.87.95:9981/stream/channelid/235931502?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/34\" tvg-id=\"e919bd5f0a1409b94826565aa9e5ac51\" tvg-chno=\"85\",TV1000
+http://79.114.87.95:9981/stream/channelid/1606228457?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/173\" tvg-id=\"55c67e52f4f834c3666e7410b37e23d4\" tvg-chno=\"86\",Cinemaraton HD
+http://79.114.87.95:9981/stream/channelid/1384040021?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/81\" tvg-id=\"2b402a55035e11f64e4e4cd632d82a20\" tvg-chno=\"87\",Cinemaraton
+http://79.114.87.95:9981/stream/channelid/1428832299?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/79\" tvg-id=\"f994b5621e6c70e36fc669fe077acbff\" tvg-chno=\"88\",AXN HD
+http://79.114.87.95:9981/stream/channelid/1656067321?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/154\" tvg-id=\"fb14a06a2371e6c917039dab79342669\" tvg-chno=\"89\",AXN
+http://79.114.87.95:9981/stream/channelid/1788876027?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/156\" tvg-id=\"2ba298b3fd05b8788c34505bb7ecfa17\" tvg-chno=\"90\",AXN White
+http://79.114.87.95:9981/stream/channelid/865641003?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/155\" tvg-id=\"56fb570dc6488764fa62ed3316c31823\" tvg-chno=\"91\",AXN Black
+http://79.114.87.95:9981/stream/channelid/223869782?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/80\" tvg-id=\"343d3bda3f1891c41f5289a714cecae6\" tvg-chno=\"92\",AXN Spin
+http://79.114.87.95:9981/stream/channelid/1513831732?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/203\" tvg-id=\"740817ea144ebf1f041f831cb3ce07d7\" tvg-chno=\"93\",Warner TV
+http://79.114.87.95:9981/stream/channelid/1779894388?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/50\" tvg-id=\"23e3b0c10026ba46acfded1046062f1b\" tvg-chno=\"94\",Epic Drama
+http://79.114.87.95:9981/stream/channelid/1102111523?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/153\" tvg-id=\"ad3d08d5bd208fe022da9e4dfdb3bb88\" tvg-chno=\"95\",AMC HD
+http://79.114.87.95:9981/stream/channelid/1426603437?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/152\" tvg-id=\"be59983875ba08dad717b5a1f142c45d\" tvg-chno=\"96\",AMC
+http://79.114.87.95:9981/stream/channelid/949508542?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/217\" tvg-id=\"ac75bb50a9584a6e7ac464371f03608d\" tvg-chno=\"97\",Film Cafe
+http://79.114.87.95:9981/stream/channelid/1354462636?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/174\" tvg-id=\"6fc802cd17a994f8a39ed09fb9676604\" tvg-chno=\"98\",Comedy Central
+http://79.114.87.95:9981/stream/channelid/1292028015?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/139\" tvg-id=\"263155747b44c8a14e4c5b5e67b9c9ec\" tvg-chno=\"99\",PRIMA COMEDY
+http://79.114.87.95:9981/stream/channelid/1951740198?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/168\" tvg-id=\"3e02c9c001195847f7c7deb99126a36e\" tvg-chno=\"100\",BBC First HD
+http://79.114.87.95:9981/stream/channelid/1086915134?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/169\" tvg-id=\"d727846db195a1b3cad9af131603107a\" tvg-chno=\"112\",Bollywood Clasic HD
+http://79.114.87.95:9981/stream/channelid/1837377495?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/86\" tvg-id=\"dcbfadf2bf30be832b64cc9570894ad3\" tvg-chno=\"113\",Bollywood Clasic
+http://79.114.87.95:9981/stream/channelid/1923989468?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/249\" tvg-id=\"c562cd0eb7598f5036b37fdb7c73a13f\" tvg-chno=\"114\",Nickelodeon
+http://79.114.87.95:9981/stream/channelid/248341189?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/58\" tvg-id=\"948997b9440ff9fbda7e7b9952345b11\" tvg-chno=\"115\",Minimax
+http://79.114.87.95:9981/stream/channelid/966232468?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/97\" tvg-id=\"22bf7d8365f351ec9d984f4c318e26b5\" tvg-chno=\"116\",Cartoon Network
+http://79.114.87.95:9981/stream/channelid/58572578?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/147\" tvg-id=\"8a43eea0464d4ddc200b6c826edbb5f5\" tvg-chno=\"117\",Disney Channel
+http://79.114.87.95:9981/stream/channelid/552485770?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/56\" tvg-id=\"c03b326a0629434f87af9cea445c8376\" tvg-chno=\"118\",Disney Junior
+http://79.114.87.95:9981/stream/channelid/1781676992?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/32\" tvg-id=\"682adee5274e1156cea763ff3193b19e\" tvg-chno=\"119\",Cartoonito
+http://79.114.87.95:9981/stream/channelid/1709058664?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/19\" tvg-id=\"6243d6ca1791ad23f4b8d44fd7a199d7\" tvg-chno=\"120\",duckTV
+http://79.114.87.95:9981/stream/channelid/1255555938?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/271\" tvg-id=\"16299e1a173af1f92e79bf1f7318f53b\" tvg-chno=\"121\",TraLaLa
+http://79.114.87.95:9981/stream/channelid/446572822?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/223\" tvg-id=\"5620e158555af1f2f47aef678c842497\" tvg-chno=\"122\",JimJam
+http://79.114.87.95:9981/stream/channelid/1491148886?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/250\" tvg-id=\"0f3e78887b88dd7e7986ad52a31cbe0c\" tvg-chno=\"124\",Nicktoons
+http://79.114.87.95:9981/stream/channelid/142097935?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/100\" tvg-id=\"c42535b2d66da158bb5d10d5b52d5220\" tvg-chno=\"125\",DaVinci
+http://79.114.87.95:9981/stream/channelid/842343876?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/35\" tvg-id=\"efd9ddba93cbeda00e939b8e0fb2341f\" tvg-chno=\"126\",TeenNick
+http://79.114.87.95:9981/stream/channelid/987617775?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/225\" tvg-id=\"d6696bf454fc8c572e38de73de6aaad5\" tvg-chno=\"127\",DIGI WORLD HD
+http://79.114.87.95:9981/stream/channelid/1953196502?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/55\" tvg-id=\"0c0d320418e0970527587894da951030\" tvg-chno=\"128\",DIGI WORLD
+http://79.114.87.95:9981/stream/channelid/70389004?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/220\" tvg-id=\"f6113ece13f78d7c02b62874aca70889\" tvg-chno=\"129\",DIGI LIFE HD
+http://79.114.87.95:9981/stream/channelid/1312690678?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/89\" tvg-id=\"00eaec3b4f93efe43bb1620fb8dc7b4a\" tvg-chno=\"130\",DIGI LIFE
+http://79.114.87.95:9981/stream/channelid/1005382144?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/176\" tvg-id=\"74395b6d146fc5181406d2c84dffcab0\" tvg-chno=\"131\",DIGI ANIMAL WORLD HD
+http://79.114.87.95:9981/stream/channelid/1834695028?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/144\" tvg-id=\"21f62720620b1c55eaeeeeeb5705417b\" tvg-chno=\"132\",DIGI ANIMAL WORLD
+http://79.114.87.95:9981/stream/channelid/539489825?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/197\" tvg-id=\"380f3b06c9d248b08a3e37b54e92f0b3\" tvg-chno=\"133\",Discovery HD
+http://79.114.87.95:9981/stream/channelid/104533816?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/192\" tvg-id=\"fa9bc5748f62953e6c6f9315da903728\" tvg-chno=\"134\",Discovery
+http://79.114.87.95:9981/stream/channelid/1959107578?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/205\" tvg-id=\"b6486cb13c3f493ab05941d3dcd3546d\" tvg-chno=\"135\",TLC
+http://79.114.87.95:9981/stream/channelid/829180086?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/232\" tvg-id=\"b5941874f142392a22859bae7be93fc1\" tvg-chno=\"137\",History Channel
+http://79.114.87.95:9981/stream/channelid/1947767989?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/51\" tvg-id=\"cd89834e85d6a3fdde7adffcecfa74b1\" tvg-chno=\"138\",Nat Geo HD
+http://79.114.87.95:9981/stream/channelid/1317243341?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/127\" tvg-id=\"8e0b9ca6b24f649870637714e03befb9\" tvg-chno=\"139\",Nat Geo
+http://79.114.87.95:9981/stream/channelid/647760782?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/222\" tvg-id=\"92eef77c87beea40ab267f8d99b516ba\" tvg-chno=\"141\",Viasat Nature
+http://79.114.87.95:9981/stream/channelid/2096623250?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/214\" tvg-id=\"d0a8075e7fca5b0e0dbb87502e9dfe55\" tvg-chno=\"142\",TV Paprika
+http://79.114.87.95:9981/stream/channelid/1577560272?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/201\" tvg-id=\"71189fe14de9ac6b911e546bd76226dc\" tvg-chno=\"144\",Travel Channel
+http://79.114.87.95:9981/stream/channelid/1637816433?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/167\" tvg-id=\"a8071722195f3f0f76900ef2aa1ee9f9\" tvg-chno=\"145\",BBC Earth HD
+http://79.114.87.95:9981/stream/channelid/571934632?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/2\" tvg-id=\"7fb646543fd9afa2def9921de33f809f\" tvg-chno=\"146\",BBC Earth
+http://79.114.87.95:9981/stream/channelid/1413920383?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/191\" tvg-id=\"b54e081d2ec85b9e43b91368477d627b\" tvg-chno=\"147\",Nat Geo Wild HD
+http://79.114.87.95:9981/stream/channelid/487083701?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/126\" tvg-id=\"8073b2170a82e679883406d9cf37f97f\" tvg-chno=\"148\",Nat Geo Wild
+http://79.114.87.95:9981/stream/channelid/397570944?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/215\" tvg-id=\"b39e40a10de6840d874e709d6bc305a4\" tvg-chno=\"149\",Viasat Explore HD
+http://79.114.87.95:9981/stream/channelid/557883059?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/36\" tvg-id=\"a0ffc696b7a411be78c922d045f5e595\" tvg-chno=\"150\",Viasat Explore
+http://79.114.87.95:9981/stream/channelid/382140320?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/216\" tvg-id=\"ff652556237a9d0adade6ed2ec9a52d1\" tvg-chno=\"151\",Viasat History HD
+http://79.114.87.95:9981/stream/channelid/1445291519?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/37\" tvg-id=\"aadfc8494966f231410e7eba9ab50761\" tvg-chno=\"152\",Viasat History
+http://79.114.87.95:9981/stream/channelid/1237901226?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/96\" tvg-id=\"25c0602290cbccde3284a5822346b61e\" tvg-chno=\"153\",CBS Reality
+http://79.114.87.95:9981/stream/channelid/576765989?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/207\" tvg-id=\"c2a2a65f1195f77730cc961befe7ca76\" tvg-chno=\"154\",HGTV HD
+http://79.114.87.95:9981/stream/channelid/1604756162?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/206\" tvg-id=\"84458af1faabcc587eaa9ceb525e1c30\" tvg-chno=\"155\",HGTV
+http://79.114.87.95:9981/stream/channelid/1904887172?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/163\" tvg-id=\"50a0d8a924cbc179e037d50d1432b3ba\" tvg-chno=\"156\",Arcadia
+http://79.114.87.95:9981/stream/channelid/702062672?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/170\" tvg-id=\"de0676855609e3d284b6d06552855fdc\" tvg-chno=\"157\",CINETHRONIX
+http://79.114.87.95:9981/stream/channelid/91621086?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/239\" tvg-id=\"19d0cb4eef33bb10e2952cfdf2dbe5aa\" tvg-chno=\"158\",FashionTV
+http://79.114.87.95:9981/stream/channelid/1321979929?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/200\" tvg-id=\"d6bd7e75e1779c4ffcf79b38bb45e493\" tvg-chno=\"159\",E! Entertainment HD
+http://79.114.87.95:9981/stream/channelid/1971240406?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/202\" tvg-id=\"777a1b9544ea405ace551ba6fe59e64d\" tvg-chno=\"160\",E! Entertainment
+http://79.114.87.95:9981/stream/channelid/354122359?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/274\" tvg-id=\"e373ccfc1a700389199fe1a73b51accc\" tvg-chno=\"161\",Trinitas TV HD
+http://79.114.87.95:9981/stream/channelid/2093773795?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/211\" tvg-id=\"4fab9e06b59d8375f8356260b89cc19e\" tvg-chno=\"162\",Trinitas
+http://79.114.87.95:9981/stream/channelid/111061839?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/244\" tvg-id=\"8389c1672d4ac6b88732df10edad47cc\" tvg-chno=\"163\",MariaTV
+http://79.114.87.95:9981/stream/channelid/1740736899?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/159\" tvg-id=\"59180b2d7b2963fa5854e18fdda440a1\" tvg-chno=\"164\",Angelus TV
+http://79.114.87.95:9981/stream/channelid/755701849?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/175\" tvg-id=\"6e04f92ce6b68b78bc72849f5212671a\" tvg-chno=\"165\",Credo TV
+http://79.114.87.95:9981/stream/channelid/754517102?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/158\" tvg-id=\"c03d50bd7d0d876a57f6731dee5b3d97\" tvg-chno=\"166\",Alfa Omega
+http://79.114.87.95:9981/stream/channelid/1028668864?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/18\" tvg-id=\"08638a50b8de7f7e96b53a121e5b280a\" tvg-chno=\"167\",SperantaTV
+http://79.114.87.95:9981/stream/channelid/1351246600?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/164\" tvg-id=\"2412ac60cc70a1a280efc7a79f3341d8\" tvg-chno=\"168\",Atomic TV
+http://79.114.87.95:9981/stream/channelid/1621889572?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/179\" tvg-id=\"30ce3402cdf2f574667cf06e181593b4\" tvg-chno=\"169\",UTV HD
+http://79.114.87.95:9981/stream/channelid/37015088?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/61\" tvg-id=\"8020c5289f6738e3a9ff9c83184305e3\" tvg-chno=\"170\",UTV
+http://79.114.87.95:9981/stream/channelid/684007552?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/94\" tvg-id=\"7a40d297d389a34503d31e050646855d\" tvg-chno=\"171\",KISS TV
+http://79.114.87.95:9981/stream/channelid/399655034?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/199\" tvg-id=\"ff0d65f78600575689f94bda1717c31e\" tvg-chno=\"172\",HIT Music
+http://79.114.87.95:9981/stream/channelid/2003111423?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/194\" tvg-id=\"0d2dc02db3c6a5536d57bdc3072e2651\" tvg-chno=\"173\",MTV 00s
+http://79.114.87.95:9981/stream/channelid/767569165?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/243\" tvg-id=\"635159cad108a58f392ba492287f9b67\" tvg-chno=\"174\",MTV Europe
+http://79.114.87.95:9981/stream/channelid/1247367523?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/59\" tvg-id=\"2641b39b937d92520ec435f0a434ba49\" tvg-chno=\"175\",Music Channel Ro
+http://79.114.87.95:9981/stream/channelid/464732454?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/195\" tvg-id=\"de39cc2586e927e6c93ebbfd0e52e5eb\" tvg-chno=\"176\",ZU TV HD
+http://79.114.87.95:9981/stream/channelid/634141150?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/38\" tvg-id=\"c9b3928afbe743c7ff0dcbb42a3d7812\" tvg-chno=\"177\",ZU TV
+http://79.114.87.95:9981/stream/channelid/177386441?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/255\" tvg-id=\"fd1b34da1752906da18e64f8ea6bd91a\" tvg-chno=\"178\",ROCK TV
+http://79.114.87.95:9981/stream/channelid/1513364477?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/242\" tvg-id=\"06176967bfedb2d90a12227bcb567ae5\" tvg-chno=\"179\",MAGIC TV
+http://79.114.87.95:9981/stream/channelid/1734940422?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/184\" tvg-id=\"bf1acfcd94ae8f438de7c79ccf3080d1\" tvg-chno=\"180\",MEZZO
+http://79.114.87.95:9981/stream/channelid/1305418431?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/246\" tvg-id=\"3ac4fe8611040c18c0efaacca711933a\" tvg-chno=\"181\",Mooz Dance
+http://79.114.87.95:9981/stream/channelid/117359674?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/253\" tvg-id=\"3bc8da48018df07581d55612982305df\" tvg-chno=\"182\",Party Mix
+http://79.114.87.95:9981/stream/channelid/1222297659?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/235\" tvg-id=\"558314152fa9d613b5d3aa6537c433ae\" tvg-chno=\"183\",Emi Tv
+http://79.114.87.95:9981/stream/channelid/353665877?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/229\" tvg-id=\"15c8b81c6202471eb0f7b8d7d76a06e9\" tvg-chno=\"185\",TVR Folclor HD
+http://79.114.87.95:9981/stream/channelid/481871893?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/266\" tvg-id=\"1d431786fc729074e232ce9beac1bbf4\" tvg-chno=\"186\",TV AS
+http://79.114.87.95:9981/stream/channelid/102187805?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/272\" tvg-id=\"51c38d45788a1fe201face53a97dccc1\" tvg-chno=\"187\",Traditional TV
+http://79.114.87.95:9981/stream/channelid/1166918481?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/13\" tvg-id=\"673b43532c7d7fa7572c09ede27f1719\" tvg-chno=\"188\",Hora TV HD
+http://79.114.87.95:9981/stream/channelid/1396915047?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/251\" tvg-id=\"d57b926a0fc35fb9faeff7464dbc87a0\" tvg-chno=\"189\",Orizont TV
+http://79.114.87.95:9981/stream/channelid/1787984853?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/178\" tvg-id=\"38ce9c6f069f3616e398e53adf58947b\" tvg-chno=\"190\",Taraf TV HD
+http://79.114.87.95:9981/stream/channelid/1872547384?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/121\" tvg-id=\"8fe261b9bcbe3b779b84aceedc1d7f99\" tvg-chno=\"191\",Taraf TV
+http://79.114.87.95:9981/stream/channelid/962716303?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/270\" tvg-id=\"2ed487bac90f22ef4d094d7eadfe9ca1\" tvg-chno=\"192\",Telestar1
+http://79.114.87.95:9981/stream/channelid/981980206?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/248\" tvg-id=\"fa27914e504f9550d05a0c861e58e7ac\" tvg-chno=\"195\",Nasul TV
+http://79.114.87.95:9981/stream/channelid/1318135802?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/1\" tvg-id=\"b16136a412ab1c7e77a5c093d7cc6fba\" tvg-chno=\"196\",Agro TV
+http://79.114.87.95:9981/stream/channelid/607543729?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/64\" tvg-id=\"60521c90f079d2467ac0fd13401165d0\" tvg-chno=\"197\",Fishing and Hunting
+http://79.114.87.95:9981/stream/channelid/270291552?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/230\" tvg-id=\"9a8c5aa4b377aabe38e7896c2c985600\" tvg-chno=\"199\",TVR Cultural HD
+http://79.114.87.95:9981/stream/channelid/609914010?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/128\" tvg-id=\"6256ed5ab1d473e0b555b61de108bcc1\" tvg-chno=\"200\",TV5 MONDE
+http://79.114.87.95:9981/stream/channelid/1525503586?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/262\" tvg-id=\"61f5875f0d2f3cc59284d8d43c1e8283\" tvg-chno=\"201\",SUPER RTL
+http://79.114.87.95:9981/stream/channelid/1602745697?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/204\" tvg-id=\"a8a564b55028c1622f5c417d4ce5f838\" tvg-chno=\"202\",RTL Television
+http://79.114.87.95:9981/stream/channelid/895788456?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/16\" tvg-id=\"c8dddce03f7a167b4c8dc834ebfe5066\" tvg-chno=\"203\",Rai 1
+http://79.114.87.95:9981/stream/channelid/1625087432?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/77\" tvg-id=\"71e2281856089be8c5054fe7afacbbde\" tvg-chno=\"204\",M1 Europe
+http://79.114.87.95:9981/stream/channelid/405332593?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/23\" tvg-id=\"ccc6f1725f79543c107e5ed28f50da42\" tvg-chno=\"205\",M2 Europe
+http://79.114.87.95:9981/stream/channelid/1928447692?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/256\" tvg-id=\"0f505b8683b9526f465b761879faf3f0\" tvg-chno=\"206\",RTL HU HD
+http://79.114.87.95:9981/stream/channelid/106647567?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/130\" tvg-id=\"e1f3941b6938e538e46fa8ac552050d8\" tvg-chno=\"207\",RTL HU
+http://79.114.87.95:9981/stream/channelid/462746593?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/267\" tvg-id=\"28dff687cf28d2266d46077ab466b7f4\" tvg-chno=\"208\",TV2 HD
+http://79.114.87.95:9981/stream/channelid/133619496?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/141\" tvg-id=\"a4cdfe8d9130cf8bef27b40339d1d727\" tvg-chno=\"209\",TV 2
+http://79.114.87.95:9981/stream/channelid/234802596?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/26\" tvg-id=\"eb0f8176bd458c267c9b6a2bc1206c8f\" tvg-chno=\"210\",RTL KETTO
+http://79.114.87.95:9981/stream/channelid/1988169707?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/21\" tvg-id=\"787809b947e87d8f755b683fae2caec4\" tvg-chno=\"211\",FILM+
+http://79.114.87.95:9981/stream/channelid/956921976?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/29\" tvg-id=\"c4cd1c317b61ebcb77b628750bd42bba\" tvg-chno=\"212\",TV2 Sef
+http://79.114.87.95:9981/stream/channelid/823971268?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/27\" tvg-id=\"f0635ebac1101ec83b7107291c79650b\" tvg-chno=\"213\",SuperTV2
+http://79.114.87.95:9981/stream/channelid/979264496?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/20\" tvg-id=\"eb735c71465e9025bd0f07c7770f5c36\" tvg-chno=\"214\",CoolTV
+http://79.114.87.95:9981/stream/channelid/1901884395?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/25\" tvg-id=\"e4accd8892c25fc1593d8dc60ce63eef\" tvg-chno=\"215\",RTL HAROM
+http://79.114.87.95:9981/stream/channelid/147696868?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/22\" tvg-id=\"09e34ce69b5b5da3f8611828d4b19476\" tvg-chno=\"216\",Film 4
+http://79.114.87.95:9981/stream/channelid/1716314889?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/118\" tvg-id=\"e1ed9f5804cb58314240873e8329c485\" tvg-chno=\"217\",Comedy Central HU
+http://79.114.87.95:9981/stream/channelid/1486876129?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/24\" tvg-id=\"71429e0bf259f73257568c8dc025bf4f\" tvg-chno=\"218\",Magyar ATV
+http://79.114.87.95:9981/stream/channelid/194921073?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/132\" tvg-id=\"0ad92d333443da87641c36740601579c\" tvg-chno=\"219\",Hir TV
+http://79.114.87.95:9981/stream/channelid/858642698?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/119\" tvg-id=\"931dca712f18555ade8c91fcb428731a\" tvg-chno=\"220\",Duna
+http://79.114.87.95:9981/stream/channelid/1909071251?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/137\" tvg-id=\"ab708490231c8a71acb0efeb579e4cc2\" tvg-chno=\"221\",MagyarSlagerTV
+http://79.114.87.95:9981/stream/channelid/277115051?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/28\" tvg-id=\"8c354968acbebd7205a1a5e07b98d9b4\" tvg-chno=\"222\",TV 4
+http://79.114.87.95:9981/stream/channelid/1749628300?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/140\" tvg-id=\"cb7e1ab77de05b4f9403ed6c33535464\" tvg-chno=\"223\",Sorozat+
+http://79.114.87.95:9981/stream/channelid/924483275?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/135\" tvg-id=\"940580bd1a3d4bb1f6ed03e2c0fb0d12\" tvg-chno=\"224\",M4 Sport Europe
+http://79.114.87.95:9981/stream/channelid/1031800212?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/136\" tvg-id=\"b78cfb3599f4410177de9bccba0c12d4\" tvg-chno=\"225\",M5
+http://79.114.87.95:9981/stream/channelid/905678007?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/138\" tvg-id=\"4a8fa2952837adc9bbeeb97efb31e578\" tvg-chno=\"226\",Minimax HU
+http://79.114.87.95:9981/stream/channelid/362975050?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/257\" tvg-id=\"283810ce235468f989a45141f568dcf5\" tvg-chno=\"227\",RTS HD
+http://79.114.87.95:9981/stream/channelid/1309685800?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/131\" tvg-id=\"a841ca1ebf8db52cbb0e39857bd622ed\" tvg-chno=\"232\",Erdely Tv
+http://79.114.87.95:9981/stream/channelid/516571560?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/268\" tvg-id=\"bf4f6ffafb38e628a95088f1c0e4bae0\" tvg-chno=\"233\",TVR Timisoara
+http://79.114.87.95:9981/stream/channelid/2054115263?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/254\" tvg-id=\"964dd1501145f97d6c1222328cd5ca0d\" tvg-chno=\"234\",Qub TV
+http://79.114.87.95:9981/stream/channelid/1355894166?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/264\" tvg-id=\"0b13e11c5c48283384f2e77057c4c798\" tvg-chno=\"235\",Sud Vest TV
+http://79.114.87.95:9981/stream/channelid/484512523?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/165\" tvg-id=\"5dcaebab437bbdd15b56fbeba6d1cd70\" tvg-chno=\"236\",Autentic Tv
+http://79.114.87.95:9981/stream/channelid/736873053?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/234\" tvg-id=\"df219862f044d6dd9fa89e4a2b1b06f5\" tvg-chno=\"237\",EUROPA NOVA
+http://79.114.87.95:9981/stream/channelid/1654137311?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/261\" tvg-id=\"2ff5ff155f8deaf688aa435fea7871d9\" tvg-chno=\"238\",STV Sannicolau
+http://79.114.87.95:9981/stream/channelid/369095983?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/265\" tvg-id=\"3ed8114e61adb987c0268a0ee814077d\" tvg-chno=\"239\",TELEUNIVERSITATEA TIMISOARA
+http://79.114.87.95:9981/stream/channelid/1309792318?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/92\" tvg-id=\"372ddaee6f70d43dae57a466ec3890cf\" tvg-chno=\"1001\",Digi FM
+http://79.114.87.95:9981/stream/channelid/1859792183?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/15\" tvg-id=\"7d058071b3911f0520cfb8fc14f8a455\" tvg-chno=\"1002\",Pro FM
+http://79.114.87.95:9981/stream/channelid/1904215421?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/91\" tvg-id=\"b8f3d486bbe314835e18f4d01db24e44\" tvg-chno=\"1003\",Dance FM
+http://79.114.87.95:9981/stream/channelid/114619320?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/88\" tvg-id=\"8df849ecfd5c5a2d75e01124d5804211\" tvg-chno=\"1004\",DIGI 24 FM
+http://79.114.87.95:9981/stream/channelid/1816787085?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/134\" tvg-id=\"faa3c6c183823bd26098e3808b44f942\" tvg-chno=\"1005\",Kiss FM
+http://79.114.87.95:9981/stream/channelid/1103537146?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/93\" tvg-id=\"c1c65494cf12969132d8af58cf2b7db6\" tvg-chno=\"1006\",EuropaFM
+http://79.114.87.95:9981/stream/channelid/341100225?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/142\" tvg-id=\"662d7c8229e526dc7594bf573c518ec8\" tvg-chno=\"1007\",Virgin Radio
+http://79.114.87.95:9981/stream/channelid/41692518?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/70\" tvg-id=\"624507c6247f0300b8a9f82f34307be0\" tvg-chno=\"1008\",Radio ZU
+http://79.114.87.95:9981/stream/channelid/1174881634?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/69\" tvg-id=\"becd56ed50cc44453add4f1083247769\" tvg-chno=\"1009\",Radio Sport Total
+http://79.114.87.95:9981/stream/channelid/1834405310?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/60\" tvg-id=\"f885a3fd1527345652acc183573964e9\" tvg-chno=\"1010\",Radio Romania Actualitati
+http://79.114.87.95:9981/stream/channelid/2107868664?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/258\" tvg-id=\"9280439760d803c17ab26481e93c9519\" tvg-chno=\"1011\",Radio Guerilla
+http://79.114.87.95:9981/stream/channelid/390299794?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/263\" tvg-id=\"af6b802d3782260c853adac2be7fb457\" tvg-chno=\"1012\",Smart Radio
+http://79.114.87.95:9981/stream/channelid/763390895?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/259\" tvg-id=\"923782f5ed6985507769249fa5dea444\" tvg-chno=\"1013\",Radio Impuls
+http://79.114.87.95:9981/stream/channelid/1971468178?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/260\" tvg-id=\"4fdf4f2d86f6a6393e407cf1e473756a\" tvg-chno=\"1014\",Realitatea FM
+http://79.114.87.95:9981/stream/channelid/760209231?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/68\" tvg-id=\"b5f44f0eb2913e95f9d666e46c694f05\" tvg-chno=\"1015\",Radio Maria Ro
+http://79.114.87.95:9981/stream/channelid/240121013?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/236\" tvg-id=\"cc165f9fc6ebb6bccd672dceb7f58214\" tvg-chno=\"1016\",Ercis FM
+http://79.114.87.95:9981/stream/channelid/526325452?profile=pass
+#EXTINF:-1 tvg-logo=\"http://79.114.87.95:9981/imagecache/67\" tvg-id=\"6e99fb2afb951588b0e2861b23d397b3\" tvg-chno=\"1017\",Radio Maria HU
+http://79.114.87.95:9981/stream/channelid/721131886?profile=pass

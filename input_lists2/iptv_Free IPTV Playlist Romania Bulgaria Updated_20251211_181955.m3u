@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="⭐HD ONE ROMANIA⭐" tvg-logo="s:1:/images/NIB6cFnQZ2wuZ2qxAClhlQe5e_Uk06MdU3eQrhEt47X8zk7bRRlTwA-46lw0R3_9EFSja9aJaBOIvPWuHC58GA.png" group-title="ROMANIA",⭐HD ONE ROMANIA⭐
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/20712
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="PRO.TV.ro" tvg-name="▶️ PRO TV 4K" tvg-logo="http://157.90.128.39/test/img/PROTV_4K-1-300x300.png" group-title="ROMANIA",▶️ PRO TV 4K
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/6
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="PRO.TV.HD.ro" tvg-name="▶️ PRO TV FHD" tvg-logo="http://157.90.128.39/test/img/PROTV_HD-1-300x300.png" group-title="ROMANIA",▶️ PRO TV FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/7
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="PRO.TV.ro" tvg-name="▶️ PRO TV Net Slab" tvg-logo="http://157.90.128.39/test/img/PROTV_SD-300x300.png" group-title="ROMANIA",▶️ PRO TV Net Slab
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="antena1.ro" tvg-name="▶️ ANTENA 1  4K" tvg-logo="http://157.90.128.39/test/img/a1-300x300.png" group-title="ROMANIA",▶️ ANTENA 1  4K
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/9
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="antena1.ro" tvg-name="▶️ ANTENA 1 FHD" tvg-logo="http://157.90.128.39/test/img/a1-300x300.png" group-title="ROMANIA",▶️ ANTENA 1 FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/10
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="antena1.ro" tvg-name="▶️ ANTENA 1 Net Slab" tvg-logo="http://157.90.128.39/test/img/a1-300x300.png" group-title="ROMANIA",▶️ ANTENA 1 Net Slab
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/11
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.ro" tvg-name="▶️KANAL D UHD" tvg-logo="http://157.90.128.39/test/img/kanal_d_dan_negru-300x300.png" group-title="ROMANIA",▶️KANAL D UHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/27050
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.ro" tvg-name="▶️ KANAL D 4K" tvg-logo="http://157.90.128.39/test/img/KANALD_4K-2-300x300.png" group-title="ROMANIA",▶️ KANAL D 4K
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/12
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.ro" tvg-name="▶️ KANAL D FHD" tvg-logo="http://157.90.128.39/test/img/KANALD_HD-1-300x300.png" group-title="ROMANIA",▶️ KANAL D FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/13
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.ro" tvg-name="▶️ KANAL D   Net Slab" tvg-logo="http://157.90.128.39/test/img/KANALD_SD-300x300.png" group-title="ROMANIA",▶️ KANAL D   Net Slab
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/14
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Kanal.D2.ro" tvg-name="▶️ KANAL D2 FHD" tvg-logo="http://157.90.128.39/test/img/kanald_2-300x300.png" group-title="ROMANIA",▶️ KANAL D2 FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/16
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Kanal.D2.ro" tvg-name="▶️ KANAL D2  Net Slab" tvg-logo="http://157.90.128.39/test/img/kanald_2-300x300.png" group-title="ROMANIA",▶️ KANAL D2  Net Slab
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/15
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="primatv.ro" tvg-name="▶️ PRIMA TV FHD" tvg-logo="http://157.90.128.39/test/img/PRIMATV_HD-300x300.png" group-title="ROMANIA",▶️ PRIMA TV FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/30
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="primatv.ro" tvg-name="▶️ PRIMA TV" tvg-logo="http://157.90.128.39/test/img/PRIMATV_SD-300x300.png" group-title="ROMANIA",▶️ PRIMA TV
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/31
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nationaltv.ro" tvg-name="▶️ NATIONAL TV" tvg-logo="http://157.90.128.39/test/img/NATIONALTV_HD-300x300.png" group-title="ROMANIA",▶️ NATIONAL TV
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/51
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="national24plus.ro" tvg-name="▶️ NATIONAL TV +24" tvg-logo="http://157.90.128.39/test/img/national_plus-300x300.png" group-title="ROMANIA",▶️ NATIONAL TV +24
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/52
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="digi4k.ro" tvg-name="▶️ DIGI 4K" tvg-logo="http://157.90.128.39/test/img/DIGI_4K-300x300.png" group-title="ROMANIA",▶️ DIGI 4K
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/5
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvr1.ro" tvg-name="▶️ TVR FHD" tvg-logo="http://157.90.128.39/test/img/TVR1_HD-1-300x300.png" group-title="ROMANIA",▶️ TVR FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/60
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvr1.ro" tvg-name="▶️ TVR 1" tvg-logo="http://157.90.128.39/test/img/TVR1_SD-300x300.png" group-title="ROMANIA",▶️ TVR 1
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/54
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvr2.ro" tvg-name="▶️ TVR 2 FHD" tvg-logo="http://157.90.128.39/test/img/TVR2_HD-1-300x300.png" group-title="ROMANIA",▶️ TVR 2 FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/61
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvr2.ro" tvg-name="▶️ TVR 2" tvg-logo="http://157.90.128.39/test/img/tvr2-300x300.png" group-title="ROMANIA",▶️ TVR 2
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/55
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvr3.ro" tvg-name="▶️ TVR 3 FHD" tvg-logo="http://157.90.128.39/test/img/TVR3_HD-300x300.png" group-title="ROMANIA",▶️ TVR 3 FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/62
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvr3.ro" tvg-name="▶️ TVR 3" tvg-logo="http://157.90.128.39/test/img/TVR3_HD-300x300.png" group-title="ROMANIA",▶️ TVR 3
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/56
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TVRI" tvg-name="▶️ TVR INTERNATIONAL" tvg-logo="http://157.90.128.39/test/img/TVR_INTERNATIONAL-300x300.png" group-title="ROMANIA",▶️ TVR INTERNATIONAL
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/59
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvrcultural.ro" tvg-name="▶️ TVR CULTURAL FHD" tvg-logo="http://157.90.128.39/test/cultural.png" group-title="ROMANIA",▶️ TVR CULTURAL FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/58
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvrinfo.ro" tvg-name="▶️ TVR INFO FHD" tvg-logo="http://157.90.128.39/test/img/tvrinfo.png" group-title="ROMANIA",▶️ TVR INFO FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/57
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvrmoldova.ro" tvg-name="TVR MOLDOVA" tvg-logo="http://xui.ufcfan.org:80/images/t6s7xn0v30CDcGEVlgq8Lj2UAHtAao-WXY8T5BMAMZFJoqIUde12AzHHJYeqJNJd.png" group-title="ROMANIA",TVR MOLDOVA
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/3753
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TVR FOLCLOR HD(ORIGINAL 16 Mb/s)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/1468px-TVR_Folclor_Logo_2023.svg.png" group-title="ROMANIA",TVR FOLCLOR HD(ORIGINAL 16 Mb/s)
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/17841
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="⭐ CANALE ORIGINALE  +20 MB/s ⭐" tvg-logo="s:1:/images/NIB6cFnQZ2wuZ2qxAClhlQe5e_Uk06MdU3eQrhEt47X8zk7bRRlTwA-46lw0R3_9EFSja9aJaBOIvPWuHC58GA.png" group-title="ROMANIA",⭐ CANALE ORIGINALE  +20 MB/s ⭐
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/17493
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="protv.ro" tvg-name="▶️ PRO TV  HD ORIGINAL peste 20 Mbit" tvg-logo="http://157.90.128.39/test/img/PROTV.png" group-title="ROMANIA",▶️ PRO TV  HD ORIGINAL peste 20 Mbit
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/17492
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="antena1.ro" tvg-name="▶️ ANTENA 1 HD ORIGINAL peste 20 Mbit" tvg-logo="http://157.90.128.39/test/img/a1-300x300.png" group-title="ROMANIA",▶️ ANTENA 1 HD ORIGINAL peste 20 Mbit
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/17491
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.ro" tvg-name="▶️ KANAL D HD ORIGINAL peste 20 Mbit" tvg-logo="http://157.90.128.39/test/img/kanal_d_dan_negru-300x300.png" group-title="ROMANIA",▶️ KANAL D HD ORIGINAL peste 20 Mbit
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/3733
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="primatv.ro" tvg-name="▶️ PRIMA TV HD Original 20 Mbit" tvg-logo="http://157.90.128.39/test/img/PRIMA_TV_HD.png" group-title="ROMANIA",▶️ PRIMA TV HD Original 20 Mbit
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/17494
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="antena3.ro" tvg-name="▶️ Antena 3 HD ORIGINAL peste 20 Mbit" tvg-logo="http://157.90.128.39/test/img/antena3-300x300.png" group-title="ROMANIA",▶️ Antena 3 HD ORIGINAL peste 20 Mbit
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/17490
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="digi24.ro" tvg-name="DIGI 24 HD ORIGINAL  20 Mbit" tvg-logo="s:1:/images/4vzznl3rkWvdFOsmUDE1uOAwVQcPAwX_3XU5wHh-XkfVY33GWdy__kHgywTnrWgHa7_fGUWv7nT7pc_A_RRcag.png" group-title="ROMANIA",DIGI 24 HD ORIGINAL  20 Mbit
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/21118
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="romaniatv.ro" tvg-name="ROMANIA TV HD  ORIGINAL" tvg-logo="" group-title="ROMANIA",ROMANIA TV HD  ORIGINAL
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/24064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="⭐  LIVE STREAMING⭐" tvg-logo="" group-title="ROMANIA",⭐  LIVE STREAMING⭐
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/27550
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HdOne Premiere" tvg-logo="http://157.90.128.39/test/img/hdone.png" group-title="ROMANIA",HdOne Premiere
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/20683
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="▶️ LIVE MIREASA FETE" tvg-logo="http://157.90.128.39/test/img/mireasa.png" group-title="ROMANIA",▶️ LIVE MIREASA FETE
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="▶️ LIVE MIREASA BAIETI" tvg-logo="http://157.90.128.39/test/img/mireasap.png" group-title="ROMANIA",▶️ LIVE MIREASA BAIETI
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/3
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="▶️ MIREASA CONFESIUNI" tvg-logo="http://157.90.128.39/test/img/mireasae.png" group-title="ROMANIA",▶️ MIREASA CONFESIUNI
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="▶️ ANTENA MONDEN ANTENAPLAY" tvg-logo="http://157.90.128.39/test/img/ANTENA_MONDEN-300x300.png" group-title="ROMANIA",▶️ ANTENA MONDEN ANTENAPLAY
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/64
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="▶️ HELLO TASTE ANTENAPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZcosReXIJhmsOEczU48iG7b5-4FjntFYglAz9K9bQA&s" group-title="ROMANIA",▶️ HELLO TASTE ANTENAPLAY
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/65
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="▶️ CATINE ANTENAPLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkRl6LNS8gFTUtKIVhAeVe1LP1tkORQwLA5LAbxqG93cxTrVF7bxs2WAMkgmjPUQuTgs&usqp=CAU" group-title="ROMANIA",▶️ CATINE ANTENAPLAY
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/66
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="▶️ COMEDY PLAY ANTENAPLAY" tvg-logo="http://157.90.128.39/test/img/ANTENA_COMEDY_HD-300x300.png" group-title="ROMANIA",▶️ COMEDY PLAY ANTENAPLAY
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/63
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="⭐ STIRI ⭐" tvg-logo="s:1:/images/NIB6cFnQZ2wuZ2qxAClhlQe5e_Uk06MdU3eQrhEt47X8zk7bRRlTwA-46lw0R3_9EFSja9aJaBOIvPWuHC58GA.png" group-title="ROMANIA",⭐ STIRI ⭐
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/3338
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="alephnews.ro" tvg-name="▶️ ALEPH NEWS TV" tvg-logo="http://157.90.128.39/test/img/ALEPH_NEWS_HD-300x300.png" group-title="ROMANIA",▶️ ALEPH NEWS TV
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/48
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="alephbusiness.ro" tvg-name="▶️ ALEPH BUSINESS" tvg-logo="http://157.90.128.39/test/img/aleph_business-300x300.png" group-title="ROMANIA",▶️ ALEPH BUSINESS
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/49
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Antena 3 CNN" tvg-name="▶️ ANTENA 3 4K" tvg-logo="http://157.90.128.39/test/img/antena3-300x300.png" group-title="ROMANIA",▶️ ANTENA 3 4K
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/17
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="antena3.ro" tvg-name="▶️ ANTENA 3 FHD" tvg-logo="http://157.90.128.39/test/img/antena3-300x300.png" group-title="ROMANIA",▶️ ANTENA 3 FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/18
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="antena3.ro" tvg-name="▶️ ANTENA 3  Net Slab" tvg-logo="http://157.90.128.39/test/img/antena3-300x300.png" group-title="ROMANIA",▶️ ANTENA 3  Net Slab
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/19
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="b1.ro" tvg-name="▶️ B1 TV 4K" tvg-logo="https://rocanale.net/wp-content/uploads/iconitze-160.png" group-title="ROMANIA",▶️ B1 TV 4K
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/33
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="b1.ro" tvg-name="▶️ B1 TV FHD" tvg-logo="http://157.90.128.39/test/img/B1TV_HD-300x300.png" group-title="ROMANIA",▶️ B1 TV FHD
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/34
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="b1.ro" tvg-name="▶️ B1 TV" tvg-logo="http://157.90.128.39/test/img/B1TV_HD-300x300.png" group-title="ROMANIA",▶️ B1 TV
+http://scrippy24.store:8080/@XMCWLR9cd3GC@/TmaSN79cKY/35
