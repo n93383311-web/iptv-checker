@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:11,BNT 1
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/1001/index.m3u8
+#EXTINF:0,BNT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/13001/index.m3u8
+#EXTINF:0,Baby TV
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/3001/index.m3u8
+#EXTINF:0,RING BG
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/4001/index.m3u8
+#EXTINF:0,Eurosport
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/4003/index.m3u8
+#EXTINF:0,TLC
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/7003/index.m3u8
+#EXTINF:0,Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/4004/index.m3u8
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/3004/index.m3u8
+#EXTINF:0,Diema
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/2005/index.m3u8
+#EXTINF:0,Discovery ID Xtra
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/7005/index.m3u8
+#EXTINF:0,Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/3005/index.m3u8
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/3006/index.m3u8
+#EXTINF:0,Kino NOVA
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/2006/index.m3u8
+#EXTINF:0,Diema Family
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/2007/index.m3u8
+#EXTINF:0,Discovery
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/7001/index.m3u8
+#EXTINF:0,National Geographic
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/6007/index.m3u8
+#EXTINF:0,Travel Channel
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/7007/index.m3u8
+#EXTINF:0,24 Kitchen
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/2008/index.m3u8
+#EXTINF:0,AXN Black
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/1008/index.m3u8
+#EXTINF:0,EKids
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/3008/index.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/6008/index.m3u8
+#EXTINF:0,AXN White
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/1009/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/6009/index.m3u8
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/2001/index.m3u8
+#EXTINF:0,FOXLife
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/2002/index.m3u8
+#EXTINF:0,FOX Crime
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/2003/index.m3u8
+#EXTINF:0,Duck TV
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/3002/index.m3u8
+#EXTINF:0,BNT 2
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/8001/index.m3u8
+#EXTINF:0,Euronews
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/9004/index.m3u8
+#EXTINF:0,Bulgaria On Air
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/9005/index.m3u8
+#EXTINF:0,Eurosport HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/15003/index.m3u8
+#EXTINF:0,National Geo HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/17001/index.m3u8
+#EXTINF:0,Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/17002/index.m3u8
+#EXTINF:0,Travel Channel HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/18002/index.m3u8
+#EXTINF:0,24 Kitchen HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/14004/index.m3u8
+#EXTINF:0,BNT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/13002/index.m3u8
+#EXTINF:0,Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/17003/index.m3u8
+#EXTINF:0,Dom_Kino_BG
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/a001/index.m3u8
+#EXTINF:0,Eurosport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/15004/index.m3u8
+#EXTINF:0,FOX
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/2004/index.m3u8
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/14001/index.m3u8
+#EXTINF:0,FoxCrime HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/14002/index.m3u8
+#EXTINF:0,FoxLife HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/14003/index.m3u8
+#EXTINF:0,Magic TV
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/a00c/index.m3u8
+#EXTINF:0,Mir_Seriala_BG
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/a003/index.m3u8
+#EXTINF:0,NOVA
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/1003/index.m3u8
+#EXTINF:0,Nashe_Kino_BG
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/a002/index.m3u8
+#EXTINF:0,RING BG HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/15001/index.m3u8
+#EXTINF:0,Romani_Qk
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/a013/index.m3u8
+#EXTINF:0,World_Fashion_TV
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/a00a/index.m3u8
+#EXTINF:0,bTV
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/1002/index.m3u8
+#EXTINF:0,bTV Action
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/1004/index.m3u8
+#EXTINF:0,bTV Action HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/13004/index.m3u8
+#EXTINF:0,bTV Cinema
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/1006/index.m3u8
+#EXTINF:0,bTV Comedy
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/1005/index.m3u8
+#EXTINF:0,bTV HD
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/13003/index.m3u8
+#EXTINF:0,bTV Lady
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/1007/index.m3u8
+#EXTINF:0,usadba
+#EXTVLCOPT:network-caching=1000
+http://84.54.128.52:9090/play/a009/index.m3u8

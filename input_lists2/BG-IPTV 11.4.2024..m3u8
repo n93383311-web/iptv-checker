@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 ,AXN
+http://79.124.21.250:9981/play/AXN/index.m3u8
+#EXTINF:-1 ,Alfa
+http://79.124.21.250:9981/play/Alfa/index.m3u8
+#EXTINF:-1 ,BNT1 HD
+http://79.124.21.250:9981/play/BNT1HD/index.m3u8
+#EXTINF:-1 ,BNT2 HD
+http://79.124.21.250:9981/play/BNT2HD/index.m3u8
+#EXTINF:-1 ,BNT3 HD
+http://79.124.21.250:9981/play/BNT3HD/index.m3u8
+#EXTINF:-1 ,Balkanika HD
+http://79.124.21.250:9981/play/BalkanikaHD/index.m3u8
+#EXTINF:-1 ,Cartoon
+http://79.124.21.250:9981/play/Cartoon/index.m3u8
+#EXTINF:-1 ,Diema
+http://79.124.21.250:9981/play/Diema/index.m3u8
+#EXTINF:-1 ,DiemaFam
+http://79.124.21.250:9981/play/DiemaFam/index.m3u8
+#EXTINF:-1 ,Discovery
+http://79.124.21.250:9981/play/Discovery/index.m3u8
+#EXTINF:-1 ,DiscoveryExtra
+http://79.124.21.250:9981/play/IDExtra/index.m3u8
+#EXTINF:-1 ,Disney Jun
+http://79.124.21.250:9981/play/DisneyJun/index.m3u8
+#EXTINF:-1 ,DisneyCh
+http://79.124.21.250:9981/play/DisneyCh/index.m3u8
+#EXTINF:-1 ,EuroSport2
+http://79.124.21.250:9981/play/EuroSport2/index.m3u8
+#EXTINF:-1 ,FAN
+http://79.124.21.250:9981/play/FAN/index.m3u8
+#EXTINF:-1 ,FanFolk
+http://79.124.21.250:9981/play/FanFolk/index.m3u8
+#EXTINF:-1 ,Folklor
+http://79.124.21.250:9981/play/Folklor/index.m3u8
+#EXTINF:-1 ,Kanal3
+http://79.124.21.250:9981/play/Kanal3/index.m3u8
+#EXTINF:-1 ,KinoNova
+http://79.124.21.250:9981/play/KinoNova/index.m3u8
+#EXTINF:-1 ,Max Sport 1 HD
+http://79.124.21.250:9981/play/MaxSport1HD/index.m3u8
+#EXTINF:-1 ,NGWild
+http://79.124.21.250:9981/play/NGWild/index.m3u8
+#EXTINF:-1 ,NastVremia
+http://79.124.21.250:9981/play/NastVremia/index.m3u8
+#EXTINF:-1 ,NatGeo
+http://79.124.21.250:9981/play/NatGeo/index.m3u8
+#EXTINF:-1 ,Nike Jun
+http://79.124.21.250:9981/play/NikeJun/index.m3u8
+#EXTINF:-1 ,Nikelodeon
+http://79.124.21.250:9981/play/Nikelodeon/index.m3u8
+#EXTINF:-1 ,Nova
+http://79.124.21.250:9981/play/Nova/index.m3u8
+#EXTINF:-1 ,Nova HD
+http://79.124.21.250:9981/play/NovaHD/index.m3u8
+#EXTINF:-1 ,Nova Sport HD
+http://79.124.21.250:9981/play/NovaSportHD/index.m3u8
+#EXTINF:-1 ,Planeta
+http://79.124.21.250:9981/play/Planeta/index.m3u8
+#EXTINF:-1 ,PlanetaFolk
+http://79.124.21.250:9981/play/PlanetaFolk/index.m3u8
+#EXTINF:-1 ,Ring
+http://79.124.21.250:9981/play/Ring/index.m3u8
+#EXTINF:-1 ,Skat
+http://79.124.21.250:9981/play/Skat/index.m3u8
+#EXTINF:-1 ,Star Crime HD
+http://79.124.21.250:9981/play/StarCrimeHD/index.m3u8
+#EXTINF:-1 ,Star HD
+http://79.124.21.250:9981/play/StarHD/index.m3u8
+#EXTINF:-1 ,Star Life HD
+http://79.124.21.250:9981/play/StarLifeHD/index.m3u8
+#EXTINF:-1 ,TLC
+http://79.124.21.250:9981/play/TLC/index.m3u8
+#EXTINF:-1 ,TV1 HD
+http://79.124.21.250:9981/play/TV1HD/index.m3u8
+#EXTINF:-1 ,TheVoice HD
+http://79.124.21.250:9981/play/TheVoiceHD/index.m3u8
+#EXTINF:-1 ,Travel TV
+http://79.124.21.250:9981/play/TravelTV/index.m3u8
+#EXTINF:-1 ,ViaExplor HD
+http://79.124.21.250:9981/play/ViaExplorHD/index.m3u8
+#EXTINF:-1 ,bTV
+http://79.124.21.250:9981/play/bTV/index.m3u8
+#EXTINF:-1 ,bTVAction
+http://79.124.21.250:9981/play/bTVAction/index.m3u8
+#EXTINF:-1 ,bTVCinema
+http://79.124.21.250:9981/play/bTVCinema/index.m3u8
+#EXTINF:-1 ,bTVComedy
+http://79.124.21.250:9981/play/bTVComedy/index.m3u8
+#EXTINF:-1 ,bTVLady
+http://79.124.21.250:9981/play/bTVLady/index.m3u8
+#EXTINF:-1 ,baby TV
+http://79.124.21.250:9981/play/babyTV/index.m3u8

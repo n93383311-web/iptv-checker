@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/maxsport1.png",BG: Max Sport 1 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/4140.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/maxsport2.jpg",BG: Max Sport 2 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/4139.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/diema_sport_bg.png",BG: Diema Sports 1  FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/6875.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_plus_bg_hd.png",BG: Diema Sports 2 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/6877.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nova_sport_bg.png",BG: Nova Sport
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55483.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_1.png",BG: Eurosport 1
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55485.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_2.png",BG: Eurosport 2 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55487.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Auto%2C_Motor_und_Sport.svg/1200px-Auto%2C_Motor_und_Sport.svg.png",BG: Auto Motor Sport FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55446.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/bnt1_bg.png",BG: BNT 1 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55453.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/bnt1_bg.png",BG: BNT 1
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55452.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/bnt2_bg.png",BG: BNT 2 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55455.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/bnt2_bg.png",BG: BNT 2
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55454.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BNT_3_logo.svg/1280px-BNT_3_logo.svg.png",BG: BNT 3 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55457.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BNT4.png",BG: BNT 4 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55459.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/btv_bg.png",BG: bTV FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55462.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/btv_bg_comedy.png",BG: bTV Comedy
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55378.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/btv_bg_cinema.png",BG: bTV Cinema
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55392.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/btv_bg_lady.png",BG: BTV Lady
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55436.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/btv_bg_action.png",BG: bTV Action
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55463.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/btv_bg_lady.png",BG: bTV Lady
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55464.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nova_tv_bg.png",BG: Nova TV FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55517.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/diema.png",BG: Diema TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55384.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/diema_family.png",BG: Diema Family
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55472.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_global.png",BG: Fox
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55397.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fox_life_global.png",BG: Fox Life FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55496.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/EpicDrama.jpg",BG: Epic Drama FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55484.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hbo_cz.png",BG: HBO FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55498.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hbo2_pl.png",BG: HBO 2 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55500.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hbo3_ce.png",BG: HBO 3 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55501.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/movie_star_bg.png",BG: Movie Star
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55539.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/kk/kino_nova_bg.png",BG: Kino Nova
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55387.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tv_europa.png",BG: TV Europa
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55531.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/amc_us.png",BG: AMC
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55444.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_global.png",BG: AXN
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55447.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/comedy_plus_bg.png",BG: Comedy Plus
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55471.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tlc_br.png",BG: TLC
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55525.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/num/24_kitchen_us.png",BG: 24 Kitchen
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55439.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/food_network_us.png",BG: Food Network FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55492.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/Nat-Geo-Wild-HD.png",BG: Nat Geo Wild FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55513.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/Nat-Geo-Wild-HD.png",BG: Nat Geo Wild
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55512.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/history_de_hd.png",BG: History
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55400.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png",BG: Discovery Channel FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55476.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png",BG: Discovery Channel
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55475.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/ii/investigation_discovery_us.png",BG: ID Xtra FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55507.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/animal_planet_us.png",BG: Animal Planet FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55445.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/travel_channel_europe.png",BG: Travel Channel TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55529.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/planeta_tv.png",BG: Planeta HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55519.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cartoon_network_global.png",BG: Cartoon Network
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55466.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nickelodeon_us.png",BG: Nickelodeon
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55514.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_channel_ru.png",BG: Disney Channel HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55478.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/baby_tv_eu.png",BG: Baby TV HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55448.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/jj/jim_jam_pl.png",BG: Jim Jam
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55508.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://www.pisatelnazaem.com/wp-content/uploads/2017/09/Bulgaria-On-Air.png",BG: Bulgaria On Air
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55527.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/fen_tv_bg.png",BG: Fen TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55385.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://tv1-bg.com/wp-content/uploads/2021/01/tv1-facebook-app-logo.png",BG: TV1
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55427.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/BG-DNES_logo.png",BG: BG-DNES FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55438.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Alfa_TV_%28Bulgaria%29_logo.png",BG: Alfa TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55443.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/dstv_bg.png",BG: DSTV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55480.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/evrokom_bg.png",BG: Evrokom
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55488.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hobby_tv_bg_hd.png",BG: Hobby TV FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55505.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/magic_tv_bg.png",BG: MagicTV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55509.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/planeta_tv_folk.png",BG: Planeta Folk TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55518.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tiankov_folk_bg.png",BG: Tiankov Folk
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55524.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="https://bgmusic.tv/wp-content/uploads/2018/05/BG_MUSIC_CHANNEL_logo_RGB_BW-01-1.png",BG: BG Music
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55380.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/ring_tv_bg.png",BG: Ring TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55388.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/the_voice_tv_bg.png",BG: The Voice
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55389.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/balkanika_music_tv.png",BG: Balkanika Music TV HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55449.ts
+#EXTINF:-1 group-title="Bulgaria" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/folklor_tv.png",BG: Folklor TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/55491.ts

@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 logo="https://cdn.adh.reperio.news/image-4/48f7aca9-8085-4a95-ba66-7ff79847d2fe/index.jpeg?p=a%3D1%26co%3D1.05%26w%3D1000%26h%3D750%26q%3D91%26r%3Dcontain%26c%3D0%252C0.137%252C1%252C0.78%26f%3Dwebp" tvg-id="133781adbca82a66c042ecdd353c7e34",Acasa
+http://79.118.143.205:9981/stream/channelid/763442963?ticket=FB1C9C3D31BAEEAF6E1811C65B71626055DC40E6&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_AgroTV_%282018%29.svg/471px-Logo_AgroTV_%282018%29.svg.png" tvg-id="3f3580beac1b872803e3853cad48348f",Agro Tv
+http://79.118.143.205:9981/stream/channelid/1048589631?ticket=03CE01548A3461CD42B2EA199EDBE801BC7578DD&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Alfa_Omega_TV_(2006).png" tvg-id="e4521ef272f0706c6b6eb2be938b380b",Alfa Omega Tv
+http://79.118.143.205:9981/stream/channelid/1914589924?ticket=98C1FA8DC2A65B128641CE9552B77523D281F863&profile=pass
+#EXTINF:-1 logo="https://www.forbes.ro/wp-content/uploads/2021/09/Antena-1-logo-nou.jpg" tvg-id="00e4e139eb3c777d208ab4b479c4ccaa",Antena 1
+http://79.118.143.205:9981/stream/channelid/971105280?ticket=67C723AB081883555FC8AE0AB1F967A05CC48380&profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRoUC7i6LTVP3rbah2hCarfRmKM8SCIPimrJhrQsA=s88-c-k-c0x00ffffff-no-rj" tvg-id="b0893d4ec810861368bb7009a6b92467",Antena 3
+http://79.118.143.205:9981/stream/channelid/1312655792?ticket=E7580B6E3FE80AC72C6A00E9630ED2529016F907&profile=pass
+#EXTINF:-1 logo="https://www.atomictv.ro/wp-content/uploads/2021/10/Atomic_TV.png" tvg-id="8b69a2bcece5c0759a6fdd1efa66419b",Atomic Tv
+http://79.118.143.205:9981/stream/channelid/1017276811?ticket=A9D106355BA16D954D312A8EF22AD197EC29C11C&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/25/AXN_Black_Logo.png" tvg-id="4fdf301d3442652f936153a581a184f9",AXN Black
+http://79.118.143.205:9981/stream/channelid/489742159?ticket=03A87C25AE8BAB9CA92FB3DCD73EB25CBE7A1899&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Bucovina_TV_2014.png" tvg-id="619cb5d489479433af867485657d9eab",Bucovina Tv
+http://79.118.143.205:9981/stream/channelid/1421188193?ticket=AF8121C77F682A40FAEC114235C2A1D061703434&profile=pass
+#EXTINF:-1 logo="http://79.118.143.205:9981/imagecache/42" tvg-id="913d259d131b8f83af7a715ab6fef029",Comedy Central
+http://79.118.143.205:9981/stream/channelid/488979857?ticket=26C6C02B8245F564BCD0ECB2370FA0EFF73012E5&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Digi24_HD_Logo.png" tvg-id="b9dfa82def33fa114e80fb56617703e6",Digi 24
+http://79.118.143.205:9981/stream/channelid/766042041?ticket=4149AD0C9E66A1D51B28F559BAC21137721597CA&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Digi_animal_world_ro.png/200px-Digi_animal_world_ro.png" tvg-id="bb625b4e792e092fff191a06a3569ec4",Digi Animal World
+http://79.118.143.205:9981/stream/channelid/1314611899?ticket=E4D99C4ED2E6FE1ED9F0440F3A2E62F021F84A8F&profile=pass
+#EXTINF:-1 logo="https://m.digisport.ro/static/theme-mobile-repo/bin/images/app/digisport-1.png" tvg-id="a0d55efebdc3d23e4cd17827361f3632",Digi Sport 1
+http://79.118.143.205:9981/stream/channelid/2120144288?ticket=53C069E2F529915E8FEB5A8D5952AD6C2B052F6F&profile=pass
+#EXTINF:-1 logo="https://m.digisport.ro/static/theme-mobile-repo/bin/images/app/digisport-3.png" tvg-id="313207f5694945e2e6ecc1f10a7b1308",Digi Sport 3
+http://79.118.143.205:9981/stream/channelid/1963405873?ticket=0603A80AADCB65E0DE758699E4B9E6AE01F07F84&profile=pass
+#EXTINF:-1 logo="https://m.digisport.ro/static/theme-mobile-repo/bin/images/app/digisport-4.png" tvg-id="379ca7b92a1f2ed2824df4ea487dc51a",Digi Sport 4
+http://79.118.143.205:9981/stream/channelid/967285815?ticket=7E7A6BF70AB9F56DB8DCE59285FE115E644B46C1&profile=pass
+#EXTINF:-1 logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg" tvg-id="602be4731e0bed5110d2d2ecc8bd6dd7",Discovery ID
+http://79.118.143.205:9981/stream/channelid/1944333152?ticket=AF7927A882EC033697385DDFD04C8DD53EC482F1&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/220px-2019_Disney_Channel_logo.svg.png" tvg-id="d41b192d7310726b670f3b08de92dead",Disney Channel
+http://79.118.143.205:9981/stream/channelid/756620244?ticket=981B384B711D4F60F95A0031EDA3EC9C895154EB&profile=pass
+#EXTINF:-1 logo="https://storage0.dms.mpinteractiv.ro/media/1/1/1706/7347834/2/diva.jpg?width=560" tvg-id="82c3af25744626e627afb7c4eab9a88b",Diva
+http://79.118.143.205:9981/stream/channelid/632275842?ticket=1BE5A9F1417A2DBFF36BED73FD156F8FC05B4F86&profile=pass
+#EXTINF:-1 logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUUFBgUFRUVGBgYGxgYGRoaGx4YGxgYGBkZGxgZGBobIC0kGx0rIhsYJTclKS4wNDQ0GyQ5PzkxPi0yNDABCwsLEA8PEA8PETAcGBwwMDAwPjAwMDAyMj4wMDAwMDAyMD4wMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMP/AABEIAIYBdwMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgIDBAUHAQj/xABPEAABAwICBAYMCggGAQUAAAABAAIDBBEFIQYSMUEHEyJRYXEUMkJSU1SBkZKT0tMWI1VicoKUocHRFRdFg7HD4vAzQ0RjwuGiJKOys/H/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAREh/9oADAMBAAIRAxEAPwDsyIiAiIgKHcIWl5w2OMsYx8kj" tvg-id="8d43720c0d5a76a34412cc46610df3ad",DTX
+http://79.118.143.205:9981/stream/channelid/208814989?ticket=3A7CBC04FDB92D3D4ABD098DD850BD444AECE070&profile=pass
+#EXTINF:-1 logo="https://etno.ro/wp-content/uploads/2022/02/Etno-Logo_2022-1.jpg" tvg-id="59895e33700db05ea4dfe8bf30fcc1ea",Etno Tv
+http://79.118.143.205:9981/stream/channelid/861833561?ticket=8580889F2F3C3C86346703429832B8F09A44C0CE&profile=pass
+#EXTINF:-1 logo="https://storage0.dms.mpinteractiv.ro/media/1/1/1706/14884007/2/eurosport1.jpg?width=560" tvg-id="19b5f18e542d14a9854fed0dd0245788",Eurosport 1
+http://79.118.143.205:9981/stream/channelid/250721561?ticket=E6D640B098BE1A5A433164D76AAC3485EA1AF53F&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/800px-Eurosport_2_Logo_2015.svg.png" tvg-id="d98256c6ed0625833d5e70f87284d811",Eurosport 2
+http://79.118.143.205:9981/stream/channelid/1180074713?ticket=8338B62FA8BEECA8ED38F77AD5DFAD52F983161F&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Fashion_TV_logo.png" tvg-id="ae6d74039e9fb82a2923216eeb7bc1f7",Fashion Tv
+http://79.118.143.205:9981/stream/channelid/57961902?ticket=D17ABC509FA02803075512589F2EC01CDA429176&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/ro/a/ae/FavoritLogo.png" tvg-id="55d1cf153e28a0e80b2efafda52af8f3",Favorit Tv
+http://79.118.143.205:9981/stream/channelid/365941077?ticket=75BF7C925E3271594524843B7FD26A805C65299B&profile=pass
+#EXTINF:-1 logo="http://fly-tv.co/wp-content/uploads/2020/07/fly-tv-logo-red.png" tvg-id="4662e5b6dce8cdfaad985bb2718984f6",FLY Tv
+http://79.118.143.205:9981/stream/channelid/921002566?ticket=1C85AB428AC361B9B0E8F3EA2524AC16C13C7E94&profile=pass
+#EXTINF:-1 logo="https://ewsat.com/img/HAPPY_CHANNEL.png" tvg-id="a72b98dd80aa27111c3d6d4203b4edd2",Happy Channel
+http://79.118.143.205:9981/stream/channelid/1570253735?ticket=4062AEDC891840F386121A848589CCA31661AC47&profile=pass
+#EXTINF:-1 logo="http://79.118.143.205:9981/imagecache/44" tvg-id="66925fc94e84036acec0c71c840931a6",HGTV
+http://79.118.143.205:9981/stream/channelid/1231000166?ticket=971DBB38DDF890F2678B2C6C4EE9E38BEB47D5F6&profile=pass
+#EXTINF:-1 logo="http://79.118.143.205:9981/imagecache/92" tvg-id="799ffc6b872f774269d94efc7d4c0b53",History Channel
+http://79.118.143.205:9981/stream/channelid/1811718009?ticket=4FB9585D55C0D324E5E8CD3B8987364CE533C751&profile=pass
+#EXTINF:-1 logo="http://79.118.143.205:9981/imagecache/91" tvg-id="4340226c2f0c3cfbac91c8d904129404",HIT Music
+http://79.118.143.205:9981/stream/channelid/1814184003?ticket=1EA597C7EEE6CE19FA8F13F11BDF30F9373472A6&profile=pass
+#EXTINF:-1 logo="http://www.hits360live.com/wp-content/uploads/2018/05/cropped-logo1-hits-360-2-2-768x470.png" tvg-id="7e8bac5e66069d38d7afe2d4e741fbb6",Hits 360 Tv
+http://79.118.143.205:9981/stream/channelid/1588366206?ticket=F3F22E53D6CFB3411CD47299D4562E6A759A10B2&profile=pass
+#EXTINF:-1 logo="https://www.money.ro/wp-content/uploads/2022/04/kanald-696x414.jpg" tvg-id="9604900034ebb256bc6440577100b4db",Kanal D
+http://79.118.143.205:9981/stream/channelid/9438358?ticket=431CDEA309C17388BBB94194362339C3B7E65B44&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/M1_2020.png/200px-M1_2020.png" tvg-id="28c3f72f6da5418499f4c309e343adf1",M1
+http://79.118.143.205:9981/stream/channelid/804766504?ticket=E565E9F125D298228AEFB2733A0186BB334BECCC&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Moldova_1_2022.png" tvg-id="5dd87bf4367b218e72e26a93db006daa",Moldova 1 Tv
+http://79.118.143.205:9981/stream/channelid/1954273373?ticket=FD849150BC0E978C1D918672CB4CD84A63ED9BBF&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Moldova_2_2022.png" tvg-id="e2d6b666d04f60fd7025dc50d04b5b4f",Moldova 2 Tv
+http://79.118.143.205:9981/stream/channelid/1723258594?ticket=C599DD8A22A945E1EAFA6973B70E2ABC5E852725&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/175px-MTV_00s_remaster.png" tvg-id="6b58cb250d4c9139e33a52a4eb9ba2ba",MTV 00s
+http://79.118.143.205:9981/stream/channelid/634083435?ticket=18723191770191E860BB884ED56350EC924AE3A8&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Na%C8%9Bional_TV_%282006%29.svg/339px-Logo_Na%C8%9Bional_TV_%282006%29.svg.png" tvg-id="fb8de9ac06345089684df08cec99481d",National Tv
+http://79.118.143.205:9981/stream/channelid/753503739?ticket=E9B0CD63ACD2569D7044108DBCFDFD84869F6733&profile=pass
+#EXTINF:-1 logo="https://i0.1616.ro/media/601/3161/38619/20097771/7/prima-tv_tb730_tb730.png?width=730" tvg-id="30f7051dc3cfa988d13ae2b2c1fa9c7c",Prima Tv
+http://79.118.143.205:9981/stream/channelid/486930224?ticket=DA533CC81C232A8C2BF6CBC426B541EAA502089E&profile=pass
+#EXTINF:-1 logo="https://res.sport.ro/assets/sport/2022/04/02/image_galleries/747940/din-4-aprilie-pro-x-devine-pro-arena-toate-tipurile-de-continut-de-interes-pentru-audienta-masculina-din_size6.png" tvg-id="d8edad4b6e9b4fdc66503e889b8c853d",PRO Arena
+http://79.118.143.205:9981/stream/channelid/1269689816?ticket=133077009C31A8D71C27675E6A6311A52817CA34&profile=pass
+#EXTINF:-1 logo="https://www.incomod.info/wp-content/uploads/2018/11/pro-cinema-online-live-gratuit.jpg" tvg-id="cca8a7e796b9601d0cc7e71321edcd4a",PRO Cinema
+http://79.118.143.205:9981/stream/channelid/1739040972?ticket=A74819BB4B766B31DC4368278E186D61A2464D2F&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1920px-Logo_Pro_TV_%282017%29.svg.png" tvg-id="273f239b522ad56a0ca1afef7fe70d91",PRO TV
+http://79.118.143.205:9981/stream/channelid/455294759?ticket=26FCC7B22D5F5E586C088A33390CE1C187239B0C&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Rai_3_logo.svg/800px-Rai_3_logo.svg.png" tvg-id="46315136748ed409c697adcdd956628d",Rai 3
+http://79.118.143.205:9981/stream/channelid/911290694?ticket=5114768AE7AE85FF93CF7E29B4221E4C694F5047&profile=pass
+#EXTINF:-1 logo="https://media.realitatea.net/multimedia/image/202003/w728/realitatea_32c3f72f04.jpg" tvg-id="bb6c09598bd20628a2f27b03afc443b9",Realitatea Plus
+http://79.118.143.205:9981/stream/channelid/1493789883?ticket=AFD589BF865DEEEA43BBFFF768D12EF54F631F5C&profile=pass
+#EXTINF:-1 logo="https://scontent-otp1-1.xx.fbcdn.net/v/t39.30808-6/285984622_1057748758282492_8176580605829260683_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=2JS81oiVb7cAX-2jih_&_nc_ht=scontent-otp1-1.xx&oh=00_AfAWwEB3i-wJgk19RlLsV3oJxdZNzk5y7mIkbxYqKZKqfQ&oe=63697E92" tvg-id="98ece317331fefdfa9c1df10afa50c30",Realitatea Sportiva
+http://79.118.143.205:9981/stream/channelid/400813208?ticket=4EBE7A90A1E75B4813E88AD6FFC107031CB47A17&profile=pass
+#EXTINF:-1 logo="https://www.interlan.ro/wp-content/uploads/2021/12/realitatea-star-1.png" tvg-id="97b77bf0749dc5dc3c5b5a0def378479",Realitatea Star
+http://79.118.143.205:9981/stream/channelid/1887156119?ticket=94EFE6130FA988730273668F4DDCC3CC5E84A960&profile=pass
+#EXTINF:-1 logo="http://79.118.143.205:9981/imagecache/39" tvg-id="98c56b595f13d3e7d2ff8723c29332af",Super RTL
+http://79.118.143.205:9981/stream/channelid/1500235160?ticket=25AB206B9AF67BAC2E108ABDDA5C193F7DC18C6F&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TGLA7.svg/1200px-TGLA7.svg.png" tvg-id="bcafba0afabdfb732c6353d7eab17683",TG 7
+http://79.118.143.205:9981/stream/channelid/180006844?ticket=9FA4EC9F75CA77B429D03BD3F6C7B130F4621A46&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Travel_Channel_NEW_LOGO.svg/200px-Travel_Channel_NEW_LOGO.svg.png" tvg-id="bb59553c9c84e5a51d8c741baa0cf26d",Travel
+http://79.118.143.205:9981/stream/channelid/1012226491?ticket=36A49B659922C93CE513822468628BE2A7837EF3&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Trinitas_TV_%282018%29.svg/293px-Logo_Trinitas_TV_%282018%29.svg.png" tvg-id="00923cf68dbf95c8e966bcfee8feb5ab",Trinitas
+http://79.118.143.205:9981/stream/channelid/1983681024?ticket=EE7D8C0947CB9BB6BDA1DAE40CC8A81E045EC93F&profile=pass
+#EXTINF:-1 logo="https://www.forbes.ro/wp-content/uploads/2021/09/TV-Paprika-2.jpg" tvg-id="8733687da40d9736da7c9780dbee2222",TV Paprika
+http://79.118.143.205:9981/stream/channelid/2103980935?ticket=32C5182DD117B353C1F8CA1724F98C14034EF0B3&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/62/TVR_1_%282004-2010%29.png" tvg-id="448e19c944e44eb5670fa1c085bafcaa",TVR 1
+http://79.118.143.205:9981/stream/channelid/1226411588?ticket=CF04246192FABEF57015D12A167E153CCFDD1942&profile=pass
+#EXTINF:-1 logo="http://tvr2.tvr.ro/images/logo_main_tvr2.png" tvg-id="0a0be1cf22b5645b28d701225bbb9572",TVR 2
+http://79.118.143.205:9981/stream/channelid/1340148490?ticket=93D4D15D40369A2E2B190A12416D4D3DE82649F1&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TVR3_logo_2019.svg/1200px-TVR3_logo_2019.svg.png" tvg-id="211d97d9bc7463d013109f2b861252a3",TVR 3
+http://79.118.143.205:9981/stream/channelid/1503075617?ticket=254A8173D7262898648C71A05D3AA8E33A192DC1&profile=pass
+#EXTINF:-1 logo="https://tvron.net/static/canale/512/tvr-targu-mures.png" tvg-id="03ffd963ddaf438e4372c13fa2181bd8",TVR Targu Mures
+http://79.118.143.205:9981/stream/channelid/1675230979?ticket=741E3B5709901D0229763F9F18C045163FC7FAEF&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/4/44/UTV_%282008-present%29.png" tvg-id="8f40578bfe4b3364e651119c06c096a0",UTV
+http://79.118.143.205:9981/stream/channelid/190267535?ticket=D385DE6C551E278CBEBDC40EBF63E802640BBBF2&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" tvg-id="edd4d1e909a1aa74aeadfe8bb6e209c2",Viasat Nature
+http://79.118.143.205:9981/stream/channelid/1775359213?ticket=6D2E9EBFB3CDF47A199F5D739BE495FF761112A8&profile=pass

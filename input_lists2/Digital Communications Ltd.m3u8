@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,amc
+https://185.18.56.26:8443/amc/index.m3u8
+#EXTINF:-1,axn
+https://185.18.56.26:8443/axn/index.m3u8
+#EXTINF:-1,bloomberg
+https://185.18.56.26:8443/bloomberg/index.m3u8
+#EXTINF:-1,ekids
+https://185.18.56.26:8443/ekids/index.m3u8
+#EXTINF:-1,france2 HD
+https://185.18.56.26:8443/france2/index.m3u8
+#EXTINF:-1,galaxy HD
+https://185.18.56.26:8443/galaxy/index.m3u8
+#EXTINF:-1,HGTV HD
+https://185.18.56.26:8443/HGTV/index.m3u8
+#EXTINF:-1,kanal7
+https://185.18.56.26:8443/kanal7/index.m3u8
+#EXTINF:-1,mtv
+https://185.18.56.26:8443/mtv/index.m3u8
+#EXTINF:-1,skat
+https://185.18.56.26:8443/skat/index.m3u8
+#EXTINF:-1,TLCHD
+https://185.18.56.26:8443/TLCHD/index.m3u8
+#EXTINF:-1,TV1000
+https://185.18.56.26:8443/TV1000/index.m3u8
+#EXTINF:-1,VIPComedy HD
+https://185.18.56.26:8443/VIPComedy/index.m3u8

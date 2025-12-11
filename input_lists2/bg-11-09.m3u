@@ -1,0 +1,109 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1,📺ТВA-11.09.25/FAS-TV.COM/№-1/07:40
+[video src="https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4" /]
+#EXTINF:-1 group-title="Болгария 🇧🇬",BNT 1
+http://84.54.128.52:9090/play/1001/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",BNT 3 HD SPORT
+http://84.54.128.52:9090/play/13001/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Baby TV/EN/DE/
+http://84.54.128.52:9090/play/3001/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",RING BG
+http://84.54.128.52:9090/play/4001/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Eurosport BG
+http://84.54.128.52:9090/play/4003/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",TLC BG
+http://84.54.128.52:9090/play/7003/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Eurosport 2 BG
+http://84.54.128.52:9090/play/4004/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Nickelodeon BG/EN
+http://84.54.128.52:9090/play/3004/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Diema BG
+http://84.54.128.52:9090/play/2005/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Discovery ID Xtra BG/EN
+http://84.54.128.52:9090/play/7005/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Nick Jr BG/EN
+http://84.54.128.52:9090/play/3005/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Disney Channel BG/EN
+http://84.54.128.52:9090/play/3006/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Kino NOVA BG/EN
+http://84.54.128.52:9090/play/2006/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Diema Family BG/EN
+http://84.54.128.52:9090/play/2007/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Discovery BG
+http://84.54.128.52:9090/play/7001/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",National Geographic BG/EN
+http://84.54.128.52:9090/play/6007/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Travel Channel BG/EN
+http://84.54.128.52:9090/play/7007/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",24 Kitchen BG
+http://84.54.128.52:9090/play/2008/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",AXN Black BG
+http://84.54.128.52:9090/play/1008/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",EKids
+http://84.54.128.52:9090/play/3008/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Nat Geo Wild BG/EN
+http://84.54.128.52:9090/play/6008/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",AXN White BG
+http://84.54.128.52:9090/play/1009/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Animal Planet RU/BG/EN
+http://84.54.128.52:9090/play/6009/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",AXN BG
+http://84.54.128.52:9090/play/2001/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",STAR Life BG
+http://84.54.128.52:9090/play/2002/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",STAR Crime BG
+http://84.54.128.52:9090/play/2003/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Duck TV EN
+http://84.54.128.52:9090/play/3002/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",BNT 2
+http://84.54.128.52:9090/play/8001/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Euronews EN
+http://84.54.128.52:9090/play/9004/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Bulgaria On Air
+http://84.54.128.52:9090/play/9005/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Eurosport HD BG
+http://84.54.128.52:9090/play/15003/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",National Geo HD BG/EN
+http://84.54.128.52:9090/play/17001/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Nat Geo Wild HD BG/EN
+http://84.54.128.52:9090/play/17002/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",24 Kitchen HD BG/EN
+http://84.54.128.52:9090/play/14004/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",BNT 1 HD BG
+http://84.54.128.52:9090/play/13002/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Discovery HD BG/EN
+http://84.54.128.52:9090/play/17003/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Eurosport 2 HD BG/EN
+http://84.54.128.52:9090/play/15004/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",STAR Channel BG/EN
+http://84.54.128.52:9090/play/2004/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",STAR Channel HD BG/EN
+http://84.54.128.52:9090/play/14001/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",STAR Crime HD BG
+http://84.54.128.52:9090/play/14002/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",STAR Life HD BG/EN
+http://84.54.128.52:9090/play/14003/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Magic TV BG MUZ
+http://84.54.128.52:9090/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",NOVA BG/EN
+http://84.54.128.52:9090/play/1003/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",RING BG HD
+http://84.54.128.52:9090/play/15001/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",Romani_Qk
+http://84.54.128.52:9090/play/a013/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",World_Fashion_TV
+http://84.54.128.52:9090/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",bTV BG
+http://84.54.128.52:9090/play/1002/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",bTV Action BG
+http://84.54.128.52:9090/play/1004/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",bTV Action HD BG
+http://84.54.128.52:9090/play/13004/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",bTV Cinema BG
+http://84.54.128.52:9090/play/1006/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",bTV Comedy BG
+http://84.54.128.52:9090/play/1005/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",bTV HD BG
+http://84.54.128.52:9090/play/13003/index.m3u8
+#EXTINF:-1 group-title="Болгария 🇧🇬",bTV Lady
+http://84.54.128.52:9090/play/1007/index.m3u8
