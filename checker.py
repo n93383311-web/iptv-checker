@@ -1,59 +1,60 @@
 import os
 import re
-import asyncio
-import aiohttp
-import uvloop
+import requests
 
 INPUT_DIR = "input_lists2"
 OUTPUT_FILE = "output/working.m3u"
 
-async def test_stream(session, url):
-    try:
-        async with session.get(url, timeout=4) as r:
-            if r.status < 400:
-                return url
-    except:
-        pass
-    return None
-
 def extract_urls(text):
     return re.findall(r'(https?://[^\s]+)', text)
 
-async def process_all(urls):
-    conn = aiohttp.TCPConnector(limit=200, ssl=False)  # 200 parallel streams
-    timeout = aiohttp.ClientTimeout(total=4)
-    headers = {"User-Agent": "IPTV-Checker"}
+def test_stream(url, timeout=5):
+    try:
+        r = requests.get(url, stream=True, timeout=timeout)
+        # Working if it starts responding & header is video/TS-like
+        if r.status_code < 400:
+            return True
+    except:
+        pass
+    return False
 
-    async with aiohttp.ClientSession(connector=conn, timeout=timeout, headers=headers) as session:
-        tasks = [test_stream(session, url) for url in urls]
-        results = await asyncio.gather(*tasks)
+def main():
+    print("=== IPTV STREAM CHECKER STARTED ===")
 
-    return [url for url in results if url]
-
-async def main():
-    print("=== ULTRA FAST IPTV CHECKER ===")
-
-    all_urls = []
+    all_working = []
 
     for filename in os.listdir(INPUT_DIR):
-        if filename.endswith((".m3u", ".m3u8")):
-            with open(os.path.join(INPUT_DIR, filename), "r", errors="ignore") as f:
-                all_urls += extract_urls(f.read())
+        if not filename.endswith((".m3u", ".m3u8")):
+            continue
 
-    print(f"Found total {len(all_urls)} URLs")
+        filepath = os.path.join(INPUT_DIR, filename)
+        print(f"\nReading: {filepath}")
 
-    working = await process_all(all_urls)
+        with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
+            content = f.read()
 
-    print(f"Working streams: {len(working)}")
+        urls = extract_urls(content)
+        print(f" → Found {len(urls)} URLs")
+
+        for url in urls:
+            print(f"Testing {url} ... ", end="")
+            if test_stream(url):
+                print("OK")
+                all_working.append(url)
+            else:
+                print("FAILED")
+
+    print(f"\nTotal working streams: {len(all_working)}")
 
     os.makedirs("output", exist_ok=True)
-    with open(OUTPUT_FILE, "w") as out:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
         out.write("#EXTM3U\n")
-        for i, url in enumerate(working):
+        for i, url in enumerate(all_working):
             out.write(f"#EXTINF:-1,Stream {i}\n{url}\n")
 
-    print("Saved:", OUTPUT_FILE)
+    print(f"Saved to {OUTPUT_FILE}")
+    print("=== FINISHED ===")
+
 
 if __name__ == "__main__":
-    uvloop.install()
-    asyncio.run(main())
+    main()
