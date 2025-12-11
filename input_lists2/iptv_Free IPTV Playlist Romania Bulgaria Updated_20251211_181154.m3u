@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=\"VRT1.be\" tvg-name=\"EEN\" tvg-logo=\"\" group-title=\"BELGIE (VLAAMS)\",EEN
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/3
+#EXTINF:-1 tvg-id=\"Canvas.be\" tvg-name=\"CANVAS\" tvg-logo=\"\" group-title=\"BELGIE (VLAAMS)\",CANVAS
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/4
+#EXTINF:-1 tvg-id=\"Play4.be\" tvg-name=\"PLAY4\" tvg-logo=\"\" group-title=\"BELGIE (VLAAMS)\",PLAY4
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/5
+#EXTINF:-1 tvg-id=\"VTM2.be\" tvg-name=\"VTM2\" tvg-logo=\"\" group-title=\"BELGIE (VLAAMS)\",VTM2
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/6
+#EXTINF:-1 tvg-id=\"Play5.be\" tvg-name=\"PLAY5\" tvg-logo=\"\" group-title=\"BELGIE (VLAAMS)\",PLAY5
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/7
+#EXTINF:-1 tvg-id=\"Play6.be\" tvg-name=\"PLAY6\" tvg-logo=\"\" group-title=\"BELGIE (VLAAMS)\",PLAY6
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/8
+#EXTINF:-1 tvg-id=\"Play7.be\" tvg-name=\"PLAY7\" tvg-logo=\"\" group-title=\"BELGIE (VLAAMS)\",PLAY7
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/9
+#EXTINF:-1 tvg-id=\"VTM3.be\" tvg-name=\"VTM3\" tvg-logo=\"\" group-title=\"BELGIE (VLAAMS)\",VTM3
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/10
+#EXTINF:-1 tvg-id=\"VTM4.be\" tvg-name=\"VTM4\" tvg-logo=\"\" group-title=\"BELGIE (VLAAMS)\",VTM4
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/11
+#EXTINF:-1 tvg-id=\"elevenproleague1nl.be\" tvg-name=\"ELEVEN PRO LEAGUE 1\" tvg-logo=\"\" group-title=\"BELGIUM SPORTS\",ELEVEN PRO LEAGUE 1
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/12
+#EXTINF:-1 tvg-id=\"elevenproleague2nl.be\" tvg-name=\"ELEVEN PRO LEAGUE 2\" tvg-logo=\"\" group-title=\"BELGIUM SPORTS\",ELEVEN PRO LEAGUE 2
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/13
+#EXTINF:-1 tvg-id=\"elevenproleague3nl.be\" tvg-name=\"ELEVEN PRO LEAGUE 3\" tvg-logo=\"\" group-title=\"BELGIUM SPORTS\",ELEVEN PRO LEAGUE 3
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/14
+#EXTINF:-1 tvg-id=\"elevensports1nl.be\" tvg-name=\"ELEVEN SPORTS 1\" tvg-logo=\"\" group-title=\"BELGIUM SPORTS\",ELEVEN SPORTS 1
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/15
+#EXTINF:-1 tvg-id=\"elevensports2nl.be\" tvg-name=\"ELEVEN SPORTS 2\" tvg-logo=\"\" group-title=\"BELGIUM SPORTS\",ELEVEN SPORTS 2
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/16
+#EXTINF:-1 tvg-id=\"elevensports3nl.be\" tvg-name=\"ELEVEN SPORTS 3\" tvg-logo=\"\" group-title=\"BELGIUM SPORTS\",ELEVEN SPORTS 3
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/17
+#EXTINF:-1 tvg-id=\"MENT.be\" tvg-name=\"MENT TV\" tvg-logo=\"\" group-title=\"BELGIE (VLAAMS)\",MENT TV
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/35
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Radio 1\" tvg-logo=\"\" group-title=\"VLAAMS\",Radio 1
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/37
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Radio 2\" tvg-logo=\"\" group-title=\"VLAAMS\",Radio 2
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/38
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"MNM\" tvg-logo=\"\" group-title=\"VLAAMS\",MNM
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/39
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Studio Brussel\" tvg-logo=\"\" group-title=\"VLAAMS\",Studio Brussel
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/40
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Ketnet Radio\" tvg-logo=\"\" group-title=\"VLAAMS\",Ketnet Radio
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/41
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Klara\" tvg-logo=\"\" group-title=\"VLAAMS\",Klara
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/42
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Klara Continuo\" tvg-logo=\"\" group-title=\"VLAAMS\",Klara Continuo
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/43
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Sporza\" tvg-logo=\"\" group-title=\"VLAAMS\",Sporza
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/44
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Q-Music\" tvg-logo=\"\" group-title=\"VLAAMS\",Q-Music
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/45
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Joe FM\" tvg-logo=\"\" group-title=\"VLAAMS\",Joe FM
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/46
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Ment TV Radio\" tvg-logo=\"\" group-title=\"VLAAMS\",Ment TV Radio
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/47
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TopRadio\" tvg-logo=\"\" group-title=\"VLAAMS\",TopRadio
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/48
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"HitFM\" tvg-logo=\"\" group-title=\"VLAAMS\",HitFM
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/49
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Nostalgie\" tvg-logo=\"\" group-title=\"VLAAMS\",Nostalgie
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/50
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Ajoin Music\" tvg-logo=\"\" group-title=\"VLAAMS\",Ajoin Music
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/51
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Radio Maria\" tvg-logo=\"\" group-title=\"VLAAMS\",Radio Maria
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/52
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Radio Minerva\" tvg-logo=\"\" group-title=\"VLAAMS\",Radio Minerva
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/53
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RGR FM\" tvg-logo=\"\" group-title=\"VLAAMS\",RGR FM
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/54
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"FM Gold\" tvg-logo=\"\" group-title=\"VLAAMS\",FM Gold
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/55
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"Joe 60-70s\" tvg-logo=\"\" group-title=\"VLAAMS\",Joe 60-70s
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/56
+#EXTINF:-1 tvg-id=\"launefr.be\" tvg-name=\"LA UNE\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",LA UNE
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/57
+#EXTINF:-1 tvg-id=\"ladeuxfr.be\" tvg-name=\"TIPIK\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",TIPIK
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/58
+#EXTINF:-1 tvg-id=\"latroisfr.be\" tvg-name=\"LA TROIS\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",LA TROIS
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/59
+#EXTINF:-1 tvg-id=\"clubrtlfr.be\" tvg-name=\"CLUB RTL\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",CLUB RTL
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/60
+#EXTINF:-1 tvg-id=\"rtltvifr.be\" tvg-name=\"RTL TVI\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",RTL TVI
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/61
+#EXTINF:-1 tvg-id=\"plugrtlfr.be\" tvg-name=\"PLUG RTL\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",PLUG RTL
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/62
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: AB EXPLORE\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: AB EXPLORE
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/163
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: AB 1\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: AB 1
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/164
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: ANTENNE CENTRE\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: ANTENNE CENTRE
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/165
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: BFM\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: BFM
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/166
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: CANAL ZOOM\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: CANAL ZOOM
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/167
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: CHAMBER LUX\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: CHAMBER LUX
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/168
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: CINEMA 1\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: CINEMA 1
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/169
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: LN 24\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: LN 24
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/170
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: MATELE\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: MATELE
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/171
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: MY COMEDY\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: MY COMEDY
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/172
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: NRJ HITS\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: NRJ HITS
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/173
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: BX1+\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: BX1+
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/174
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"BE: AB3\" tvg-logo=\"\" group-title=\"BELGIQUE (WALLONIE)\",BE: AB3
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/175
+#EXTINF:-1 tvg-id=\"VTMGold.be\" tvg-name=\"VTM GOLD\" tvg-logo=\"\" group-title=\"BELGIE (VLAAMS)\",VTM GOLD
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/281
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"TOPradio ZILLION\" tvg-logo=\"\" group-title=\"VLAAMS\",TOPradio ZILLION
+http://strm.quantus.one:3389/tgzPJj5mSD/vcRvquKzVY/4164

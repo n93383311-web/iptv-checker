@@ -1,0 +1,423 @@
+#EXTM3U
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/308\" tvg-id=\"a9d2804e7aef4f6c0162a684d01d8e92\",TVR 1
+http://188.24.82.90:9981/stream/channelid/1317065385?ticket=F230DE7706BBAE6353E248ECC9E30CF76EF43673&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/309\" tvg-id=\"529366cd7bd1c0c7c19cb840f66dd583\",TVR 2
+http://188.24.82.90:9981/stream/channelid/1298568018?ticket=A18E7F45E1F546CA6D0357AE94AB4E9CBA165D0A&profile=pass
+#EXTINF:-1 tvg-id=\"ffe01c00766683415549be06bc50d285\",TVR1 HD
+http://188.24.82.90:9981/stream/channelid/1892607?ticket=9C5999F58B7CD1E941C04DFF90B1A12ACA89DC83&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/282\" tvg-id=\"97d17745f3b3fda7c30f68e80226c239\",PRO TV
+http://188.24.82.90:9981/stream/channelid/1165480343?ticket=CCDAB5FC845E029F798990D69270248017188C15&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/283\" tvg-id=\"f2839ebb39faad2c5f9164ece4c0e056\",PRO TV HD
+http://188.24.82.90:9981/stream/channelid/1000244210?ticket=0819EC289C5E9211A7CE235C28A3D30ECD17C557&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/195\" tvg-id=\"4477bddb4e997c4b52ca3c78c47f4f23\",Antena 1
+http://188.24.82.90:9981/stream/channelid/1539143492?ticket=51FDB1F4FC57DFBA5F463B4AA3FBD9DFFCCAA45F&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/196\" tvg-id=\"8a56c7be400d082aa324a92fb84cd0a4\",Antena 1 HD
+http://188.24.82.90:9981/stream/channelid/1053251210?ticket=729714A0AEBDECE96080F48EBBD25BF60DA71FB8&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/259\" tvg-id=\"99f62777f9b747f1eb24f2a1dcc24093\",Kanal D
+http://188.24.82.90:9981/stream/channelid/1999107737?ticket=B44087C47768ABC1C0BB4BFF6BAE0F0641D98E6F&profile=pass
+#EXTINF:-1 tvg-id=\"507749e2bfd592891fc5af2f80350594\",Kanal D HD
+http://188.24.82.90:9981/stream/channelid/1648981840?ticket=944EEA6852299043B723E16CDDDDB944CE884503&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/278\" tvg-id=\"fa8836761c2591b340093efe6e1e7fb4\",PRIMA TV
+http://188.24.82.90:9981/stream/channelid/1983285498?ticket=F92BF80D85F07FD95291C7D7500C0AA0709D1AB4&profile=pass
+#EXTINF:-1 tvg-id=\"471bfd3ba42a24a5c058717fc353b972\",National TV
+http://188.24.82.90:9981/stream/channelid/1006443335?ticket=8EFD6B11FEA47A91AA7030B5EB065CF4CA6B5D9D&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/214\" tvg-id=\"dedb5c0e732d4012619917a380fe36b4\",DIGI 24
+http://188.24.82.90:9981/stream/channelid/240966622?ticket=4C333651B9C3554458EF60BE832DB215AADD5247&profile=pass
+#EXTINF:-1 tvg-id=\"aa817cf2be02e776c5af3aa4c7808587\",DIGI 24 HD
+http://188.24.82.90:9981/stream/channelid/1920762282?ticket=42DA31DB9C475FB7635CF2BBDA4CFC7D8C6EA650&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/200\" tvg-id=\"a71bb360bf4ca52972a0b7fa3a1e0ba0\",B1
+http://188.24.82.90:9981/stream/channelid/1622350759?ticket=85A374892F9A73544D0A2489CB73B5A74BB9FAA8&profile=pass
+#EXTINF:-1 tvg-id=\"177b21ab46aa789b985f0946bd5399f0\",Realitatea Plus
+http://188.24.82.90:9981/stream/channelid/723614487?ticket=62ED87573D77AC8E79DAEBB543AB86A2C634816A&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/197\" tvg-id=\"66d246ff20adea76b5fa979b31cf96ed\",Antena 3
+http://188.24.82.90:9981/stream/channelid/2135347814?ticket=8B4E3BCB0EA0E80FBB6516319DB92629D73305D7&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/198\" tvg-id=\"3b280ffe920b2aafc21c1aa4fb85dae5\",Antena 3 HD
+http://188.24.82.90:9981/stream/channelid/2114922555?ticket=1F2491790A6CF259C0C0A27A7866CE33F93EFBDD&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/297\" tvg-id=\"2d72919d1dcaf0fc322333719b033bf2\",Romania TV
+http://188.24.82.90:9981/stream/channelid/496071213?ticket=5E03E9A09ECEE4F2573151B21511CB4DAC80BD9D&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/222\" tvg-id=\"9b8a1865bda5edcd774d51ab3cbbcead\",DIGI Sport 4
+http://188.24.82.90:9981/stream/channelid/1696107163?ticket=9D995BA0E42A168A3406C47D353A557A37084894&profile=pass
+#EXTINF:-1 tvg-id=\"714c04aabe91061c04c7cafc66ac165e\",DIGI Sport 4 HD
+http://188.24.82.90:9981/stream/channelid/704924785?ticket=4266528E6882F6314E2E7221160250F7ED979841&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/217\" tvg-id=\"9d5ccb3e9fb7539e5370697fa6587097\",DIGI Sport 1
+http://188.24.82.90:9981/stream/channelid/1053514909?ticket=A976045DA00EF49BB05013F7E3BC2BC64479E3B8&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/218\" tvg-id=\"52f866fb802976724a013aa3e4fb2967\",DIGI Sport 1 HD
+http://188.24.82.90:9981/stream/channelid/2070345810?ticket=63AC2AAACF811C5086E8762CC9842B3B2F3486E6&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/219\" tvg-id=\"9c5b65a3b11dd6c3eb36ed9c305e51c9\",DIGI Sport 2
+http://188.24.82.90:9981/stream/channelid/593845148?ticket=DE374BA830AA6574644BC906DD5737007996D01C&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/220\" tvg-id=\"844208ef13213682371edc81ca6b451b\",DIGI Sport 2 HD
+http://188.24.82.90:9981/stream/channelid/1862812292?ticket=DC07960FECD0F6EF77EEFA6EEC43F2D3FC3DB38C&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/284\" tvg-id=\"a134db78748d012ad6a8adb634b999e2\",PRO ARENA
+http://188.24.82.90:9981/stream/channelid/2027631777?ticket=671ADF20DC5E79BE97431922AA8CA7C8BC293525&profile=pass
+#EXTINF:-1 tvg-id=\"b7d8bbf338d1913f023d4b49a11c1d40\",PRO ARENA HD
+http://188.24.82.90:9981/stream/channelid/1941690551?ticket=2298F1CE2F997C7F2741712FC24C7F1E299A462A&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/221\" tvg-id=\"4479a74b5d43752108022dfec90713c2\",DIGI Sport 3
+http://188.24.82.90:9981/stream/channelid/1269266756?ticket=BBC2ABEBABD61715430BED525BE826201548BF43&profile=pass
+#EXTINF:-1 tvg-id=\"7aa02a19948044853450ccf027705610\",DIGI Sport 3 HD
+http://188.24.82.90:9981/stream/channelid/422223994?ticket=F2D8387A55733256359248C1C848527BBC9671A4&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/237\" tvg-id=\"3e54ed8e9383d3909dbe838099a7b07b\",Eurosport
+http://188.24.82.90:9981/stream/channelid/250434622?ticket=6900570FFB0F3372606013046A8DD594C3BC3279&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/240\" tvg-id=\"61b5bb0b03c1f629f8cb3040e000a443\",Eurosport HD
+http://188.24.82.90:9981/stream/channelid/196851041?ticket=11B3D3232C4CB30CA41616839F6B1505916BFE36&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/238\" tvg-id=\"fe5dcb15871409d79b72a0cc83019a40\",Eurosport 2
+http://188.24.82.90:9981/stream/channelid/365649406?ticket=E726F7856DD5AFB1D426419BFB759893AD20D8FC&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/239\" tvg-id=\"3a24fb0e8ce4f6366677fa9b769934b1\",Eurosport 2 HD
+http://188.24.82.90:9981/stream/channelid/251339834?ticket=C084AEEB81B8E0D7D897A63AABD3D750C2A533E2&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/279\" tvg-id=\"2bf686ffe69001cb733a146c5c2a9508\",ACASA
+http://188.24.82.90:9981/stream/channelid/2139551275?ticket=1C22FC49CECE97ACEDF9A57EC444204D5FE5ABC3&profile=pass
+#EXTINF:-1 tvg-id=\"8b46082a61210160ba190ef1f0791a02\",ACASA HD
+http://188.24.82.90:9981/stream/channelid/705185419?ticket=58616563C8C71D01A2FEFEDC3F4A8685CE61BB76&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/245\" tvg-id=\"5c71af0f5d43f3c78058253f3fbce8fd\",Film Cafe
+http://188.24.82.90:9981/stream/channelid/263156060?ticket=5413B1E901D648E797018168A7769B55036FFFD6&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/281\" tvg-id=\"2d1a8602dff00917f066106be2cec486\",ACASA GOLD
+http://188.24.82.90:9981/stream/channelid/42342957?ticket=2D64E901291F175DECDD124CC7897A81736B9010&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/254\" tvg-id=\"f4762a1d0f5ae9fc4e0c0d1c948d9f98\",Happy Channel
+http://188.24.82.90:9981/stream/channelid/489322228?ticket=2013338857D2A69AC572381AFF757D17251E473D&profile=pass
+#EXTINF:-1 tvg-id=\"0f7e4e3d28a87bdba8f0434ca796b239\",Happy Channel HD
+http://188.24.82.90:9981/stream/channelid/1028554255?ticket=70C96B5237AD7CFED5C81AA159F32D53DB881B77&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/305\" tvg-id=\"e158bb8d10b3a102d90fb9a0b0060e52\",TV Paprika
+http://188.24.82.90:9981/stream/channelid/230381793?ticket=B441B9291C1C69F5DED1CF465E86B7681804149E&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/199\" tvg-id=\"4c1aeb8be59acaa80c25334adf485c51\",Antena Stars
+http://188.24.82.90:9981/stream/channelid/199957068?ticket=5BDAD7E788845E67404706A68C3910B73B444F74&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/256\" tvg-id=\"78ecf5d33a2e9319d89180ac71a6f23e\",History Channel
+http://188.24.82.90:9981/stream/channelid/1408625784?ticket=EE24B0DC95DE515F7D94321378BAE480EA5D4356&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/257\" tvg-id=\"851cd74f8b4b1d66aef09217951c2ab4\",History Channel HD
+http://188.24.82.90:9981/stream/channelid/1339497605?ticket=42E781CC5681F80036B362478DEF3708A332FE9B&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/271\" tvg-id=\"2732df99f6a0e6b674319610735a6444\",Nat Geo
+http://188.24.82.90:9981/stream/channelid/434057767?ticket=EC191811A58DDD8DE99256F130BB3B431DD0B77D&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/272\" tvg-id=\"1462b411d4be125030bbf76898880f6d\",Nat Geo HD
+http://188.24.82.90:9981/stream/channelid/297034260?ticket=A8C6481CC792A62A9A6D9DC4C25E5328C40D5F23&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/223\" tvg-id=\"ef04b44dc5c7a818786008c86aac1101\",DIGI WORLD
+http://188.24.82.90:9981/stream/channelid/1303643375?ticket=5F18CFD1A226D3FAB6FB0EE5CCBDECE668DA6EC3&profile=pass
+#EXTINF:-1 tvg-id=\"7a10be419f03e68d9b847c3e4192f79d\",DIGI WORLD HD
+http://188.24.82.90:9981/stream/channelid/1102975098?ticket=1C1BB5B3171FF2CC2026406963E0F87CA68CE7F8&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/216\" tvg-id=\"b685b76a7f9f8d59cef3fe02c8ef120b\",DIGI LIFE
+http://188.24.82.90:9981/stream/channelid/1790412214?ticket=6358AA0FA3EB6F2E951FDEE964A18BAA996C4079&profile=pass
+#EXTINF:-1 tvg-id=\"8892c94ac05df84684f2a270b81bf7a9\",DIGI LIFE HD
+http://188.24.82.90:9981/stream/channelid/1254724232?ticket=F98DF278FD4AE301D17047343545DB07EFDEB954&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/321\" tvg-id=\"35006e6ebc57c814f0f3d9c346b4e833\",Viasat Nature
+http://188.24.82.90:9981/stream/channelid/1852702773?ticket=E24536736FAFEC5817759344FAA51F99D2818744&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/338\" tvg-id=\"c8b5940cb9957e113ea823af4b8918ba\",Viasat Nature HD
+http://188.24.82.90:9981/stream/channelid/211072456?ticket=15794370DD5C938DAF727CB172E75400CE734DF7&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/334\" tvg-id=\"e3754271b06d8ce387d58dd5c2cb81ac\",HGTV
+http://188.24.82.90:9981/stream/channelid/1900180963?ticket=0ADA8B0565FECBE8EBCE82DA58849FC20AB18FF6&profile=pass
+#EXTINF:-1 tvg-id=\"639f2a7b9c7c0c1d037619ea0d8be62f\",HGTV HD
+http://188.24.82.90:9981/stream/channelid/2066390883?ticket=6C27222338C54FC61F51CD61082209FFC4C2831C&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/215\" tvg-id=\"62e6a180b3b7176e71442f618ceefb2d\",DIGI ANIMAL WORLD
+http://188.24.82.90:9981/stream/channelid/10610274?ticket=A70D0A035FA5D5BCFD8FF4BB0C7C1F7D911BE711&profile=pass
+#EXTINF:-1 tvg-id=\"70e9d2031a11c17ae8d3a76ae4a0709c\",DIGI ANIMAL WORLD HD
+http://188.24.82.90:9981/stream/channelid/64153968?ticket=E9BDD83CA4DB12B1939E01C56CDCBA7364F90DAE&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/225\" tvg-id=\"9af24bc0726854a103577f5356e2444e\",Discovery
+http://188.24.82.90:9981/stream/channelid/1078719130?ticket=77D47D56D7D8DA457287AD191C544564EEF2A3B8&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/342\" tvg-id=\"29579f9c7f9de3a87050c69fa784ce80\",Discovery HD
+http://188.24.82.90:9981/stream/channelid/480204585?ticket=940FD774841E212887727CF1DDD3C09047E2274B&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/301\" tvg-id=\"5e274c5a75c34365e4db6e285bce6ad6\",TLC
+http://188.24.82.90:9981/stream/channelid/1514940254?ticket=EAE196D9B920803AF7943E09C927472F293896EC&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/313\" tvg-id=\"7c9a09d1d5de14cca8205e7e103399b0\",Travel Channel
+http://188.24.82.90:9981/stream/channelid/1359583868?ticket=BBF0EB60CC0429E7FCEFC3ED2CB054BD9BBC1000&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/314\" tvg-id=\"87be504994fcf51aae49cd9ca323324f\",Travel Channel HD
+http://188.24.82.90:9981/stream/channelid/1230028423?ticket=2636E934540B94C59FFA3886C87F4CA14ADBE41D&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/201\" tvg-id=\"a02049f233bd328aecf34cccb3811d46\",BBC Earth
+http://188.24.82.90:9981/stream/channelid/1917395104?ticket=2E4384C01232C809E18C6DD45E401BB0BF1B9FE5&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/344\" tvg-id=\"44cc9ad255a3d6157c0ec4cfe661774e\",BBC Earth HD
+http://188.24.82.90:9981/stream/channelid/1385876548?ticket=D81C96983CEFC796B2D5EAC2CFE332C86C7DECCF&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/273\" tvg-id=\"4f0bf2c0fdd2b096e8857e2508c87eb4\",Nat Geo Wild
+http://188.24.82.90:9981/stream/channelid/1089604431?ticket=4F14FB56D725E1FD25C0A71C2817DF710431B4C1&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/274\" tvg-id=\"249b867dd07295138a1e411058ce75ba\",Nat Geo Wild HD
+http://188.24.82.90:9981/stream/channelid/2105973540?ticket=1F849E99997D6178CD8CF7B6743073177F8B752E&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/319\" tvg-id=\"4c6060abca95bc84a1786b2d9ccbebcf\",Viasat Explore
+http://188.24.82.90:9981/stream/channelid/727736396?ticket=193D2B323D809A1EDB9E1EEAF4AFDFDDC04C9718&profile=pass
+#EXTINF:-1 tvg-id=\"62b8493500bbcd4bf02a783453f04044\",Viasat Explore HD
+http://188.24.82.90:9981/stream/channelid/894023778?ticket=BD70C64C171696876F78C6219C61FB1B93DECBEF&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/320\" tvg-id=\"c19f76f3d26acefccb374b216135c6db\",Viasat History
+http://188.24.82.90:9981/stream/channelid/1937153985?ticket=01700736B6C3D91C3FF0B62185414D724CB7688E&profile=pass
+#EXTINF:-1 tvg-id=\"15e492dfed00d2555139dbfa2651dbbc\",Viasat History HD
+http://188.24.82.90:9981/stream/channelid/1603462165?ticket=0B7D058C1DFCF0D452B1B7E5C9B05FDDF8C3E137&profile=pass
+#EXTINF:-1 tvg-id=\"86edae6b35619728e9a829bfa48e06a8\",Travel Mix
+http://188.24.82.90:9981/stream/channelid/1806626182?ticket=DBEF4F170542516E67601524D2BFA53136A9C540&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/280\" tvg-id=\"56c8fd057bd7c615cecda1a83068c725\",PRO CINEMA
+http://188.24.82.90:9981/stream/channelid/100517974?ticket=5E0C8AA38D056975D034942281377CA863D682FD&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/246\" tvg-id=\"565aa3b37b308a0a7b6dcbbf6999cf3f\",FILM NOW
+http://188.24.82.90:9981/stream/channelid/866343510?ticket=B477A2FDD438BE2BA738AE932B0C5B3CF6D76053&profile=pass
+#EXTINF:-1 tvg-id=\"579370eeef905d63c5d270a635cb13a7\",FILM NOW HD
+http://188.24.82.90:9981/stream/channelid/1852871511?ticket=3A928686610E5D546B4F09F09F895F7A688FAAC8&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/228\" tvg-id=\"dce2e792ccf8217c1561042478ca1681\",Diva
+http://188.24.82.90:9981/stream/channelid/317186780?ticket=5632B9BD45B9906B20B50C87EAE6C73B98B93152&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/233\" tvg-id=\"7a880b0a32c182dbe044ff8b58ee6136\",Epic Drama
+http://188.24.82.90:9981/stream/channelid/168527994?ticket=CFA34FE6A17026CE2F427EA89847CF1B9B435062&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/306\" tvg-id=\"f1b5060b3bc166cd8e309e677c31fd79\",TV1000
+http://188.24.82.90:9981/stream/channelid/184989169?ticket=FF72B4E4CE0B91996D19ABC3E18DF9A69B8F4A6F&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/285\" tvg-id=\"6c35d27260e6c121e6176cc73b7a8415\",TeenNick
+http://188.24.82.90:9981/stream/channelid/1926378860?ticket=D886EC8D967F5C088CF29851AF5C709A354EC6B7&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/203\" tvg-id=\"7d18d5f6835cc05611670861990ac7e4\",Bollywood TV
+http://188.24.82.90:9981/stream/channelid/1993676925?ticket=E31DAE0CCDB0EEFFDF5BE5F17B683B16A4846427&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/329\" tvg-id=\"e5780c9a96a681440dd8af53e3f672c2\",Bollywood TV HD
+http://188.24.82.90:9981/stream/channelid/437024997?ticket=AEA2D84E989F88C99BA688898A4884C8EA447989&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/189\" tvg-id=\"d3b1399a18a3b02c46cedf579ad2d9a1\",AXN
+http://188.24.82.90:9981/stream/channelid/439988691?ticket=4034057C74CCE0491C80BD33273F53FE36B53CAA&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/191\" tvg-id=\"b40027d7c84f6caa1b93d21ab514a596\",AXN HD
+http://188.24.82.90:9981/stream/channelid/1462173876?ticket=A08D7F58B76BE45BB6279FC28A1D31A3A744395E&profile=pass
+#EXTINF:-1 tvg-id=\"94adc8f4563a5e2b2b518c43b09b6ae6\",Cinemaraton
+http://188.24.82.90:9981/stream/channelid/1959308692?ticket=36F4D7650E8ABE58FDC8366DBFE5E130ACE34708&profile=pass
+#EXTINF:-1 tvg-id=\"9ffc9b3b4ee1366676b3b2b88e1b590d\",Cinemaraton HD
+http://188.24.82.90:9981/stream/channelid/1000078495?ticket=E0C54FD0787BEAC93857D237FC710F772D2E5540&profile=pass
+#EXTINF:-1 tvg-id=\"f8d23297fc5bfe4c793242b8c84dce1e\",PRIMA COMEDY
+http://188.24.82.90:9981/stream/channelid/389206776?ticket=1354C22274C9F35734181DFC466B4C4FA3C44F06&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/328\" tvg-id=\"4aec4bbcda24f70a064540d5e03df0ef\",AMC
+http://188.24.82.90:9981/stream/channelid/1011608650?ticket=B722FFECFCF63AC3656135D927D5CB5519C6B11D&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/345\" tvg-id=\"1e79248fa3ff47bcca5b346bd7898d93\",AMC HD
+http://188.24.82.90:9981/stream/channelid/254048542?ticket=B63ADE1D483282B8E92C11DF7C3CE6B1CEB44298&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/193\" tvg-id=\"f9f50d9e65a72f5dae31b0a3273c9947\",AXN White
+http://188.24.82.90:9981/stream/channelid/504231417?ticket=11710F2C0DBE04A5F6458FAD5C198522F7724AC0&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/190\" tvg-id=\"7304d11256c3846756a59369662fb690\",AXN Black
+http://188.24.82.90:9981/stream/channelid/315688051?ticket=86634263DB647DD0E3734EE345DAC3D31B939271&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/192\" tvg-id=\"8304cd79ac198bd3153baea605fa6d4f\",AXN Spin
+http://188.24.82.90:9981/stream/channelid/2043479171?ticket=D18CA653964460E32BDE3FE65E03FD9E9D1CE5B1&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/231\" tvg-id=\"af7aef0a04d48e28ba0169468eb82e9e\",E! Entertainment
+http://188.24.82.90:9981/stream/channelid/183466671?ticket=CC78E3E10AB23B0367FBCFE5EC000E2CB632DBB8&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/211\" tvg-id=\"8be0dbd3258a56c423518789a5e2f404\",Comedy Central
+http://188.24.82.90:9981/stream/channelid/1406918795?ticket=4653AFD73CDDD1D91C643BEBF17CF6F44D533763&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/232\" tvg-id=\"841d398196dfca4897137afe6214210c\",E! Entertainment HD
+http://188.24.82.90:9981/stream/channelid/20520324?ticket=00CC6DBBC52B8499CCA2912665D0C92DE47C3EEA&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/302\" tvg-id=\"2cd5ffc67f72ac626858c312e62b0fca\",Warner TV
+http://188.24.82.90:9981/stream/channelid/1191171372?ticket=0CB1D5C6C82AD29BB7162C036E583290FC64F743&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/276\" tvg-id=\"861b4e4d7842feaf7fe60105bf63f98f\",Nickelodeon
+http://188.24.82.90:9981/stream/channelid/1296964486?ticket=1347E518CF9302C8FA180A2C1DEB9E83CAE4FA1B&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/268\" tvg-id=\"e2f3b20bcdbd57afd7164459427d0a6b\",Minimax
+http://188.24.82.90:9981/stream/channelid/196277218?ticket=70633CD93BCF4F15F15D5D776D128C0E02A29DE7&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/207\" tvg-id=\"520620d53e0b50221961e331eced193e\",Cartoon Network
+http://188.24.82.90:9981/stream/channelid/1428162130?ticket=D88F40EAF4B38672DECF6FAB079610E7A4D86F2F&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/226\" tvg-id=\"00a308a76b58de7935f4792c8266f78c\",Disney Channel
+http://188.24.82.90:9981/stream/channelid/654877440?ticket=122571FF725DFDC95D5F4DAE68306AA558ED9428&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/227\" tvg-id=\"6cc41153505446fad317a40d16684b16\",Disney Junior
+http://188.24.82.90:9981/stream/channelid/1393673324?ticket=3F3C5E0ED34E4C138A9440017F586D7CDEFB8FAB&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/204\" tvg-id=\"32f425cdb49e5fd20b1eff1d226ddca6\",Cartoonito
+http://188.24.82.90:9981/stream/channelid/1294332978?ticket=161E390277761F54EEAC8C48C2D4B773EABEA163&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/229\" tvg-id=\"f7fc97998c60a41ec11d2f9d64c53e18\",duckTV
+http://188.24.82.90:9981/stream/channelid/429391095?ticket=AB76782FBDCE1FB7E2EACA10C0E7A37A4005AF0C&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/339\" tvg-id=\"8ae1936eaa412be837ea17e43cdcc0c8\",JimJam
+http://188.24.82.90:9981/stream/channelid/1855185290?ticket=90DA04BB82A38365226B0FAD8FB9A877D6F8A63D&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/275\" tvg-id=\"3a8e5489d73d03040bc10c98aaf369b4\",Nick Jr
+http://188.24.82.90:9981/stream/channelid/156536378?ticket=9A71A429EB6923D814B571D7EB0ADFD74CB618E1&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/224\" tvg-id=\"13959a20ddefde0dd25aaa40d7cd13b1\",DaVinci
+http://188.24.82.90:9981/stream/channelid/547001619?ticket=E50E233BAEADAB3EE53E633D554F1354415F4758&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/277\" tvg-id=\"3ae70af9fc6a1899147a3d15e5e6b7af\",Nicktoons
+http://188.24.82.90:9981/stream/channelid/2030757690?ticket=5A3C94AA97F0F4FAFB6F67A3ABBE6600ADFB7ACE&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/316\" tvg-id=\"f776e5da0cd67b41e2a9da9d2415d6a0\",UTV
+http://188.24.82.90:9981/stream/channelid/1524987639?ticket=0193A1FBB2B4CB4DBFBB22BA203D335D619582CD&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/317\" tvg-id=\"7c0665ea9fbf864e7b961bff1effacd7\",UTV HD
+http://188.24.82.90:9981/stream/channelid/1785005692?ticket=3AF7AD6A99BEDC95F70F003AC27C744D73C6BB94&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/336\" tvg-id=\"9a213b5968bcf112c48ffad73cbe69cf\",MTV Europe
+http://188.24.82.90:9981/stream/channelid/1497047450?ticket=F2FAF84293A9C41F1C80953733F5980CDB0914C1&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/258\" tvg-id=\"3dc9cc8a6a2b80d97a0e7caecd7db6e1\",KISS TV
+http://188.24.82.90:9981/stream/channelid/181193021?ticket=FE89B5318773BAF003E8160A7EA91E41B0E7FB33&profile=pass
+#EXTINF:-1 tvg-id=\"716c94ddcaae8e7102cd3cc4c52f41d6\",HIT Music
+http://188.24.82.90:9981/stream/channelid/1570008177?ticket=86A51A2CCC9422CC7856CEA5D8DBAD1591801504&profile=pass
+#EXTINF:-1 tvg-id=\"ee68fd79c7f70ed018c29b32880c9b58\",MTV 00s
+http://188.24.82.90:9981/stream/channelid/2046650606?ticket=A5142649D6A36A95B9610C73BE29A66753AB782F&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/287\" tvg-id=\"dc8738af4f8298e4729bffa04a4235d3\",ROCK TV
+http://188.24.82.90:9981/stream/channelid/792233948?ticket=A674F8CD1BF06632F11BA3641B499445E97C7957&profile=pass
+#EXTINF:-1 tvg-id=\"cff4bd3fd1e18aafc5d324d23af477bd\",MAGIC TV
+http://188.24.82.90:9981/stream/channelid/1069413583?ticket=54A8E20BA31FC980970C70BAB5A12DFE2966E938&profile=pass
+#EXTINF:-1 tvg-id=\"ab0e0b8b48727a7b6cc019bd38c91e98\",Realitatea Plus HD
+http://188.24.82.90:9981/stream/channelid/185274027?ticket=62D15C9CCB9AC7915DCD58F7356C432F1831CBC2&profile=pass
+#EXTINF:-1 tvg-id=\"50b3a4657a271ca9725b15bed89e27ec\",Music Channel Ro
+http://188.24.82.90:9981/stream/channelid/1705292624?ticket=8F86F1E84A8B2C11D27AC912EF4F035E8F883DE3&profile=pass
+#EXTINF:-1 tvg-id=\"0bdf829f3180138b48dac9a399275bd3\",Music Channel
+http://188.24.82.90:9981/stream/channelid/528670475?ticket=91089F2AD98763083CBE3BF1A6E8E6492EF207DC&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/243\" tvg-id=\"177c1fdf220ae751808ca8ec15984919\",Favorit TV
+http://188.24.82.90:9981/stream/channelid/1595898903?ticket=D24EA2C700B6695906DE1B373D56344E6688303F&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/235\" tvg-id=\"214d40db77f2c3bb0bc54a50b0a75dd4\",Etno TV
+http://188.24.82.90:9981/stream/channelid/1530940705?ticket=F2446384EBF1D4564B18D1F3AC9BF7FBBB69DECC&profile=pass
+#EXTINF:-1 tvg-id=\"f2a777442f96d8683c23d96c55ba8620\",Hora TV HD
+http://188.24.82.90:9981/stream/channelid/1148692466?ticket=A67036D1C279D8A928DBEB396F903E2272CA4D56&profile=pass
+#EXTINF:-1 tvg-id=\"eb5e6ed071356c6f6fe6e5aaaa2adfdb\",Taraf TV
+http://188.24.82.90:9981/stream/channelid/1349410539?ticket=DC6C842A0817F686DE6387AFD91582BF85BEEC93&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/194\" tvg-id=\"22f8066f2a7483214d0f25c3632ae096\",Agro TV
+http://188.24.82.90:9981/stream/channelid/1862727714?ticket=6A4AA8F2CC6DF2B5272A16B0699C1A41C2C01F98&profile=pass
+#EXTINF:-1 tvg-id=\"fb8806f2b9ba4966a20f6866193aa636\",PRIMA NEWS
+http://188.24.82.90:9981/stream/channelid/1913030907?ticket=0F0A01972ABF0622D205D7E80021F3758876ED8F&profile=pass
+#EXTINF:-1 tvg-id=\"ce450cdde33d6718d59b1928d7a7ebff\",Nasul TV
+http://188.24.82.90:9981/stream/channelid/1561085390?ticket=AE8968B449EB95EC37220CC760191816EF41B4F1&profile=pass
+#EXTINF:-1 tvg-id=\"9b8f4038d18af4a3eb5fd05f75d285f7\",TVSudEst
+http://188.24.82.90:9981/stream/channelid/943755163?ticket=BD901B4E3A91421730821A12ECB25C2F604829C2&profile=pass
+#EXTINF:-1 tvg-id=\"99412c8da6489d6823c1ba89d6e31615\",CINETHRONIX
+http://188.24.82.90:9981/stream/channelid/221004185?ticket=25A84B03604A28301D30ED9796F81748ECC18293&profile=pass
+#EXTINF:-1 tvg-id=\"a1f1df7338c6a14624ded10197ee298e\",TVR INFO HD
+http://188.24.82.90:9981/stream/channelid/1944056225?ticket=09FCCBB55FDE17042CEC45DE1B4715A69BAC809C&profile=pass
+#EXTINF:-1 tvg-id=\"989d06644c0fb3e2529853d48a12cc45\",Telestar1
+http://188.24.82.90:9981/stream/channelid/1678155160?ticket=2B650A04E2EEAB1380AA7574AB00609A23C82115&profile=pass
+#EXTINF:-1 tvg-id=\"1945f84805dca2695f3a6f6e95ee73f8\",MEDIKA TV
+http://188.24.82.90:9981/stream/channelid/1224230169?ticket=B364D197C65FAB9A4CC6C31F55C93A026FD5E608&profile=pass
+#EXTINF:-1 tvg-id=\"f8b4ef797ce9c3dc1b6e8b8711fd1158\",Inedit TV
+http://188.24.82.90:9981/stream/channelid/2045752568?ticket=CD1C8C12213817F2D7F0645AE4CFA0C4EE45B397&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/261\" tvg-id=\"aa1658ca40c5f6828cac9349772b3091\",PRIMA SPORT 1
+http://188.24.82.90:9981/stream/channelid/1247286954?ticket=A67A6F1D746E33F943A6BB38FF43983C62AA7D15&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/262\" tvg-id=\"fc03b209d759b5931b8b4a1b76f6fe00\",PRIMA SPORT 2
+http://188.24.82.90:9981/stream/channelid/162661372?ticket=7BAE6EC2D4C905BB79931A92CE097826EBC3DB76&profile=pass
+#EXTINF:-1 tvg-id=\"720962100ede2365dd4223847da53568\",Kapital TV
+http://188.24.82.90:9981/stream/channelid/274860402?ticket=3DF32881AA29B78571998B72841D83E39523ED61&profile=pass
+#EXTINF:-1 tvg-id=\"bfb06986fbb816f365dd958a572b548d\",NCN
+http://188.24.82.90:9981/stream/channelid/107589823?ticket=98A5F1B5CF9704505AC7C46ABDABE6A9926B359E&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/310\" tvg-id=\"07e4643a187e6a64c8289fa60c6786c2\",TVR 3
+http://188.24.82.90:9981/stream/channelid/979690503?ticket=0B72EC34C08C43315C6F589CC332AFB5CF455EF8&profile=pass
+#EXTINF:-1 tvg-id=\"066358638d05452f8059c0a1a586b3fe\",Kanal D2
+http://188.24.82.90:9981/stream/channelid/1666736902?ticket=105A782D3B86928A96639DA295E909B443ED2648&profile=pass
+#EXTINF:-1 tvg-id=\"56d6786cc5b60b653d5b5d2344f5d00a\",Orizont TV
+http://188.24.82.90:9981/stream/channelid/1819858518?ticket=1B44D0AFABB7E055EEB906CFA0B35671D6F65C99&profile=pass
+#EXTINF:-1 tvg-id=\"f325973fbb01eea4332705c6ec5aa4fa\",National 24 Plus
+http://188.24.82.90:9981/stream/channelid/1066870259?ticket=94CBC4806C20174066B467064FB7AA168E1D0A1C&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/289\" tvg-id=\"329de779a067da6a162ee5c044c57f2f\",RTL Television
+http://188.24.82.90:9981/stream/channelid/2045222194?ticket=0079E76602C86FFC24F0FFF3EF6D4879D9F9D4CA&profile=pass
+#EXTINF:-1 tvg-id=\"a745b521bbd8bc2d545b129b67f20865\",Antena Stars HD
+http://188.24.82.90:9981/stream/channelid/565527975?ticket=8A4B777100C96EE4C0DA7AB6B6E695BD3CED01D3&profile=pass
+#EXTINF:-1 tvg-id=\"ab1ef748aaf74b24c35cf291ade695f9\",ZU TV HD
+http://188.24.82.90:9981/stream/channelid/1224154795?ticket=8E4BBF1D5F7D6F7B7B95FC1DC2137D2F0331A209&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/270\" tvg-id=\"295839259e692226fb3a2f7a7125859d\",TV2 Sef
+http://188.24.82.90:9981/stream/channelid/624515113?ticket=5FCBDA6DA78BD41102025F3F7DB753A57B5F617D&profile=pass
+#EXTINF:-1 tvg-id=\"68fb00e94c11e552db5e79b20457b680\",TV AS
+http://188.24.82.90:9981/stream/channelid/1761672040?ticket=4CC5865B16B92E484CD10C04C9C5993D242FB1DF&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/255\" tvg-id=\"ece0cb7bf2a2f5ebd5b456473dbf2850\",Hir TV
+http://188.24.82.90:9981/stream/channelid/2076958956?ticket=AD5D76DF4DFC0A1DA2EC21D4960FEAC37CC7293C&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/315\" tvg-id=\"f3e83ab6e3850793a605f1d1a3cb44da\",Trinitas
+http://188.24.82.90:9981/stream/channelid/909830387?ticket=884CCABF2E6940667D07B6EB0D6CE9C21C31B15E&profile=pass
+#EXTINF:-1 tvg-id=\"7f931d8848c984be53731105c5a15a37\",SperantaTV
+http://188.24.82.90:9981/stream/channelid/136156031?ticket=7400FAF4C0EA335E646BBF4B0B9F3EBB2C20CC4A&profile=pass
+#EXTINF:-1 tvg-id=\"0c34771ee4f02b6326749525702197d7\",Alfa Omega
+http://188.24.82.90:9981/stream/channelid/511128588?ticket=2ADFB3C6EE59068A162041B3D36206AFC29262D6&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/213\" tvg-id=\"d1dccbdd45f24acefe24567c6a2b032a\",Credo TV
+http://188.24.82.90:9981/stream/channelid/1573641425?ticket=7EB40C10D74D8A1AD86EF6BFBD63B87532A40665&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/247\" tvg-id=\"b572a9e58f4711f006f0c919da005847\",Fishing and Hunting
+http://188.24.82.90:9981/stream/channelid/1705603765?ticket=1823D3B2008C8CC53A44AA515CBBE20A6D40AC96&profile=pass
+#EXTINF:-1 tvg-id=\"def6c5c46d382f5df689fbd0999e9fd1\",TVR2 HD
+http://188.24.82.90:9981/stream/channelid/1153824478?ticket=A7D93598B78ECF7CFF0F95C6F2408F7ACAA59A05&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/206\" tvg-id=\"229287411a45c2e2369d6f893ad6e92c\",CNN
+http://188.24.82.90:9981/stream/channelid/1099403810?ticket=5E5A72F12BC0ACB8C19F98D853B412C40B334EE6&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/307\" tvg-id=\"e530235fb76f41518679204dccea59a0\",TV5 MONDE
+http://188.24.82.90:9981/stream/channelid/1596141797?ticket=0458C5A6002C438F92A3AE28766B6F0F2B697FE5&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/295\" tvg-id=\"b7af4926b708ecbac91c40d579ac0606\",Rai 1
+http://188.24.82.90:9981/stream/channelid/642363319?ticket=DA90D5EB2DD72A2B6BC05D086530F96BDEB5EFEC&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/202\" tvg-id=\"03500454f91c633b7214a2091a321104\",BBC World News
+http://188.24.82.90:9981/stream/channelid/1409568771?ticket=310E953C8E4BA22435497923DDD85BF67748C298&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/324\" tvg-id=\"d0440250eb6001613499faaafe8c415e\",ZU TV
+http://188.24.82.90:9981/stream/channelid/1342325968?ticket=21199ABA0371A0E16A1DA941E851FE88796C4A47&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/242\" tvg-id=\"80a538ce135cec4825e53d368bad7a1a\",Fashion TV
+http://188.24.82.90:9981/stream/channelid/1312335232?ticket=FBAFDA6741AB9629FBE7898A1BC15C605AD3E104&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/298\" tvg-id=\"7ac3a15da512eb2c0779db30abd5e60c\",SUPER RTL
+http://188.24.82.90:9981/stream/channelid/1570882426?ticket=CD892A4BEAF4853BBB1AB220A4B932F8E9B77A3C&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/205\" tvg-id=\"8032e58a548b921157bb31b38e55d1f9\",CGTN
+http://188.24.82.90:9981/stream/channelid/182792832?ticket=D770D2411B8C4071875E9D1D911EE11A0C9A2BD3&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/300\" tvg-id=\"d964e5d623edd292a511e587c77786db\",SuperONE
+http://188.24.82.90:9981/stream/channelid/1457874137?ticket=2EC57D74B7C106823870DF341C0B20859B0E956F&profile=pass
+#EXTINF:-1 tvg-id=\"cdd0b4e16da69df79d89d9f0fed79d0c\",SuperONE HD
+http://188.24.82.90:9981/stream/channelid/1639239885?ticket=ADFC7B20093A9A8A366F5914BDB2D76E65C2F99B&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/251\" tvg-id=\"73c6e025b4e7de3e445036e2fad548d6\",HBO
+http://188.24.82.90:9981/stream/channelid/635487859?ticket=13AE34856B3D5F2AD65B419A782DB75E05AD783B&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/250\" tvg-id=\"2ba65d79a201df0fdfd2d7cc1b6fc3ef\",HBO HD
+http://188.24.82.90:9981/stream/channelid/2036180523?ticket=0F0CAA953CE17912D6FBEE59053E9A57A316F079&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/248\" tvg-id=\"1a53b5ccb52c6ba26f98bff6bad3af89\",HBO 2
+http://188.24.82.90:9981/stream/channelid/1286951706?ticket=6F8566A22BFEF7A6B48E0FC28F73B0A539EF0F68&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/252\" tvg-id=\"9ef423b67fd2631fa51a11d1ed482c2c\",HBO2 HD
+http://188.24.82.90:9981/stream/channelid/908326046?ticket=C53FC887ECEC97AE249BFCC6B814C62E7D79A652&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/249\" tvg-id=\"12fea841465387e2b462347dc8f73a30\",HBO 3
+http://188.24.82.90:9981/stream/channelid/1101594130?ticket=C4544F98EF5441437DC4BED9749E4C842D91E095&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/253\" tvg-id=\"b5400ace3ba5295d506f7513ec855272\",HBO3 HD
+http://188.24.82.90:9981/stream/channelid/1309294773?ticket=928E13EA8C2A8A9D17302735C889843A30F3A3D7&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/208\" tvg-id=\"ac4d825d5c545a1c8bf9e319380adc7a\",Cinemax
+http://188.24.82.90:9981/stream/channelid/1568820652?ticket=BF9DDD1E2081EB41884B7005547905D8B11BE348&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/210\" tvg-id=\"df1f4319a79b9b2a3ee32cf363bb57e4\",Cinemax HD
+http://188.24.82.90:9981/stream/channelid/423829471?ticket=50C161F396281073CBED3DE43E32ED4B2F6537AA&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/209\" tvg-id=\"0f49ec88cce447c449a74c53b1aa4d0a\",Cinemax2
+http://188.24.82.90:9981/stream/channelid/149702927?ticket=1837C67B13EC9E28CDF549E894A6416BE2E6A2A1&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/346\" tvg-id=\"132158179af59c514e999d8eefd8a5dd\",Cinemax2 HD
+http://188.24.82.90:9981/stream/channelid/391651603?ticket=7A9C764441D96A6B806481ECE857607638817AB9&profile=pass
+#EXTINF:-1 tvg-id=\"5069d1967d809a09b689fec723fde4f6\",DIGI 4K
+http://188.24.82.90:9981/stream/channelid/382822736?ticket=833E5F051C46DFCD713B84CB18EDCCE5DFD4D622&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/348\" tvg-id=\"78b704e24653cd98511935e45cbb3228\",CBS Reality
+http://188.24.82.90:9981/stream/channelid/1644476280?ticket=CCB63A355E780C51C2B1574137CCB3CF737B6042&profile=pass
+#EXTINF:-1 tvg-id=\"da4704e002897ef82b430dd4cc9f776f\",TraLaLa
+http://188.24.82.90:9981/stream/channelid/1610893274?ticket=260561FC33D3FAB54C86BE3E706D04C0312C45DD&profile=pass
+#EXTINF:-1 tvg-id=\"11203f4e7573094657606e7af97a09fb\",Rapsodia
+http://188.24.82.90:9981/stream/channelid/1312759825?ticket=C376F001447103DB58D12CB5613CC7626101652E&profile=pass
+#EXTINF:-1 tvg-id=\"c56cd0fbc5e9e4866a00a38adbc323e8\",Metropola TV HD
+http://188.24.82.90:9981/stream/channelid/2077256901?ticket=272D66098CE90FF821CE113A4FB501728059B6F2&profile=pass
+#EXTINF:-1 tvg-id=\"86c60b44035678738c4e6aa73012ce81\",TV AS
+http://188.24.82.90:9981/stream/channelid/1141622406?ticket=6998EF02C4E6822BA0310DBD7FD9C9CB6BC4EB09&profile=pass
+#EXTINF:-1 tvg-id=\"9040a27800ba477e6c3ca8ba2850fe56\",24Mix Teleshop
+http://188.24.82.90:9981/stream/channelid/2023899280?ticket=103D63ECB1820E897607F00FFD4A7A0360BD1B99&profile=pass
+#EXTINF:-1 tvg-id=\"587504badeeb4523a696456e2cf194b6\",Traditional TV
+http://188.24.82.90:9981/stream/channelid/973370712?ticket=EE639222DBCCF7B0B4E46EFD1FEAEB749594D591&profile=pass
+#EXTINF:-1 tvg-id=\"613b067a328af4b8a30b1711b4fb5b1d\",Mooz Dance
+http://188.24.82.90:9981/stream/channelid/2047228769?ticket=D6E2D5D535E8FD8EC4B9C1CE538637758BCE846A&profile=pass
+#EXTINF:-1 tvg-id=\"7300c90edd41b75bd6861c2e22678c17\",Emi Tv
+http://188.24.82.90:9981/stream/channelid/248053875?ticket=4F18E0CB0D3FAC3E0E1F472F47C6C3EA391E5F7F&profile=pass
+#EXTINF:-1 tvg-id=\"0985bedc3fcdfbbf0a228318bd1135f6\",Party Mix
+http://188.24.82.90:9981/stream/channelid/1555989769?ticket=155D409D58311C8211E0FE001E097559A651EBAC&profile=pass
+#EXTINF:-1 tvg-id=\"798440beaa54205ae7c31c4fe83c9b16\",CINETUBE
+http://188.24.82.90:9981/stream/channelid/1044415609?ticket=5732C4C1333E956CD3071148C64D8CCD93E15E2B&profile=pass
+#EXTINF:-1 tvg-id=\"056104698b39a00697d6b253835d7639\",Atomic TV
+http://188.24.82.90:9981/stream/channelid/1761894661?ticket=E4090ABDFBD953B4F7B26FDFDD40268E784F0490&profile=pass
+#EXTINF:-1 tvg-id=\"1b8527248f95151e0cf758dafaa4ae17\",Etno TV HD
+http://188.24.82.90:9981/stream/channelid/606569755?ticket=27B8E968689A3E81211C1E746A7F1D96265B8301&profile=pass
+#EXTINF:-1 tvg-id=\"2ed2a5a2cac92c71058eb15960482a35\",Balcan Music TV
+http://188.24.82.90:9981/stream/channelid/581292590?ticket=97252447479C69F5F584E708E366E455F2309A76&profile=pass
+#EXTINF:-1 tvg-id=\"91a72ac642a5e107a22ad9c605236a61\",Moldova TV
+http://188.24.82.90:9981/stream/channelid/1177200529?ticket=663E15B40D4F0EE6196E85637F2697E20F998D44&profile=pass
+#EXTINF:-1 tvg-id=\"b565635e0544943cbac86be8b901d5ab\",ARDEAL TV
+http://188.24.82.90:9981/stream/channelid/1583572405?ticket=0467695AD8ED30B79CD40D970FA390F0A62335DA&profile=pass
+#EXTINF:-1 tvg-id=\"62411dce33abdbb2f1bcdd78908c892e\",IDA Tv
+http://188.24.82.90:9981/stream/channelid/1310540130?ticket=3201C3B7B694BAF67A172E9EA9F77A2419EC5A37&profile=pass
+#EXTINF:-1 tvg-id=\"8f825762ee77fc879c646b1c22d438fd\",Arcadia HD
+http://188.24.82.90:9981/stream/channelid/1649902223?ticket=595D9D4385477B421F500EEEC83E519A706C4C80&profile=pass
+#EXTINF:-1 tvg-id=\"a5cb800f03bb8266df53bf7ffd320202\",Aleph Business
+http://188.24.82.90:9981/stream/channelid/260098981?ticket=86878F2422395450A06575BD81FA3546B43B52C2&profile=pass
+#EXTINF:-1 tvg-id=\"155f11d64c2d19cdcdffbbe7069845fd\",Canal 33
+http://188.24.82.90:9981/stream/channelid/1443979029?ticket=AF13B77DBCD8701BF3260F18AE8F25C6580DB416&profile=pass
+#EXTINF:-1 tvg-id=\"aab31da2145792d9469aaa7ceb3d9abc\",Aleph News
+http://188.24.82.90:9981/stream/channelid/572371882?ticket=5A55102B09A4412B6F859C9C6B074031D4C3E3EC&profile=pass
+#EXTINF:-1 tvg-id=\"ec34a3e5ee5e29056fac415d9f97c00f\",PRIMA TV HD
+http://188.24.82.90:9981/stream/channelid/1705194732?ticket=9F16F6FECDDDECC69216C74229F2F48D1424DF3C&profile=pass
+#EXTINF:-1 tvg-id=\"46ea0bf0f0129abe5860e098dc776170\",MariaTV
+http://188.24.82.90:9981/stream/channelid/1879829062?ticket=3C1DD58A0263D00F31F073606466E15DE9E382B8&profile=pass
+#EXTINF:-1 tvg-id=\"86f0987906302f1646e665f42394c5a2\",B1 HD
+http://188.24.82.90:9981/stream/channelid/2040066182?ticket=F4D78CA018104EF697FBB94A7CFD6030A27A1B72&profile=pass
+#EXTINF:-1 tvg-id=\"3aad9ff850e1a832d370a0394d7ec8b3\",Euronews RO
+http://188.24.82.90:9981/stream/channelid/2023730490?ticket=93B95984FAB9FC2DF9CD6F1E81478985DD8C0E1D&profile=pass
+#EXTINF:-1 tvg-id=\"410ad099a24e403b5fca86c36e682d18\",Euronews RO HD
+http://188.24.82.90:9981/stream/channelid/433064513?ticket=9B0508547F248BE29C94C9908458F1EB27030E11&profile=pass
+#EXTINF:-1 tvg-id=\"7332087aa9404f0190ef77084cef84f5\",Realitatea Star HD
+http://188.24.82.90:9981/stream/channelid/2047357555?ticket=8E6EFFB753B8D1FB4438D16489EDD8990DE2DB55&profile=pass
+#EXTINF:-1 tvg-id=\"aee7e5281829dd87084862633b65182a\",Realitatea Sportiva HD
+http://188.24.82.90:9981/stream/channelid/686155694?ticket=8A21777F73452FAE3A27223D4DDA8EECEC814507&profile=pass
+#EXTINF:-1 tvg-id=\"5a2a7da4c79969c4ce48135048027839\",Sportextra HD
+http://188.24.82.90:9981/stream/channelid/612182618?ticket=8D1968F379789BD6062CDEF2A7129D278116E815&profile=pass
+#EXTINF:-1 tvg-id=\"db39a9cab734d1d41f16d9854f732703\",Eurosport 4K
+http://188.24.82.90:9981/stream/channelid/1252604379?ticket=27CEEF6D09082A61C55022164A3470723B68C664&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/260\" tvg-id=\"7aa7661f8b558ead93d36d49656668f8\",Kiss FM
+http://188.24.82.90:9981/stream/channelid/526821242?ticket=E139BE6EBD9818A4A5655C76032FEF3F8717AD1F&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/236\" tvg-id=\"990a757315310dd784d267bfe6114ea6\",EuropaFM
+http://188.24.82.90:9981/stream/channelid/1937050265?ticket=2688E49B03CC7DD4BEE8D5AF35EEB136F0E6D5FF&profile=pass
+#EXTINF:-1 tvg-id=\"8aedc16ec5ccccd4c7c69888dcae9e4a\",Radio Romania Actualitati
+http://188.24.82.90:9981/stream/channelid/1858203018?ticket=4C3C014AECFB38FCCA6B52A33749025EFEE95FF0&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/323\" tvg-id=\"6f44123139e530efeb4fa045fd2cd498\",Virgin Radio
+http://188.24.82.90:9981/stream/channelid/823280751?ticket=3A2D38CB6996055298BC63F606E330CB3BBB324A&profile=pass
+#EXTINF:-1 tvg-id=\"03ffe20b5ea96aeb6be04eecb3eab9cb\",Radio Guerilla
+http://188.24.82.90:9981/stream/channelid/199425795?ticket=B41DFC11DA0365993D0D751A5A6F31F8CA6C4FA2&profile=pass
+#EXTINF:-1 tvg-id=\"6addf3cbbf79c9357bd37da884d6e589\",Smart Radio
+http://188.24.82.90:9981/stream/channelid/1274273130?ticket=9B0773645F680A70198A7A5AD26B22A63A5B2698&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/294\" tvg-id=\"79629ff8b8e2b05b4c38929d050027bb\",Radio ZU
+http://188.24.82.90:9981/stream/channelid/2023711353?ticket=869DFA54102B38EBA1C795A867917D87A7858B94&profile=pass
+#EXTINF:-1 logo=\"http://188.24.82.90:9981/imagecache/293\" tvg-id=\"25f1b4a9a9ce4fa9de7abb650ceb7e00\",Radio Maria Ro
+http://188.24.82.90:9981/stream/channelid/699724069?ticket=D51D8223B56CD8289D2B73415149275F1F59B7FA&profile=pass
+#EXTINF:-1 tvg-id=\"0548a739bccc05d1a9c3f3fc64edaa05\",Digi FM
+http://188.24.82.90:9981/stream/channelid/967264261?ticket=CD4FB7ABB92B83C1265CFA8E03107CDA3F87C9DB&profile=pass
+#EXTINF:-1 tvg-id=\"f2b8dc77cd0f531ce5223c9dd345572f\",Pro FM
+http://188.24.82.90:9981/stream/channelid/2010953970?ticket=4C6458E2F0750A6D4D3769B2A4D00C8C44F71534&profile=pass
+#EXTINF:-1 tvg-id=\"6be269bdfaa03421dc59efe327f84371\",Dance FM
+http://188.24.82.90:9981/stream/channelid/1030349419?ticket=A23F1C986CF2D6459F76ED4E292B6B876CD05112&profile=pass
+#EXTINF:-1 tvg-id=\"3d5024c60889b2617457f2291d299ade\",DIGI 24 FM
+http://188.24.82.90:9981/stream/channelid/1176784957?ticket=CCD09F3DA1FEC4AFB3FEBA581BA8294281ADEEB0&profile=pass
+#EXTINF:-1 tvg-id=\"c093d5248968eb5f46dd20f027aebbfe\",Radio Sport Total
+http://188.24.82.90:9981/stream/channelid/617976768?ticket=34A7EC6B6F1998441EF9558BE50286B7A7FAFC38&profile=pass
+#EXTINF:-1 tvg-id=\"158cd3dd573a61082ad5f55d63564f64\",Realitatea FM
+http://188.24.82.90:9981/stream/channelid/1574145045?ticket=5036BF4506AEE83D6386B947341D83F6C85D5E81&profile=pass

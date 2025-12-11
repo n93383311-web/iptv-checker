@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=\\\"3acdb41f7911d0fa64e6efab1c08f43a\\\" tvg-chno=\\\"1\\\",BNT
+http://78.130.248.5:81/stream/channelid/531942714?profile=pass
+#EXTINF:-1 tvg-id=\\\"6d0a0c6ab080fc8be64a52de8b442d1f\\\" tvg-chno=\\\"2\\\",bTV
+http://78.130.248.5:81/stream/channelid/1779173997?profile=pass
+#EXTINF:-1 tvg-id=\\\"f5c45ba98c03aeae2121550da5895155\\\" tvg-chno=\\\"3\\\",Nova TV
+http://78.130.248.5:81/stream/channelid/693880053?profile=pass
+#EXTINF:-1 tvg-id=\\\"e5a75a306b1790ef104175b0a464381a\\\" tvg-chno=\\\"4\\\",BNT2
+http://78.130.248.5:81/stream/channelid/811247589?profile=pass
+#EXTINF:-1 tvg-id=\\\"6199450fe484d2a2820bf0605eccf6e3\\\" tvg-chno=\\\"5\\\",BNT3
+http://78.130.248.5:81/stream/channelid/256219489?profile=pass
+#EXTINF:-1 tvg-id=\\\"626b20c252afc3a8e3649ccc6db266a3\\\" tvg-chno=\\\"6\\\",Bulgaria on Air
+http://78.130.248.5:81/stream/channelid/1109420898?profile=pass

@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1,A HABER
+http://195.230.27.108:8003/play/a01a/index.m3u8
+#EXTINF:-1,A HABER HD
+http://195.230.27.108:8003/play/a01f/index.m3u8
+#EXTINF:-1,A SPOR
+http://195.230.27.108:8003/play/a01b/index.m3u8
+#EXTINF:-1,A SPOR HD
+http://195.230.27.108:8003/play/a01g/index.m3u8
+#EXTINF:-1,A2
+http://195.230.27.108:8003/play/a01h/index.m3u8
+#EXTINF:-1,AROUND THE WORLD
+http://195.230.27.108:8003/play/a016/index.m3u8
+#EXTINF:-1,ATV
+http://195.230.27.108:8003/play/a019/index.m3u8
+#EXTINF:-1,ATV HD
+http://195.230.27.108:8003/play/a01e/index.m3u8
+#EXTINF:-1,BABY TV
+http://195.230.27.108:8003/play/a00p/index.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://195.230.27.108:8003/play/a00j/index.m3u8
+#EXTINF:-1,BLOOMBERGHT HD
+http://195.230.27.108:8003/play/a00d/index.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://195.230.27.108:8003/play/a00t/index.m3u8
+#EXTINF:-1,CNN INTERNATIONAL
+http://195.230.27.108:8003/play/a007/index.m3u8
+#EXTINF:-1,DANCE CLUBBIN\\\\\\\'
+http://195.230.27.108:8003/play/a015/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://195.230.27.108:8003/play/a00f/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://195.230.27.108:8003/play/a00q/index.m3u8
+#EXTINF:-1,DMAX
+http://195.230.27.108:8003/play/a01k/index.m3u8
+#EXTINF:-1,DMAX HD
+http://195.230.27.108:8003/play/a01o/index.m3u8
+#EXTINF:-1,DREAM TÜRK
+http://195.230.27.108:8003/play/a005/index.m3u8
+#EXTINF:-1,DİZİ PREMIUM
+http://195.230.27.108:8003/play/a00m/index.m3u8
+#EXTINF:-1,DİZİSMART MAX
+http://195.230.27.108:8003/play/a00r/index.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://195.230.27.108:8003/play/a003/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://195.230.27.108:8003/play/a004/index.m3u8
+#EXTINF:-1,FASHION TV
+http://195.230.27.108:8003/play/a00v/index.m3u8
+#EXTINF:-1,FASHION TV
+http://195.230.27.108:8003/play/a00k/index.m3u8
+#EXTINF:-1,FILMBOX
+http://195.230.27.108:8003/play/a00i/index.m3u8
+#EXTINF:-1,FOX TV HD
+http://195.230.27.108:8003/play/a001/index.m3u8
+#EXTINF:-1,GREATEST HITS
+http://195.230.27.108:8003/play/a012/index.m3u8
+#EXTINF:-1,HABERTURK HD
+http://195.230.27.108:8003/play/a00c/index.m3u8
+#EXTINF:-1,HIP HOP
+http://195.230.27.108:8003/play/a00z/index.m3u8
+#EXTINF:-1,HIT LIST
+http://195.230.27.108:8003/play/a013/index.m3u8
+#EXTINF:-1,HOT COUNTRY UK
+http://195.230.27.108:8003/play/a00y/index.m3u8
+#EXTINF:-1,JAZZ NOW
+http://195.230.27.108:8003/play/a011/index.m3u8
+#EXTINF:-1,KANAL D HD
+http://195.230.27.108:8003/play/a002/index.m3u8
+#EXTINF:-1,KRAL POP
+http://195.230.27.108:8003/play/a01n/index.m3u8
+#EXTINF:-1,LOVE NATURE
+http://195.230.27.108:8003/play/a008/index.m3u8
+#EXTINF:-1,MOVIE CLASSIC
+http://195.230.27.108:8003/play/a00n/index.m3u8
+#EXTINF:-1,MOVIE TÜRK
+http://195.230.27.108:8003/play/a00o/index.m3u8
+#EXTINF:-1,NATURE ESCAPE
+http://195.230.27.108:8003/play/a00u/index.m3u8
+#EXTINF:-1,NATURE ESCAPE
+http://195.230.27.108:8003/play/a00l/index.m3u8
+#EXTINF:-1,NBA TV
+http://195.230.27.108:8003/play/a006/index.m3u8
+#EXTINF:-1,NTV
+http://195.230.27.108:8003/play/a01j/index.m3u8
+#EXTINF:-1,NTV HD
+http://195.230.27.108:8003/play/a01m/index.m3u8
+#EXTINF:-1, HD
+http://195.230.27.108:8003/play/a00b/index.m3u8
+#EXTINF:-1, MAX HD
+http://195.230.27.108:8003/play/a00e/index.m3u8
+#EXTINF:-1,SPORSMART
+http://195.230.27.108:8003/play/a00g/index.m3u8
+#EXTINF:-1,SPORSMART 2
+http://195.230.27.108:8003/play/a009/index.m3u8
+#EXTINF:-1,STAR TV
+http://195.230.27.108:8003/play/a01i/index.m3u8
+#EXTINF:-1,STAR TV HD
+http://195.230.27.108:8003/play/a01l/index.m3u8
+#EXTINF:-1,SİNEMA 1002
+http://195.230.27.108:8003/play/a00s/index.m3u8
+#EXTINF:-1,TLC
+http://195.230.27.108:8003/play/a01q/index.m3u8
+#EXTINF:-1,TLC HD
+http://195.230.27.108:8003/play/a01p/index.m3u8
+#EXTINF:-1,TRACE URBAN
+http://195.230.27.108:8003/play/a00w/index.m3u8
+#EXTINF:-1,TRT 4K
+http://195.230.27.108:8003/play/a00a/index.m3u8
+#EXTINF:-1,TURKISH SILK
+http://195.230.27.108:8003/play/a018/index.m3u8
+#EXTINF:-1,TÜRKÇE MÜZİK
+http://195.230.27.108:8003/play/a010/index.m3u8
+#EXTINF:-1,TÜRKÇE POP
+http://195.230.27.108:8003/play/a017/index.m3u8
+#EXTINF:-1,TÜRKÇE POP
+http://195.230.27.108:8003/play/a00x/index.m3u8
+#EXTINF:-1,URBAN BEATS
+http://195.230.27.108:8003/play/a014/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://195.230.27.108:8003/play/a00h/index.m3u8
+#EXTINF:-1,minikaCOCUK
+http://195.230.27.108:8003/play/a01c/index.m3u8
+#EXTINF:-1,minikaGO
+http://195.230.27.108:8003/play/a01d/index.m3u8
