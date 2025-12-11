@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bulgarian",24 Kitchen [2008 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/2008/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",24 Kitchen HD [14004 mp2 mp2 1920x1080 h264 mp2 mp2]
+http://84.54.128.52:9090/play/14004/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Animal Planet [6009 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/6009/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",AXN [2001 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/2001/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",AXN Black [1008 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/1008/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",AXN White [1009 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/1009/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",BabyTV [3001 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/3001/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",BNT 1 [1001 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/1001/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",BNT 1 HD [13002 mp2 1920x1080 h264 mp2]
+http://84.54.128.52:9090/play/13002/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",BNT 2 [8001 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/8001/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",BNT 3 HD [13001 mp2 1920x1080 h264 mp2]
+http://84.54.128.52:9090/play/13001/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",bTV [1002 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/1002/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",bTV Action [1004 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/1004/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",bTV Action HD [13004 mp2 1920x1080 h264 mp2]
+http://84.54.128.52:9090/play/13004/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",bTV Cinema [1006 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/1006/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",bTV Comedy [1005 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/1005/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",bTV HD [13003 mp2 1920x1080 h264 mp2]
+http://84.54.128.52:9090/play/13003/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",bTV Story [1007 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/1007/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Bulgaria On Air [9005 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/9005/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Diema [2005 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/2005/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Diema Family [2007 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/2007/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Discovery Channel [7001 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/7001/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Discovery Channel HD [17003 mp2 mp2 1920x1080 h264 mp2 mp2]
+http://84.54.128.52:9090/play/17003/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Disney Channel [3006 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/3006/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",DuckTV [3002 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/3002/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",EKids [3008 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/3008/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Euronews [9004 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/9004/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Eurosport 1 [4003 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/4003/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Eurosport 1 HD [15003 mp2 mp2 1920x1080 h264 mp2 mp2]
+http://84.54.128.52:9090/play/15003/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Eurosport 2 [4004 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/4004/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Eurosport 2 HD [15004 mp2 mp2 1920x1080 h264 mp2 mp2]
+http://84.54.128.52:9090/play/15004/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",ID [7005 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/7005/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Kino Nova [2006 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/2006/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",National Geographic [6007 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/6007/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",National Geographic HD [17001 mp2 mp2 1920x1080 h264 mp2 mp2]
+http://84.54.128.52:9090/play/17001/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",National Geographic Wild [6008 mp2 mp2 720x576 mpeg2video mp2 mp
+http://84.54.128.52:9090/play/6008/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",National Geographic Wild HD [17002 mp2 mp2 1920x1080 h264 mp2 mp
+http://84.54.128.52:9090/play/17002/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Nick Jr. [3005 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/3005/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Nickelodeon [3004 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/3004/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Nova TV [1003 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/1003/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",RING [4001 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/4001/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",RING HD [15001 mp2 1920x1080 h264 mp2]
+http://84.54.128.52:9090/play/15001/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",STAR Channel [2004 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/2004/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",STAR Channel HD [14001 mp2 mp2 1920x1080 h264 mp2 mp2]
+http://84.54.128.52:9090/play/14001/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",STAR Crime [2003 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/2003/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",STAR Crime HD [14002 mp2 1920x1080 h264 mp2]
+http://84.54.128.52:9090/play/14002/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",STAR Life [2002 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/2002/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",STAR Life HD [14003 mp2 mp2 1920x1080 h264 mp2 mp2]
+http://84.54.128.52:9090/play/14003/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",TLC [7003 mp2 720x576 mpeg2video mp2]
+http://84.54.128.52:9090/play/7003/index.m3u8
+#EXTINF:-1 group-title="Bulgarian",Travel Channel [7007 mp2 mp2 720x576 mpeg2video mp2 mp2]
+http://84.54.128.52:9090/play/7007/index.m3u8

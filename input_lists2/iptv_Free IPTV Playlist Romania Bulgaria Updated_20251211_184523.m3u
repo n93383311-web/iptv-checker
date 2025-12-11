@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,Discovery_HD
+http://78.108.251.7/Discovery_HD/mono.m3u8
+#EXTINF:-1,Cinemax_HD
+http://78.108.251.7/Cinemax_HD/mono.m3u8
+#EXTINF:-1,Disney_Junior
+http://78.108.251.7/Disney_Junior/mono.m3u8
+#EXTINF:-1,Food_Network_HD
+http://78.108.251.7/Food_Network_HD/mono.m3u8
+#EXTINF:-1,HBO2_HD
+http://78.108.251.7/HBO2_HD/mono.m3u8
+#EXTINF:-1,HBO_HD
+http://78.108.251.7/HBO_HD/mono.m3u8
+#EXTINF:-1,HBO3_HD
+http://78.108.251.7/HBO3_HD/mono.m3u8
+#EXTINF:-1,Arena_Sport_1 HD
+http://78.108.251.7/Arena_Sport_1/mono.m3u8
+#EXTINF:-1,Arena_Sport_2 HD
+http://78.108.251.7/Arena_Sport_2/mono.m3u8
+#EXTINF:-1,Arena_Sport_3 HD
+http://78.108.251.7/Arena_Sport_3/mono.m3u8
+#EXTINF:-1,MovieStar HD
+http://78.108.251.7/MovieStar/mono.m3u8
+#EXTINF:-1,Diema HD
+http://78.108.251.7/Diema/mono.m3u8
+#EXTINF:-1,MagicTV HD
+http://78.108.251.7/MagicTV/mono.m3u8
+#EXTINF:-1,DMSat
+http://78.108.251.7/DMSat/mono.m3u8
+#EXTINF:-1,EKids
+http://78.108.251.7/EKids/mono.m3u8
+#EXTINF:-1,RodinaTV HD
+http://78.108.251.7/RodinaTV/mono.m3u8
+#EXTINF:-1,DaVinciLearning
+http://78.108.251.7/DaVinciLearning/mono.m3u8
+#EXTINF:-1,DuckTV
+http://78.108.251.7/DuckTV/mono.m3u8
+#EXTINF:-1,MTVEurope
+http://78.108.251.7/MTVEurope/mono.m3u8
+#EXTINF:-1,EpicDrama HD
+http://78.108.251.7/EpicDrama/mono.m3u8
+#EXTINF:-1,DiemaFamily
+http://78.108.251.7/DiemaFamily/mono.m3u8
+#EXTINF:-1,BabyTV
+http://78.108.251.7/BabyTV/mono.m3u8
+#EXTINF:-1,NickToons
+http://78.108.251.7/NickToons/mono.m3u8
+#EXTINF:-1,amc
+http://78.108.251.7/amc/mono.m3u8
+#EXTINF:-1,PassionXXX HD
+http://78.108.251.7/PassionXXX/mono.m3u8
+#EXTINF:-1,BBC
+http://78.108.251.7/BBC/mono.m3u8
+#EXTINF:-1,CNN HD
+http://78.108.251.7/CNN/mono.m3u8
+#EXTINF:-1,RTVi
+http://78.108.251.7/RTVi/mono.m3u8
+#EXTINF:-1,Travel_Channel_HD
+http://78.108.251.7/Travel_Channel_HD/mono.m3u8
+#EXTINF:-1,Cartoon_Network
+http://78.108.251.7/Cartoon_Network/mono.m3u8
+#EXTINF:-1,Boomerang
+http://78.108.251.7/Boomerang/mono.m3u8
+#EXTINF:-1,Nick_Jr
+http://78.108.251.7/Nick_Jr/mono.m3u8
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4

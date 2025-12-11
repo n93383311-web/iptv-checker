@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51799" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bnt-1-bg.png[/img]",БНТ1
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/7c659348/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51800" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bnt-2-bg.png[/img]",БНТ2
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/7c659349/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-1682" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bnt-4-bg.png[/img]",БНТ4
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/7c65934b/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51075" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/nova-bg.png[/img]",Nova HD
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n48bfb19d/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-8157" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/btv_bg.png[/img]",bTV BG
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/7912e80e/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51814" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ee/evrokom_bg.png[/img]",Evrokom
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n1916bcf2/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария",БГ+
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/77a028dc/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-55281" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kino_nova_bg.png[/img]",KinoNova
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n510b6628/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-53133" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/dd/diema.png[/img]",Diema
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n26ff7039/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-54507" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/dd/diema_family.png[/img]",Diema Family
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n5720de03/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51807" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/btv_bg_action.png[/img]",bTV Action
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/66303d9f/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51809" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/btv_bg_comedy.png[/img]",bTV Comedy
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/6a3fca02/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51808" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/btv_bg_cinema.png[/img]",bTV Cinema
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/69ebb25a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51810" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/btv_bg_lady.png[/img]",bTV Lady
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/7ffe1673/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-349" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/nostalgia.png[/img]",Nostalgia HD
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n35dd4a49/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-4004" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png[/img]",AXN
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/7791658a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-5005" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/aa/axn_black_us.png[/img]",AXN Black
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/5abd49c9/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-5008" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/aa/axn_white_us.png[/img]",AXN White
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/5be385f3/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-52233" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png[/img]",National Geographic BG
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/16962b2d/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-128" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/nat-geo-wild.png[/img]",Nat Geo Wild BG
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/6e9f53c0/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51793" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/travel-tv.png[/img]",Travel
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/62dc17c7/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51794" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/this-is-bulgaria.png[/img]",This is Bulgaria
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n4e134ca8/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-1681" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bnt-3-bg.png[/img]",БНТ3
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/7c65934a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-54215" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/nickelodeon.png[/img]",Nickelodeon BG
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n6efd3413/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-3188" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/nick-junior.png[/img]",Nick Jr BG
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/640ed2d/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51811" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ee/e_kids_bg.png[/img]",EKids
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n26feeddb/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария",Lolly Kids
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/8984404/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-2333" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/duck-tv.png[/img]",Duck
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/7a9d18a6/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-820" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fix_foxi_tv_de.png[/img]",Fix Foxi
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n4bbdb3ce/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-50592" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/cnn.png[/img]",CNN BG
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/43d47ccf/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-50030" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/num/24_kitchen_us.png[/img]",24 Kitchen
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/4e334db3/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-8329" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bulgaria_on_air_tv.png[/img]",BG on AIR
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/10c6f3f7/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-676" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv_tv_ru.png[/img]",ТВ Скат
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/6a534f0e/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51792" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv1_bg.png[/img]",TV1
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/7791ac82/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-8328" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bulgaria_24_bg.png[/img]",България 24 ТВ
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/18d62853/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-54350" tvg-logo="[img]https://dl.dropboxusercontent.com/s/rjj184s74e55mb5/codefash.png[/img]",CodeFashion HD
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n7c01b622/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария",Code Healht HD
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n5574cb3e/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51796" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/pp/planeta_tv_folk.png[/img]",Планета Фолк
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/ne8a66d4/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария",Фен ТВ
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/1b18b391/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-50183" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/bb/balkanika_music_tv.png[/img]",Балканика
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n32148e8a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51195" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rodina_tv_bg.png[/img]",Родина ТВ
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n48d501b2/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария",BG Music HD
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/311e8205/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51852" tvg-logo="[img]https://dl.dropboxusercontent.com/s/wvghxdhv9bz2mhs/dstv.png[/img]",DSTV
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/7a9c971e/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария",BOX TV
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/423249a4/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-51803" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_bg.png[/img]",Magic TV
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n34b900be/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Болгария" tvg-id="hlsproxy-4177" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/rr/roma_tv_it.png[/img]",Roma TV
+#EXTGRP:Болгария
+http://srveu.play-x.ru:7799/channel/n75a5969c/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4

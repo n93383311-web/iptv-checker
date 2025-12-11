@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1320.png" tvg-id="",Disney Channel BG
+http://lb.wisp.cat/lb0/BG_Disney/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1319.png" tvg-id="",Disney Junior BG
+http://lb.wisp.cat/lb0/BG_Disney_Junior/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1318.png" tvg-id="",E kids BG
+http://lb.wisp.cat/lb0/BG_E_Kids/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Розважальні" tvg-logo="http://play.wisp.cat/logos/1317.png" tvg-id="1448-orel-i-reshka-hd",Орел і Решка HD
+http://lb.wisp.cat/lb0/OrelIreshka_HD_QdfCVCFfcRRFCdd64FDf/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Спортивні" tvg-id="",Sport 5 Gold IL
+http://lb.wisp.cat/lb0/Sport_5_Gold_HD_IL/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1315.png" tvg-id="",Eurosport 2 BG
+http://lb.wisp.cat/lb0/BG_Eurosport2/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1314.png" tvg-id="",Eurosport 1 BG
+http://lb.wisp.cat/lb0/BG_Eurosport1/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1313.png" tvg-id="",Evrokom BG
+http://lb.wisp.cat/lb0/BG_NKTV_Evrokom/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Італія" tvg-logo="http://play.wisp.cat/logos/1330.png" tvg-id="",Boing
+http://lb.wisp.cat/lb0/IT_Boing/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1329.png" tvg-id="",FEN TV BG
+http://lb.wisp.cat/lb0/BG_FenTV/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1328.png" tvg-id="",FilmBox Extra BG
+http://lb.wisp.cat/lb0/BG_Filmbox_Extra/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Фільмові" tvg-logo="http://play.wisp.cat/logos/1327.png" tvg-id="fox",FX HD Estonia
+http://lb.wisp.cat/lb0/FX_HD_EE/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-id="",Star Crime BG
+http://lb.wisp.cat/lb0/BG_STAR_Crime/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-id="",Star Life BG
+http://lb.wisp.cat/lb0/BG_STAR_Life/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1324.png" tvg-id="",Fen Folk TV BG
+http://lb.wisp.cat/lb0/BG_Fen_Folk/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Італія" tvg-id="",Canale5 HD
+http://lb.wisp.cat/lb0/IT_Canale5_HD/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1322.png" tvg-id="",Folklor TV BG
+http://lb.wisp.cat/lb0/BG_Folklor_TV/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1340.png" tvg-id="",History BG HD
+http://lb.wisp.cat/lb0/BG_History_HD/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Музичні" tvg-id="",BOX
+http://lb.wisp.cat/lb0/BG_BoxTV/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-id="",Animal Planet BG
+http://lb.wisp.cat/lb0/BG_Animal_Planet/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-id="",БНТ 4
+http://lb.wisp.cat/lb0/BG_BNT4/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-id="",Antena 3
+http://lb.wisp.cat/lb0/BG_Antena3/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1339.png" tvg-id="",Investigation Discovery BG
+http://lb.wisp.cat/lb0/BG_ID/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Італія" tvg-logo="http://play.wisp.cat/logos/1334.png" tvg-id="",27Twentyseven HD
+http://lb.wisp.cat/lb0/IT_27Twentyseven_HD/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Фільмові" tvg-logo="http://play.wisp.cat/logos/1333.png" tvg-id="youtv_cinema-family-hd",Kino Family HD
+http://lb.wisp.cat/lb0/Kino_Family_HD/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-id="",Skat
+http://lb.wisp.cat/lb0/BG_Skat/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-id="",Star BG
+http://lb.wisp.cat/lb0/BG_STAR_Channel/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-id="",Kino Nova
+http://lb.wisp.cat/lb0/BG_KINO_NOVA/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1349.png" tvg-id="",Magic TV
+http://lb.wisp.cat/lb0/BG_MagicTV/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1348.png" tvg-id="",National Geographic Wild BG
+http://lb.wisp.cat/lb0/BG_NG_Wild/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1347.png" tvg-id="",National Geographic Wild HD BG
+http://lb.wisp.cat/lb0/BG_NG_Wild_HD/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1346.png" tvg-id="",Nova BG
+http://lb.wisp.cat/lb0/BG_NOVA_TV/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Познаю ТВ" tvg-id="",Comedy Central HD UK
+http://lb.wisp.cat/lb0/Comedy_Central_HD_UK_BG/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Спортивні" tvg-id="",FightKlub BG HD
+http://lb.wisp.cat/lb0/BG_FightKlub_HD/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1343.png" tvg-id="",National Geographic HD BG
+http://lb.wisp.cat/lb0/BG_Nat_Geo_HD/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1342.png" tvg-id="",Nickelodeon BG
+http://lb.wisp.cat/lb0/BG_Nickelodeon/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Чехія/Словаччина" tvg-id="",Turbo TV
+http://lb.wisp.cat/lb0/CZ_TurboTV/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Спортивні" tvg-logo="http://play.wisp.cat/logos/1359.png" tvg-id="",Nova Sport HD BG
+http://lb.wisp.cat/lb0/BG_Nova_Sport/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Пізнавальні" tvg-logo="http://play.wisp.cat/logos/1824.png" tvg-id="kluch",Ключ HD
+http://lb.wisp.cat/lb0/Kluch_HD/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-logo="http://play.wisp.cat/logos/1357.png" tvg-id="",Planeta Folk BG
+http://lb.wisp.cat/lb0/BG_Planeta_Folk/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Музичні" tvg-logo="http://play.wisp.cat/logos/1356.png" tvg-id="",Planeta HD BG
+http://lb.wisp.cat/lb0/BG_Planeta_HD/mpegts?token=i7rhga8
+#EXTINF:-1 group-title="Болгарія" tvg-id="",Канал 3 HD
+http://lb.wisp.cat/lb0/BG_Kanal_3_HD/mpegts?token=i7rhga8
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4

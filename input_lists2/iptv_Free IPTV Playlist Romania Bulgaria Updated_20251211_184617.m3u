@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,БНТ 1 BG
+http://cdn.admuspeh.my/9196/video.m3u8?token=KN728cDixsiGm4nv
+#EXTINF:0,БНТ 2 BG
+http://cdn.admuspeh.my/9197/video.m3u8?token=KN728cDixsiGm4nv
+#EXTINF:0,bTV BG
+http://cdn.admuspeh.my/9198/video.m3u8?token=KN728cDixsiGm4nv
+#EXTINF:0,bTV Cinema BG
+http://cdn.admuspeh.my/9199/video.m3u8?token=KN728cDixsiGm4nv
+#EXTINF:0,bTV Comedy BG
+http://cdn.admuspeh.my/9200/video.m3u8?token=KN728cDixsiGm4nv
+#EXTINF:0,NOVA BG
+http://cdn.admuspeh.my/9201/video.m3u8?token=KN728cDixsiGm4nv

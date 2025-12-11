@@ -1,0 +1,294 @@
+#EXTM3U
+#EXTINF:0 tvg-id="RO: A7 HD" tvg-logo="http://team.ga/images/chIcons/1806.png" tvg-rec="0", RO: A7 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1806/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkaxNpEpVedd--bPHdSXjEnzsrGKiC-NSJDuBSxBbNdFnD
+#EXTINF:0 tvg-id="RO: Atomic" tvg-logo="http://team.ga/images/chIcons/3083.png" tvg-rec="0", RO: Atomic
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3083/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka0B6IJnQwt8pZzfASSXE_b6gmlOaJlB33asucS1GYhHh
+#EXTINF:0 tvg-id="RO: Atomic Academy HD" tvg-logo="http://team.ga/images/chIcons/3095.png" tvg-rec="0", RO: Atomic Academy HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3095/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka7IxQXFKbny6rHKX_YKtjRxLlU1RWOlejrVYzg5hJbnI
+#EXTINF:0 tvg-id="RO: AMC" tvg-logo="http://team.ga/images/chIcons/1809.png" tvg-rec="0", RO: AMC
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1809/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka5b67pwXiuq2HwgXz8tAxOckHOICIqC6ip_SVTtyoIgn
+#EXTINF:0 tvg-id="RO: AXN" tvg-logo="http://team.ga/images/chIcons/1837.png" tvg-rec="0", RO: AXN
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1837/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka88usF4dIIxbS82CFeo-K_exar5SfmzJNni0HwQ82ic8
+#EXTINF:0 tvg-id="RO: AXN Black" tvg-logo="http://team.ga/images/chIcons/1838.png" tvg-rec="0", RO: AXN Black
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1838/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka2su9Y0kPc-Zia2hqofo8Bj9vqQW7zDnfJw0OIG6s8nx
+#EXTINF:0 tvg-id="RO: AXN White" tvg-logo="http://team.ga/images/chIcons/1813.png" tvg-rec="0", RO: AXN White
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1813/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka9Cfg_QdNOTHr4gTMkDmD-Uzsimmns6kmQwwKnGuDs0c
+#EXTINF:0 tvg-id="RO: AXN Spin HD" tvg-logo="http://team.ga/images/chIcons/1683.png" tvg-rec="0", RO: AXN Spin HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1683/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka30afzTirVSHAEKPsfA3oUGqTmiw_eo1jdXtVskzmnGa
+#EXTINF:0 tvg-id="RO: Alfa Omega" tvg-logo="http://team.ga/images/chIcons/1808.png" tvg-rec="0", RO: Alfa Omega
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1808/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka9oMOa1FEWRNHQ7gG2XgRpuT5BpHRxcFgTqaWVm2XH60
+#EXTINF:0 tvg-id="RO: Agro TV" tvg-logo="http://team.ga/images/chIcons/1807.png" tvg-rec="0", RO: Agro TV
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1807/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka8LVidORaAoaWOrlgi3w2vFXH5uZ7jlKx0AN1DR2Vgll
+#EXTINF:0 tvg-id="RO: Animal Planet" tvg-logo="http://team.ga/images/chIcons/1810.png" tvg-rec="0", RO: Animal Planet
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1810/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka4lp4CxKH7Wxsa88kYd0lMZRLbJCA9u-8pg_-QV3aYWZ
+#EXTINF:0 tvg-id="RO: Antena 1 HD" tvg-logo="http://team.ga/images/chIcons/647.png" tvg-rec="0", RO: Antena 1 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch647/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka4BvJyKcZYN863iAKxZmxSVv6dKOvRl-8K7M_tY-Edki
+#EXTINF:0 tvg-id="RO: Antena 3 HD" tvg-logo="http://team.ga/images/chIcons/1811.png" tvg-rec="0", RO: Antena 3 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1811/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka-_JibQNZOwP1rwkqxbDwzAlURit_ObHI2Pouq58jfH6
+#EXTINF:0 tvg-id="RO: Antena Stars" tvg-logo="http://team.ga/images/chIcons/1812.png" tvg-rec="0", RO: Antena Stars
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1812/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkaxJk-07oMBCo5FnPt6n1ooQHvQiYSks1LSe_8QLgVFEv
+#EXTINF:0 tvg-id="RO: Acasa" tvg-logo="http://team.ga/images/chIcons/1856.png" tvg-rec="0", RO: Acasa
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1856/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka7oYtW4mDmTt2s8oGSHD8U18ARSSFuAWUuDe0110O6yi
+#EXTINF:0 tvg-id="RO: Acasa Gold" tvg-logo="http://team.ga/images/chIcons/646.png" tvg-rec="0", RO: Acasa Gold
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch646/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkazoHBku4TnXw9B4yRF5qRLH9N_QWdt-Ot3DMx0FqXwiT
+#EXTINF:0 tvg-id="RO: B1" tvg-logo="http://team.ga/images/chIcons/1814.png" tvg-rec="0", RO: B1
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1814/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka7hjxTbpACHqFW44RwKai8JU6T1HR7S01_yPaS8Wytr4
+#EXTINF:0 tvg-id="RO: Bolywood" tvg-logo="http://team.ga/images/chIcons/1815.png" tvg-rec="0", RO: Bolywood
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1815/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka8VOGbb5JlKWOvOaKq33KReJI_6I18WUba-cTWvOxAqQ
+#EXTINF:0 tvg-id="RO: Balkanika Music TV" tvg-logo="http://team.ga/images/chIcons/1863.png" tvg-rec="0", RO: Balkanika Music TV
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1863/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka1Tg8GdfgTzsyC40TZDKcbouB-JPHxH-vfSr9fkoQ8V5
+#EXTINF:0 tvg-id="RO: Cartoonito" tvg-logo="http://team.ga/images/chIcons/1816.png" tvg-rec="0", RO: Cartoonito
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1816/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkazweoX_Hx5szH8ltRTeuC1wB0KxHRUDE4fxEfao8lV2K
+#EXTINF:0 tvg-id="RO: Cartoon Network" tvg-logo="http://team.ga/images/chIcons/1818.png" tvg-rec="0", RO: Cartoon Network
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1818/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkaz06LgggANP8Nj5xn2B82jrmlfok8VIz2MBsepFlN2cO
+#EXTINF:0 tvg-id="RO: Cinemax" tvg-logo="http://team.ga/images/chIcons/1842.png" tvg-rec="0", RO: Cinemax
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1842/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka0o6qcHTrqGJ304vShTmBFv44-XRTSZUMygqZ77nfTyJ
+#EXTINF:0 tvg-id="RO: Cinemax 2" tvg-logo="http://team.ga/images/chIcons/1820.png" tvg-rec="0", RO: Cinemax 2
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1820/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka9lyMSqDCOVlth4edYj0hMvvtUe7MsYUMbTMyHeaAlVb
+#EXTINF:0 tvg-id="RO: Cinemaraton" tvg-logo="http://team.ga/images/chIcons/3090.png" tvg-rec="0", RO: Cinemaraton
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3090/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka3W7fRMDZMPTDN3LaZ_3WtBFwsnzv2ZR0bic7g5mHmjj
+#EXTINF:0 tvg-id="RO: Credo TV" tvg-logo="http://team.ga/images/chIcons/1821.png" tvg-rec="0", RO: Credo TV
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1821/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka56gf1VYFE8QtCJ2vpW33kle0aNrHTaa0Lf80V71-Ux3
+#EXTINF:0 tvg-id="RO: Digi Sport 1 HD" tvg-logo="http://team.ga/images/chIcons/1108.png" tvg-rec="3", RO: Digi Sport 1 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1108/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka-QrtfK0gHCIJ508axPS528t3HFaUZvFb4T97KcbfPNi
+#EXTINF:0 tvg-id="RO: Digi Sport 2 HD" tvg-logo="http://team.ga/images/chIcons/1112.png" tvg-rec="3", RO: Digi Sport 2 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1112/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkawUJkrITp9g2TNZ0SGdGtnO-fVmmVjf-DRw75QmreHg2
+#EXTINF:0 tvg-id="RO: Digi Sport 3 HD" tvg-logo="http://team.ga/images/chIcons/1113.png" tvg-rec="3", RO: Digi Sport 3 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1113/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka9LfhjQSqRK6Vt4F-_k_AlmzAkmu4tilFLuHNm5UfHOo
+#EXTINF:0 tvg-id="RO: Digi Sport 4 HD" tvg-logo="http://team.ga/images/chIcons/1117.png" tvg-rec="3", RO: Digi Sport 4 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1117/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkayNEq1DS5q4DHnb9p2eMo3yPcMPcYKcxSqj_qzXBdUIz
+#EXTINF:0 tvg-id="RO: Digi 24" tvg-logo="http://team.ga/images/chIcons/1823.png" tvg-rec="0", RO: Digi 24
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1823/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka-6B7phKg00fKWrV8jAi4pPEwqcw7Pg1m5e417UwCra1
+#EXTINF:0 tvg-id="RO: Digi World HD" tvg-logo="http://team.ga/images/chIcons/3088.png" tvg-rec="0", RO: Digi World HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3088/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkaxIrSy_S7A3XK0XAlsZBK3VrASBPMNh5-67oNGx1XUM_
+#EXTINF:0 tvg-id="RO: Digi Animal World" tvg-logo="http://team.ga/images/chIcons/1822.png" tvg-rec="0", RO: Digi Animal World
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1822/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka7zx4RtETrfhuQvO2mhW_fg9dGOvH9bccpuPKVKpBLDG
+#EXTINF:0 tvg-id="RO: Discovery" tvg-logo="http://team.ga/images/chIcons/1824.png" tvg-rec="0", RO: Discovery
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1824/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka7NyW1acjPSGKtn7QY4if8od5Ri4wTrMsjtBO9nDQyHi
+#EXTINF:0 tvg-id="RO: Disney Channel" tvg-logo="http://team.ga/images/chIcons/1826.png" tvg-rec="0", RO: Disney Channel
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1826/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka_A-_ZNZjRETrKzQyBvvPdW4jY7Oc_LIkpueZpFZdzzp
+#EXTINF:0 tvg-id="RO: Disney Jr" tvg-logo="http://team.ga/images/chIcons/1827.png" tvg-rec="0", RO: Disney Jr
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1827/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka8SG5JyqIYMoaypaEGgo874fEvLokCbAER4gm0ODO7lo
+#EXTINF:0 tvg-id="RO: Duck TV" tvg-logo="http://team.ga/images/chIcons/1829.png" tvg-rec="0", RO: Duck TV
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1829/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkay1rNhzkFWfYYYTQdTph45Y0ctIAIIHzREZl5ZfuePGo
+#EXTINF:0 tvg-id="RO: Discovery Science" tvg-logo="http://team.ga/images/chIcons/1825.png" tvg-rec="0", RO: Discovery Science
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1825/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka7sY7MWxMdkCXaQfQsSyX9lYcxkE6TfpuhzcFxcfNWWU
+#EXTINF:0 tvg-id="RO: Euronews Romania" tvg-logo="http://team.ga/images/chIcons/1828.png" tvg-rec="0", RO: Euronews Romania
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1828/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka-VedA7oqafmKs8XjkRS2-2UAs8iT4bKahrJpsJWiIkx
+#EXTINF:0 tvg-id="RO: Etno" tvg-logo="http://team.ga/images/chIcons/1830.png" tvg-rec="0", RO: Etno
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1830/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka2alDCzRHFi7nUztR9ZOddKufJfGxz0aYvZnm7X1fwZJ
+#EXTINF:0 tvg-id="RO: Eurosport 1 HD" tvg-logo="http://team.ga/images/chIcons/1832.png" tvg-rec="0", RO: Eurosport 1 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1832/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka6_kGa6C_UFVi0IxQk-gFdkYUJP84GOwrPlaGf17JjMo
+#EXTINF:0 tvg-id="RO: Eurosport 2 HD" tvg-logo="http://team.ga/images/chIcons/1831.png" tvg-rec="0", RO: Eurosport 2 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1831/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka_SbQ87cLwDy0ntdiKRHo6EDy1WPsfl4S9l1RdsnMeke
+#EXTINF:0 tvg-id="RO: Epic Drama" tvg-logo="http://team.ga/images/chIcons/3091.png" tvg-rec="0", RO: Epic Drama
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3091/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka-LrPrfjpaJoYvOVJ1UT6Jx8nyC8lhU9t1pxNjsDdmXC
+#EXTINF:0 tvg-id="RO: Fishing and Hunting" tvg-logo="http://team.ga/images/chIcons/1817.png" tvg-rec="0", RO: Fishing and Hunting
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1817/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka0T-rkjWdKEDCVRcMFniGgaW-63iGSGZmIbLRnkmzX7k
+#EXTINF:0 tvg-id="RO: Film Cafe" tvg-logo="http://team.ga/images/chIcons/1833.png" tvg-rec="0", RO: Film Cafe
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1833/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkawvIm4GDI9lPzQBPF4OCZM0_CfWnViLKbFRrej2nTAoY
+#EXTINF:0 tvg-id="RO: Film Now" tvg-logo="http://team.ga/images/chIcons/1834.png" tvg-rec="0", RO: Film Now
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1834/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka1qz8P-bz8-wIVDLowE5cSFwrrzl_dTb10vZRfCfDP6O
+#EXTINF:0 tvg-id="RO: Filmbox Premium" tvg-logo="http://team.ga/images/chIcons/1835.png" tvg-rec="0", RO: Filmbox Premium
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1835/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka_uAkKpdnKg91tvnVwSfuFL5CAcw6YsUdoZ2Jicg-9p6
+#EXTINF:0 tvg-id="RO: Favorit" tvg-logo="http://team.ga/images/chIcons/1865.png" tvg-rec="0", RO: Favorit
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1865/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka6aoCNJWvOgFdJDiewduDLcqeXrmHMurUDaUWcsfzEre
+#EXTINF:0 tvg-id="RO: Happy Channel HD" tvg-logo="http://team.ga/images/chIcons/1836.png" tvg-rec="0", RO: Happy Channel HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1836/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka_Sa3mNpU2HGr2P_wrV6XkbecQcHNkgbiUJbk71yr915
+#EXTINF:0 tvg-id="RO: HBO HD" tvg-logo="http://team.ga/images/chIcons/686.png" tvg-rec="0", RO: HBO HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch686/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka19Wuf60DUkhFbihVJArVXfRLJ52HLfA7_3wRLXBDzlE
+#EXTINF:0 tvg-id="RO: HBO 2" tvg-logo="http://team.ga/images/chIcons/1839.png" tvg-rec="0", RO: HBO 2
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1839/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka5pZCmCuMy5-iqcH8GwSogNPLP7jmlJVKgbhkBSN2g0p
+#EXTINF:0 tvg-id="RO: HBO 3 HD" tvg-logo="http://team.ga/images/chIcons/687.png" tvg-rec="0", RO: HBO 3 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch687/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka6XdDIePyQCIkPrykgcoNzqYg9CWfh-JmZXX8HM-gJmd
+#EXTINF:0 tvg-id="RO: JimJam" tvg-logo="http://team.ga/images/chIcons/1841.png" tvg-rec="0", RO: JimJam
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1841/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka22HrFxrVdEqQUDPD7YJL0k2LzPsGjJHu813dvGte8Jk
+#EXTINF:0 tvg-id="RO: Investigation Discovery" tvg-logo="http://team.ga/images/chIcons/1840.png" tvg-rec="0", RO: Investigation Discovery
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1840/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkays05cfwe1TPJkcz_5Vo8BsqBxq7c6sbxEunATmRPg-e
+#EXTINF:0 tvg-id="RO: Kanal D HD" tvg-logo="http://team.ga/images/chIcons/685.png" tvg-rec="0", RO: Kanal D HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch685/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka0q1Hm9cV0VKatJof1uEYKQCaB2Embv8RA8kXfwDCIPg
+#EXTINF:0 tvg-id="RO: Kiss TV" tvg-logo="http://team.ga/images/chIcons/1843.png" tvg-rec="0", RO: Kiss TV
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1843/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkaz3KeYet6bYkqa5y8HOorghWpnoccL4SwJOy3jbfDX6L
+#EXTINF:0 tvg-id="RO: Music Channel" tvg-logo="http://team.ga/images/chIcons/1849.png" tvg-rec="0", RO: Music Channel
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1849/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka5Rjhu1Ba9YT9l0tps4UoiEZfusaaT4CfYOWSxr4pTnw
+#EXTINF:0 tvg-id="RO: Minimax" tvg-logo="http://team.ga/images/chIcons/1848.png" tvg-rec="0", RO: Minimax
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1848/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkawZa2oIqjqm1HCa_Gz4PLG3HygzJA_T1-OM6wswzGA4g
+#EXTINF:0 tvg-id="RO: N24" tvg-logo="http://team.ga/images/chIcons/1850.png" tvg-rec="0", RO: N24
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1850/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka6sX3GZRRwj46GF0KIdEdrj3x6rNEVT4_7hWJJEdAArH
+#EXTINF:0 tvg-id="RO: National TV" tvg-logo="http://team.ga/images/chIcons/1852.png" tvg-rec="0", RO: National TV
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1852/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkaxpDmqWekpH9-mY23qZkVNOHX5g3wm9QItRJgbTWjncq
+#EXTINF:0 tvg-id="RO: National Geographic" tvg-logo="http://team.ga/images/chIcons/1851.png" tvg-rec="0", RO: National Geographic
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1851/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkaw8qUUvnUuMCvtg-q56VNf-uaKIwQW2obf8p2hH7gnju
+#EXTINF:0 tvg-id="RO: Nat Geo Wild" tvg-logo="http://team.ga/images/chIcons/1682.png" tvg-rec="0", RO: Nat Geo Wild
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1682/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka9qwiX_-iUmBDjK-mPEqZDd7O8FVU-DPpR6CUkAdc_Lc
+#EXTINF:0 tvg-id="RO: Nickelodeon" tvg-logo="http://team.ga/images/chIcons/1854.png" tvg-rec="0", RO: Nickelodeon
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1854/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka9-2UE6VvvVdYbIZLpDt-Ps86auV_7fARR50PgjFpuyB
+#EXTINF:0 tvg-id="RO: Nick JR" tvg-logo="http://team.ga/images/chIcons/1853.png" tvg-rec="0", RO: Nick JR
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1853/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkawTfeoARLHiEltddWRODoVhwbgN2FRpsnM_82smkfr_7
+#EXTINF:0 tvg-id="RO: Prima TV HD" tvg-logo="http://team.ga/images/chIcons/1684.png" tvg-rec="0", RO: Prima TV HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1684/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka8LMsHv7YXkJ-NpdXrj5X3sq-XJLNFr-xGF_nE9JgmxG
+#EXTINF:0 tvg-id="RO: Prima World HD" tvg-logo="http://team.ga/images/chIcons/3084.png" tvg-rec="0", RO: Prima World HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3084/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka1pEcCaXBWTerowOaDkUhsOam2yLW0z5qEMUJhFl_VTE
+#EXTINF:0 tvg-id="RO: Prima News" tvg-logo="http://team.ga/images/chIcons/3087.png" tvg-rec="0", RO: Prima News
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3087/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka7FmdUOMTUADCzoycYuEOLl-biAJTtJxfRjdtDmmcjiE
+#EXTINF:0 tvg-id="RO: Prima Sport 1 HD" tvg-logo="http://team.ga/images/chIcons/1844.png" tvg-rec="0", RO: Prima Sport 1 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1844/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka0pXLvVk5oJBx0_fJSp9i8aQMApDl59Uijl0iBl5wxuc
+#EXTINF:0 tvg-id="RO: Prima Sport 2 HD" tvg-logo="http://team.ga/images/chIcons/1847.png" tvg-rec="0", RO: Prima Sport 2 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1847/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkazTuVjLq3tN7QMUViqH9eFSAzLGAOEhiH8GjNS_WEXa6
+#EXTINF:0 tvg-id="RO: Prima Sport 3 HD" tvg-logo="http://team.ga/images/chIcons/1845.png" tvg-rec="0", RO: Prima Sport 3 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1845/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka69r_Pv5o4GfUwSl2TdrlN2cytsG_t8F91g6X6N8x8g5
+#EXTINF:0 tvg-id="RO: Prima Sport 4 HD" tvg-logo="http://team.ga/images/chIcons/1846.png" tvg-rec="0", RO: Prima Sport 4 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1846/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkaw5VV-BF5OY1Vgg4QRSSu4l0L2zTq1_LV0G7PmaaQ1aO
+#EXTINF:0 tvg-id="RO: Prima Sport 5 HD" tvg-logo="http://team.ga/images/chIcons/3094.png" tvg-rec="0", RO: Prima Sport 5 HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3094/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka2sJ4nCzTRKFwykGnoMsK6f6XNffyKH2-AjV1Nosk3O7
+#EXTINF:0 tvg-id="RO: Pro TV HD" tvg-logo="http://team.ga/images/chIcons/645.png" tvg-rec="0", RO: Pro TV HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch645/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka8-fZVvinIsvSzJ3KsktiQg6xmQzXNTKxNDfPukOp0hq
+#EXTINF:0 tvg-id="RO: Pro Cinema" tvg-logo="http://team.ga/images/chIcons/1855.png" tvg-rec="0", RO: Pro Cinema
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1855/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka3ZwjozUJt6K4VbQ6xQFrR29eNlQWyezV9A30Ly3fV1o
+#EXTINF:0 tvg-id="RO: Pro Arena HD" tvg-logo="http://team.ga/images/chIcons/1858.png" tvg-rec="0", RO: Pro Arena HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1858/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka3CGLxeXYjJvSZYJC7NqUs_0y0MhphFNC2Oj3CNnemwN
+#EXTINF:0 tvg-id="RO: Pro TV International" tvg-logo="http://team.ga/images/chIcons/1857.png" tvg-rec="0", RO: Pro TV International
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1857/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkayeNMiAjgAwsOoolGm0pyB47b0QWD7yAA9-aZzQlO9jr
+#EXTINF:0 tvg-id="RO: Party Mix" tvg-logo="http://team.ga/images/chIcons/3300.png" tvg-rec="0", RO: Party Mix
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3300/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkawbNj94mF-x-skh1kg8sfAr5Pp07QGCUcZL-b2m-JWUh
+#EXTINF:0 tvg-id="RO: Romania TV" tvg-logo="http://team.ga/images/chIcons/1860.png" tvg-rec="0", RO: Romania TV
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1860/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka8XgqCWtfH8uIcI1cB2tvqn87SvRg1mFYOWzrzQ3hlBC
+#EXTINF:0 tvg-id="RO: Realitatea+" tvg-logo="http://team.ga/images/chIcons/1859.png" tvg-rec="0", RO: Realitatea+
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1859/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka99_POjEybAWzelF-g2NARrSfiWE-bkCE70owm5o3uhh
+#EXTINF:0 tvg-id="RO: Realitatea Sportiva HD" tvg-logo="http://team.ga/images/chIcons/3085.png" tvg-rec="0", RO: Realitatea Sportiva HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3085/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkayKc6C-Y2NJNX3xEBgeqYFsV-B5uWsC-iVkGvsmzJ_q1
+#EXTINF:0 tvg-id="RO: Super TV HD" tvg-logo="http://team.ga/images/chIcons/3298.png" tvg-rec="0", RO: Super TV HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3298/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka6JyxZfIVkuK2ULgFdreH6o94ZF8CpZ-aaXieCGSfcgM
+#EXTINF:0 tvg-id="RO: Speranta TV" tvg-logo="http://team.ga/images/chIcons/1861.png" tvg-rec="0", RO: Speranta TV
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1861/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka-vi9hf43knWNl7lQA8utTtWTmJamQyt98XIqHlyuZA4
+#EXTINF:0 tvg-id="RO: TVR1" tvg-logo="http://team.ga/images/chIcons/648.png" tvg-rec="0", RO: TVR1
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch648/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka9-ojS4llf7aEkXdUBvrjpwzDsYECdFd0WOpojwi2MtV
+#EXTINF:0 tvg-id="RO: TVR2" tvg-logo="http://team.ga/images/chIcons/1869.png" tvg-rec="0", RO: TVR2
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1869/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka3YMoAzM16hSqpDza4PHgCmA6TR9WgB7d9Rb8sEQZ7PF
+#EXTINF:0 tvg-id="RO: TVR3" tvg-logo="http://team.ga/images/chIcons/1870.png" tvg-rec="0", RO: TVR3
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1870/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka4SBE4kGJdjxWoQpLesUYNqtGqV77cyqA-5xc5NZTK1P
+#EXTINF:0 tvg-id="RO: TVR Sport HD" tvg-logo="http://team.ga/images/chIcons/3086.png" tvg-rec="0", RO: TVR Sport HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3086/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka7bmUfIFRAVJNylfBAAnvwkelUPDrF0dkJLta4KSwyEk
+#EXTINF:0 tvg-id="RO: Taraf" tvg-logo="http://team.ga/images/chIcons/1862.png" tvg-rec="0", RO: Taraf
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1862/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka1NGHAdviGyeNnmpuiGaT8KOQmaQNsH1Jbkhzpuvq3wS
+#EXTINF:0 tvg-id="RO: Telestar 1" tvg-logo="http://team.ga/images/chIcons/1864.png" tvg-rec="0", RO: Telestar 1
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1864/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka10xylDqWQ0mof0t2NmSQPfdVJmdls4qqUQP8XUmK_8s
+#EXTINF:0 tvg-id="RO: Tele Moldova + HD" tvg-logo="http://team.ga/images/chIcons/3299.png" tvg-rec="0", RO: Tele Moldova + HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3299/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka0XtHk7wuVWFKUA_Wnjdxe9wK34vRM7XJaD9wCD00sAb
+#EXTINF:0 tvg-id="RO: Travel mix HD" tvg-logo="http://team.ga/images/chIcons/1866.png" tvg-rec="0", RO: Travel mix HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1866/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka_z-bTcsjd-E0Qh98cmeaEp8t0fkjJwwUXtg7EPQ-GlZ
+#EXTINF:0 tvg-id="RO: Trinitas" tvg-logo="http://team.ga/images/chIcons/1867.png" tvg-rec="0", RO: Trinitas
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1867/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka7TnQUDktpyWwFF6LNoxwXY59sQO7QWvwGr6nTcWAAWK
+#EXTINF:0 tvg-id="RO: TV Paprika" tvg-logo="http://team.ga/images/chIcons/1868.png" tvg-rec="0", RO: TV Paprika
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1868/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka4nk_dq1cPhSrgN8kBd6x6lANc9GrVv9WMX3po0sM4Pq
+#EXTINF:0 tvg-id="RO: U TV HD" tvg-logo="http://team.ga/images/chIcons/3092.png" tvg-rec="0", RO: U TV HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3092/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka4u0vvTWJ58BDh-0cGOrK7TDg5wK7cDZjRPWLXVA_xRI
+#EXTINF:0 tvg-id="RO: Viasat Explore" tvg-logo="http://team.ga/images/chIcons/1685.png" tvg-rec="0", RO: Viasat Explore
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1685/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka4ZUfHvTOkqRl94FMeK8DxbZLoygKEQRNObQD_86Try_
+#EXTINF:0 tvg-id="RO: Viasat History" tvg-logo="http://team.ga/images/chIcons/1686.png" tvg-rec="0", RO: Viasat History
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1686/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka2J571qoGuSAzHpr9e953RnV1wFvlWZelQnwTVU9CPWK
+#EXTINF:0 tvg-id="RO: Viasat Nature" tvg-logo="http://team.ga/images/chIcons/3093.png" tvg-rec="0", RO: Viasat Nature
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3093/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkazF4CIb8nE8SKNxB2eFpGGyYii3LLKYjY63ax-y5iuB3
+#EXTINF:0 tvg-id="RO: Warner HD" tvg-logo="http://team.ga/images/chIcons/3089.png" tvg-rec="0", RO: Warner HD
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch3089/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwkaxF8N-bkiZAop1Bm8ljmUQIwDTXuEeTt4UE3xMQgyIJJ
+#EXTINF:0 tvg-id="RO: ZU TV" tvg-logo="http://team.ga/images/chIcons/1871.png" tvg-rec="0", RO: ZU TV
+#EXTGRP:27. Romania
+http://15.team.ga:80/ch1871/mono.m3u8?token=inrainbows999.bpBoTH1PG8LgXCO3jOwka4LXn-3bLv4siBhUykqQ9M7nCTaaF7lRZsul53YA7Yfd
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4

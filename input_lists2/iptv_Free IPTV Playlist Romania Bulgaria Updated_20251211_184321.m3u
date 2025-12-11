@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:0,Balaton TV [HU]
+http://88.218.242.235:82/6845/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,EWTN [HU]
+http://88.218.242.235:82/6846/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,TV 7 Bekescsaba [HU]
+http://88.218.242.235:82/6850/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,VTV Fuzesabony [HU]
+http://88.218.242.235:82/6852/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Izaura TV [HU]
+http://88.218.242.235:82/8198/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,M 1 [HU]
+http://88.218.242.235:82/8199/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Auto Motor und Sport [HU]
+http://88.218.242.235:82/8200/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,TV 2 [HU]
+http://88.218.242.235:82/8201/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Super TV 2 [HU]
+http://88.218.242.235:82/8239/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Film+ [HU]
+http://88.218.242.235:82/8236/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,RTL Harom [HU]
+http://88.218.242.235:82/8237/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,RTL Gold [HU]
+http://88.218.242.235:82/8238/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Arena Sport 1 [HU]
+http://88.218.242.235:82/8507/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Arena Sport 2 [HU]
+http://88.218.242.235:82/8508/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,ATV [HU]
+http://88.218.242.235:82/9265/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Duna HD [HU]
+http://88.218.242.235:82/9267/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Duna World [HU]
+http://88.218.242.235:82/9268/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Galaxy4 [HU]
+http://88.218.242.235:82/9270/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Hir TV [HU]
+http://88.218.242.235:82/9271/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,M 2 HD [HU]
+http://88.218.242.235:82/9272/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,M 4 HD [HU]
+http://88.218.242.235:82/9273/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,M 5 HD [HU]
+http://88.218.242.235:82/9274/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Muzsika TV [HU]
+http://88.218.242.235:82/9275/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Nick Jr. [HU]
+http://88.218.242.235:82/9276/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Nickelodeon [HU]
+http://88.218.242.235:82/9277/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Slager TV [HU]
+http://88.218.242.235:82/9278/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Sorozat+ [HU]
+http://88.218.242.235:82/9279/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,TV 2 Comedy [HU]
+http://88.218.242.235:82/9280/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Zenebutik [HU]
+http://88.218.242.235:82/9281/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,Dajto HD [HU]
+http://88.218.242.235:82/9282/index.m3u8?token=BHoNX3HZnM
+#EXTINF:0,City TV [HU]
+http://88.218.242.235:82/10836/index.m3u8?token=BHoNX3HZnM
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4

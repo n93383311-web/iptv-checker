@@ -1,0 +1,162 @@
+#EXTM3U
+#EXTINF:0 tvg-id="XBNT.bg" tvg-name="БНТ1" tvg-logo="[img]https://ip-tv.dev/images/ico/bnt1.png[/img]" , БНТ1
+#EXTGRP:Болгария
+http://de.online24.pm/play/6800/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XBNT.2.bg" tvg-name="БНТ2" tvg-logo="[img]https://ip-tv.dev/images/ico/bnt2.png[/img]" , БНТ2
+#EXTGRP:Болгария
+http://de.online24.pm/play/6801/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XBNT.4.bg" tvg-name="БНТ4" tvg-logo="[img]https://ip-tv.dev/images/ico/bnt4.png[/img]" , БНТ4
+#EXTGRP:Болгария
+http://de.online24.pm/play/6802/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XNova.TV.bg" tvg-name="Nova HD" tvg-logo="[img]https://ip-tv.dev/images/ico/novahd.png[/img]" , Nova HD
+#EXTGRP:Болгария
+http://de.online24.pm/play/6803/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XbTV.bg" tvg-name="bTV" tvg-logo="[img]https://ip-tv.dev/images/ico/btv.png[/img]" , bTV
+#EXTGRP:Болгария
+http://de.online24.pm/play/6804/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XKinoNova.bg" tvg-name="KinoNova" tvg-logo="[img]https://ip-tv.dev/images/ico/kinonova.png[/img]" , KinoNova
+#EXTGRP:Болгария
+http://de.online24.pm/play/6807/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XDiema.bg" tvg-name="Diema" tvg-logo="[img]https://ip-tv.dev/images/ico/diemach.png[/img]" , Diema
+#EXTGRP:Болгария
+http://de.online24.pm/play/6808/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XbTV.Action.bg" tvg-name="bTV Action" tvg-logo="[img]https://ip-tv.dev/images/ico/baction.png[/img]" , bTV Action
+#EXTGRP:Болгария
+http://de.online24.pm/play/6810/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XbTV.Comedy.bg" tvg-name="bTV Comedy" tvg-logo="[img]https://ip-tv.dev/images/ico/bcomedy.png[/img]" , bTV Comedy
+#EXTGRP:Болгария
+http://de.online24.pm/play/6811/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XbTV.Cinema.bg" tvg-name="bTV Cinema" tvg-logo="[img]https://ip-tv.dev/images/ico/bcinema.png[/img]" , bTV Cinema
+#EXTGRP:Болгария
+http://de.online24.pm/play/6812/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XHBO.bg" tvg-name="HBO 1 HD" tvg-logo="[img]https://ip-tv.dev/images/ico/hbo_large.jpg[/img]" , HBO 1 HD
+#EXTGRP:Болгария
+http://de.online24.pm/play/6896/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XHBO.2.bg" tvg-name="HBO 2 HD" tvg-logo="[img]https://ip-tv.dev/images/ico/hbo-comedy_large.jpg[/img]" , HBO 2 HD
+#EXTGRP:Болгария
+http://de.online24.pm/play/6897/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XHBO.3.bg" tvg-name="HBO 3 HD" tvg-logo="[img]https://ip-tv.dev/images/ico/hbo-3_large.jpg[/img]" , HBO 3 HD
+#EXTGRP:Болгария
+http://de.online24.pm/play/6898/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XAXN.bg" tvg-name="AXN" tvg-logo="[img]https://ip-tv.dev/images/ico/axn.png[/img]" , AXN
+#EXTGRP:Болгария
+http://de.online24.pm/play/6817/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XAXN.Black.bg" tvg-name="AXN Black" tvg-logo="[img]https://ip-tv.dev/images/ico/axnblack.png[/img]" , AXN Black
+#EXTGRP:Болгария
+http://de.online24.pm/play/6818/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XAXN.White.bg" tvg-name="AXN White" tvg-logo="[img]https://ip-tv.dev/images/ico/axnwhite.png[/img]" , AXN White
+#EXTGRP:Болгария
+http://de.online24.pm/play/6819/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XNational.Geographic.bg" tvg-name="National Geographic" tvg-logo="[img]https://ip-tv.dev/images/ico/nationalbg.png[/img]" , National Geographic
+#EXTGRP:Болгария
+http://de.online24.pm/play/6820/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XNat.Geo.Wild.bg" tvg-name="Nat Geo Wild" tvg-logo="[img]https://ip-tv.dev/images/ico/natgeobg.png[/img]" , Nat Geo Wild
+#EXTGRP:Болгария
+http://de.online24.pm/play/6821/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="This is Bulgaria" tvg-logo="[img]https://ip-tv.dev/images/ico/thisisbulgaria.png[/img]" , This is Bulgaria
+#EXTGRP:Болгария
+http://de.online24.pm/play/6823/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="The Fishing&Hunting Channel HD" tvg-logo="[img]https://ip-tv.dev/images/ico/fishinghuntinghd.png[/img]" , The Fishing&Hunting Channel HD
+#EXTGRP:Болгария
+http://de.online24.pm/play/6894/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="ВТК" tvg-logo="[img]https://ip-tv.dev/images/ico/vtk.png[/img]" , ВТК
+#EXTGRP:Болгария
+http://de.online24.pm/play/6824/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XNova.Sport.bg" tvg-name="Nova Sport" tvg-logo="[img]https://ip-tv.dev/images/ico/novasport.png[/img]" , Nova Sport
+#EXTGRP:Болгария
+http://de.online24.pm/play/6827/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="Auto Motor Sport HD" tvg-logo="[img]https://ip-tv.dev/images/ico/amshd.png[/img]" , Auto Motor Sport HD
+#EXTGRP:Болгария
+http://de.online24.pm/play/6893/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XDIEMA.SPORT.bg" tvg-name="Diema Sport" tvg-logo="[img]https://ip-tv.dev/images/ico/diema.png[/img]" , Diema Sport
+#EXTGRP:Болгария
+http://de.online24.pm/play/6830/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XDIEMA.SPORT.2.bg" tvg-name="Diema Sport 2" tvg-logo="[img]https://ip-tv.dev/images/ico/diema2.png[/img]" , Diema Sport 2
+#EXTGRP:Болгария
+http://de.online24.pm/play/6831/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XDIEMA.SPORT.2.bg" tvg-name="Diema Sport 2 4K" tvg-logo="[img]https://ip-tv.dev/images/ico/diema2.png[/img]" , Diema Sport 2 4K
+#EXTGRP:Болгария
+http://de.online24.pm/play/1652/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XDIEMA.SPORT.3.bg" tvg-name="Diema Sport 3" tvg-logo="[img]https://ip-tv.dev/images/ico/diema3.png[/img]" , Diema Sport 3
+#EXTGRP:Болгария
+http://de.online24.pm/play/6832/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.1.bg" tvg-name="Max Sport 1 HD" tvg-logo="[img]https://ip-tv.dev/images/ico/max1.png[/img]" , Max Sport 1 HD
+#EXTGRP:Болгария
+http://de.online24.pm/play/6875/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.2.bg" tvg-name="Max Sport 2 HD" tvg-logo="[img]https://ip-tv.dev/images/ico/max2.png[/img]" , Max Sport 2 HD
+#EXTGRP:Болгария
+http://de.online24.pm/play/6876/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.3.bg" tvg-name="Max Sport 3 HD" tvg-logo="[img]https://ip-tv.dev/images/ico/max3.png[/img]" , Max Sport 3 HD
+#EXTGRP:Болгария
+http://de.online24.pm/play/6877/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XMax.Sport.4.bg" tvg-name="Max Sport 4 HD" tvg-logo="[img]https://ip-tv.dev/images/ico/max4.png[/img]" , Max Sport 4 HD
+#EXTGRP:Болгария
+http://de.online24.pm/play/6878/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XNickelodeon.bg" tvg-name="Nickelodeon" tvg-logo="[img]https://ip-tv.dev/images/ico/nikelodeonbg.png[/img]" , Nickelodeon
+#EXTGRP:Болгария
+http://de.online24.pm/play/6833/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XNick.Jr.bg" tvg-name="Nick Jr" tvg-logo="[img]https://ip-tv.dev/images/ico/nickjrbg.png[/img]" , Nick Jr
+#EXTGRP:Болгария
+http://de.online24.pm/play/6834/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XEkids.bg" tvg-name="EKids" tvg-logo="[img]https://ip-tv.dev/images/ico/ekids.png[/img]" , EKids
+#EXTGRP:Болгария
+http://de.online24.pm/play/6835/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="Lolly Kids" tvg-logo="[img]https://ip-tv.dev/images/ico/lollykids.png[/img]" , Lolly Kids
+#EXTGRP:Болгария
+http://de.online24.pm/play/6836/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="Duck", Duck
+#EXTGRP:Болгария
+http://de.online24.pm/play/6837/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="CNN" tvg-logo="[img]https://ip-tv.dev/images/ico/cnnbg.png[/img]" , CNN
+#EXTGRP:Болгария
+http://de.online24.pm/play/6839/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="X24.Kitchen.bg" tvg-name="24 Kitchen" tvg-logo="[img]https://ip-tv.dev/images/ico/4kitchen.png[/img]" , 24 Kitchen
+#EXTGRP:Болгария
+http://de.online24.pm/play/6841/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="Euronews Bulgaria" tvg-logo="[img]https://ip-tv.dev/images/ico/euronewsbg.png[/img]" , Euronews Bulgaria
+#EXTGRP:Болгария
+http://de.online24.pm/play/6842/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XBulgaria.ON.AIR.bg" tvg-name="BG on AIR" tvg-logo="[img]https://ip-tv.dev/images/ico/gonair.png[/img]" , BG on AIR
+#EXTGRP:Болгария
+http://de.online24.pm/play/6843/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="Xskat.bg" tvg-name="ТВ Скат" tvg-logo="[img]https://ip-tv.dev/images/epg/6845.png[/img]?v1743764223" , ТВ Скат
+#EXTGRP:Болгария
+http://de.online24.pm/play/6845/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="Xcodefashion.bg" tvg-name="CodeFashion HD" tvg-logo="[img]https://ip-tv.dev/images/ico/codefashion.png[/img]" , CodeFashion HD
+#EXTGRP:Болгария
+http://de.online24.pm/play/6850/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="XPlaneta.bg" tvg-name="Планета HD BG" tvg-logo="[img]https://ip-tv.dev/images/ico/planetabg.png[/img]" , Планета HD BG
+#EXTGRP:Болгария
+http://de.online24.pm/play/6853/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="Планета Фолк" tvg-logo="[img]https://ip-tv.dev/images/ico/planetafolk.png[/img]" , Планета Фолк
+#EXTGRP:Болгария
+http://de.online24.pm/play/6854/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="Фен ТВ" tvg-logo="[img]https://ip-tv.dev/images/ico/fentv.png[/img]" , Фен ТВ
+#EXTGRP:Болгария
+http://de.online24.pm/play/6855/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="Тянков Ориент" tvg-logo="[img]https://ip-tv.dev/images/ico/tiankov.png[/img]" , Тянков Ориент
+#EXTGRP:Болгария
+http://de.online24.pm/play/6856/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="Балканика" tvg-logo="[img]https://ip-tv.dev/images/ico/balkanikabg.png[/img]" , Балканика
+#EXTGRP:Болгария
+http://de.online24.pm/play/6858/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="Родина ТВ" tvg-logo="[img]https://ip-tv.dev/images/ico/rodina.png[/img]" , Родина ТВ
+#EXTGRP:Болгария
+http://de.online24.pm/play/6859/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="Фен Фолк" tvg-logo="[img]https://ip-tv.dev/images/ico/fenfolk.png[/img]" , Фен Фолк
+#EXTGRP:Болгария
+http://de.online24.pm/play/6860/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="DSTV" tvg-logo="[img]https://ip-tv.dev/images/epg/6863.png[/img]?v1743764442" , DSTV
+#EXTGRP:Болгария
+http://de.online24.pm/play/6863/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="BOX TV" tvg-logo="[img]https://ip-tv.dev/images/ico/boxbg.png[/img]" , BOX TV
+#EXTGRP:Болгария
+http://de.online24.pm/play/6864/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-name="Magic TV" tvg-logo="[img]https://ip-tv.dev/images/ico/magicbg.png[/img]" , Magic TV
+#EXTGRP:Болгария
+http://de.online24.pm/play/6865/219F6666A4460D8/video.m3u8
+#EXTINF:0 tvg-id="Xlove-nature-4k" tvg-name="Love Nature 4K" tvg-logo="[img]https://ip-tv.dev/images/epg/6895.png[/img]?v1743764733" , Love Nature 4K
+#EXTGRP:Болгария
+http://de.online24.pm/play/6895/219F6666A4460D8/video.m3u8
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4

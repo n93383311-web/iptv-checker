@@ -1,0 +1,342 @@
+#EXTM3U
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-20439" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo_east.png[/img]",HBO HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/4bb41305/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53427" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hir_tv_hu.png[/img]",HirTV HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/7caa6fe7/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-95" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/history.png[/img]",History HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/2fb8de46/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-2447" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/jj/jocky-tv-hu.png[/img]",Jocky TV HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/42d2ef6a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-296" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/m1-ua.png[/img]",m1 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n24d828e4/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-297" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/m2-ua.png[/img]",m2 Petofi HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n7b1175f4/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-2448" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/mm/moziverzum-hu.png[/img]",Moziverzum HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n2a9dedc0/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53516" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ss/spektrum.png[/img]",Spektrum HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/20f93e27/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-54552" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/aa/atv_hu.png[/img]",ATV HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/40c2fc57/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-8021" tvg-logo="[img]https://dl.dropboxusercontent.com/s/bjzdxn4xtitz6iw/atv.jpg[/img]",ATV Spirit HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n7aac170e/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53510" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cool_tv_hu.png[/img]",Cool HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/70fe1e37/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Duna World / M4 Sport+ HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n14a70f55/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-1478" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/filmbox.png[/img]",FilmBox Stars HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n545d07ee/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53504" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ff/film_cafe_hu.png[/img]",Film Cafe HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/6fe6cea1/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-5052" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ff/filmbox_family.png[/img]",Filmbox Family HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/1d06cbb7/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-2167" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_de.png[/img]",RTL HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/5dc0d330/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53518" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ss/spiler-tv-1-hu.png[/img]",Spiler 1 [HU]
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/68b0168a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-55147" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ss/spiler-tv-2-hu.png[/img]",Spiler 2 [HU]
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/6a64ef29/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53520" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sport1_hu_hd.png[/img]",Sport 1 [HU]
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/2d01365d/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53521" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sport2_hu_hd.png[/img]",Sport 2 [HU]
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/2eb60efc/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-2444" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv2_hu.png[/img]",TV2 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/613ae1ca/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-8063" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv_2_tv_ru.png[/img]",TV2 Klub HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/6aaca002/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-197" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/viasat-nature.png[/img]",Viasat Nature HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n6421595/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-50075" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/mm/minimax_ro.png[/img]",Minimax HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n5c7c0d73/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-54368" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/nicktoons.png[/img]",Nicktoons HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/3425fbc4/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-136" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/nickelodeon.png[/img]",Nickelodeon HU UKR
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n7b3cc16f/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53525" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ss/super_tv2_hu.png[/img]",SuperTV2 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/3744a7eb/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Direct One HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n5a16a40f/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Izaura TV HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n69aceeb4/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53509" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/mm/muzsika_tv_hu.png[/img]",Muzsika TV HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/577e347c/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Sorozat+ HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/73e50c89/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-54549" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nick_us_music.png[/img]",NickMusic EN
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n5b3cd00c/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53506" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_gold_hu.png[/img]",RTL GOLD HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/5fdec08a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-2167" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_de.png[/img]",RTL KETTO HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/391cb6bb/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-2167" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_de.png[/img]",RTL HAROM HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/2a2f3399/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-2167" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rtl_de.png[/img]",RTL OTTHON HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/3d57a7f2/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Kolyokklub
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n48e12518/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-52416" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/bbc-earth.png[/img]",BBC Earth HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/3e3ff30d/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-2018" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/aa/auto_motor_sport_channel.png[/img]",Auto Motor Sport HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/4b345fc8/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Slager TV HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n2021a99c/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-9085" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ff/film_and_arts_br.png[/img]",Film Mania HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n56452216/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-20259" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ee/e_global_us.png[/img]",E! Entertainment HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/2d55d87c/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-5051" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ff/filmbox_extra_pl_hd.png[/img]",FilmBox Extra HD HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/7f630dfb/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-51102" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/dd/digi_sport2_ro.png[/img]",DIGI Sport 2 RO HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n7d037f96/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-51102" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/dd/digi_sport2_ro.png[/img]",DIGI Sport 2 HD RO HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n4e41eb2e/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53519" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/dd/digi_sport4_ro.png[/img]",DIGI Sport 4 RO HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n13370914/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-51101" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/dd/digi_sport1_ro.png[/img]",DIGI Sport 1 RO HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/4e164529/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-51101" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/dd/digi_sport1_ro.png[/img]",DIGI Sport 1 HD RO
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/4d845b3a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",MATCH4 HD HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n2705a2b3/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-34" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/animal-planet.png[/img]",Animal Planet HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n4fbc8c42/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Dikh TV HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/1c39689a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-72" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/eurosport.png[/img]",Eurosport HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/583cca13/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-73" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/eurosport-2.png[/img]",Eurosport 2 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/3c27d341/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-60",Discovery HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n1c467f96/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-99" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/investigation-discovery.png[/img]",ID Investigation Discovery HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n6583d6ed/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53516" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ss/spektrum.png[/img]",Spektrum Home HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n2bc9110c/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-50011" tvg-logo="[img]https://dl.dropboxusercontent.com/s/xcnjkrmngf2q37k/arena4.png[/img]",Arena4 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/2eff9833/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-52" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/cartoon-network.png[/img]",Cartoon Network HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n18452e82/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-50052" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/dd/duna_tv.png[/img]",Duna HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n4ff1aa64/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-51199" tvg-logo="[img]https://dl.dropboxusercontent.com/s/qkcx070cmzwz6li/m4.jpg[/img]",M4 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n2699bbe7/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53505" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ff/film_plusz_hu.png[/img]",Film+ HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n5c083ded/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53228" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/mm/magyar_tv4_sport_hu.png[/img]",M4 Sport HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n2a06249b/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-8201" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo3_ce.png[/img]",HBO 3 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/2ef11c12/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-51830" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/love-nature.png[/img]",Love Nature HD HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n534812c7/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Magyar ATV HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/693c4e86/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Magyar Mozi TV HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/41977bb8/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-2446" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mozi_plus_hu.png[/img]",Mozi+ HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n2fcf25a0/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-20434" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo2_east.png[/img]",HBO 2 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/2ef0a7b3/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-128" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/nat-geo-wild.png[/img]",Nat Geo Wild HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/6e9f5488/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Ozone TV HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n4cb19ce7/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53229" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/mm/magyar_tv5_hu.png[/img]",m5 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n24d65768/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-55154" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/amc.png[/img]",AMC HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/4057b4c3/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-66" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/disney-kanal.png[/img]",Disney HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/29d14a8c/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-1169" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ff/film4.png[/img]",Film 4 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n25920238/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-5051" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ff/filmbox_extra_pl.png[/img]",FilmBox Extra HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/neb0a9fd/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-52845" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ff/filmbox_premium_pl.png[/img]",Filmbox Premium HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/fcc34bc/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Galaxy4 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n1b53c64a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Max4 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/6a7df4d0/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-100138" tvg-logo="[img]https://dl.dropboxusercontent.com/s/sh23v09kbzynd1n/tv2comedy.png[/img]",TV2 Comedy HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/69452c77/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-8063" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv_2_tv_ru.png[/img]",TV2 Kids HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/64a640e3/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-8063" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv_2_tv_ru.png[/img]",TV2 Sef HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n4a296d4a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-22010" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv4_tr.png[/img]",TV4 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/613bca88/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-194" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/viasat-explore-hd.png[/img]",Viasat Explore HD HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n5a5a1457/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-196" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/viasat-history.png[/img]",Viasat History HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n7a9cae8c/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Zenebutik HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/3a4291f9/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-4004" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png[/img]",AXN CE HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/5ab8af75/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-5032" tvg-logo="[img]https://dl.dropboxusercontent.com/s/jg35bpsdv343the/cc-family.png[/img]",Comedy Central Family HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n43ba803c/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 tvg-name="Play-x Тайны Чапман HD" tvg-id="000001" group-title="Венгрия",
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n3589c4c9/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-2445" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fem_3_hu.png[/img]",Fem3 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n195be65/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-52847" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ff/filmbox_basic.png[/img]",Filmbox (basic) HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/3ccfb790/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-95" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/history.png[/img]",History Hungary HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n559badc/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-8005" tvg-logo="[img]https://dl.dropboxusercontent.com/s/8x55xifyam3yujh/lifetv.jpg[/img]",Life TV HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/186c5f74/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-131" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/national-geographic-hd.png[/img]",National Geographic HD HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/6d9e1ac9/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-143" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/paramount.png[/img]",Paramount Channel HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n27841662/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-8458" tvg-logo="[img]https://dl.dropboxusercontent.com/s/l43s0isb1p3yogu/prime.png[/img]",Prime HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n76289445/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53523" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/ss/story_4.png[/img]",STORY 4 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n4728110f/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия",Viasat 2 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/31279536/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-52795" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/vv/viasat_film.png[/img]",Viasat Film HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n321e0a52/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-102" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/jimjam.png[/img]",JimJam HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/285a3838/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-42" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cartoonito_it.png[/img]",Cartoonito HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/d345aa/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-20932" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/teennick.png[/img]",TeenNick HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n7c2d5ddd/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-20193" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cinemax_east.png[/img]",Cinemax HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/450c9a53/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-5027" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cinemax_ce_2.png[/img]",Cinemax2 HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/5c8e4755/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-1692" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/dd/digi_animal_world_ro.png[/img]",DIGI Animal World HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/7e9911d3/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-51651" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/vv/vtv_uy.png[/img]",VTV Füzesabony
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n5f8d0424/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-52967" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nebesa-tv7-fi-ru.png[/img]",TV7 Bekescsaba
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/6fa94332/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-50011" tvg-logo="[img]https://dl.dropboxusercontent.com/s/xcnjkrmngf2q37k/arena4.png[/img]",Arena 4 SPORT HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n4a87e515/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-54245" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/epic-drama.png[/img]",Epic Drama HD HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/5a76df6a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-5008" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/aa/axn_white_us.png[/img]",AXN White HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/3221525a/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-197" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/viasat-nature-hd.png[/img]",Viasat Nature HD HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n4454bf6d/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-54738" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/tt/the_fishing_hunting_channel_se_eu.png[/img]",Fishing&Hunting HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n1a0f8379/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-135" tvg-logo="[img]http://srveu.play-x.ru:7799/logos/nick-junior.png[/img]",Nick Jr HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/640edf5/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1 group-title="Венгрия" tvg-id="hlsproxy-53793" tvg-logo="[img]http://srveu.play-x.ru:7799/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv_paprika_hu.png[/img]",TV Paprika HU
+#EXTGRP:Венгрия
+http://srveu.play-x.ru:7799/channel/n6979b9ee/index.m3u8?q=c62a4f13ceae4076ddb22a6bd6cf9915
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4

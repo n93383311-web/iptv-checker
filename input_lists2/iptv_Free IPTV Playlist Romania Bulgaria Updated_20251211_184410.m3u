@@ -1,0 +1,177 @@
+#EXTM3U
+#EXTINF:0 tvg-id="XHBO.hu" tvg-name="HBO HU", HBO HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/753/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XHBO.2.hu" tvg-name="HBO 2 HU", HBO 2 HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/895/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XHBO.3.hu" tvg-name="HBO 3 HU", HBO 3 HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/894/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XHIR.TV.hu" tvg-name="HirTV HU", HirTV HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/754/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XHistory.Channel.hu" tvg-name="History HU", History HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/755/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XJocky.TV.hu" tvg-name="Jocky TV HU", Jocky TV HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/756/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XMoziverzum.hu" tvg-name="Moziverzum HU", Moziverzum HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/759/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XSpektrum.hu" tvg-name="Spektrum HU", Spektrum HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/760/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XATV.hu" tvg-name="ATV HU", ATV HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/764/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XATV.SPIRIT.hu" tvg-name="ATV Spirit HU", ATV Spirit HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/765/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XCool.TV.hu" tvg-name="Cool HU", Cool HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/766/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XFilmBox.Stars.hu" tvg-name="FilmBox Stars HU", FilmBox Stars HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/768/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XFilm.Café.hu" tvg-name="Film Cafe HU", Film Cafe HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/770/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XFilmbox.Family.hu" tvg-name="Filmbox Family HU", Filmbox Family HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/771/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XRTL.hu" tvg-name="RTL HU", RTL HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/772/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XSpíler1.TV.hu" tvg-name="Spiler TV HU", Spiler TV HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/773/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XTV2.hu" tvg-name="TV2 HU", TV2 HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/775/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XViasat.Nature.hu" tvg-name="Viasat Nature HU", Viasat Nature HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/776/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XMinimax.hu" tvg-name="Minimax HU", Minimax HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/777/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XNicktoons.hu" tvg-name="Nicktoons HU", Nicktoons HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/778/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XNickelodeon.hu" tvg-name="Nickelodeon HU", Nickelodeon HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/779/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XSuper.TV2.hu" tvg-name="SuperTV2 HU", SuperTV2 HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/780/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-name="Direct One HU", Direct One HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/781/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XIzaura.TV.hu" tvg-name="Izaura TV HU", Izaura TV HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/782/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XMuzsika.TV.hu" tvg-name="Muzsika TV HU", Muzsika TV HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/783/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XSorozat+.hu" tvg-name="Sorozat+ HU", Sorozat+ HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/787/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XRTL.GOLD.hu" tvg-name="RTL GOLD HU", RTL GOLD HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/789/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XRTL.KETTŐ.hu" tvg-name="RTL KETTO HU", RTL KETTO HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/790/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XRTL.HÁROM.hu" tvg-name="RTL HAROM HU", RTL HAROM HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/791/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XCinemax.2.hu" tvg-name="Cinemax2 HU", Cinemax2 HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/794/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XBBC.Earth.hu" tvg-name="BBC Earth HU", BBC Earth HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/795/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XSláger.TV.hu" tvg-name="Slager TV HU", Slager TV HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/798/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XFilm.Mánia.hu" tvg-name="Film Mania HU", Film Mania HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/799/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XFilmbox.Extra.HD.hu" tvg-name="FilmBox Extra HD HU", FilmBox Extra HD HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/800/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XViasat.Explore.hu" tvg-name="Viasat Explore HD HU", Viasat Explore HD HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/901/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XViasat.History.hu" tvg-name="Viasat History HU", Viasat History HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/902/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XLifeTv.hu" tvg-name="Life TV HU", Life TV HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/903/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XAnimal.Planet.HD.hu" tvg-name="Animal Planet HU", Animal Planet HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/880/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XDiscovery.Channel.hu" tvg-name="Discovery HU", Discovery HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/884/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XID:.Investigation.Discovery.hu" tvg-name="ID Investigation Discovery HU", ID Investigation Discovery HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/885/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XNational.Geographic.Wild.HD.hu" tvg-name="Nat Geo Wild HU", Nat Geo Wild HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/900/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XDikh.TV.hu" tvg-name="Dikh TV HU", Dikh TV HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/881/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XSpektrum.Home.hu" tvg-name="Spektrum Home HU", Spektrum Home HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/886/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XAréna4.hu" tvg-name="Arena4 HU", Arena4 HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/887/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XCartoon.Network.hu" tvg-name="Cartoon Network HU", Cartoon Network HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/889/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XDuna.TV.hu" tvg-name="Duna HU", Duna HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/890/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="Xm4.hu" tvg-name="M4 HU", M4 HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/891/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XLove.Nature.hu" tvg-name="Love Nature HD HU", Love Nature HD HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/896/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XFilm+.hu" tvg-name="Film+ HU", Film+ HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/892/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-name="Magyar ATV HU", Magyar ATV HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/897/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XMagyar.Mozi.TV.hu" tvg-name="Magyar Mozi TV HU", Magyar Mozi TV HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/898/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XMozi+.hu" tvg-name="Mozi+ HU", Mozi+ HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/899/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XDuna.World.hu" tvg-name="Duna World / M4 Sport+ HU", Duna World / M4 Sport+ HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/767/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XSport1.hu" tvg-name="Sport 1 HU", Sport 1 HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/762/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XSport2.hu" tvg-name="Sport 2 HU", Sport 2 HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/774/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="XSpíler2.TV.hu" tvg-name="Spiler 2 HU", Spiler 2 HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/761/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="Xm1.HD.hu" tvg-name="m1 HU", m1 HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/757/E6BA13F31F4D78F/video.m3u8
+#EXTINF:0 tvg-id="Xm2.HD.hu" tvg-name="m2 Petofi HU", m2 Petofi HU
+#EXTGRP:Венгрия
+http://de.online24.pm/play/758/E6BA13F31F4D78F/video.m3u8
+#EXTINF:-1, Приятного просмотра
+https://alensat.at.ua/alensat.com.mp4
