@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,AMC
+http://78.108.251.120:8082/AMC
+#EXTINF:-1,Animal Planet HD
+http://78.108.251.120:8082/Animal_Planet_HD
+#EXTINF:-1,AXN
+http://78.108.251.120:8082/AXN
+#EXTINF:-1,Barely Legal
+http://78.108.251.120:8082/Barely_Legal
+#EXTINF:-1,Boomerang
+http://78.108.251.120:8082/Boomerang
+#EXTINF:-1,DocuBox HD
+http://78.108.251.120:8082/DocuBox_HD
+#EXTINF:-1,DW
+http://78.108.251.120:8082/DW
+#EXTINF:-1,Erox HD
+http://78.108.251.120:8082/Erox_HD
+#EXTINF:-1,Eroxxx HD
+http://78.108.251.120:8082/Eroxxx_HD
+#EXTINF:-1,FilmBox
+http://78.108.251.120:8082/FilmBox
+#EXTINF:-1,Hustler
+http://78.108.251.120:8082/Hustler
+#EXTINF:-1,Hustler HD
+http://78.108.251.120:8082/Hustler_HD
+#EXTINF:-1,Nick Jr
+http://78.108.251.120:8082/Nick_Jr
+#EXTINF:-1,Passion XXX
+http://78.108.251.120:8082/Passion_XXX
+#EXTINF:-1,Private HD
+http://78.108.251.120:8082/Private_HD
+#EXTINF:-1,SAT1
+http://78.108.251.120:8082/SAT1
+#EXTINF:-1,Super One
+http://78.108.251.120:8082/Super_One
+#EXTINF:-1,TLC
+http://78.108.251.120:8082/TLC
+#EXTINF:-1,Travel Channel HD
+http://78.108.251.120:8082/Travel_Channel_HD
+#EXTINF:-1,TV1000
+http://78.108.251.120:8082/TV1000
+#EXTINF:-1,TV5 Monde
+http://78.108.251.120:8082/TV5_Monde
+#EXTINF:-1,TVT
+http://78.108.251.120:8082/TVT
+#EXTINF:-1,Viasat Explore HD
+http://78.108.251.120:8082/Viasat_Explore_HD
+#EXTINF:-1,VTK
+http://78.108.251.120:8082/VTK

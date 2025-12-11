@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1,B1
+http://109.197.80.5:5001
+#EXTINF:-1,SperantaTV
+http://109.197.80.5:5002
+#EXTINF:-1,Warner TV
+http://109.197.80.5:5003
+#EXTINF:-1,Disney ROM
+http://109.197.80.5:5101
+#EXTINF:-1,CNN
+http://109.197.80.5:5201
+#EXTINF:-1,JimJam RO
+http://109.197.80.5:5202
+#EXTINF:-1,National Geographic RO
+http://109.197.80.5:5203
+#EXTINF:-1,Comedy Central Romania
+http://109.197.80.5:5301
+#EXTINF:-1,Nick Jr Romania
+http://109.197.80.5:5302
+#EXTINF:-1,Nickelodeon Romania
+http://109.197.80.5:5303
+#EXTINF:-1,Nicktoons Romania
+http://109.197.80.5:5304
+#EXTINF:-1,TeenNick Romania
+http://109.197.80.5:5305
+#EXTINF:-1,Filmbox Family
+http://109.197.80.5:5501
+#EXTINF:-1,FilmBox Stars INT
+http://109.197.80.5:5502
+#EXTINF:-1,PRO TV
+http://109.197.80.5:5605
+#EXTINF:-1,Agro TV
+http://109.197.80.5:5801
+#EXTINF:-1,Etno
+http://109.197.80.5:5803
+#EXTINF:-1,Music Channel
+http://109.197.80.5:5804
+#EXTINF:-1,Realitatea Plus
+http://109.197.80.5:5805
+#EXTINF:-1,Taraf
+http://109.197.80.5:5806
+#EXTINF:-1,ducktv
+http://109.197.80.5:5902
+#EXTINF:-1,Extreme Sports Channel
+http://109.197.80.5:5903
+#EXTINF:-1,Auto Motor Sport
+http://109.197.80.5:6002
+#EXTINF:-1,AMC RO
+http://109.197.80.5:6001
+#EXTINF:-1,Favorit TV
+http://109.197.80.5:6003
+#EXTINF:-1,Film Cafe
+http://109.197.80.5:6004
+#EXTINF:-1,Minimax Ro
+http://109.197.80.5:6005
+#EXTINF:-1,N24
+http://109.197.80.5:6012
+#EXTINF:-1,
+http://109.197.80.5:6013
+#EXTINF:-1,club MTV
+http://109.197.80.5:6101
+#EXTINF:-1,MTV 00s
+http://109.197.80.5:6102
+#EXTINF:-1,MTV 80s
+http://109.197.80.5:6103
+#EXTINF:-1,MTV 90s
+http://109.197.80.5:6104
+#EXTINF:-1,MTV Europe
+http://109.197.80.5:6105
+#EXTINF:-1,MTV Hits
+http://109.197.80.5:6106
+#EXTINF:-1,AXN Romania
+http://109.197.80.5:6202
+#EXTINF:-1,HGTV
+http://109.197.80.5:6302
+#EXTINF:-1,TV 1000
+http://109.197.80.5:6303
+#EXTINF:-1,DIGI 24
+http://109.197.80.5:6402
+#EXTINF:-1,HIT Music
+http://109.197.80.5:6403
+#EXTINF:-1,Kanal D
+http://109.197.80.5:6404
+#EXTINF:-1,Romania TV
+http://109.197.80.5:6405
+#EXTINF:-1,PRO CINEMA
+http://109.197.80.5:6406
+#EXTINF:-1,Filmbox (basic) HU/RO
+http://109.197.80.5:6501
+#EXTINF:-1,Filmbox Premium RO
+http://109.197.80.5:6502

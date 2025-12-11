@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title=\\\"Румыния\\\",Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 group-title=\\\"Румыния\\\",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Румыния\\\",Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Румыния\\\",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Румыния\\\",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Румыния\\\",Est TV (Neamt)
+http://89.38.8.130:39435
+#EXTINF:-1 group-title=\\\"Румыния\\\",Intermedia TV
+http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Румыния\\\",Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 group-title=\\\"Румыния\\\",TVPlus Suceava
+http://85.186.146.34:8080
+#EXTINF:-1 group-title=\\\"Румыния\\\",B1
+https://stream.adunity.com/b1/b1.m3u8
