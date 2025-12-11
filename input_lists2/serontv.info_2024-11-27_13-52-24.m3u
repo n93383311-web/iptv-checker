@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:0,BG: FEN TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=75444&extension=ts
+#EXTINF:0,BG: HISTORY
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=75442&extension=ts
+#EXTINF:0,BG: BNT 1 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1679&extension=ts
+#EXTINF:0,BG: BNT 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1680&extension=ts
+#EXTINF:0,BG: BNT 3 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1681&extension=ts
+#EXTINF:0,BG: BNT 4
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1682&extension=ts
+#EXTINF:0,BG: NOVA TV FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1685&extension=ts
+#EXTINF:0,BG: DIEMA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1683&extension=ts
+#EXTINF:0,BG: BTV FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1695&extension=ts
+#EXTINF:0,BG: BTV ACTION HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1692&extension=ts
+#EXTINF:0,BG: BTV CINEMA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1693&extension=ts
+#EXTINF:0,BG: BTV COMEDY HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1694&extension=ts
+#EXTINF:0,BG: BTV LADY
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1696&extension=ts
+#EXTINF:0,BG: DIEMA FAMILY
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1684&extension=ts
+#EXTINF:0,BG: KINO NOVA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1686&extension=ts
+#EXTINF:0,BG: AMC
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1700&extension=ts
+#EXTINF:0,BG: AXN
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1701&extension=ts
+#EXTINF:0,BG: AXN White
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=31971&extension=ts
+#EXTINF:0,BG: BG: AXN Black HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=31970&extension=ts
+#EXTINF:0,BG: ACTION BOX
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1691&extension=ts
+#EXTINF:0,BG: CINE BOX (CINEMA PLUS)
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1707&extension=ts
+#EXTINF:0,BG: COMEDY BOX
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1706&extension=ts
+#EXTINF:0,BG: CINEMAX
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1704&extension=ts
+#EXTINF:0,BG: CINEMAX 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1705&extension=ts
+#EXTINF:0,BG: EPIC DRAMA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1789&extension=ts
+#EXTINF:0,BG: Film Plus
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1716&extension=ts
+#EXTINF:0,BG: FilmBox Star
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=31975&extension=ts
+#EXTINF:0,BG: FILMBOX EXTRA HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1702&extension=ts
+#EXTINF:0,BG: HBO 1
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1709&extension=ts
+#EXTINF:0,BG: HBO 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1710&extension=ts
+#EXTINF:0,BG: HBO 3
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1711&extension=ts
+#EXTINF:0,BG: TV 1000
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=31972&extension=ts
+#EXTINF:0,BG: MOVIE STAR HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1703&extension=ts
+#EXTINF:0,BG: STAR LIFE (FOX LIFE)
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1699&extension=ts
+#EXTINF:0,BG: STAR
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1697&extension=ts
+#EXTINF:0,BG: STAR CRIME (FOX CRIME)
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1698&extension=ts
+#EXTINF:0,BG: ALFA TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1715&extension=ts
+#EXTINF:0,BG: AGRO TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1754&extension=ts
+#EXTINF:0,BG: 7/8 TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1688&extension=ts
+#EXTINF:0,BG: 100% Auto Moto TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1755&extension=ts
+#EXTINF:0,BG: BLOOMBERG TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1724&extension=ts
+#EXTINF:0,BG: BULGARIA 24
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1723&extension=ts
+#EXTINF:0,BG: TV999
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=31976&extension=ts
+#EXTINF:0,BG: TV1
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1720&extension=ts
+#EXTINF:0,BG: WNESS TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1751&extension=ts
+#EXTINF:0,BG: 24 KITCHEN
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1747&extension=ts
+#EXTINF:0,BG: ANIMAL PLANET
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1745&extension=ts
+#EXTINF:0,BG: Docubox
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=31974&extension=ts
+#EXTINF:0,BG: FOOD NETWORK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1752&extension=ts
+#EXTINF:0,BG: ID Xtra HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1774&extension=ts
+#EXTINF:0,BG: DISCOVERY CHANNEL
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1744&extension=ts
+#EXTINF:0,BG: LOVE NATURE
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1749&extension=ts
+#EXTINF:0,BG: NAT GEO
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1740&extension=ts
+#EXTINF:0,BG: TLC BALKAN
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1748&extension=ts
+#EXTINF:0,BG: VIASAT EXPLORE
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1736&extension=ts
+#EXTINF:0,BG: VIASAT HISTORY
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1738&extension=ts
+#EXTINF:0,BG: BABY TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1729&extension=ts
+#EXTINF:0,BG: CARTOON NETWORK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1731&extension=ts
+#EXTINF:0,BG: DISNEY CHANNEL
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1733&extension=ts
+#EXTINF:0,BG: Ohota i Ribalka
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1732&extension=ts
+#EXTINF:0,BG: EKIDS
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1730&extension=ts
+#EXTINF:0,BG: NICK JR.
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1727&extension=ts
+#EXTINF:0,BG: NICKELODEON
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1728&extension=ts
+#EXTINF:0,BG: SKAT
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1687&extension=ts
+#EXTINF:0,BG: BOX TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1768&extension=ts
+#EXTINF:0,BG: BALKANIKA TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1763&extension=ts
+#EXTINF:0,BG: BG MUSIC
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1766&extension=ts
+#EXTINF:0,BG: BULGARIA ON AIR
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1759&extension=ts
+#EXTINF:0,BG: CITY TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1776&extension=ts
+#EXTINF:0,BG: DSTV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1775&extension=ts
+#EXTINF:0,BG: EuroFolk TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1760&extension=ts
+#EXTINF:0,BG: EVROKOM
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1714&extension=ts
+#EXTINF:0,BG: FEN FOLK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1721&extension=ts
+#EXTINF:0,BG: HDTV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1739&extension=ts
+#EXTINF:0,BG: LTV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1713&extension=ts
+#EXTINF:0,BG: MAGIC
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1764&extension=ts
+#EXTINF:0,BG: PLANETA 4K
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1769&extension=ts
+#EXTINF:0,BG: PLANETA FOLK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1761&extension=ts
+#EXTINF:0,BG: RETRO TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1772&extension=ts
+#EXTINF:0,BG: Rimex TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1717&extension=ts
+#EXTINF:0,BG: ROMA TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1765&extension=ts
+#EXTINF:0,BG: This is Bulgaria HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1757&extension=ts
+#EXTINF:0,BG: TIANKOV FOLK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1767&extension=ts
+#EXTINF:0,BG: TIANKOV ORIENT
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1778&extension=ts
+#EXTINF:0,BG: TV ART
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1718&extension=ts
+#EXTINF:0,BG: TV EVROPA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1725&extension=ts
+#EXTINF:0,BG: TVN-Bulgaria
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=31973&extension=ts
+#EXTINF:0,BG: V2Beat
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1773&extension=ts
+#EXTINF:0,****BULGARIA SPORT ****
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1780&extension=ts
+#EXTINF:0,BG: DIEMA SPORT 1 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1787&extension=ts
+#EXTINF:0,BG: DIEMA SPORT 2 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1788&extension=ts
+#EXTINF:0,BG: DIEMA SPORT 3 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=75443&extension=ts
+#EXTINF:0,BG: EUROSPORT 1
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1784&extension=ts
+#EXTINF:0,BG: EUROSPORT 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1785&extension=ts
+#EXTINF:0,BG: MAX SPORT 1
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1790&extension=ts
+#EXTINF:0,BG: MAX SPORT 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1791&extension=ts
+#EXTINF:0,BG: MAX SPORT 3
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1792&extension=ts
+#EXTINF:0,BG: MAX SPORT 4
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1793&extension=ts
+#EXTINF:0,BG: NOVA NEWS
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1690&extension=ts
+#EXTINF:0,BG: NOVA SPORT
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1786&extension=ts
+#EXTINF:0,BG: RING.BG
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1783&extension=ts
+#EXTINF:0,BG: The Voice
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=1770&extension=ts

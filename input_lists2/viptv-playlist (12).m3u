@@ -1,0 +1,1019 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="678fc8294c4393ea719c979245ffdfc7",2+2
+http://94.236.209.185:9981/stream/channelid/701009767?ticket=E498D8A9174EBAAD79D42CA2495A2E5E6B31197B&profile=pass
+#EXTINF:-1 tvg-id="c867940768eff439059d2cd133f74f8b",24 Kitchen HD
+http://94.236.209.185:9981/stream/channelid/127166408?ticket=D6141C0DF45A4F7500DAEC2DD3848391A5735898&profile=pass
+#EXTINF:-1 tvg-id="b4c61d598dd1f417a2cb94e859bd4ee9",B1 HD RO
+http://94.236.209.185:9981/stream/channelid/1495123636?ticket=D0598126C4DDABE8031A88C978F4F7CB78B29880&profile=pass
+#EXTINF:-1 tvg-id="9fd54c1499e403d6afc0d437dc51dac3",CNBC HD
+http://94.236.209.185:9981/stream/channelid/340579743?ticket=F73562374AF8667943C16A44D60C06AA9AA4FF1E&profile=pass
+#EXTINF:-1 tvg-id="1eecae6a3747843450164b46eaf5d0f2",data04
+http://94.236.209.185:9981/stream/channelid/1789848606?ticket=D1083E19BE1E65D18941175A2A10315E9D1D7E97&profile=pass
+#EXTINF:-1 tvg-id="0aa9ebea437d9e410b4155d9ce26a9d4",data13
+http://94.236.209.185:9981/stream/channelid/1793829130?ticket=7CB4287FFD8E9EDC872CEB82131E25D9304B9F83&profile=pass
+#EXTINF:-1 tvg-id="f23e7908dea1665b9eaec0b7f4d468d4",Diema Family+1
+http://94.236.209.185:9981/stream/channelid/142163698?ticket=C0EBD4125F6BF498EEFE4F6ACBF47418C2550491&profile=pass
+#EXTINF:-1 tvg-id="f65bf8e49b0264e8475f10c0ab7ef796",Diema Family+2
+http://94.236.209.185:9981/stream/channelid/1693998070?ticket=4F0ADD09BC5171B6246C2379D0F50D1D00DDDF2D&profile=pass
+#EXTINF:-1 tvg-id="c69ad8adf767e5fcf634aa95ab506628",Diema Family+3
+http://94.236.209.185:9981/stream/channelid/769170118?ticket=A1785182AB72A34BD10AFE165D6A2FBD4C2FE8D2&profile=pass
+#EXTINF:-1 tvg-id="897cec74962bb434355ea84bda320611",Diema+1
+http://94.236.209.185:9981/stream/channelid/1961655433?ticket=849CCB5181C6121A4C2C277B8FE8F258B1E59440&profile=pass
+#EXTINF:-1 tvg-id="a6e6a32df74027ad618bf9f36f42f1f6",Diema+2
+http://94.236.209.185:9981/stream/channelid/765716134?ticket=26F243745E1274E40293D58464E7CC91F31B2386&profile=pass
+#EXTINF:-1 tvg-id="a37c63a7856ea6a95b56eadb465c7343",Diema+3
+http://94.236.209.185:9981/stream/channelid/660831395?ticket=2EDE6D83FF5B80B7C992FB3A3F6E07B1C9EBE3AE&profile=pass
+#EXTINF:-1 tvg-id="2c1519dbdde99d4631884dac2f5b6c7f",Filmi HD
+http://94.236.209.185:9981/stream/channelid/1528370476?ticket=622185DE2C8E05829CF51DFD676A7E358D6F3565&profile=pass
+#EXTINF:-1 tvg-id="d0cf87c0ddc59a94e435ea6da34f93eb",Fuel HD
+http://94.236.209.185:9981/stream/channelid/1082642384?ticket=286CF1C4D5D71D8ABBD136D594E3D9A8530D6AA8&profile=pass
+#EXTINF:-1 tvg-id="ba7d2db355d2f8cc4a8e6a9fb29ce5bc",Kerrang! UK
+http://94.236.209.185:9981/stream/channelid/858619322?ticket=2902003FAA0EA59BC44C5C6A12E1271A9E9A8465&profile=pass
+#EXTINF:-1 tvg-id="b2a8d0177cf2ffb5b9d7915b41415a41",Kino Nova+1
+http://94.236.209.185:9981/stream/channelid/399550642?ticket=643D47A517CCE9A89CC23C6ED970EDF0C4D60315&profile=pass
+#EXTINF:-1 tvg-id="b8fef437cc278a683849fdf3b764c268",Kino Nova+2
+http://94.236.209.185:9981/stream/channelid/938802872?ticket=A30F0AA792E923425AA3AD0B27AC27DAD4246323&profile=pass
+#EXTINF:-1 tvg-id="22cdba759500cefaf2f2efe9255ed5fc",Kino Nova+3
+http://94.236.209.185:9981/stream/channelid/1975176482?ticket=7578AC218BD06212D80E1DF2E6F66A4BA369C91D&profile=pass
+#EXTINF:-1 tvg-id="055f4f36ed90550a48fa34823cd72a58",Love Nature HD
+http://94.236.209.185:9981/stream/channelid/911171333?ticket=6ECCD7E04710D1582C99D7FD88C9D1FA2BD6B345&profile=pass
+#EXTINF:-1 tvg-id="881ecb2ed7a8abc282acbfb635f97a2f",Planeta 4K
+http://94.236.209.185:9981/stream/channelid/785063560?ticket=064372071359E1D4B4FE7DE0ED1F0B0064E2FE95&profile=pass
+#EXTINF:-1 tvg-id="dd31b3b07672015404e27a6bdc008161",Radio Ellada FM
+http://94.236.209.185:9981/stream/channelid/817050077?ticket=0D63809E8F867CF8CEAC60BC18940ED5510F07E8&profile=pass
+#EXTINF:-1 tvg-id="42f1cd513c9c20c61d2dadeafa11f66f",RomaniQk
+http://94.236.209.185:9981/stream/channelid/1372451138?ticket=CE6E7E248B8064AF9C91AB60775906DD435EAB3C&profile=pass
+#EXTINF:-1 tvg-id="1ec7916cd869dc54ef1dcb08b553ec14",Star HD TR
+http://94.236.209.185:9981/stream/channelid/1821493022?ticket=8B36E55424BB96301A5452EC3F4B2BC328DFE832&profile=pass
+#EXTINF:-1 tvg-id="d7318701ffb735b0a5e84bc3c1b42f67",Trinitas HD RO
+http://94.236.209.185:9981/stream/channelid/25637335?ticket=3BF63790C5E869CACE5469EC430E1EE652952D1E&profile=pass
+#EXTINF:-1 tvg-id="4f38532615160328ab606636dd056526",CGTN France HD
+http://94.236.209.185:9981/stream/channelid/642988111?ticket=57544AAEC81C3135F2E25E289685E5F0409CA542&profile=pass
+#EXTINF:-1 tvg-id="5440e6a0dfcc4c7ea50b6859b8ff8d9b",CGTN News
+http://94.236.209.185:9981/stream/channelid/551960660?ticket=FC76EB7CD72242C6304A58866E52B0833F89B650&profile=pass
+#EXTINF:-1 logo="https://webchnl.web.app/assets/img/channelicons/soul.png" tvg-id="936ca100ba8ca5aece24e76b063c9024",Soul HD
+http://94.236.209.185:9981/stream/channelid/10579091?ticket=FC86D51F1028DF3B36EBEEF8EEE30E4708858981&profile=pass
+#EXTINF:-1 tvg-id="ad1b0fbfb4ca080dbe3b3900884bd17d",Update 01
+http://94.236.209.185:9981/stream/channelid/1057954733?ticket=AE09A8060F46B74C3FD013A0DCBC242AB67A07A5&profile=pass
+#EXTINF:-1 tvg-id="4a7cba01fb123b1c6a1f084cc788aa27",Update 08
+http://94.236.209.185:9981/stream/channelid/28998730?ticket=7F9358CCCBF6B64AE808E3574360D06D7FE4C6FB&profile=pass
+#EXTINF:-1 tvg-id="80f3bbc39f81b346d82c1a1fa330c1d4",Update 09
+http://94.236.209.185:9981/stream/channelid/1136391040?ticket=18661177714D35B7187C2A6F7FF7D0949F74B5BD&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/78tv.png" tvg-id="2c0eab9426fe9665db6679e6e545a615",7/8 TV
+http://94.236.209.185:9981/stream/channelid/346754604?ticket=751FFE39A06BE34B8E06C0D9EF2960F13D329AF4&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/btv.png" tvg-id="8351fc52f39fdbc47971319ee448b64d",bTV HD
+http://94.236.209.185:9981/stream/channelid/1392267651?ticket=6392A396DDE4AF46FEFC9223DC589880AD2B35A0&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/nova.png" tvg-id="f11876d449d53aa4dd77eb09c71572f6",Nova Sport 1 HD Cze
+http://94.236.209.185:9981/stream/channelid/1417025777?ticket=13B4272DEA84992CAF15BDE8EDCE7727D9FDE05E&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bnt1.png" tvg-id="bcdfd8dcf8f7184e0259938361222dae",BNT 1 HD
+http://94.236.209.185:9981/stream/channelid/1557716924?ticket=BAD7409B7204433FEE96CA1D6841FCEEBDB156F8&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bnt2.png" tvg-id="3757a4e6471b7132ee5c7cc282421255",BNT 2 HD
+http://94.236.209.185:9981/stream/channelid/1722046263?ticket=740BBB5ED32C2E16196B2E88913073E45112270C&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bnt3.png" tvg-id="5ed36a0ef351532ed92abd6c1dc1074a",BNT 3 HD
+http://94.236.209.185:9981/stream/channelid/241881950?ticket=6775C0E551F071E48276432CAA32412D6C068CE2&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bnt4.png" tvg-id="c18babeba5a5eb7b9733c8ce56538122",BNT 4 HD
+http://94.236.209.185:9981/stream/channelid/1806404545?ticket=704C85A6BE05DDB475909B264597B5AC91CAE234&profile=pass
+#EXTINF:-1 logo="https://www.parvaprograma.com/logo.jpg" tvg-id="2d5248b0f9dc00d04951ff7eba6182a2",1-va Programa
+http://94.236.209.185:9981/stream/channelid/810045997?ticket=C461BF1238F45D5126DB89660FA569EEB14E34EB&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/novanews.png" tvg-id="0fe5dfa96f7778ae314a8f17ab56cea5",Nova News
+http://94.236.209.185:9981/stream/channelid/702539023?ticket=1570B2AC315A1C303A34880354758B02EE9B2DB1&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bulgariaonair.png" tvg-id="ad4478b4117b0fa43b383a3c08d883ac",Bulgaria On Air
+http://94.236.209.185:9981/stream/channelid/880297133?ticket=B65078A36BE91ED90D53AA34197F46403A808FF7&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bnt1.png" tvg-id="d80b7f41928b10f1f30c70859970a64c",BNT 1
+http://94.236.209.185:9981/stream/channelid/1098845144?ticket=AAA55A1340F1BD12754E898F20B32AAC4B6B5BB1&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bnt2.png" tvg-id="14135bdeef3cebb05f3c556ebc27926c",BNT 2
+http://94.236.209.185:9981/stream/channelid/1583026964?ticket=D55BC8CA88C826AF05D3B325FBBF945841AA4BF1&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bnt4.png" tvg-id="f73b30ef3b5d6e5e14f2ac7edbe6a9e8",BNT 4
+http://94.236.209.185:9981/stream/channelid/1865432055?ticket=2D732EA36DE01EBF141B87B18708931CB4425A00&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/btv.png" tvg-id="7379d3e8f63a1d0d1361b6120f5b551a",bTV
+http://94.236.209.185:9981/stream/channelid/1758689651?ticket=2CF7BD3A464CBFDA557B2CCCB89DF6FB6D4389C3&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/nova.png" tvg-id="067226cd5723f6ff25bf1748bcb7462f",Nova TV
+http://94.236.209.185:9981/stream/channelid/1294365190?ticket=A06F82AED6CF7EFC62EDE207F683E06F1E774223&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bstv.png" tvg-id="651c98ec2f03b5fa794eb73d004d6ddb",bTV Cinema HD
+http://94.236.209.185:9981/stream/channelid/1821908069?ticket=4499E356EA21FD3E9D606621AE4916B4CDE9D00E&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bstv.png" tvg-id="b1c0226efa281117fd95090b9521882f",Kanal 4
+http://94.236.209.185:9981/stream/channelid/1847771313?ticket=F4CA1699F110742562356AA0E44AF8DEFC3F7EB6&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bnt1.png" tvg-id="213a8c32a25fa3dc57b6bce817638cc7",BNT+1
+http://94.236.209.185:9981/stream/channelid/848050721?ticket=C215C5F7CD718C2B17104457A67504B0E323B15C&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bnt2.png" tvg-id="a9f21519313835dee5ae002ecc327692",BNT+2
+http://94.236.209.185:9981/stream/channelid/420868777?ticket=CDB771895D754B705C8AC713F1F9AFB46ABCCA86&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/btv.png" tvg-id="0f215750d64d2907198db7d599755f97",bTV+1
+http://94.236.209.185:9981/stream/channelid/1347887375?ticket=6ED122B4B6081D9B3F9FAD25373740908FF5DB02&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/btv.png" tvg-id="3f2115e175548bf838b64f10ac666256",bTV+2
+http://94.236.209.185:9981/stream/channelid/1628774719?ticket=F3E19024350E32B13FE24B678A565EBD2C0680E4&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/eurocom.png" tvg-id="b94c80ca5560400f818d817dbd5305b7",Evrokom
+http://94.236.209.185:9981/stream/channelid/1249922233?ticket=C9A66B64D444CEBBA8DF982AD48AB5FEC3C0A24B&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/alfa.png" tvg-id="c103814da35b8b242a1893c26a44c40d",Alfa TV
+http://94.236.209.185:9981/stream/channelid/1300300737?ticket=EB318512EE639839AFAC6E5E44FF2A8CDCDC0133&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bulgare.png" tvg-id="1c78a7ba6f781449d99cd94da7cc836d",BG+ HD
+http://94.236.209.185:9981/stream/channelid/984053788?ticket=415ED39C32051A44BF8C6CD768D0D3BAFF39FB68&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/tveurope.png" tvg-id="d4637f59f4b54216b6232f51700081e7",Euronews Bulgaria
+http://94.236.209.185:9981/stream/channelid/1501520852?ticket=D026836638ADAAF2DF4BFB0F5AC3E78EAE6600FD&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/kanal4.png" tvg-id="90632fd469e83f3313bd75572147d2fe",Nostalgia
+http://94.236.209.185:9981/stream/channelid/1412391824?ticket=4B33980DEDCC7B4617923C4E8AF533B63B61A054&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bulgare.png" tvg-id="eeb14575453160ab8441fd895dfa77b3",BG+
+http://94.236.209.185:9981/stream/channelid/1967501806?ticket=EDBAFB7CEB5F71EEE8EFDEEBB1E99A6094670D4F&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bgdnes.png" tvg-id="d6c50ff4ab99a500d9517892902ef208",BG-DNES HD
+http://94.236.209.185:9981/stream/channelid/1947190742?ticket=8FA26C3A17EA4B876F46F9F2396C3BBC1CA72669&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bulgaria24.png" tvg-id="19d378f27b37d05bbf742a501420a321",Bulgaria 24
+http://94.236.209.185:9981/stream/channelid/1920520985?ticket=FBA26695C4A41DA245415EDD9672C5A7946CB5A1&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/nova.png" tvg-id="d7118ee9662c3dde19e65f59caf11af4",Nova+1
+http://94.236.209.185:9981/stream/channelid/1770918359?ticket=3787395C928E81AAB2E55F5DA07C4F4A50AC064E&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/nova.png" tvg-id="c8b5968b8adf394a8b616e734fd0d879",Nova+2
+http://94.236.209.185:9981/stream/channelid/194426312?ticket=650C4457ADA546954A12FDD9A55867344B2131C5&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/skat.png" tvg-id="c5c8bb0bcf10313ed74cb50edafddac5",TV Skat
+http://94.236.209.185:9981/stream/channelid/196856005?ticket=5F344E78B3587E6644621A28CFCDC0CD9F66F398&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/tvplus.png" tvg-id="4f18469ddf858cff25501767faab07b5",TV+
+http://94.236.209.185:9981/stream/channelid/491133007?ticket=C16815F264AF3CFBBB87B2738501C3A5517FF1DB&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/tv1.png" tvg-id="987e905f57c9f343a5c54166946bc710",TV1
+http://94.236.209.185:9981/stream/channelid/1603305112?ticket=4C258117AE5AC8DE8F622641FA33D2B70A4D94BD&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/vtk.png" tvg-id="51f46b0b2d5c86a82102c070b76e785f",VTK
+http://94.236.209.185:9981/stream/channelid/191624273?ticket=264A527785BFED502254190A60EC0D719DE473EE&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/axn.png" tvg-id="563b50c55c7bfb1907b33dea3e3b7b13",AXN
+http://94.236.209.185:9981/stream/channelid/1162885974?ticket=8B34970DAD74A089E68E56E4995A9B17984E8062&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/btvaction.png" tvg-id="152bf5813400cc3eb563f8619282d169",bTV Action
+http://94.236.209.185:9981/stream/channelid/32844565?ticket=734AFF7A076BA85339CFD3DE77C7CBB8EF8D89C6&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/btvcinema.png" tvg-id="ef232a58c38cfd238dfac77c19cadf6d",bTV Cinema
+http://94.236.209.185:9981/stream/channelid/1479156719?ticket=D043EF31928AFD2874CDA8C90582369D99745710&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/btvcomedy.png" tvg-id="a19e76135bf047de2fb9fc949dd56573",bTV Comedy
+http://94.236.209.185:9981/stream/channelid/326540961?ticket=B465DA8EDF82E48C07C2B235D56709CAD101794B&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/btvlady.png" tvg-id="163b1d7757592163fff228f62e5e8322",bTV Story
+http://94.236.209.185:9981/stream/channelid/1998404374?ticket=1AB48AD6BD94DA38FA8800A9F15E0EEBB3C66A7C&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/kinonova.png" tvg-id="34c104c2c9e7b32db09ae24db223e98d",Kino Nova
+http://94.236.209.185:9981/stream/channelid/1107607860?ticket=9E8128152D8E78B5E689F250ECF9035907F252B5&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/comedycentral.png" tvg-id="c5d3e892d735547717a7bbe359506425",ORF 2 Europe
+http://94.236.209.185:9981/stream/channelid/317248453?ticket=2393046D23BBF7869751B962492E9B3A75DCDF97&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/fox.png" tvg-id="545bacb74ba44528f6c81d70bb460e53",STAR Channel
+http://94.236.209.185:9981/stream/channelid/934042452?ticket=625BDD203684D5B4B4D9CB374B8CFC2400BE89A1&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/foxcrime.png" tvg-id="69c8f612a0a0acd7d52c86a89cc69a65",STAR Crime
+http://94.236.209.185:9981/stream/channelid/318163049?ticket=8551B1BCA86386F7F85A27F8CFE04BBBF20B3062&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/foxcrime.png" tvg-id="6a515037322674275dca6bc3b1cf0a4e",STAR Crime+3
+http://94.236.209.185:9981/stream/channelid/928010602?ticket=33AE5A695CCD6DE20F8AFF989482F4AAF13EE7F5&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/foxlife.png" tvg-id="7c6fa84217f70fa31afb63e0e1514e8a",STAR Life
+http://94.236.209.185:9981/stream/channelid/1118334844?ticket=9B936043D2FA7FFB429F10BDF315EC9EEE136984&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/foxlife.png" tvg-id="9b684cbc2c7cacef39dd99416563c2d9",STAR Life HD
+http://94.236.209.185:9981/stream/channelid/1011640475?ticket=A960F2373DE3637EF784A861E8F7AF10062C2F6A&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/foxlife.png" tvg-id="9f1ee3bc63f63976966bc9df5d84a977",STAR Life+2
+http://94.236.209.185:9981/stream/channelid/1021517471?ticket=2D83C7DF466794BEE80EF32B4F1201F5F8B196EB&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/hbohd.png" tvg-id="7a0665c2de48701ded9699f64ebb8783",Update 01
+http://94.236.209.185:9981/stream/channelid/1113917050?ticket=918887CCCEBBB3A7B255073B3A28EB2777B02276&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/hbohd.png" tvg-id="78c70921612190f39b8ccdb40c8b7f2a",Update 02
+http://94.236.209.185:9981/stream/channelid/554289016?ticket=2B746CCCFC0CC0EFA1993DBD94F6265F63185C64&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/hbo2.png" tvg-id="1d0217d0c9f8cd58be6db541837b54eb",Update 03
+http://94.236.209.185:9981/stream/channelid/1343685149?ticket=5118554408102CDE46608B771136B9E5626E14A0&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/hbo2.png" tvg-id="efcbb03c4dc88d0fc92adba3e6b3f156",Update 04
+http://94.236.209.185:9981/stream/channelid/1018219503?ticket=4B2B8747A65D97C653D7AECCCDE4FDB055D58A46&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/hbo3.png" tvg-id="00975123d636bcdfa9407e149279046e",Update 05
+http://94.236.209.185:9981/stream/channelid/592549632?ticket=CDC4A7CCF05A917DA964483E9091A068658C260D&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/hbo3.png" tvg-id="0149ec8f4442f32bbff0b73620fca7ab",Update 06
+http://94.236.209.185:9981/stream/channelid/267143425?ticket=782B4BF737EE5FA1BCF92828FF9C25FCF4BB576D&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/cinemax.png" tvg-id="23e47c186eb0992fde83692b5486e362",Update 07
+http://94.236.209.185:9981/stream/channelid/410838051?ticket=99D0A20FEEF3F264BF405ECB03442168CD4C2511&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/cinemax2.png" tvg-id="eafd87180d7b7d6d35197f8e35f117d4",Update 09
+http://94.236.209.185:9981/stream/channelid/411565546?ticket=0350326FBE1BA7EB0A99EAC1ECDBC674571C126C&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/btvaction.png" tvg-id="68f4c45f25b630e3f65baad04aae31d8",bTV Action HD
+http://94.236.209.185:9981/stream/channelid/1606743144?ticket=E5A248D372345DE9726E317C87FD94B46E71FE81&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/fox.png" tvg-id="9f4290d97222fe1e0a0eda4d5cbafed2",STAR Channel+3
+http://94.236.209.185:9981/stream/channelid/1502626463?ticket=1BAA32BCFA72600128A21AE38B79016C7DD40F8F&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/epicdrama.png" tvg-id="82725bdacaea360f360ca33d9ff1c387",Epic Drama HD
+http://94.236.209.185:9981/stream/channelid/1515942530?ticket=A4F61C3F6483B0B50440309E4861544E6C71F95C&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/amc.png" tvg-id="7d75845cb447d4e150de3a3d21bf1a95",AMC
+http://94.236.209.185:9981/stream/channelid/1552184701?ticket=92105010E08A5657FD66506E9C79656AD1A10B47&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Showmax_logo.svg/1280px-Showmax_logo.svg.png" tvg-id="321597c424662bb09c8f93d9169b2d5d",Show Max HD
+http://94.236.209.185:9981/stream/channelid/1150752050?ticket=BBCF7751D67ACB0CE4A3F92B4C3D46ADAE8F6D96&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/cinemax2.png" tvg-id="5614f85ef1871884e3799c2455ed9a4b",Update 10
+http://94.236.209.185:9981/stream/channelid/1593316438?ticket=BA8ACE03B84E2D00D9588EB0D9642AA672A280ED&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/btvcinema.png" tvg-id="86cd0b096e2df67abb96d98f98fff4c6",bTV Cinema HD
+http://94.236.209.185:9981/stream/channelid/151768454?ticket=D79E95B0AD3606DFCDF4FD5DAB429F7B0503AEDF&profile=pass
+#EXTINF:-1 tvg-id="3e3d12e0090f12d89f4c6b416e1365f6",bTV Comedy HD
+http://94.236.209.185:9981/stream/channelid/1611808062?ticket=3D2E82FF1C08B0FCF78F01C7AD8C5024B688BC7D&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/tvn.png" tvg-id="fd94b1ed8fa053fabe2fe3f51dfaf552",TVN HD
+http://94.236.209.185:9981/stream/channelid/1840354557?ticket=FA6505BBC3104B76AE766DB6A909262B08A3916C&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/axnblack.png" tvg-id="7d1d404b2898a4f0131e3b81181a2ff7",AXN Black
+http://94.236.209.185:9981/stream/channelid/1262493053?ticket=8C5A0BD3F71223C64D4A5BA77C43857693477C04&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/axnwhite.png" tvg-id="704d32796d7f474e2569b446e04824e3",AXN White
+http://94.236.209.185:9981/stream/channelid/2033339760?ticket=21EBAB44404E0A563AE0C867C2F8C5B33C7220A7&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/cinemania.png" tvg-id="48c26dc933a5f2a144918e35de877fb7",Cinemania
+http://94.236.209.185:9981/stream/channelid/1231929928?ticket=337AEE34E2FE155D0ABDF58BC66199829CC2E329&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/cinemania.png" tvg-id="aa3e41b9d55330e420a6fe7d73716c4b",Cinemania HD
+http://94.236.209.185:9981/stream/channelid/960577194?ticket=E406BC9F1BFC98313EB6BFDBE8C09E17A9E4E358&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/cinemania.png" tvg-id="28507f083b1160dd9c0ea393bd80d9ac",Viasat History HD
+http://94.236.209.185:9981/stream/channelid/142561320?ticket=CBF8B6D222A13A76F64B84BFEF513A610FB30715&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/comedyplus.png" tvg-id="0e4348615adbc42566b8d9eb166a12e0",Update 17
+http://94.236.209.185:9981/stream/channelid/1632125710?ticket=EBA8E34185CB8C1F74B5C6DE8A19C24779C7B62E&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/moviestar.png" tvg-id="13842dfd2f8df79bce03a3fdee341a7f",MovieStar
+http://94.236.209.185:9981/stream/channelid/2100134931?ticket=A0F37A1ABEB76BCA7DC0852485F5C291BE7B08E2&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/filmboxarthouse.png" tvg-id="755d23e3249e756dac75c02b0d9a787a",Update 14
+http://94.236.209.185:9981/stream/channelid/1663262069?ticket=4B9D73F0087BC5E71928297EE4390765A258F0CD&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/moviestar.png" tvg-id="d01cee7d7d8bdb1ed71274bad00de65d",Moviestar HD
+http://94.236.209.185:9981/stream/channelid/2112756944?ticket=7D82275230A8A6522475B5EC7F66B74CB747318D&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/cinemax.png" tvg-id="2825a763d7da03d864bd472faaed9377",Update 08
+http://94.236.209.185:9981/stream/channelid/1671898408?ticket=1FF7B8E9198686B906C73BC02FD061D49A440A8D&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/foxcrime.png" tvg-id="5241736456669425e4ca42be1af7ab73",STAR Crime HD
+http://94.236.209.185:9981/stream/channelid/1685274962?ticket=74428B021CFDFD119632D9B49338F9187058701B&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/878px-Logo_Star_TV_ab_2011.svg.png" tvg-id="817efcff9c0a28813401838fa1e80a91",Star TV TR
+http://94.236.209.185:9981/stream/channelid/2147253889?ticket=D7FA87CFF284C22E98CACCD71D0FE992DABA60D1&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/filmboxstars.png" tvg-id="c1ba00507fe18dcc99a08fbf51cb8d02",Update 12
+http://94.236.209.185:9981/stream/channelid/1342225089?ticket=A2BC08B96344E5228108D103A95B95A7F5D487B9&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/diemafamily.png" tvg-id="3e91a6e6fb11a0de97f92864c46057bf",Diema Family
+http://94.236.209.185:9981/stream/channelid/1722192190?ticket=EF9D73AB0320980E71BFDD16A0E2E5D79766550C&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/filmboxtrahd.png" tvg-id="75ac0ee7d8fe864a1f16e1d0618f40c6",Update 11
+http://94.236.209.185:9981/stream/channelid/1729014901?ticket=836B18C82F7E8392DDFEA37CFF08058EADE605B1&profile=pass
+#EXTINF:-1 logo="https://www.predavatel.com/bg/tv/images/tdc.png" tvg-id="f6aee751f766aff1f54a9ad842e02160",Timeless Drama Channel
+http://94.236.209.185:9981/stream/channelid/1374138102?ticket=B7C3BD6C48B2A67E9D81F077B69FEB4EBC9786F6&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/diema.png" tvg-id="6d2a616847faca986a1bb2dad6abf8e6",Diema
+http://94.236.209.185:9981/stream/channelid/1751198317?ticket=281F46615C71AAB79CDE1F779B48B42B5FA51DCC&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/fox.png" tvg-id="b34de8e871521ef6a908348f836c57a5",STAR Channel HD
+http://94.236.209.185:9981/stream/channelid/1760054707?ticket=6F2AA571D69687F5B85D967FEE1FC594B6158397&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nasche-Kino-Logo.svg/1200px-Nasche-Kino-Logo.svg.png" tvg-id="32144c328432ec567ddcd0f37e050088",Nashe Kino
+http://94.236.209.185:9981/stream/channelid/843846706?ticket=09F6BCAAB6F3A159973062B1FB0B7FEDA9615C8F&profile=pass
+#EXTINF:-1 logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/show_tv_logo_freelogovectors.net_.png" tvg-id="bfe298d46d01edbde27e16266df70653",Show Turk HD
+http://94.236.209.185:9981/stream/channelid/1419305663?ticket=676578033AB7E763A747130B45BBC9D4A228DF8E&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/fox.png" tvg-id="debcf0de6815abc7abdb822b547f5499",STAR Channel+1
+http://94.236.209.185:9981/stream/channelid/1592835294?ticket=51922390F1DE3BEE3BF35F08472E1CCE34A4D683&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/fox.png" tvg-id="adb0444d25dc922d5f0ecfc268744905",STAR Channel+2
+http://94.236.209.185:9981/stream/channelid/1296347309?ticket=B6A57698A8C338FFD1683FC7FD02322020B4518A&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/foxcrime.png" tvg-id="ad5286cc79fb8981d9626acaf90581ae",STAR Crime+2
+http://94.236.209.185:9981/stream/channelid/1283871405?ticket=8DB34E4376B11DAB6A513BF6593A31D62A7AE8CB&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/foxlife.png" tvg-id="bb353b4817ed7a33d7a8c21f0ebd6188",STAR Life+3
+http://94.236.209.185:9981/stream/channelid/1211839931?ticket=072D97B85F0EBDAC4EA09BD67EC25D2AA61D0861&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/cinemaplus.png" tvg-id="ca2b296b38b2f32b035fd3ae82c4abd2",Cinema+
+http://94.236.209.185:9981/stream/channelid/1797860298?ticket=55B4E83C14780D8052B45DECB63362D792B56ACE&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/foxlife.png" tvg-id="907d9509ed235bb0f5042652f6209c73",STAR Life+1
+http://94.236.209.185:9981/stream/channelid/160791952?ticket=9DE0DC438179B396D9EB6511728BC9E2AE5BA322&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_Star_TV_ab_2011.svg/878px-Logo_Star_TV_ab_2011.svg.png" tvg-id="ace3556709cede968ec24e82bad78ae2",{name-not-set}
+http://94.236.209.185:9981/stream/channelid/1733682092?ticket=8726BC1FC9C7E62A1DEA3F9F2E369340CD9C76E3&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kiss_Network_logo.svg/1200px-Kiss_Network_logo.svg.png" tvg-id="03b8dbaca64818f30ef8ed6d502f9527",4Fun Dance
+http://94.236.209.185:9981/stream/channelid/752596995?ticket=7C751D6EC6BB4F046840F92BA5A02666B7FE02F8&profile=pass
+#EXTINF:-1 logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/07/CLUBLAND-NEW-YELLOW.png" tvg-id="ecef93a61550c8c103972c9e87e5661f",Clubland TV
+http://94.236.209.185:9981/stream/channelid/647229420?ticket=D2D125E2F83192D5103C4DF37D3BF93C4D885188&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/rcktv.png" tvg-id="36a9721ef8041f52d4ba853917d2290c",DLX Rock
+http://94.236.209.185:9981/stream/channelid/510830902?ticket=0CC64AE6AB3B6C68BED8E9C1AC00BCE4A2918572&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/fenfolk.png" tvg-id="93a76e1086d6b0aebf08ea67f1d5bd69",Fen Folk TV
+http://94.236.209.185:9981/stream/channelid/275687315?ticket=15FFE440D2D38C1186D11080FEC280F95166CFF4&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/folklortv.png" tvg-id="0b72b50fab1f077849c84a9c91f876b8",Folklor TV
+http://94.236.209.185:9981/stream/channelid/263549451?ticket=D2DB8C068F52B421119EDBF4F14D1AEF1D85DFD8&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BN_Televizija_Logo.svg/1200px-BN_Televizija_Logo.svg.png" tvg-id="f7e178aca28ef9c8a643717140a277fe",Inplus
+http://94.236.209.185:9981/stream/channelid/746119671?ticket=6DF10E7B6AA1D1B2BF21A436B3DE51BC8C3FAA29&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" tvg-id="1283ba2c5a75f5ad2691e6953c3e44d2",IPTV/http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8/{PMT:4095}
+http://94.236.209.185:9981/stream/channelid/750420754?ticket=B506491C523C0B8BC8C8CBE3B9CACAF79162AA4B&profile=pass
+#EXTINF:-1 logo="https://static.tuneyou.com/images/logos/500_500/60/13160/90sEurodance.png" tvg-id="517793d125e2addf75e45db34359e629",IPTV/https://eurodance.catcast.tv/content/36987/index.m3u8/{PMT:4095}
+http://94.236.209.185:9981/stream/channelid/1368618833?ticket=526D473C9046EE25E17A87EFD1D8BC867C28FE9D&profile=pass
+#EXTINF:-1 logo="https://cdn-0.tvprofil.com/img/kanali-logo/svetplus_logo.png" tvg-id="433c06b3629b0916a569d7098a42451b",KCN 3 Svet +
+http://94.236.209.185:9981/stream/channelid/856046659?ticket=0294606E7310D86D9B1F44C81C9A2A19A4DFF32B&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/magictv.png" tvg-id="b4888fd215863de76113cd39ad79fb52",Magic HD
+http://94.236.209.185:9981/stream/channelid/1385138356?ticket=66A2CC093A4157900D662CDFE960993EC3805155&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/magictv.png" tvg-id="5405f0d3bbd816331b2d2f9a6da91ddd",Magic TV
+http://94.236.209.185:9981/stream/channelid/1408238932?ticket=0E74AB581E0D69DA075E8854CA64FE478D1567F7&profile=pass
+#EXTINF:-1 logo="https://www.parsatv.com/index_files/channels/moozdance.png" tvg-id="a560102ec92ebbc3d0c9787d403a58c8",Mate Kitchen HD
+http://94.236.209.185:9981/stream/channelid/772825253?ticket=23EB34052275C843586039FD8E562215E76ED05A&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/vh1.png" tvg-id="d6b120b4fde5880834787f64b9bf5cda",MTV 00s
+http://94.236.209.185:9981/stream/channelid/874557910?ticket=0482D05AD7B9AAB3E066586D10A94E0F2E4A2880&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" tvg-id="708dd5b8051e37ce13a7a68bd11bd45c",MTV 80s
+http://94.236.209.185:9981/stream/channelid/953519472?ticket=263627634CB20A2A4C58D4C93ADAB3CD87E9BF19&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/mtvlivehd.png" tvg-id="d1dff0dd13a9857a614b4223bd0a9e30",MTV Live HD
+http://94.236.209.185:9981/stream/channelid/1576067025?ticket=BDEAB52423679E53E0651005038898D812DE1A91&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Taraf_TV_2017.png" tvg-id="5f8d6a31f735922035a64489ab02b2c8",NTV Serial
+http://94.236.209.185:9981/stream/channelid/829066591?ticket=1F1C441C756B58567BD31BDF6508A995B8A29F16&profile=pass
+#EXTINF:-1 logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkKoncert_logo.png" tvg-id="c2487a3ad1940258e70d3537b6f56031",Pink Koncert
+http://94.236.209.185:9981/stream/channelid/981092546?ticket=61C61A17AED60E3D45A66761D7D3994AED333FCF&profile=pass
+#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/d/de/Pink_plus_logo.png/revision/latest?cb=20200616130454" tvg-id="4d749f8d77990c984315f9314423098b",Pink Plus
+http://94.236.209.185:9981/stream/channelid/228553805?ticket=07FE83481F4D2FDBBC8940F88A2181F7F7FA0696&profile=pass
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1661514019/magic_twitter_400x400.gif" tvg-id="710c5f2ef62bf9b70b46ec24af72cf04",Stars Music TV
+http://94.236.209.185:9981/stream/channelid/777981041?ticket=2AE798D6793E9F9402EDF3357397BCC9847F3D33&profile=pass
+#EXTINF:-1 logo="https://schlagertv.com/resources/logo.png" tvg-id="1aad032e4a33aff6c55b1597f1eca0f0",Svarogichi UA
+http://94.236.209.185:9981/stream/channelid/771992858?ticket=6787D63452AC734FB595A4B61C4233066ADB3F9E&profile=pass
+#EXTINF:-1 logo="https://seeklogo.com/images/S/shanson-tv-logo-3FDB29680C-seeklogo.com.png" tvg-id="830c2d0204a6229e37dafafc39bd5aa6",TV Polonia
+http://94.236.209.185:9981/stream/channelid/36506755?ticket=3100090E8E8232EEBBC0B1C28414A0D236EC9CC2&profile=pass
+#EXTINF:-1 logo="https://cdn.sat.tv/wp-content/uploads/2016/03/4FunDance.png" tvg-id="54ccebc4547a5b741165120e350dfd92",{name-not-set}
+http://94.236.209.185:9981/stream/channelid/1156303956?ticket=F8115EB256798AAD532C68EF60E6536AA4ECE80D&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/tiankovorientfolk.png" tvg-id="f424c5d46ed8cdd002d0d3c3851656fe",Tiankov Orient HD
+http://94.236.209.185:9981/stream/channelid/1422206196?ticket=BEE9E15C538EAA9F9B5FE6AD45A9A52040BAFE0D&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/boxtv.png" tvg-id="8ba165eda02a51de03340729ccdfc571",Box HD
+http://94.236.209.185:9981/stream/channelid/1835377035?ticket=9D12B001B408C5FF9308DFE14E588F49FE229666&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/2/20/%C3%93%C4%8Dko_logo_2012.png" tvg-id="f2f1b06d5745c07448f3a5940a99dd5b",Ocko TV
+http://94.236.209.185:9981/stream/channelid/1840312818?ticket=E8A5895B1CD3CFAAFA14344BB806A33CCAFBF022&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/city.png" tvg-id="13fce3ed6aa5756e9b922a4cd83e665a",CITY TV
+http://94.236.209.185:9981/stream/channelid/1843657747?ticket=FC2F2E1331447BE24FF6F3FF49BB044EBCEC44F7&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/boxtv.png" tvg-id="11ad3057835db4f3ac66b843a00aa4b0",Box TV
+http://94.236.209.185:9981/stream/channelid/1462807825?ticket=ACBBE3A3A2091D0CFD31F8EC95DA70EE63AE6A2F&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/hitmix.png" tvg-id="5eb5dbd7fb1131d67929c30720b31f02",HiT MiX Music
+http://94.236.209.185:9981/stream/channelid/1474016606?ticket=634E5343127327E20470F6BAD2244A30209C7D2C&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/mcmtop.png" tvg-id="1486acee5269f4a2d0f1af13b75f55d3",MCM Top
+http://94.236.209.185:9981/stream/channelid/1856800276?ticket=DE174E16CDE663DA92F6814BB1F479784E0110DA&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/PinkFolk1_logo.png" tvg-id="47618edae00b4cd5bf849c8fe1e9c8af",Pink Folk 1
+http://94.236.209.185:9981/stream/channelid/1519280455?ticket=B1455C647403EB9A0A0365AD3AAEB7F3025A96F6&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/C_MUSIC_PLUS.png/revision/latest/top-crop/width/220/height/220?cb=20150309170327" tvg-id="2c57477291965251288e3fc5ba0fdd67",C Music
+http://94.236.209.185:9981/stream/channelid/1917277996?ticket=164C32AD149E0C7712657F7CD29F60E0597249DF&profile=pass
+#EXTINF:-1 logo="https://cdn-0.tvprofil.com/img/kanali-logo/PinkHits2_logo.png" tvg-id="7160865b9a79e677efbae70e10202f7c",Pink Hits 2
+http://94.236.209.185:9981/stream/channelid/1535533169?ticket=A0C25379CAC6B4DBAEEC3421B8F7CA9F7B651DB7&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/4fun_Hits_%282015%29.svg/revision/latest/scale-to-width-down/340?cb=20200125192709" tvg-id="3891c813696c3f308e1b7082b4eda840",4Fun Kids
+http://94.236.209.185:9981/stream/channelid/331911480?ticket=6E27A34DC1A83A366417C7A117C1F55BD6B4B24C&profile=pass
+#EXTINF:-1 logo="https://seeklogo.com/images/1/4fun-tv-logo-5EA29A36E0-seeklogo.com.png" tvg-id="58d270f66871c24ed0d6173cf3ae2bd5",4Fun TV
+http://94.236.209.185:9981/stream/channelid/1987105368?ticket=531305C9A8BE25DFBF1ED931CE58C9795C27BB69&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/mtvhits.png" tvg-id="fadc648a0a6b6dc7996a11553c00056f",MTV Hits
+http://94.236.209.185:9981/stream/channelid/174382330?ticket=11C4952BDD78F5C97F786557B1263375EF680FE4&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/dmsat.png" tvg-id="ac7c95dee615e397b0606f8c127571b7",DM SAT
+http://94.236.209.185:9981/stream/channelid/1586855084?ticket=5FE08062685DDF2E79AD56AF0D9F5261B1989856&profile=pass
+#EXTINF:-1 logo="https://poslovni.sbb.rs/wp-content/uploads/2020/03/kopernikus.png" tvg-id="cac59c78f22c178d52a8c7e322510e84",KCN 1
+http://94.236.209.185:9981/stream/channelid/2023540170?ticket=82A922A201F83F7F907EF7DAA119321F1F2A6D6E&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/dstv.png" tvg-id="5d9ed79cddcdc47d882da8fe5ce7c50b",DSTV
+http://94.236.209.185:9981/stream/channelid/483892829?ticket=92555E8DC3DCF9622EAF2ED76DAA2325AC94C518&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" tvg-id="55d7fb1f71eb0c6bf21fde55ccce517f",MTV 90s
+http://94.236.209.185:9981/stream/channelid/536598357?ticket=490879CB5D76A68131EE42CF4E2C77604D1E9B1F&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/planetahd.png" tvg-id="172784947133a97966b5f01f0de3c33b",Planeta HD
+http://94.236.209.185:9981/stream/channelid/344205079?ticket=B6B451AE5C16E9314CE02D132473A2166FD8F9DA&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/TRT_M%C3%BCzik_kurumsal_logo.png" tvg-id="74066c234b572b7ec6932630975f7137",TRT Music
+http://94.236.209.185:9981/stream/channelid/594282100?ticket=AB786378649069587B9B270228EE1B20B0FD8A53&profile=pass
+#EXTINF:-1 logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6367.1515881263.png" tvg-id="88079edf66d4631e679113ed2ec51622",NOW 90s
+http://94.236.209.185:9981/stream/channelid/1604192136?ticket=2E4F8D3D14D3EE5D072282D94AE41D60795BD8F9&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/planetafolk.png" tvg-id="fa6d47f9d45897766e58cec00fa7e5bd",Planeta Folk
+http://94.236.209.185:9981/stream/channelid/2034724346?ticket=3769D519338DF5BDC83AF2E4AC1034E5AA589BF7&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/planeta.png" tvg-id="cf24cac62d64bbb1e7079c36cf6db934",Planeta TV
+http://94.236.209.185:9981/stream/channelid/1187652815?ticket=1F82C2D6EF9B387CF7076A8859106D3190728576&profile=pass
+#EXTINF:-1 logo="https://kiss13.net/images/LOGO-CLEAN1-1.png" tvg-id="96dae55f1f2e6bfdc7cddfcdfd8f3191",KISS 13
+http://94.236.209.185:9981/stream/channelid/1608899222?ticket=3D858F4A8FF793B0E284B543B3B8901FC813B3A3&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/bgmusicchannel.png" tvg-id="9b9cebfa27d01941e63af26161650e73",BG Music HD
+http://94.236.209.185:9981/stream/channelid/2062261403?ticket=CEB2E8A5D6316D1D570F46FB37568B0D886447CD&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/balkanika.png" tvg-id="988444fb37fc8b422d74855645eab737",Balkanika Music HD
+http://94.236.209.185:9981/stream/channelid/2068087960?ticket=8530795BEF8EE292833CDF6E5C9929AC81DCD978&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/sunrisemusic.png" tvg-id="84a2446012340c92cd4e025b382d1e01",Sunrise Music
+http://94.236.209.185:9981/stream/channelid/1615110788?ticket=492A8BC53C7D8A99302D92261547EB58AD56C1A0&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/mezzo.png" tvg-id="d612e38523bed0e9dccb95a4aec2af71",Mezzo TV
+http://94.236.209.185:9981/stream/channelid/98767574?ticket=DDE41DE96D8402D8C5EBFABFAF4280D51BBA24DA&profile=pass
+#EXTINF:-1 logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Stars-TV.png" tvg-id="178a9e4a36cb88d42c2527c7f6deb9cc",{name-not-set}
+http://94.236.209.185:9981/stream/channelid/1251904023?ticket=4E78CFF24E2430F1F1D5CAB8821B0677BB574F77&profile=pass
+#EXTINF:-1 logo="http://www.tvdugaplus.com/wp-content/uploads/2018/03/cropped-logo-90px-4.png" tvg-id="26144662bc886fe073788a6992676297",Duga TV
+http://94.236.209.185:9981/stream/channelid/1648759846?ticket=C432687D57271C6AF8C6F7BCB47AFA8E5C68518B&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/tiankovfolk.png" tvg-id="69f8d1081bd8e8bff2fe1e3aff1c416a",Tiankov Folk HD
+http://94.236.209.185:9981/stream/channelid/147978345?ticket=02B17D3E19E4D3B8271791008B5C607431BB3191&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/tvpedia/images/5/59/Classical_Harmony_TV.jpg/revision/latest/scale-to-width-down/340?cb=20201014172636&path-prefix=ru" tvg-id="5acbee9980f3a7cce006e2a798690397",Classical Harmony HD
+http://94.236.209.185:9981/stream/channelid/435080026?ticket=BDA9E65FA7531F7F1ECD459F44B91619B0A94F55&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/ro/thumb/1/1b/Logo_Etno_TV_%282014%29.svg/1200px-Logo_Etno_TV_%282014%29.svg.png" tvg-id="47f28b4439454425c969effd7c59442f",CTC TV
+http://94.236.209.185:9981/stream/channelid/1150022215?ticket=2875760432B12AC98A9702A13D7C17821078E42C&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/deluxeloungehd.png" tvg-id="a441aa96d1763af23c661e95f58c1183",Deluxe Lounge HD
+http://94.236.209.185:9981/stream/channelid/380256676?ticket=8C2EDF6FCEE8725FDFC470130E28594DBA9E0965&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/deluxemusic.png" tvg-id="4ae5a68238694ee8f058379d94b63020",Deluxe Music
+http://94.236.209.185:9981/stream/channelid/44492106?ticket=2FA148FD63F0954581FD8A2221B2C161D12FDB32&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/fentv.png" tvg-id="980335958939703b58b4316b5cab7573",FEN TV
+http://94.236.209.185:9981/stream/channelid/355795864?ticket=AEBCEC069DF0C39F2AB74A32F1EC635D93EE9843&profile=pass
+#EXTINF:-1 logo="https://www.varnalan.com/wp-content/uploads/2017/04/kcn-music2.png" tvg-id="66d7e41b02ce8ec28dbc80ce64846dba",KCN Music 2
+http://94.236.209.185:9981/stream/channelid/467982182?ticket=6C3000DE1BD492B14DA311B5812F9304193B5032&profile=pass
+#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Pink-folk-2.png/revision/latest/scale-to-width-down/340?cb=20200616134705" tvg-id="d626468cfd5a9e334a87643aaa0ae66e",Pink Folk 2
+http://94.236.209.185:9981/stream/channelid/205924054?ticket=6D71CAA4EBEFBDCECEA9FE2710992BCE1D94A188&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Logo_Unitel_Classica.svg/1280px-Logo_Unitel_Classica.svg.png" tvg-id="e438602e0123ed54f2b50e5f1ae59d42",RTL 102.5 HD
+http://94.236.209.185:9981/stream/channelid/778057956?ticket=F9123DE757499D45DC0FC8A0229C70D8B3EC9D8A&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Logo_Unitel_Classica.svg/1280px-Logo_Unitel_Classica.svg.png" tvg-id="7405ccb76075949638e92dddccdded8a",Unitel Classica
+http://94.236.209.185:9981/stream/channelid/936117620?ticket=A4BD5D2046212C2C79C38FA4EDC1FF415E0DA51D&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/thevoice.png" tvg-id="480c146aff1ba0ede555b6227ea2f36a",The Voice
+http://94.236.209.185:9981/stream/channelid/1779698760?ticket=06F9D44CF1AB4BD5FE1F5CCFE8CE05D3FC5F13F3&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/mtv.png" tvg-id="2084216b46fa9d8da324086ed71e7518",MTV Europe
+http://94.236.209.185:9981/stream/channelid/1797358624?ticket=0E1B37044474CE7D1BB6F081CC3E2A4632E0ABB1&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Folx_TV.png" tvg-id="dc978b96485206e66e6716823b10da9c",Folx TV
+http://94.236.209.185:9981/stream/channelid/378247132?ticket=63E21440704141F0D671C23871088FA0AA277AB0&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/iconcerts.png" tvg-id="ce04f784c829acedb81295924ebd6760",iConcerts HD
+http://94.236.209.185:9981/stream/channelid/83297486?ticket=070F0766CF3D07A56CA2A3F9F79CF727D5535945&profile=pass
+#EXTINF:-1 logo="https://www.varnalan.com/wp-content/uploads/2017/04/roma_tv.png" tvg-id="fce49b6d86645266c30100e0f2883f97",Roma TV
+http://94.236.209.185:9981/stream/channelid/1838933244?ticket=F2666CCA1F6FA437E639B64440EE8BC8923B4DB6&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/cartoonnetwork.png" tvg-id="11b66d5323e37881a6897a89a45c72be",Cartoon Network
+http://94.236.209.185:9981/stream/channelid/1399698961?ticket=91B0D5CD539BF2ED597F7205947F8C718D34FC27&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/disneyjunior.png" tvg-id="bb2609e6da1d22b3076d70bd9a00427b",Disney Junior
+http://94.236.209.185:9981/stream/channelid/1711875771?ticket=1B74A27949A9C3A1D60104D94936DAD170F190E3&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/ducktv.png" tvg-id="776be60c173183bfaf48af1368c4afcc",Duck TV
+http://94.236.209.185:9981/stream/channelid/216427383?ticket=047CD0953262874BB077A2E1F494BC4F149290E5&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/ekids.png" tvg-id="551569b33b2b5f649951d8d6fbe0c261",EKids
+http://94.236.209.185:9981/stream/channelid/862524757?ticket=35FBF630A8087511265780B87649AD60149B432D&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/fixfoxy.png" tvg-id="d62c3e10f88223eb6f57920ba6fddd8c",Fix & Foxi
+http://94.236.209.185:9981/stream/channelid/272510166?ticket=A03254D9C28EC48762EFD30B9530733BD7314BC7&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/jimjam.png" tvg-id="aff5e4af852f48a048da4eacd294c848",JimJam
+http://94.236.209.185:9981/stream/channelid/803534255?ticket=9B948ED8EE21DD9D9E1D99808500BEBDDDEA23AC&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KiKA_HD.svg" tvg-id="52a2f493f396e9dc56bdf65405a16920",KiKa HD
+http://94.236.209.185:9981/stream/channelid/334799442?ticket=6D000204AB60F191F28478695782F50BBEADA3A3&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/nickelodeon.png" tvg-id="ec1c1b54f85339fca16046f723e99c27",Nick Austria
+http://94.236.209.185:9981/stream/channelid/1411063020?ticket=20FDB2BAFD0C86E0E0DF3308300B47A114FEFB5E&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/nicktoons.png" tvg-id="39e3251f4cb4843d7202caa82d7bf65b",Nicktoons
+http://94.236.209.185:9981/stream/channelid/522576697?ticket=DC00A2F72AE4E4FA21494A4DAD383EFA1CF1D85B&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/davincilearning.png" tvg-id="cf33db01a8d1a1177978f58d169844ea",Da Vinci
+http://94.236.209.185:9981/stream/channelid/31142863?ticket=0BCD68BE9BE625C2AA852D74FB17A66366277DC2&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/nickjr.png" tvg-id="b3752cf07d1309a48df7a2192de0c327",Nick Jr.
+http://94.236.209.185:9981/stream/channelid/1881961907?ticket=CC6B396A9339193071339D2D91C250F5085CBA8A&profile=pass
+#EXTINF:-1 logo="https://www.varnalan.com/wp-content/uploads/2017/04/detski_mir.png" tvg-id="2e66e6f3facde6b0d8af28e1d70c4ba3",Detski Mir
+http://94.236.209.185:9981/stream/channelid/1944479278?ticket=7A59A7B29EF4EF3D378FF9BB76744D6107C86FA2&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/babytv.png" tvg-id="ea9b531a590bb9c47013af864d4e4d2d",Baby TV
+http://94.236.209.185:9981/stream/channelid/441687018?ticket=E50E31E72AE6DF41204334E7B9E13BF22942260A&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/disney.png" tvg-id="b84e25f98b1bb9c73d4803bb5ffe3964",Disney Channel
+http://94.236.209.185:9981/stream/channelid/2032488120?ticket=7A6C6631EC1AFDBC86BE0BF37E2D1C35E625CC97&profile=pass
+#EXTINF:-1 logo="https://www.mimyuni.com/assets2020/images/logo-channel/lolly-kids.png" tvg-id="296cc91aba2725e568261b3db984ab77",LollyKids HD
+http://94.236.209.185:9981/stream/channelid/449408041?ticket=2AF97BCCF7560E99F48634FEBB6D9FCF4F1D69B7&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Karusel_tv_logo.svg/1200px-Karusel_tv_logo.svg.png" tvg-id="fd38cb1ad8b25cc7e51e4d0f98a02708",Vremya
+http://94.236.209.185:9981/stream/channelid/449526013?ticket=F09E7492E186621EE2385CA76250BF8C46892BBC&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/boomerang.png" tvg-id="d686c6faca93e9804f8351519f416462",Cartoonito
+http://94.236.209.185:9981/stream/channelid/2059830998?ticket=763305E684A25D1E42911EF0BAF0C1485C2BFA63&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/7/73/RiC_Logo_2014.png" tvg-id="92f2306245d3792a7b224515748f8241",RiC TV
+http://94.236.209.185:9981/stream/channelid/1647374994?ticket=120813FC3825EF50181C42C1CEB2C7B742BEE1CA&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Smile_of_a_Child.svg/revision/latest/scale-to-width-down/340?cb=20100621203352" tvg-id="67ea8afdfab116b0593d5cc908728b18",English Club for Kids
+http://94.236.209.185:9981/stream/channelid/2106255975?ticket=013CF38530D1906EDAD157771E8641694E0DD965&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/nickelodeon.png" tvg-id="4123ddff4af6f5b1fb9fee8d094a099c",Nickelodeon
+http://94.236.209.185:9981/stream/channelid/2145198913?ticket=5214916C8727C2F79AED42CB78FDA69C584F9964&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TRT_%C3%87ocuk_kurumsal_logo.png" tvg-id="7e2072684f104cdf9748ce5faf32d0fb",TRT Cocuk
+http://94.236.209.185:9981/stream/channelid/1752309886?ticket=CE1FBBBB4C846AC8408A07E65E16AE05A97C83E9&profile=pass
+#EXTINF:-1 logo="https://detski-filmi.eu/Logo.png" tvg-id="9805521739b2400d091111949b10ca06",Supertoons
+http://94.236.209.185:9981/stream/channelid/391251352?ticket=E85FB72956B84B8CB42EFA553F839ED056E19ED9&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/diemasport.png" tvg-id="bf14539a73a61daa00a80eed8b9346ae",Deluxe Lounge HD
+http://94.236.209.185:9981/stream/channelid/441652415?ticket=9579672C2733C564BF921C05A6134BA546AA61C8&profile=pass
+#EXTINF:-1 tvg-id="7c6f08bd1b996a7d5490386a2d08ecec",data05
+http://94.236.209.185:9981/stream/channelid/1023963004?ticket=32BF2DA6A1A0D75D19BD49E3F001B31B2E512765&profile=pass
+#EXTINF:-1 tvg-id="5373a278f48a6b52fce96af02c9e9fbc",Deluxe Music HD
+http://94.236.209.185:9981/stream/channelid/2023912275?ticket=EEA1D9C68F37B7641C70D0E2DC0ED46997F0ACB4&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/maxsport1.png" tvg-id="060d4e8fdbf2ec15adb95c63b51045d7",data06
+http://94.236.209.185:9981/stream/channelid/256773382?ticket=EA10DEC8D9FD5E0648706C7A3F7003DEB401F56F&profile=pass
+#EXTINF:-1 tvg-id="8b9a393e862068ec815afc0deca298f3",data15
+http://94.236.209.185:9981/stream/channelid/1043962507?ticket=0EAC1FE4D9D8536BD53A8D77158FB22E1EA3796F&profile=pass
+#EXTINF:-1 tvg-id="3fc959ed0904d6b7e331156da1c61caa",data07
+http://94.236.209.185:9981/stream/channelid/1834600767?ticket=A1B3D8C14104F990D4D6232706BAA2CC79760B6A&profile=pass
+#EXTINF:-1 tvg-id="8109dcd9206d58b80bda81a2c93669ce",data08
+http://94.236.209.185:9981/stream/channelid/1507592577?ticket=C45807C1E3CE2197402412FD7BB6765A7DF3D50D&profile=pass
+#EXTINF:-1 tvg-id="ed2b28db72973225e27e6a6be9017366",Sportal HD
+http://94.236.209.185:9981/stream/channelid/1529359341?ticket=5884C843C75CB7049A346ABA3DC9902CA540EE55&profile=pass
+#EXTINF:-1 tvg-id="811b36db0815de8f18bc7242729bb0ce",TVT HD
+http://94.236.209.185:9981/stream/channelid/1530272641?ticket=269947E015B8F3B5180CA01B64D5AD2C68FC3C7A&profile=pass
+#EXTINF:-1 tvg-id="e343445ba33b6814af2f90b4848f1336",Nova News HD
+http://94.236.209.185:9981/stream/channelid/1531200483?ticket=6DF662FEAEF4A16D4AFFBFBB394A5D3A0AC5B2B5&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/arenasport1.png" tvg-id="d173c006bea849394a02a2745aa1923d",Travel XP
+http://94.236.209.185:9981/stream/channelid/113275857?ticket=16F9067AE57EDFAE52497C4650C855AA370597CF&profile=pass
+#EXTINF:-1 tvg-id="77ca77ad6ab17f69f586087cfbe3bdcb",Travel XP HD
+http://94.236.209.185:9981/stream/channelid/762825335?ticket=266B9AB60CB4DD488A0C3D45CB9EB713B8FC7FC9&profile=pass
+#EXTINF:-1 tvg-id="dfc3b35cb68aae364102ba791675c1ff",Sport 3 HD
+http://94.236.209.185:9981/stream/channelid/1555284959?ticket=E002EAFC174C994A2FD671950DC5E2711C555EE5&profile=pass
+#EXTINF:-1 tvg-id="f606d15ceb39b5ba8a3df91827187ed9",Sport 2 HD
+http://94.236.209.185:9981/stream/channelid/1557202678?ticket=95AC6786DF38B31B8948CD7EC0FF748EA877F045&profile=pass
+#EXTINF:-1 tvg-id="ba7f02dcdbde93c3eb0036e9aee5da8c",Eurosport 2
+http://94.236.209.185:9981/stream/channelid/1543667642?ticket=9DB504A60FABC5A07BE008D5BAD84A4F980D8308&profile=pass
+#EXTINF:-1 logo="https://nstatic.net/img/tv/channels/m/sport-klub-3.png" tvg-id="38708d858067dcf77d6e56e5001fdd77",NASA HD
+http://94.236.209.185:9981/stream/channelid/93155384?ticket=8FD5784C1F7963ED710F673B8E232ABB6EF13598&profile=pass
+#EXTINF:-1 tvg-id="44cea9d4660aeb349a5792bdab1b83d7",Auto Motor Sport HD
+http://94.236.209.185:9981/stream/channelid/1420414532?ticket=0E49F4BD014A7C8420AB3343B6924372E89B8F36&profile=pass
+#EXTINF:-1 tvg-id="faa44493227b5b2d72d88e712ad57765",beIN 01
+http://94.236.209.185:9981/stream/channelid/323265786?ticket=CF54AF8FB55AF3F5C1BF69B4F2333B8C5A7941E8&profile=pass
+#EXTINF:-1 tvg-id="7056e136bafd5565330054278ae3f317",beIN 02
+http://94.236.209.185:9981/stream/channelid/920737392?ticket=D97C90CB257A5A12B36343E428568649ED3E4F66&profile=pass
+#EXTINF:-1 logo="https://ntvplus.tv/files/image/01/17/31/u02.png" tvg-id="c8062b1275aee2c4db6f6032874a4cea",BNT 3 HD+12
+http://94.236.209.185:9981/stream/channelid/304809672?ticket=40F5CFB873E316BB8846E6433ECC4D3A59B1242B&profile=pass
+#EXTINF:-1 tvg-id="6de31f54051faeae631f0c8896b0734e",Chasse & Peche HD
+http://94.236.209.185:9981/stream/channelid/1411375981?ticket=F722FB12BCF0DC2D4DB6F8C0163C3FD0281B8091&profile=pass
+#EXTINF:-1 tvg-id="b552f741ce72e66c9e3759d9d84b4a27",ERT World HD
+http://94.236.209.185:9981/stream/channelid/1106727605?ticket=95E7AFD2F5DF28F94BCAE4FA1841016E6D19406D&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/fplus.png" tvg-id="203b251282ecd4d39da0e65078a31c06",F+
+http://94.236.209.185:9981/stream/channelid/304429856?ticket=CD56745A53E511395327CB81C20EE409EAC2C0D7&profile=pass
+#EXTINF:-1 tvg-id="7e41f5b887868824c9d15fe2338a9123",Grand HD
+http://94.236.209.185:9981/stream/channelid/955597182?ticket=99F6199BE4EFF3A7FB16C6EB691B5CA9CF113B6A&profile=pass
+#EXTINF:-1 tvg-id="fefce9b9e493fb647ce65cb51563b46e",MMA-TV.com
+http://94.236.209.185:9981/stream/channelid/971635966?ticket=166F9B20E3CBA5CC3DCE25BC6AEC3652A7DBD231&profile=pass
+#EXTINF:-1 tvg-id="2bdb46a5b8bb10d2bda6b9c2ce932196",Nova Sport
+http://94.236.209.185:9981/stream/channelid/625400619?ticket=43DD4326670FC91F9EA042DF5659044D0B945A85&profile=pass
+#EXTINF:-1 tvg-id="cbd54058d3b43d173ea2a8460e68f41a",Rai 2 HD
+http://94.236.209.185:9981/stream/channelid/1480644043?ticket=E5ED6D02BFB0CF0C94E5B082781CA9E254C102D3&profile=pass
+#EXTINF:-1 tvg-id="500806ea9465c2fe813f1fc98ff5f20f",RING
+http://94.236.209.185:9981/stream/channelid/1778780240?ticket=27B3D248C8DB068FB08461A65AB0DBDF3025ED05&profile=pass
+#EXTINF:-1 tvg-id="b3d72d5db92818e4e9d138195ee78acf",RING HD
+http://94.236.209.185:9981/stream/channelid/1563285427?ticket=3C029BCE90E935F381F839FDFC9F066817610B4A&profile=pass
+#EXTINF:-1 tvg-id="c6d8ef13a409df2756c8abd26cd266f3",Rodina HD
+http://94.236.209.185:9981/stream/channelid/334485702?ticket=36BC85B3982D98E471AA22BF7E4FBBC0F0E80F0C&profile=pass
+#EXTINF:-1 tvg-id="aac46a48c4dc9181e86b25d49ccdfa69",SkySport1 HD
+http://94.236.209.185:9981/stream/channelid/1214956714?ticket=FCC8EADEB86BE6CAE936FCD22D0E2639A72C8432&profile=pass
+#EXTINF:-1 tvg-id="75ee3b1cd43ab850275662f00f1337dc",Sport +
+http://94.236.209.185:9981/stream/channelid/473689717?ticket=A91944D8A7BBFAF8A5F3AAF794721C29CCD218BB&profile=pass
+#EXTINF:-1 tvg-id="f54a5e1fcfb086dce66f682dc3ee6a72",Sport 1 DE
+http://94.236.209.185:9981/stream/channelid/526273269?ticket=FACABDBEDB6EED42199BCDC451736CE7B6ADD11C&profile=pass
+#EXTINF:-1 tvg-id="01080d55fcf2172ce2cd0c0b80197bc9",Sport 1 HD
+http://94.236.209.185:9981/stream/channelid/1426917377?ticket=A2A5D26E2A6447176C7600CC98580887D5DBA1B2&profile=pass
+#EXTINF:-1 tvg-id="d0a101ce3f6e287274cff5a7cc183f27",TRT Spor
+http://94.236.209.185:9981/stream/channelid/1308729808?ticket=934AF4AA1EF7D60FF2F79A9121DDF55C08C45369&profile=pass
+#EXTINF:-1 tvg-id="02aa94346136d8ba8ed140cb18840a9d",Хоби ЛОВ
+http://94.236.209.185:9981/stream/channelid/882158082?ticket=004BC52EBED6081B8448AC09ABF77CBCD9AFD5F2&profile=pass
+#EXTINF:-1 tvg-id="2ffe8ed040376d55ca600ace5f918544",Хоби ТВ HD
+http://94.236.209.185:9981/stream/channelid/1351548463?ticket=D20262C9B9D6CFA14FD30F0308A78452CB7A70D7&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/eurosport1.png" tvg-id="f9a2ce8cfe200f3190f45a836132dda6",Eurosport 1 HD
+http://94.236.209.185:9981/stream/channelid/214868729?ticket=1924C13C5B545BA93ADF4DF261F7EB6A6C2F29C0&profile=pass
+#EXTINF:-1 tvg-id="f0d79fe005d9db2d569c551a870530ed",People TV / Rete 7
+http://94.236.209.185:9981/stream/channelid/1621088240?ticket=AB88209F404B0CCBD40DF08F6A1A5418CF757822&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/eurosport1.png" tvg-id="e1e0637c5c8e3f9bdd607982448310f7",Eurosport 2 HD
+http://94.236.209.185:9981/stream/channelid/2086920417?ticket=25CA995856A1BA2D01881427A1BF9DBD78396032&profile=pass
+#EXTINF:-1 logo="https://cdn.bein.net/fr/wp-content/uploads/2015/07/bein-3-1024x576.png" tvg-id="efe3637d175fd2491737ae4fe68aaf43",Rai 3 HD
+http://94.236.209.185:9981/stream/channelid/2103698415?ticket=ADE4664DD9E71A527166587080B6BA19F1C5DBC3&profile=pass
+#EXTINF:-1 tvg-id="deffdae40d6598ec26f625736661079d",Eurosport 1
+http://94.236.209.185:9981/stream/channelid/1692073950?ticket=F2B51D7E04EE69E89DDC0E57CF6458AFA6B1BF0D&profile=pass
+#EXTINF:-1 tvg-id="755085abf95cc3ea47429abaea052de7",DTX
+http://94.236.209.185:9981/stream/channelid/730157173?ticket=DF4A1662B24BB5C8EA91CAC3D09ACCE1102A65C5&profile=pass
+#EXTINF:-1 tvg-id="63c202a0978b2690ba6c6ad056cb6589",AgroTV
+http://94.236.209.185:9981/stream/channelid/537051747?ticket=FEE68DE0B1C182E0883CFF0FBA79A38873875922&profile=pass
+#EXTINF:-1 tvg-id="509bb535bb427d09065bf9c7f0844d1d",Animal Planet
+http://94.236.209.185:9981/stream/channelid/901094224?ticket=272ADDB973F798FB00CF329D541EA7FE7827B222&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/cbsreality.png" tvg-id="79c6980da3ff45c78b0bdb57fb6a5655",CBS Reality
+http://94.236.209.185:9981/stream/channelid/228116089?ticket=94CD0135896025E9D27CE5CDA53DACC275543004&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-id="0d810c65039e7d1fb892c1d0a40c70f4",CGTN Documentary HD
+http://94.236.209.185:9981/stream/channelid/1695318285?ticket=E8474C7991D1D1DB5DF7E4EF0225AF13A54EF0BA&profile=pass
+#EXTINF:-1 tvg-id="7d110ca5d02d3102e861aacd0df23c48",Crime & Investigation
+http://94.236.209.185:9981/stream/channelid/621547901?ticket=10AB438E10623CCB2286C15EDAC164503C9BCC32&profile=pass
+#EXTINF:-1 tvg-id="3462911457fd8cee94a8f596f6ada5a6",Discovery Channel
+http://94.236.209.185:9981/stream/channelid/345072180?ticket=6EE5D3E404B388303BD93207F0BCD388F0CB486E&profile=pass
+#EXTINF:-1 tvg-id="5501d945b734859fdb765738379f5001",Discovery Channel HD
+http://94.236.209.185:9981/stream/channelid/1171849557?ticket=5F06B9EBDBC4DC148261DD91DDE99881B3670937&profile=pass
+#EXTINF:-1 logo="https://pngimg.com/uploads/question_mark/question_mark_PNG129.png" tvg-id="0d93dbfc9d65ea506e6fd2ff6113ccdd",Discovery Science
+http://94.236.209.185:9981/stream/channelid/2094764813?ticket=EB6579DDB8A2FE2087199EEA30078C4F8935E610&profile=pass
+#EXTINF:-1 tvg-id="9f1197ec12db1534f13aa24e2a83c4c7",DocuBox HD
+http://94.236.209.185:9981/stream/channelid/1821839775?ticket=ECD0495FF79FA377F9CE2DA8B13494DA476BB5FD&profile=pass
+#EXTINF:-1 tvg-id="e51c8da87f6ee22a5e65dcfae8dfc658",Fast&FunBOX HD
+http://94.236.209.185:9981/stream/channelid/680336613?ticket=F24F2921C4F526B8BC60F024714D90513EBB59D6&profile=pass
+#EXTINF:-1 tvg-id="f39c76daa90cf96d2f38b7738014f728",Food Network HD
+http://94.236.209.185:9981/stream/channelid/1517722867?ticket=5208AD2A894212A10A017081807E7D734976E655&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/history.png" tvg-id="e9e5be00c112f1e8ab588f00e2c2ac1f",History Channel
+http://94.236.209.185:9981/stream/channelid/12510697?ticket=A43C2AC2E9E733F2C201356989A74D1FE83546EA&profile=pass
+#EXTINF:-1 tvg-id="f774a9a2f9fd96c9daa79331a16c4c01",Nat Geo Wild
+http://94.236.209.185:9981/stream/channelid/581530871?ticket=825621B67C9760029ACF6CAAA1ECD418F80C0F7B&profile=pass
+#EXTINF:-1 tvg-id="843a82259fd736683d07a45f4157e2a4",Nat Geo Wild HD
+http://94.236.209.185:9981/stream/channelid/629291652?ticket=6EF4DDD8D613A226C2DBE23A1CF4A94D8BF1C980&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/theworld.png" tvg-id="6cf6a15b78541ffb8dacc91fa6af05b7",The World
+http://94.236.209.185:9981/stream/channelid/1537341036?ticket=DCFC81B51FC695CF130AD0EDEA82B82F0B9DF444&profile=pass
+#EXTINF:-1 tvg-id="4032262f5561941682b0ef300ccb63fa",This is Bulgaria HD
+http://94.236.209.185:9981/stream/channelid/791032384?ticket=E554961CF663BECEE53113CA5334223E7A18593F&profile=pass
+#EXTINF:-1 tvg-id="462eabb020cbdb5ffc613a376df33b10",TLC DE
+http://94.236.209.185:9981/stream/channelid/816524870?ticket=2D18181051EAF4FB73060244418C045F736D3D18&profile=pass
+#EXTINF:-1 tvg-id="e00883100c11940d3107f969761e93e9",TLC HD
+http://94.236.209.185:9981/stream/channelid/277022944?ticket=39A332DB20BEB0E616CDE11255C160D52DB3673A&profile=pass
+#EXTINF:-1 tvg-id="f566584631d4464f014c76f27f72e858",Travel Channel HD
+http://94.236.209.185:9981/stream/channelid/1180198645?ticket=3A6E4F1D48128E01B3CE5B1C35E1EFCB8A032DCB&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/tv999.png" tvg-id="965343e0821f0029d145349f77afd336",TV 999
+http://94.236.209.185:9981/stream/channelid/1615025046?ticket=BE1F89F132DD633B590AFEBB7428355E8716C963&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/tv999.png" tvg-id="5586c5d959a0f585c2e7ac590ed11a82",TV 999 HD
+http://94.236.209.185:9981/stream/channelid/1506117205?ticket=928209EB98BD784D920B16B1ED4BA79962E6954C&profile=pass
+#EXTINF:-1 tvg-id="3c4a8092467f7254f57f0bd23821b5e4",Viasat Explore
+http://94.236.209.185:9981/stream/channelid/310397500?ticket=C4CF85EB789104A4C5F9FDEFF29987CCF9707396&profile=pass
+#EXTINF:-1 tvg-id="4c120339f91858b1439d69bb366f7e46",Viasat Explore HD
+http://94.236.209.185:9981/stream/channelid/956502604?ticket=80B22DB3EC935CB496B29EADFE5FFEFBC3E510B9&profile=pass
+#EXTINF:-1 tvg-id="0de17fd44c0a877b43cde73e58d30a02",Viasat History
+http://94.236.209.185:9981/stream/channelid/1417666829?ticket=4F9239A3CE1353DED7D5D8A25890F5E6F263A223&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/viasatnature.png" tvg-id="b8f0e60d515decdff4df892d7e9ccb8e",Viasat Nature
+http://94.236.209.185:9981/stream/channelid/233238712?ticket=5E1F2B2F38E0A30D8B1BB88AAFD2AC7A6B5501DB&profile=pass
+#EXTINF:-1 tvg-id="701322d5dacf787225e4d9be870fb1af",Viasat Nature HD
+http://94.236.209.185:9981/stream/channelid/1428296560?ticket=077E880B7A64F10686798B7AC6516D23E154AE17&profile=pass
+#EXTINF:-1 tvg-id="fe76d23e83b362597ab9c47f40275dc9",Wild HD
+http://94.236.209.185:9981/stream/channelid/1053980414?ticket=CE4DE9A52F2F154C617CA5D472A3B6C31BBF24BA&profile=pass
+#EXTINF:-1 tvg-id="cff5d116a1a44c0bd8429c9aeacaf483",ZDF Neo HD
+http://94.236.209.185:9981/stream/channelid/382858703?ticket=B432F39704054B9F41DB8772F56F5FC603FDAD0F&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/hobbytv.png" tvg-id="d083e812287b1cd76a92a27e35187ceb",Хоби ТВ
+http://94.236.209.185:9981/stream/channelid/317227984?ticket=5340832BCBBBA44D7905E9791772076C68971ADB&profile=pass
+#EXTINF:-1 tvg-id="3c9cc96d803f84c4131ea32a27225180",Fishing & Hunting HD
+http://94.236.209.185:9981/stream/channelid/1841929276?ticket=44007603C1F0A5317DA12EB167354144105DD7BD&profile=pass
+#EXTINF:-1 logo="https://cliparts.tv/01_cliparts_cms/wp-content/uploads/2019/10/DMAX.png" tvg-id="585752efcbd18973d2954f91b900e765",DMAX Turk HD
+http://94.236.209.185:9981/stream/channelid/1867667288?ticket=4FD35EE56B3B3558A9AD0CB4F713A60499315183&profile=pass
+#EXTINF:-1 tvg-id="6d553b70bdba436ec47dffae8e7d1d70",Nat Geo
+http://94.236.209.185:9981/stream/channelid/1882936685?ticket=BED5E90008197F58D1F204904688E3EF506C7A97&profile=pass
+#EXTINF:-1 tvg-id="88fa94f1276a0e2cf69e29df70e5f0ca",Chasse & Peche
+http://94.236.209.185:9981/stream/channelid/1905588872?ticket=268A750A991B3D692409762701F15B82FE2A6AC0&profile=pass
+#EXTINF:-1 logo="https://cliparts.tv/01_cliparts_cms/wp-content/uploads/2019/10/DMAX.png" tvg-id="de52bef1d08b1d8b27e684fb6dfc3ea8",DMAX AT
+http://94.236.209.185:9981/stream/channelid/1908298462?ticket=B6CC786544FC0D55ED8F6B76C57124ED44786A90&profile=pass
+#EXTINF:-1 tvg-id="94816bf492b259eb6b8cef4256cd6d08",TLC
+http://94.236.209.185:9981/stream/channelid/1953202580?ticket=1D92518F44F037A0ECA735B6B7457F9D7F0AD45F&profile=pass
+#EXTINF:-1 tvg-id="cf85cdf41efccf86c3708b4fd26d6751",Ohota & Ribalka
+http://94.236.209.185:9981/stream/channelid/1959626191?ticket=7E2EA7DD79A39265E6FAD090405B1BCCB3BD1A02&profile=pass
+#EXTINF:-1 tvg-id="787dc6754a2b8160a29c7ef6f20724b1",Kabel Eins Doku
+http://94.236.209.185:9981/stream/channelid/1975942520?ticket=1B9194625E4F6B85B289D38EDABA4B3BFC7890EE&profile=pass
+#EXTINF:-1 logo="https://cliparts.tv/01_cliparts_cms/wp-content/uploads/2019/10/DMAX.png" tvg-id="5620105d2fa49392af2196834752b752",DMAX Turk
+http://94.236.209.185:9981/stream/channelid/1561337942?ticket=DB408B93F9865569F118D04EE704246F83184E29&profile=pass
+#EXTINF:-1 tvg-id="0d52f07618b7a355d4bc986192ab7012",Travel TV-TTVI
+http://94.236.209.185:9981/stream/channelid/1995461133?ticket=0CCF56892931E4BC6C669E1C5AD902C05E4A697B&profile=pass
+#EXTINF:-1 tvg-id="ba8fadc7a18c04e3b1fc59db34c47625",Nat Geo HD
+http://94.236.209.185:9981/stream/channelid/1202556858?ticket=57258916724BC78250CC57F14FB8BD51607E890A&profile=pass
+#EXTINF:-1 tvg-id="a865e148160b66fb29ee3c67ad3c73d7",History HD
+http://94.236.209.185:9981/stream/channelid/1222731176?ticket=405EA77BB397450CB15B7E74B5B4060B15DE8DD8&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/destinationbg.png" tvg-id="167b947c8a961c1ae3eeef42c07af5bc",ДестинацияBG
+http://94.236.209.185:9981/stream/channelid/2090105622?ticket=191D4730460809172D294A36936D0D4224553C6F&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/tvt.png" tvg-id="964056fd898a246db06906a508fe3f32",TVT
+http://94.236.209.185:9981/stream/channelid/2102804630?ticket=B2AB0D053C5345F58006C3D3C34632992539C671&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" tvg-id="dbb79ffe6b143b4725d2eb6575bd98f0",Idx
+http://94.236.209.185:9981/stream/channelid/2124396507?ticket=9F5B640B6F03DF3F4463EE7D53ECEDFF8B0130A6&profile=pass
+#EXTINF:-1 tvg-id="11a016f87662897907338ae5ead03715",1+1 Int.
+http://94.236.209.185:9981/stream/channelid/2014748689?ticket=422D03E87D3306EA0ADE13A58994FBA540210C3D&profile=pass
+#EXTINF:-1 tvg-id="8792b6790c8389546c671d5a1f4b6e53",24 Horas HD
+http://94.236.209.185:9981/stream/channelid/2042008199?ticket=5EF14641A7DB3983604D6989FFC3F6AA1E28E357&profile=pass
+#EXTINF:-1 tvg-id="b3f9881be11484d118ec95887417d105",24 Kitchen
+http://94.236.209.185:9981/stream/channelid/461961651?ticket=BED84B3FA5D8BC6C757D09320630E94433A533E3&profile=pass
+#EXTINF:-1 logo="https://alllogos.ru/images/logotip-24-tehno.png" tvg-id="093b9e271ab44fd5fe32dca8dbb67895",24 Techno
+http://94.236.209.185:9981/stream/channelid/664681225?ticket=1C8FE8EEE24E40E6E4C2E95528072EABB43298DE&profile=pass
+#EXTINF:-1 tvg-id="cee4821b0a9bcda42b9ed6bf188577e8",3 Sat HD
+http://94.236.209.185:9981/stream/channelid/461563086?ticket=2AB0BAE621D3C5DFBB924D55F2653A101540C8A6&profile=pass
+#EXTINF:-1 tvg-id="b138c7abce63db47596bae57d79e30bf",6ter HD
+http://94.236.209.185:9981/stream/channelid/734476465?ticket=F8636B05EE0452095BC867666C36B6C0F6869172&profile=pass
+#EXTINF:-1 logo="https://pic.rutube.ru/user/7c/f2/7cf2302add64e4876e5b41251fd9380a.jpg" tvg-id="0f5b7427cede8b5d869f870ab4cc7a27",8 TV RU
+http://94.236.209.185:9981/stream/channelid/661936911?ticket=1E78A95CE19C4162774C0AF2B6CB9DF2C17DC9D5&profile=pass
+#EXTINF:-1 tvg-id="7b003e44fdc5e4fca5045fafa39dbf1e",A11 TV
+http://94.236.209.185:9981/stream/channelid/1144914043?ticket=1EE2F7268A6E86B0F656E1AE6E256BE80B62C385&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/aljazeera.png" tvg-id="b5c7d9a7f46cdbfde3f96a031bae0be8",Al Jazeera Balkans HD
+http://94.236.209.185:9981/stream/channelid/668583861?ticket=A7C021C2F1EA3E0912A142FB0E2931DF547BC81D&profile=pass
+#EXTINF:-1 tvg-id="f2ad194e18d850c40e928a08279e0f34",Al Jazeera EN HD
+http://94.236.209.185:9981/stream/channelid/1310305778?ticket=67198CB92713170A9C5E0B04B074FB2720704E07&profile=pass
+#EXTINF:-1 tvg-id="5dcbc3affd34d505020ca38926444779",Alpha HD
+http://94.236.209.185:9981/stream/channelid/801360733?ticket=95A51698FDACD7A033BB9D53A279D0747FEEFB99&profile=pass
+#EXTINF:-1 tvg-id="b84bdbd2b0c4ab75e2129ae4e4a2b0e7",Anixe
+http://94.236.209.185:9981/stream/channelid/1390103480?ticket=D8D66FDF5115E614AA040791F6E825525E20B47F&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" tvg-id="3972aba87503862d12232072ad0d284f",Antenna 3 HD
+http://94.236.209.185:9981/stream/channelid/682324537?ticket=0C08119FFA22EB1899C37B6714C43565A266B20C&profile=pass
+#EXTINF:-1 logo="https://seeklogo.com/images/A/atv-logo-C72353DBDA-seeklogo.com.png" tvg-id="2e060d8c97e0c959b2dc9a1a5edbac00",ATV TR
+http://94.236.209.185:9981/stream/channelid/202180142?ticket=8ED8135C6EA19571F8D6E5AA9B4DF6B775894ECF&profile=pass
+#EXTINF:-1 tvg-id="539cca2dc427b3b2f0d5d672fbcff5b8",BBC World News
+http://94.236.209.185:9981/stream/channelid/768253011?ticket=0DAEEF79AB960D779E48647B5C2354FB2BEC17AB&profile=pass
+#EXTINF:-1 tvg-id="f49a4fb106c4b4da5dc2bdb3f9fe55f5",BBC World News HD
+http://94.236.209.185:9981/stream/channelid/827300596?ticket=FEE55D941BFEB35D87CAF7EC6A2379F243796D24&profile=pass
+#EXTINF:-1 tvg-id="2db521f3eb45fcae39e365a8c378a4e8",Belsat TV
+http://94.236.209.185:9981/stream/channelid/1931588909?ticket=86A386715E7C735B2B5CA3151B300E708B8C835A&profile=pass
+#EXTINF:-1 tvg-id="89f0e737efdf219761dcbb8e9aab6edf",BHTV BG
+http://94.236.209.185:9981/stream/channelid/937947273?ticket=C22AF8D0F5BD3C1B6A1CB1327D9F13E015A268B1&profile=pass
+#EXTINF:-1 tvg-id="22cc28361bc10521c1bedece609b7648",Bloomberg
+http://94.236.209.185:9981/stream/channelid/908643362?ticket=2E5EBAFB47881611E85D9B7F3A7EC3477146EF01&profile=pass
+#EXTINF:-1 tvg-id="05dc67a0e8b63af3b631b0ace293aa53",Bloomberg Bulgaria HD
+http://94.236.209.185:9981/stream/channelid/543677445?ticket=31C4DB9C56683C1ADC326E26F161461AF9C11551&profile=pass
+#EXTINF:-1 tvg-id="256eb8f5fd2cb99eb5f9b4a51e70e853",BR HD
+http://94.236.209.185:9981/stream/channelid/1975021093?ticket=D064BE5B466BF0118F0EB3DBD7A099DE6A514725&profile=pass
+#EXTINF:-1 tvg-id="84300635318e8d18b5074ee74a0df565",bTV Comedy+1
+http://94.236.209.185:9981/stream/channelid/889598084?ticket=34D3A52F9B76856614438E9FB634F8A058CF38B0&profile=pass
+#EXTINF:-1 tvg-id="a5c6daab49ff0e60c98f58cd53ba86ec",bTV Story HD
+http://94.236.209.185:9981/stream/channelid/735757989?ticket=2EF5538C2A17FE873CD5088446355D3B31DADDCD&profile=pass
+#EXTINF:-1 tvg-id="46dab34c5bb36b39754ca5ed3ef0c319",CGTN France HD
+http://94.236.209.185:9981/stream/channelid/1286855238?ticket=E2D9AE8E92D786A0694B1F803FEAB6448C6E6BDC&profile=pass
+#EXTINF:-1 tvg-id="17e18eaf9426bb27d3dd78d626aa32aa",CNBC
+http://94.236.209.185:9981/stream/channelid/797892887?ticket=F5C7B25773BFCADA2EDA883683DFB4C632C5B994&profile=pass
+#EXTINF:-1 logo="https://d2qdobupip53lu.cloudfront.net/cdn/ff/-YguCxRTJ4ANKNShe8_bHj62HPTlYWowqElBE_Ubsf8/1572967297/public/organisation/logo/cnl-logo.png" tvg-id="8818a7f039f5058245f85b760dabc3e1",CNL
+http://94.236.209.185:9981/stream/channelid/1889998984?ticket=169F3D770132BA23C7E7CD4803B7F0ADFC5F7213&profile=pass
+#EXTINF:-1 tvg-id="9631f29f26758f463247e2488ddd1ac8",CNN
+http://94.236.209.185:9981/stream/channelid/535966102?ticket=D93BAD9D785F919038D14B70C50DA9CEAF931323&profile=pass
+#EXTINF:-1 tvg-id="dce8e0f653b5a8fb9e30b4cf8eb7301e",CNN HD
+http://94.236.209.185:9981/stream/channelid/1994451164?ticket=0D202CC8CEBBF27282C522D3FAAD0FDF69D991BD&profile=pass
+#EXTINF:-1 tvg-id="b7428660160b4fc089029cfee6962573",Das Erste HD
+http://94.236.209.185:9981/stream/channelid/1619411639?ticket=F58554C5BC5F554E5C78C2319FF10C46B21B8F86&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" tvg-id="29e55be769c44dd60e7536fbc7969a7d",Disney Channel DE
+http://94.236.209.185:9981/stream/channelid/1734075689?ticket=08B4028F06DECA9E4AC2B084C174775622CF0FF6&profile=pass
+#EXTINF:-1 tvg-id="c705ab34b7289572527b476d6b9d4a58",Dom TV
+http://94.236.209.185:9981/stream/channelid/883623367?ticket=C673C3A5B2526820FA9139CE76BBF231F27261F6&profile=pass
+#EXTINF:-1 tvg-id="d5fe22ee080ad84f9f1315a393bd6988",Duna HD
+http://94.236.209.185:9981/stream/channelid/1847787221?ticket=FA395C0ABF737DE0C172159717ABB569F3E92F03&profile=pass
+#EXTINF:-1 tvg-id="dc72b1690a9140ca3d5b72d0011b7397",DW Deutsch
+http://94.236.209.185:9981/stream/channelid/1773236956?ticket=20C692AB0F08232C1257D191D1C14E059C443A79&profile=pass
+#EXTINF:-1 tvg-id="76314054c7e66fdec20e13b5ec3c2046",DW HD
+http://94.236.209.185:9981/stream/channelid/1413493110?ticket=D94A1A8C196EF88B5C8772793DC42BA53959DB20&profile=pass
+#EXTINF:-1 tvg-id="30f57835560bf1783efcd04a079a7cbe",English Club HD
+http://94.236.209.185:9981/stream/channelid/897119536?ticket=67D1EC4F45AA300C3EB32407D88A0D5795AADE64&profile=pass
+#EXTINF:-1 tvg-id="cb62be2cd2a970fa702c7a57beaa5b88",ERT News
+http://94.236.209.185:9981/stream/channelid/750674635?ticket=0E317D889A5B024E98A3A1D2FC88D36EBC330D71&profile=pass
+#EXTINF:-1 tvg-id="3cebd61b7340e915deeae9409941a6a0",ERT World EU
+http://94.236.209.185:9981/stream/channelid/467069756?ticket=97B324159E3F326C9AB5A88621CA5614C04F1683&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/euronews.png" tvg-id="cc398d03530655ce7f02e2f13f9f9760",Euronews
+http://94.236.209.185:9981/stream/channelid/59587020?ticket=1296B0A760AC020F0EA57A2DB5C45756DCEEB807&profile=pass
+#EXTINF:-1 tvg-id="1e9c59d8331af6f4991563ad2a681cc2",Euronews EN HD
+http://94.236.209.185:9981/stream/channelid/1482267678?ticket=B4BBF200A7A07E574AAF4D7615F4AE5ABC3F46D5&profile=pass
+#EXTINF:-1 tvg-id="87962af896eb5151471d50e9258030a3",Fashion One
+http://94.236.209.185:9981/stream/channelid/2016056967?ticket=646DE4642853A0F32EB93ACF9BAADCD848F92381&profile=pass
+#EXTINF:-1 logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" tvg-id="9088e68d5e42cd01ddbcccc5c4c34e00",France 24 FR
+http://94.236.209.185:9981/stream/channelid/233212048?ticket=BB6A7202A197826420E55CC5A31643DC776EFEC3&profile=pass
+#EXTINF:-1 tvg-id="39b50ef36282c735b960a4ca54e45097",Freedom
+http://94.236.209.185:9981/stream/channelid/1930343737?ticket=63DE7E4E94E65117AA2306543254695737D2F002&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Telecafe2017.png" tvg-id="d638546496150aaede66087ed57783dd",FTV 4K UHD
+http://94.236.209.185:9981/stream/channelid/1683241174?ticket=BD19B10BB60EAD7F974E7405AC4ACFF942F7E40E&profile=pass
+#EXTINF:-1 tvg-id="c939ebcfbbc886cf16d99a72866596f3",HGTV
+http://94.236.209.185:9981/stream/channelid/1340815817?ticket=F026FFDC34B2AF0AA15801AEDF42513C061701FB&profile=pass
+#EXTINF:-1 tvg-id="108c015217451bca71724f6e69eef194",HR HD
+http://94.236.209.185:9981/stream/channelid/1375833104?ticket=0E62178E0D79B40329B34F1E835A11F782E81DDE&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1200px-Kabel_eins_Logo_2015.svg.png" tvg-id="5cbe5d899f71e92eb1ce7bf088c18064",Kabel Eins
+http://94.236.209.185:9981/stream/channelid/157138524?ticket=D953AF9E046519B75C1966687090A7C69078874C&profile=pass
+#EXTINF:-1 tvg-id="1f090beeaa505166a7b73dd61a9e9e49",Kanal D
+http://94.236.209.185:9981/stream/channelid/1846216991?ticket=03DA408BBB7F18A07513C342D12393F69A331D91&profile=pass
+#EXTINF:-1 tvg-id="cc7b08e22f0f1c3a1d9f64ca7f6e3c72",M6 HD
+http://94.236.209.185:9981/stream/channelid/1644723148?ticket=C3A3DFDB793A85B72D2662684EEA1F938C10B8D9&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Mdr_Fernsehen_HD_Logo_2017.png" tvg-id="abc28f6ce8a7df988a922d46aa3b19af",MDR HD
+http://94.236.209.185:9981/stream/channelid/1821360811?ticket=723B8C541FA025DD11545741E37D635B66302BA2&profile=pass
+#EXTINF:-1 tvg-id="88546590aff06cd3a2d910557ea6c221",Mediaset
+http://94.236.209.185:9981/stream/channelid/275076232?ticket=92255B4C9F3809230740157BCE758A7A65D32721&profile=pass
+#EXTINF:-1 tvg-id="0474cb97167eba73975d07d0a097906b",My Zen TV
+http://94.236.209.185:9981/stream/channelid/399209476?ticket=D030F34B99981EE5AC6891EA276FF6211C94BCB9&profile=pass
+#EXTINF:-1 tvg-id="1a75c1d344ab87af43dc606b79392d8b",N24 Doku
+http://94.236.209.185:9981/stream/channelid/1405187354?ticket=08AB2D93928AE26F65596A6D8C74EFA5375B5AB8&profile=pass
+#EXTINF:-1 tvg-id="550fc7c68ded6bde703c4a9145e28d9e",NDR HD
+http://94.236.209.185:9981/stream/channelid/1187450709?ticket=C3A506D09C08C0B24AC034168B0E4C9E1753386C&profile=pass
+#EXTINF:-1 tvg-id="f5ce05b241de4098b39f003960527a7a",NHK World HD
+http://94.236.209.185:9981/stream/channelid/839241461?ticket=FC2C9A042390B4A9CAA268089846FB2BB574DAF5&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/1280px-RTL_Nitro_logo.svg.png" tvg-id="20b28a8ed3e334df66d89e73f2c82f0b",NITRO DE
+http://94.236.209.185:9981/stream/channelid/243970592?ticket=C300940B3E8BB584E04B06D47951F65B303BA1DA&profile=pass
+#EXTINF:-1 logo="https://tv-p2p.ru/files/chanels/ocko-star.png" tvg-id="7bebf67bc92d6cbccd0cb9a14594e21c",Ocko Star
+http://94.236.209.185:9981/stream/channelid/2079779707?ticket=470CD6069CAFC091D63425203FDE889ED663B3B1&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/One_HD_Logo.svg/1280px-One_HD_Logo.svg.png" tvg-id="ba32cba81877fb5aa9950ae1242c9971",One HD
+http://94.236.209.185:9981/stream/channelid/684405434?ticket=589AF79AD2C0085AEEDF43D401F260C63039654D&profile=pass
+#EXTINF:-1 tvg-id="bd03e93c35a8384b759e881874696e35",Peretz Int.
+http://94.236.209.185:9981/stream/channelid/1021903805?ticket=C51252502689DD387CC3087E9DB53262395AC3D7&profile=pass
+#EXTINF:-1 tvg-id="9cc611d50a531213bd5b99903d266835",Pro7
+http://94.236.209.185:9981/stream/channelid/1427228316?ticket=97F3C822090CBDC192566404E5CC534EE3799408&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/1280px-ProSieben_MAXX_Logo.svg.png" tvg-id="57bd1c899427f99cfdd0cf0c587d2a7b",Pro7 MAXX
+http://94.236.209.185:9981/stream/channelid/152878423?ticket=BEAB8F312C89462C78FF71CB303B055A0FDA1FA6&profile=pass
+#EXTINF:-1 logo="https://www.r-9.at/assets/images/start550.jpg" tvg-id="ad357aa9ee05fdde8d2efc7898d8824b",R9 Osterreich HD
+http://94.236.209.185:9981/stream/channelid/695874989?ticket=E21EE4FB4A9FF50D44D32B6B675591556CE82CCB&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png" tvg-id="79102864d65049138b6e471ceb077721",Radio Zeta TV HD
+http://94.236.209.185:9981/stream/channelid/1680347257?ticket=31A91A172E670B7ADBFD7E87A1BAD5B63900CDE5&profile=pass
+#EXTINF:-1 tvg-id="7c67ae9bff01601b1fbbc9c1365544e4",Radionorba TV HD
+http://94.236.209.185:9981/stream/channelid/464414588?ticket=66148F98B7A7D1A3A76DA45A718D3BB0AF7BC260&profile=pass
+#EXTINF:-1 tvg-id="00786d97c889e711fb1aa867e3281c3b",Rai 1 HD
+http://94.236.209.185:9981/stream/channelid/393050112?ticket=214B7E559B584DE3CF92BA995B74977924F407D6&profile=pass
+#EXTINF:-1 logo="https://sweet.tv/storage/channels/460.png" tvg-id="f2107a8d5fbbf38a1a90151bcb651dd4",Rai Radio 1
+http://94.236.209.185:9981/stream/channelid/226103538?ticket=CB5941EE4ED248170F4BC5F8EC2A8CB6E561A6F9&profile=pass
+#EXTINF:-1 tvg-id="84b802cc37b05a4b4ff913bfe4c9e078",Rai Scuola HD
+http://94.236.209.185:9981/stream/channelid/1275246724?ticket=26EAF6925C5E6DBB1EA5B4965C351AB223A88574&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbb_fernsehen_HD_Logo_2017.svg/1280px-Rbb_fernsehen_HD_Logo_2017.svg.png" tvg-id="6172660d04ef68ff3edc74bb195ccad8",RBB HD
+http://94.236.209.185:9981/stream/channelid/224817761?ticket=FAD2E0B2877A9A2C189CFB436AD51776D122F415&profile=pass
+#EXTINF:-1 tvg-id="8b024950e73ff92fba3909c87b97d203",RTG Int.
+http://94.236.209.185:9981/stream/channelid/1346962059?ticket=4EACE4E3A4B92D4F2BB08808FD7AA6C3A9F45C16&profile=pass
+#EXTINF:-1 tvg-id="cc0b10d47aebfe9dbaf3ce918536e74d",RTL 2
+http://94.236.209.185:9981/stream/channelid/1410337740?ticket=B8597D539C54AB4FF75EB0CBC92979617D4D86ED&profile=pass
+#EXTINF:-1 tvg-id="96895b41d0b4c6f1269b43565b3c02d2",RTP Int.
+http://94.236.209.185:9981/stream/channelid/1096518038?ticket=D7D2B91FFDCDB4986BA2948F286BD1E1720FC11B&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/RTVi-Logo.svg/1280px-RTVi-Logo.svg.png" tvg-id="c445f4621071e54b595aaaa2507aa1bb",RTVi
+http://94.236.209.185:9981/stream/channelid/1660175812?ticket=738C4A3EB7E5696B4BEDF3FBF7CF6A079999571B&profile=pass
+#EXTINF:-1 tvg-id="7c234fabf460e15e6f385676c525798d",ServusTV HD
+http://94.236.209.185:9981/stream/channelid/726606716?ticket=A9326E33478ED8298DBFCCFFD799FC028E05A5A3&profile=pass
+#EXTINF:-1 tvg-id="40053fcf0acbef9e72a9976de7b36656",Shanson TV
+http://94.236.209.185:9981/stream/channelid/1329530176?ticket=975849B4C2584DB438DB817EEDE55D6555C79B76&profile=pass
+#EXTINF:-1 tvg-id="e26baa55b7390ec2ca267226510d2f62",Sky News
+http://94.236.209.185:9981/stream/channelid/1437232098?ticket=49409A3008BF89FECB95217AAF9EEE4E971696A1&profile=pass
+#EXTINF:-1 tvg-id="725e597ada963688cb8f678f19509c60",SLO-TV1
+http://94.236.209.185:9981/stream/channelid/2052677234?ticket=D222BFD7CFDF05CD441F7B4A1EF4466C18464F62&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1200px-Rai_Gulp_-_Logo_2017.svg.png" tvg-id="2dc93eeb50d889b5bae0ef25d56001f6",Soul and Pepper HD
+http://94.236.209.185:9981/stream/channelid/1799276845?ticket=51F36789E8FBD13B8E67950EBA221339DD52094D&profile=pass
+#EXTINF:-1 tvg-id="185b836195e179bc1089907dd1bc3279",Soyuz TV
+http://94.236.209.185:9981/stream/channelid/1635998488?ticket=5367F819C68DD69AAC3515100F4FAFFD4C5B31C2&profile=pass
+#EXTINF:-1 tvg-id="ac40edb15f78f11f126c142473aa447a",SR Fernsehen HD
+http://94.236.209.185:9981/stream/channelid/837632172?ticket=E3C768A2A1B2C068E69EB804AD82DDD2831F4A00&profile=pass
+#EXTINF:-1 tvg-id="9dbee576f3d150ec66331731558b65c0",StarParadies DE
+http://94.236.209.185:9981/stream/channelid/1994768029?ticket=C63899E2F3E227F378B320EAF26DA7B8E35E7397&profile=pass
+#EXTINF:-1 tvg-id="07b63828bc472646e153cbf55aa72417",Stimmungs Garten TV
+http://94.236.209.185:9981/stream/channelid/674805255?ticket=A97E6A52D92CD8CEE2DF2A75798588D89E6CFEE4&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Super_RTL_logo_2013.svg/1024px-Super_RTL_logo_2013.svg.png" tvg-id="82ff87a985c189f43ae8a3c612e37495",Super RTL
+http://94.236.209.185:9981/stream/channelid/696778626?ticket=A1993868C8CB220A884292A477745B8E82170A46&profile=pass
+#EXTINF:-1 tvg-id="4a0a7b4bbc94a6b8fc60d6fa05f5a62f",SWR HD
+http://94.236.209.185:9981/stream/channelid/1266354762?ticket=F818C4F40A4DDB1F8DAB33CEE33DC40032A6987B&profile=pass
+#EXTINF:-1 tvg-id="a77f1f2a1919336b3909c30e566cb988",Tagesschau 24 HD
+http://94.236.209.185:9981/stream/channelid/706707367?ticket=88092640289297E1256505FFD13C5EE481E03E41&profile=pass
+#EXTINF:-1 tvg-id="f815c01007656bd3e10d6f273bb8f8f4",Tele 5 DE
+http://94.236.209.185:9981/stream/channelid/281023992?ticket=3B00B101DCF63703FFB8B341B3B25526EC8D79D1&profile=pass
+#EXTINF:-1 tvg-id="3b5ea4608fed0d4f64097a14ffec2b98",TGCOM24
+http://94.236.209.185:9981/stream/channelid/1621384763?ticket=0542F058B1DFED4936D668608C7CAB22109DC21D&profile=pass
+#EXTINF:-1 tvg-id="dec8f25ea783bdd2ba8795a1ef42f61e",TRT 1
+http://94.236.209.185:9981/stream/channelid/1592969438?ticket=8DBE5BE76A66A7C71696056070D6A7BB66612162&profile=pass
+#EXTINF:-1 logo="https://ewsat.com/img/TRT.png" tvg-id="494932838244bcdff0750f8514ee04da",TRT 4K UHD
+http://94.236.209.185:9981/stream/channelid/53627209?ticket=1D413B6320BBDC1BB09DC9FE02712325D05336AA&profile=pass
+#EXTINF:-1 tvg-id="70d7004dbf591dfaef37539b62ba6629",TRT Arapca
+http://94.236.209.185:9981/stream/channelid/1291900784?ticket=BCA9E86345EE5CAB1EEBD03A8EE1DD08F9A6FD6B&profile=pass
+#EXTINF:-1 tvg-id="1f508c976f9f743748284e2217b177b9",TRT Avaz HD
+http://94.236.209.185:9981/stream/channelid/395071519?ticket=DAD3014744BDDF6741D2FDDAAC2003BF0F70043C&profile=pass
+#EXTINF:-1 tvg-id="e78185c2087bfba6105a86a0b5e0bce8",TRT Haber
+http://94.236.209.185:9981/stream/channelid/1116045799?ticket=8FE046ABA0A9C0FFEFD0B2F70B044605661BFC61&profile=pass
+#EXTINF:-1 tvg-id="b9492e6dbbd96761d4f8d4174d4a66bb",TRT Turk
+http://94.236.209.185:9981/stream/channelid/1831750073?ticket=1D11DCED7A368BA760D6FF0D38C78A623C1A9C22&profile=pass
+#EXTINF:-1 tvg-id="724b735fde0994e5226799a881ad6caa",TV 8 INT
+http://94.236.209.185:9981/stream/channelid/1601391474?ticket=3E28BF180754B883EB9B06618C39EDF3F4201C6A&profile=pass
+#EXTINF:-1 logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TVRus.png" tvg-id="6879430c9fb3e5cf723e7b4eea001cf1",TV RUS
+http://94.236.209.185:9981/stream/channelid/205748584?ticket=1EB2E865EB166E439BB649C6426EF6F3DCFA9356&profile=pass
+#EXTINF:-1 tvg-id="c3b21c2b77951e99ba343b18d21e8acd",TV5 Monde HD
+http://94.236.209.185:9981/stream/channelid/723301059?ticket=EB732735F1F427C81406AA2C83BCCE1656B2D49C&profile=pass
+#EXTINF:-1 tvg-id="22b52ca5ef17219c4c3eca336895c747",TVE Int. HD
+http://94.236.209.185:9981/stream/channelid/623686946?ticket=DD1C4D8BC0CD5E4A874F9C8727130C46120F9752&profile=pass
+#EXTINF:-1 logo="https://ewsat.com/img/W9.png" tvg-id="caec35e3b25aded3febf6a0b9e785f39",W9 HD
+http://94.236.209.185:9981/stream/channelid/1664478410?ticket=B3586A7ED65F9B819990E39BC3578001B55C3905&profile=pass
+#EXTINF:-1 tvg-id="30244f817fde581ceacb50d2ad8df42a",WDR Koln
+http://94.236.209.185:9981/stream/channelid/21963824?ticket=B1EAECA9A3397AEE8D8C1ACB7FF73CB52CE62740&profile=pass
+#EXTINF:-1 tvg-id="4efc5c3c184e8477d569f59eae259a7d",WELT
+http://94.236.209.185:9981/stream/channelid/1012726862?ticket=583313D8D3B68372BAA8C8E054789B5198E870A6&profile=pass
+#EXTINF:-1 tvg-id="273490c07cce9d8319841fd5379c7946",Wness HD
+http://94.236.209.185:9981/stream/channelid/1083192359?ticket=8E6007525B61F811E6C66BDECE540AB72E4F252A&profile=pass
+#EXTINF:-1 tvg-id="59f0b7afbe891737798473d10dfe29a3",ZDF
+http://94.236.209.185:9981/stream/channelid/800583769?ticket=B230E19EEC3F040FA722B6FE5E94108688B51A7E&profile=pass
+#EXTINF:-1 tvg-id="e7da5bfa3e85786d741018efdc2fbf97",ZDF HD
+http://94.236.209.185:9981/stream/channelid/2052840167?ticket=05CE98382EBF6BBD22B310A24270F5C38584868D&profile=pass
+#EXTINF:-1 tvg-id="f97b65536618dc43c8336f75cfdf6c83",{name-not-set}
+http://94.236.209.185:9981/stream/channelid/1399159801?ticket=D0A2CFAC5DEF76929590B2238132BFD9A30A649F&profile=pass
+#EXTINF:-1 tvg-id="bf5fab6e8cc5d6dd8d1046337441fd87",{name-not-set}
+http://94.236.209.185:9981/stream/channelid/1856724927?ticket=E3E963108DEB8B95A243C3526EA49485E736BE45&profile=pass
+#EXTINF:-1 logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RIK-Sat.png" tvg-id="d5ebc055af07bcf8f6d67f2d83fbb171",RIK Sat
+http://94.236.209.185:9981/stream/channelid/1438706645?ticket=546A7D5F83B675974EAA196A2ED42728A44AEABA&profile=pass
+#EXTINF:-1 tvg-id="f5014c5943f16b171db5491f0b49013a",Telesur HD
+http://94.236.209.185:9981/stream/channelid/1498153461?ticket=3889DC92890723DE93D0929BEB0F81D6B91C6553&profile=pass
+#EXTINF:-1 tvg-id="a1a915dc86a8b4591bb46c43d1c5e53b",Sixx
+http://94.236.209.185:9981/stream/channelid/1544923553?ticket=982854420580684A2814E7061B91D854B0E2B2B4&profile=pass
+#EXTINF:-1 tvg-id="a192205ee53d897ee6e0981eeb7cf207",HRT Int.
+http://94.236.209.185:9981/stream/channelid/1579192993?ticket=82252CAD21C7C8F6A3934B6EBB1BFA54E8A3FFE5&profile=pass
+#EXTINF:-1 tvg-id="bf11d15e5b058647f7f4cf8b39d5fba6",Armenia TV
+http://94.236.209.185:9981/stream/channelid/1590759871?ticket=96DD6951E70806F84BF55418E35764306E0DEDC5&profile=pass
+#EXTINF:-1 tvg-id="14e1c748270ca04b976f226173216d47",NTV Turk
+http://94.236.209.185:9981/stream/channelid/1221058836?ticket=511709228854A5D296FE19FFF4187B75394D5144&profile=pass
+#EXTINF:-1 tvg-id="5a0c2749bef915b5f1f391ea88eb70a4",SAT.1 Gold
+http://94.236.209.185:9981/stream/channelid/1227295834?ticket=3AC995A12473DD160EA180756585B12030BCD8EA&profile=pass
+#EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Channel_4_%28Ukraine%29_%282020%29.svg/revision/latest/scale-to-width-down/340?cb=20200319174550" tvg-id="418bcbfbacbf07629556cd2c092366ad",Balkanika Music TV
+http://94.236.209.185:9981/stream/channelid/2076937025?ticket=6331E4116411FCF1B9501A7DB01F7707A023006F&profile=pass
+#EXTINF:-1 logo="https://seeklogo.com/images/S/sat-1-logo-82E8442886-seeklogo.com.png" tvg-id="4d8d07fc70e4f1547faa534461d1d4d0",SAT.1
+http://94.236.209.185:9981/stream/channelid/2080869709?ticket=64B5EEFFF3F83D15F4C2FFB8DAA7675DF28CBA91&profile=pass
+#EXTINF:-1 tvg-id="98d45de1ceb0f6fb657ca0da4b88211c",RTL 102.5 News HD
+http://94.236.209.185:9981/stream/channelid/1633539224?ticket=41851DC3AD6E3B96CAF1910B7CCFB30879C226DA&profile=pass
+#EXTINF:-1 tvg-id="983c4bfefe51c6d6db11a21012716b52",Radio Freccia TV HD
+http://94.236.209.185:9981/stream/channelid/2118859928?ticket=75778D2996CA7A4FA57DC08664D278D132038DEE&profile=pass
+#EXTINF:-1 tvg-id="8bce937e983e8fd331eb8beb1d648b30",VOX
+http://94.236.209.185:9981/stream/channelid/2123615883?ticket=8246B8C6B9F238732DC602CA6A26AB8D3B4F546C&profile=pass
+#EXTINF:-1 tvg-id="faa1b4140bd4601e3e345808c3b7c5bb",RTL Up
+http://94.236.209.185:9981/stream/channelid/347382266?ticket=947DC4DDB4FB0843018F327B36FC1AE96B56AC3D&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Alpha_TV_logo.svg/1200px-Alpha_TV_logo.svg.png" tvg-id="06750a4f3b854c8dd8dce45c38103344",GR ALPHA HD
+http://94.236.209.185:9981/stream/channelid/1326085382?ticket=1E5F10D2827CC0BB54BC2D3DE8F8D255FBD9C04A&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logoja_e_kanalit_grek_ANT1.svg" tvg-id="296bc6bf533cf249058076dc036c9ad0",GR ANT1 HD
+http://94.236.209.185:9981/stream/channelid/1069968169?ticket=02DF784EAF25887AF6D30F0E7F7CCC7570C37ED3&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Makedonia_TV_Logo_2018.png" tvg-id="f113a8456a6575a8e03df71fb65aa312",GR m. HD
+http://94.236.209.185:9981/stream/channelid/1168643057?ticket=F97D837DA51979E8CD8BF296EB8DE9EC50E901ED&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mega_channel_logo.svg/2560px-Mega_channel_logo.svg.png" tvg-id="9a6dfcf5df8935b20d44436b8b2f6c15",GR MEGA HD
+http://94.236.209.185:9981/stream/channelid/1979477402?ticket=D84C5ABD4D574348A816A90CBB14BC62B2429FE4&profile=pass
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9URt_O6Tp-pdmNVrfRiEjotHo5JQR4w5_A&s" tvg-id="9164a31b030068e6a35160776a23de76",GR Open Beyond HD
+http://94.236.209.185:9981/stream/channelid/463692945?ticket=13F9767CD00B5CA4C7D7DD3985F5E340A359C0D6&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Skai_TV_logo.svg/1200px-Skai_TV_logo.svg.png" tvg-id="a827aead7b224e8fb0ccead9593e401f",GR SKAI HD
+http://94.236.209.185:9981/stream/channelid/766388136?ticket=09A723AFF208C749A44388621F291DEC2D800227&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Star_Channel_Greece_logo.svg/1200px-Star_Channel_Greece_logo.svg.png" tvg-id="0a014ed6f8393858628ea149cfc91925",GR STAR HD
+http://94.236.209.185:9981/stream/channelid/1447952650?ticket=34173336FB6643B5EAA4F12BFC0B9A27191C82E3&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" tvg-id="2f92a31c0bca06116a68f705187b6b3a",France 24 EN
+http://94.236.209.185:9981/stream/channelid/480481839?ticket=9145E7DE4FED029354BE5342D8D1CCE50B7EC491&profile=pass
+#EXTINF:-1 tvg-id="3b26b91c74ea0ce72aa8e7b9607c2286",arte HD
+http://94.236.209.185:9981/stream/channelid/481895995?ticket=A1D21B8BBA63639371DE851E56E1E8728DCB43E7&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Karusel_2022.svg/1200px-Karusel_2022.svg.png" tvg-id="5878089d29ed4541f3fefc04e27cf65f",Karusel
+http://94.236.209.185:9981/stream/channelid/487094360?ticket=7A06217FE6785FEA7B3F2183E2861D450BB1F9DE&profile=pass
+#EXTINF:-1 tvg-id="5390369d73e2d1a8196a4984245cdca5",FTV HD
+http://94.236.209.185:9981/stream/channelid/490115155?ticket=6A9593B70E488DE42274FA941AC2B1CEB3197B94&profile=pass
+#EXTINF:-1 tvg-id="201af49d043efc4981c36c263459a813",Rodina TV
+http://94.236.209.185:9981/stream/channelid/502536736?ticket=F4332022727AC9CDFD9C9718ABB8B8E88D411E99&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/arirangtv.png" tvg-id="a28155842486854b9bf8c81fb74b9724",Sonnenklar TV
+http://94.236.209.185:9981/stream/channelid/72712610?ticket=FF1687B02F06AA7545A19051D7E0CA925DF58992&profile=pass
+#EXTINF:-1 tvg-id="0425901e7fd53ebee7ef416f1fcf516a",{name-not-set}
+http://94.236.209.185:9981/stream/channelid/512763140?ticket=15A64399BBA533A57DEB068C1595ABE96D2ECE32&profile=pass
+#EXTINF:-1 tvg-id="935fdd9e76bd0bba4a2480ad919aa802",H2
+http://94.236.209.185:9981/stream/channelid/517824403?ticket=C29064C8E6BF0C21778E66051A569BA1EDD13FED&profile=pass
+#EXTINF:-1 tvg-id="b8b1711f0c7a28168d628b1b793254a4",Rai Storia HD
+http://94.236.209.185:9981/stream/channelid/527544760?ticket=5C53C1A7508B9FBF1B25D12E513D5094CB33EEBE&profile=pass
+#EXTINF:-1 tvg-id="743ac89ff3af8fddb0768256fa61a223",Landscape HD
+http://94.236.209.185:9981/stream/channelid/533215860?ticket=0DF179B0FD1768ADC06F33D75A18E061CB6A96EB&profile=pass
+#EXTINF:-1 tvg-id="965674a0b660fc516a2803f6da404384",Toggo Plus
+http://94.236.209.185:9981/stream/channelid/544495254?ticket=B4F4E6BD671C59F0A620CA45B8EE5BC2CD97199C&profile=pass
+#EXTINF:-1 tvg-id="d4d51c21121e2f4d33d5f85ee8fc95e4",Travel Channel
+http://94.236.209.185:9981/stream/channelid/555537876?ticket=906D8105974C7A3A3F522DB80AE5364F8EDE18E9&profile=pass
+#EXTINF:-1 tvg-id="648945226310d27ac4d9315b0143639d",M1 HD
+http://94.236.209.185:9981/stream/channelid/574982500?ticket=FF15BCD9F2E2D39E39D98F84F1C27E9025DBBF5A&profile=pass
+#EXTINF:-1 logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/09/tnt_ru_logo_330x182.png" tvg-id="9ac20405e85c91224ce949d371563b47",TNT RU
+http://94.236.209.185:9981/stream/channelid/84198042?ticket=31AB5E3216577F139E3534D851D837B89D851463&profile=pass
+#EXTINF:-1 tvg-id="c219d5a2fc715995eb07e8e2604d2186",FTV.COM
+http://94.236.209.185:9981/stream/channelid/584391106?ticket=13F3E4F83C2D75EF5BB6E6ABD583CE55A66A067F&profile=pass
+#EXTINF:-1 tvg-id="c36d91a3ff186486e3945ce59f3d1b93",Das Erste
+http://94.236.209.185:9981/stream/channelid/596733379?ticket=70AE64E1E7B6079E27A79A635C191B5DB1EFBCBE&profile=pass
+#EXTINF:-1 tvg-id="1ddfab231b4aede4561b074b8ce4a4a3",Bloomberg Bulgaria
+http://94.236.209.185:9981/stream/channelid/598466333?ticket=00ED1F690D90A61F81ED73C422BB0BC6DE997E0D&profile=pass
+#EXTINF:-1 tvg-id="15eae4a3abd69aae20cf554eb7828169",MaxSport 4 HD
+http://94.236.209.185:9981/stream/channelid/602204693?ticket=EF0D277DC723882AB483507A516088AFED033CE4&profile=pass
+#EXTINF:-1 tvg-id="e20ef8a3f09434101a236f7df8e5fb99",Trofey TV
+http://94.236.209.185:9981/stream/channelid/603459298?ticket=79DE523D7171736E3A37CD14AFE132BB9EFEF4E9&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/epicdrama.png" tvg-id="85056405a22a9d8a79c757f487d0a358",Epic Drama
+http://94.236.209.185:9981/stream/channelid/90441093?ticket=E0BEF30AA03F2AED3BFCC19E7D17D229FF01D5A1&profile=pass
+#EXTINF:-1 tvg-id="45b72f24c069f4f769a1994aa3796f89",Mezzo Live HD
+http://94.236.209.185:9981/stream/channelid/607106885?ticket=21C1E64FF6DD0B8273BCEB02BB0FB625B292DA82&profile=pass
+#EXTINF:-1 tvg-id="c74a34a487ec8f4e720d60f14b7984cc",Arena Sport 4
+http://94.236.209.185:9981/stream/channelid/607406791?ticket=D20A1C197155287F2026C7C8143F0E85F8228F73&profile=pass
+#EXTINF:-1 tvg-id="d3bf41247a89ff133c1aebd46d9475f5",TBN Russia
+http://94.236.209.185:9981/stream/channelid/608288723?ticket=AF9C0BBE882A440C80617765EC2AE72C240E5161&profile=pass
+#EXTINF:-1 tvg-id="392369a457de161a828592f13ba3330b",MTV Club
+http://94.236.209.185:9981/stream/channelid/610870073?ticket=2C75E0A030AB8746F73AA373228953F4E384A75F&profile=pass
+#EXTINF:-1 tvg-id="a139d1a5f4e41b2f18a9c27428f396d8",data10
+http://94.236.209.185:9981/stream/channelid/634468769?ticket=74E24194C02460BB944D0FC68A8AB957F2D8F9CE&profile=pass
+#EXTINF:-1 tvg-id="70f133f0d21e4cc0d878d169801a93ed",BG Radio
+http://94.236.209.185:9981/stream/channelid/1882452336?ticket=7759D1792BED16E4715F17E8E59AC0A04378022F&profile=pass
+#EXTINF:-1 tvg-id="110247a4236f13219b70dc620af0851d",bTV Radio
+http://94.236.209.185:9981/stream/channelid/608633361?ticket=61F55E94E2DC66E1C527F8701414183300757305&profile=pass
+#EXTINF:-1 tvg-id="cf606dabfd6f23fbb7aa59428dbfede9",Darik radio
+http://94.236.209.185:9981/stream/channelid/728588495?ticket=458BA378993974356564A13F9A0109C69505C72D&profile=pass
+#EXTINF:-1 tvg-id="6d4a7353141f1ae43756da76dca06345",Radio 1 BG
+http://94.236.209.185:9981/stream/channelid/1400064621?ticket=CDE3B6D0B445F0DFD81CC283B0F328A86147F9D0&profile=pass
+#EXTINF:-1 tvg-id="e9b972d099ce7a82b1ef861b354cbee5",Radio 1 Rock
+http://94.236.209.185:9981/stream/channelid/1349695977?ticket=B2E0845126A1E68720A39E29FD12615D66E88564&profile=pass
+#EXTINF:-1 tvg-id="e9f7aa485926c3ca226662677236c43c",Radio BG on Air
+http://94.236.209.185:9981/stream/channelid/1219164137?ticket=D8D013CFD5728EF61156E169CA25124ED6BDE23D&profile=pass
+#EXTINF:-1 tvg-id="b2b41a3213a30cae22abdd34412af8a1",Radio Bobar
+http://94.236.209.185:9981/stream/channelid/840610994?ticket=248C62C2916FE31CD5ED01B39F3C08C828B150DE&profile=pass
+#EXTINF:-1 tvg-id="5ac0b631f93b9caa7bd415c80e7caee3",Radio City
+http://94.236.209.185:9981/stream/channelid/834060378?ticket=2CB1D4EF7EDB8EA8B1BF1FB489616656C883C80F&profile=pass
+#EXTINF:-1 tvg-id="fc0e1603b59972550e1f3d9222622f7e",Radio Classic FM
+http://94.236.209.185:9981/stream/channelid/51777276?ticket=FFE49C27C16C6B3A2BD5C4A36CAD7FB6BB0A496C&profile=pass
+#EXTINF:-1 tvg-id="7859a3a7b1d266e49f3ae990c3a44708",Radio Cyprus
+http://94.236.209.185:9981/stream/channelid/665016696?ticket=029E6F207CD4962F4BD6DE3D4F9E28818867170F&profile=pass
+#EXTINF:-1 tvg-id="4263d9dd8d85521c772f013c24a42863",Radio Darik Nostalgie
+http://94.236.209.185:9981/stream/channelid/1574527810?ticket=0DF904848B7A5F89587B698020C02EB35D12B3BF&profile=pass
+#EXTINF:-1 tvg-id="d49e5c63c40e0f6757c6971dea925cd5",Radio Energy
+http://94.236.209.185:9981/stream/channelid/1667014356?ticket=863A424E5CA0A9C73960A8598B3350015EF9AED2&profile=pass
+#EXTINF:-1 tvg-id="7a3ac35ced2c347c76e0028eecdf9554",Radio FM+
+http://94.236.209.185:9981/stream/channelid/1556298362?ticket=6A6306D8FF8529F445064F0CFC89521B38D9AA5B&profile=pass
+#EXTINF:-1 tvg-id="fe4aaba4add2fb00b19e1d04b6c840f3",Radio Focus Sofia
+http://94.236.209.185:9981/stream/channelid/615205630?ticket=28ECE9140F616D55A4056133459C140B1A9F584D&profile=pass
+#EXTINF:-1 tvg-id="383e0e5de606141851568e27c070381a",Radio Fresh
+http://94.236.209.185:9981/stream/channelid/1561214520?ticket=B89723C11C6E5E6CFA54E697AEA4F32D97D2D4F6&profile=pass
+#EXTINF:-1 tvg-id="9796f678f3a090d58920f7a2addd02e0",Radio Horizont
+http://94.236.209.185:9981/stream/channelid/2029426327?ticket=9E0B46691C0331690D4ED74A613C2F8F2AE81A74&profile=pass
+#EXTINF:-1 tvg-id="de0f08910c909b1b58fcd32990258e36",Radio Hristo Botev
+http://94.236.209.185:9981/stream/channelid/285741022?ticket=75554ECCE892B64B79F74E63823272867C9D2884&profile=pass
+#EXTINF:-1 tvg-id="df7bc6f7da382c6d0ed8f16c3d98dc30",Radio Jazz FM
+http://94.236.209.185:9981/stream/channelid/2009496543?ticket=313DEF0B6850BF6127734474351F3EED8135CA5E&profile=pass
+#EXTINF:-1 tvg-id="4ef661ff080831921423991c54c3bc80",Radio Magic FM
+http://94.236.209.185:9981/stream/channelid/2137126478?ticket=E13EC572EB6EBE56536BAFB61AB5FE79625FA115&profile=pass
+#EXTINF:-1 tvg-id="c244ad0f6ceb72be9e57ccb2a4851761",Radio N-Joy
+http://94.236.209.185:9981/stream/channelid/263013570?ticket=0A981B49E85D4561E84EE5860D8D728BD80849A8&profile=pass
+#EXTINF:-1 tvg-id="77faff08efc066c740e52b21f6fd06c1",Radio Payner
+http://94.236.209.185:9981/stream/channelid/150993527?ticket=DD0E5D473358FFD730EE9852935448352D18422E&profile=pass
+#EXTINF:-1 tvg-id="8de149ef6cfd06f3bdded0b433d1267e",Radio Sofia
+http://94.236.209.185:9981/stream/channelid/1867112845?ticket=7E88263A1B146911F6AC4A3E06C28EE1CBB03668&profile=pass
+#EXTINF:-1 tvg-id="70abb0f13fdc82d7fe9f6d1e36fbb504",Radio Tangra MegaRock
+http://94.236.209.185:9981/stream/channelid/1907403632?ticket=A77ECD53A0B9C71B646D6993333CA8E2FD9C4C91&profile=pass
+#EXTINF:-1 tvg-id="344eb4d7cea585b3e9e66719e1be7c6d",Radio The Voice
+http://94.236.209.185:9981/stream/channelid/1471434292?ticket=664A9AF71B3E38254E52E2A5529247680F461FA3&profile=pass
+#EXTINF:-1 tvg-id="fd7d3f50e54c0adf488357b6e757e762",Radio Varna
+http://94.236.209.185:9981/stream/channelid/1346338301?ticket=8EA6D0C11619EAAA48A3B3CCB2792622F15F528D&profile=pass
+#EXTINF:-1 tvg-id="a2310e58db07cea795c70d1a24b7c37b",Radio Veronika
+http://94.236.209.185:9981/stream/channelid/1477325218?ticket=F0FF8337C6CCA317A92B3480874DFF32016C9F25&profile=pass
+#EXTINF:-1 tvg-id="d6cf086c9cd03eff8736d471611f2f83",Radio Veselina
+http://94.236.209.185:9981/stream/channelid/1812516822?ticket=C9D7DEBB9C9DBF22AA9882C1B7DE4D08F3CFC446&profile=pass
+#EXTINF:-1 tvg-id="076c50aa1dc48a590dcd37a7cd6430d9",Radio Vidin
+http://94.236.209.185:9981/stream/channelid/709913607?ticket=C0B71B01D0D6BFD3E9E4C0298BCEF0F405F6BE0D&profile=pass
+#EXTINF:-1 tvg-id="a6e50b2254613199067ba12e21b62bec",Radio Vitosha
+http://94.236.209.185:9981/stream/channelid/571205030?ticket=42053037C2FA5FB6ECC1F8DA491BF41FBFCB4778&profile=pass
+#EXTINF:-1 tvg-id="353ea2c291dcd7e3c72d117cb71ae169",Radio Z-Rock
+http://94.236.209.185:9981/stream/channelid/1117929013?ticket=579424AA1B5BEF98DC9D639A7EFC7A115A92E343&profile=pass
+#EXTINF:-1 tvg-id="ac0fd6ef7049acee2817a8d0ec591030",{name-not-set}
+http://94.236.209.185:9981/stream/channelid/1876299692?ticket=64D6D4C402EB85E4218091303AC08489ACD96CF1&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1-2-3-tv_Logo.svg/1024px-1-2-3-tv_Logo.svg.png" tvg-id="500ce50556badc72152f14a7bfd0cc78",1-2-3.tv
+http://94.236.209.185:9981/stream/channelid/98896976?ticket=3DF8C55AE418D0A8C297073EE11361373245FEEE&profile=pass
+#EXTINF:-1 logo="https://directostv.teleame.com/wp-content/uploads/2020/04/RTS-Svet-Live-TV-Online.png" tvg-id="9db26306ba00b1915f4c0539ec83ace9",RTS SVET HD
+http://94.236.209.185:9981/stream/channelid/107197085?ticket=AF10EF915E5C8FD619E79A2C96AB24F8DE9F8FD4&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/460px-CGTN.svg.png" tvg-id="f96d73861b23c4b412bc200feec27295",CGTN News
+http://94.236.209.185:9981/stream/channelid/108228089?ticket=331EF44FDCA55874B1AC4A94D1562E6F00587BB2&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/foxcrime.png" tvg-id="706e1b0714d1efc3f39d5b90875608dd",STAR Crime+1
+http://94.236.209.185:9981/stream/channelid/119238256?ticket=B04599FCC6B414B77F4967CF91FE5B6C96482501&profile=pass
+#EXTINF:-1 logo="https://www.lyngsat.com/logo/tv/yy/yu-planet-tv-at.png" tvg-id="f92ff707278f746b4307b6a4daeb01bc",Nasha TV MK
+http://94.236.209.185:9981/stream/channelid/133640185?ticket=166C5D86D4CDD58228549815BBAD6261F55A1763&profile=pass
+#EXTINF:-1 logo="https://www.n-tv.de/stat/images/ntv_logo_App.jpg" tvg-id="c87d038838d413147a63832eec12f92e",ntv de
+http://94.236.209.185:9981/stream/channelid/134446536?ticket=E4BF24BAC04A504E0538907E46479E421E2B5676&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/RTL_%28de%29_Logo_2020.svg/1200px-RTL_%28de%29_Logo_2020.svg.png" tvg-id="85fe8708c73a81df2964206e6e1f76bf",RTL
+http://94.236.209.185:9981/stream/channelid/143130245?ticket=8B4AA9C64D927966F2DAA4A70C1ABB6EECDDB9DB&profile=pass
+#EXTINF:-1 logo="https://logos.kodibg.org/fineliving.png" tvg-id="07ef5c8135b0761ad2e7cc7247ba1f98",HGTV HD
+http://94.236.209.185:9981/stream/channelid/22867719?ticket=FE405378E5F9E90020F32B847632D1C359A104A9&profile=pass
+#EXTINF:-1 tvg-id="b1b2a75f2c832e11ac34d225902b06fa",Porn 01
+http://94.236.209.185:9981/stream/channelid/1604825777?ticket=4524B29AE2AB7480B5F0D35640B7F1FB77191511&profile=pass
+#EXTINF:-1 tvg-id="ff03d6fc809df4185316cb800d98fe90",Porn 02
+http://94.236.209.185:9981/stream/channelid/2094400511?ticket=A69F138A16E0CE4478BEE75B6F44C64F30518C19&profile=pass
+#EXTINF:-1 tvg-id="eb60e63e4a7bec6de84bfd72e5e72656",Porn 03
+http://94.236.209.185:9981/stream/channelid/1055285483?ticket=1CD41F85C809A3E860832EB9BA445ED05755D2C6&profile=pass
+#EXTINF:-1 tvg-id="636099e242634bf55a34466e6a984660",Porn 04
+http://94.236.209.185:9981/stream/channelid/1654218851?ticket=C66CAC233F10F92434117BDAA130B3CF6F91DE15&profile=pass
+#EXTINF:-1 tvg-id="25cb32c3c3f32bc991d1565e53c5819f",Porn 05
+http://94.236.209.185:9981/stream/channelid/1127402277?ticket=4CAFAD840ABDBD0F91E62327999D727398CFDD85&profile=pass
+#EXTINF:-1 tvg-id="dac6658acd6a81889c1e349a37b9701d",Porn 06
+http://94.236.209.185:9981/stream/channelid/174442202?ticket=FFB17D8B58568BD05DF367F355885832050CEF22&profile=pass
+#EXTINF:-1 tvg-id="569d12b6ca357feba36ea483b5aa227b",Porn 07
+http://94.236.209.185:9981/stream/channelid/907189590?ticket=F2BD43B50538E2C91CF7CAB93D38B1CD0FA46AB6&profile=pass
+#EXTINF:-1 tvg-id="3cfd7415680a93bac762ca4c55493139",Porn 08
+http://94.236.209.185:9981/stream/channelid/359988540?ticket=7B62108E8FE969F28766C84FF0A7D83E3BFA2FB0&profile=pass
+#EXTINF:-1 tvg-id="973ae0a178f684c96b55713f4bdae250",Porn 09
+http://94.236.209.185:9981/stream/channelid/568343191?ticket=7A4507F8B5C2AC97403FBE94C2D2A6DD4ECB1880&profile=pass
+#EXTINF:-1 tvg-id="13e63515e3d3013df1049c63882b980a",Porn 10
+http://94.236.209.185:9981/stream/channelid/355853843?ticket=F12DAAEF4438F76FF6CD5D2F6D3D5722E7044669&profile=pass
+#EXTINF:-1 tvg-id="ed016d4e763d295e0f47db13ef4b3c73",Porn 11
+http://94.236.209.185:9981/stream/channelid/1315766765?ticket=DD5DB9CFD16B2378F2EEF9E261B8B59BA4417229&profile=pass
+#EXTINF:-1 tvg-id="a553dc1e9a7822c0ec6c3ea26b5b91c9",Porn 12
+http://94.236.209.185:9981/stream/channelid/517755813?ticket=8E8A22A8B5E3B4A9FC932AFE01C590D3759BF711&profile=pass
+#EXTINF:-1 tvg-id="f88c57d80a59e393121103b0fe622946",Porn 13
+http://94.236.209.185:9981/stream/channelid/1482132728?ticket=0CAAEDA22AD71562E9834C2B396045FBECB5A180&profile=pass
+#EXTINF:-1 tvg-id="273eee852f3fbeec41a2f766288a74cd",Porn 14
+http://94.236.209.185:9981/stream/channelid/99499559?ticket=5693699A1D1EBFC6A475EE34344692CA2CB7E61F&profile=pass
+#EXTINF:-1 tvg-id="0f50ea92d51c5d63ef144681abec715b",Porn 15
+http://94.236.209.185:9981/stream/channelid/317345807?ticket=CB28E7F39621DEC1F6BFBCA72346B9F5788D34C2&profile=pass
+#EXTINF:-1 tvg-id="05a51b56e8e1cd476e130849f9f6f995",Porn 16
+http://94.236.209.185:9981/stream/channelid/1444652293?ticket=AFE960F5FE962B269CBE9991F7E9967C9A74B050&profile=pass
+#EXTINF:-1 tvg-id="6f8ac27bd8f88bf04c43ed7e37e7e262",Porn 17
+http://94.236.209.185:9981/stream/channelid/2076346991?ticket=40C70E2F861B58FF1D34A45E96A8E8B80E12A4DC&profile=pass
+#EXTINF:-1 tvg-id="196106f7539eb08a3b7b2f4b2f50ef78",Porn 18
+http://94.236.209.185:9981/stream/channelid/1996906777?ticket=6DCA58BD87686EC7EED362729B03582A21EC1CB6&profile=pass
+#EXTINF:-1 tvg-id="249941c16bf6120bb294894c51689de0",Porn 19
+http://94.236.209.185:9981/stream/channelid/1094818084?ticket=E13355C8FAE0D06E203B4C4D1FC6BEA1BCE5402F&profile=pass
+#EXTINF:-1 tvg-id="df01dfef9a80481195003d98ba382f84",Porn 20
+http://94.236.209.185:9981/stream/channelid/1876885983?ticket=621941EFF6785CCF5DCCC6A369C5188171305727&profile=pass
+#EXTINF:-1 tvg-id="1ab9b72389ba6970b47fb2e281fbd84e",Porn 21
+http://94.236.209.185:9981/stream/channelid/599243034?ticket=569E2F14CD018D5AB77871045E18DA48DCF42C41&profile=pass
+#EXTINF:-1 tvg-id="d555c02fe56c51beaeec33aaba64226a",Porn 22
+http://94.236.209.185:9981/stream/channelid/801134037?ticket=6B4A92FE541EFF30844AB45E06688C6D49578FAB&profile=pass
+#EXTINF:-1 tvg-id="34e871a1618c5c7d73ecbf3fb6475798",Porn 23
+http://94.236.209.185:9981/stream/channelid/561113140?ticket=A59D1FA7925BE6E6A9A2AE9FF06DD0F9CEC11D1B&profile=pass
+#EXTINF:-1 tvg-id="ac1db40f30059c0faad885c7e81e9d7f",Porn 24
+http://94.236.209.185:9981/stream/channelid/263462316?ticket=FA96E8B6DAC070704254430E10BB9D8752DBB650&profile=pass
+#EXTINF:-1 tvg-id="4b248c3bc6b822f80e6157d30ef333c1",Porn 25
+http://94.236.209.185:9981/stream/channelid/999040075?ticket=7C8374F8C33757B22F73ADDF105AA168C889DCF4&profile=pass

@@ -1,0 +1,62 @@
+#EXTINF:-1 tvg-id="" tvg-name="|BG| BULGARIA |BG|" tvg-logo="http://covers.dynns.com/PICON/entrepicon.png" group-title="BG| BULGARIA",|BG| BULGARIA |BG|
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=131368&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  BNT 1 FHD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/BHT 1.png" group-title="BG| BULGARIA",BG|  BNT 1 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205452&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  BNT 2 FHD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/BHT 2.png" group-title="BG| BULGARIA",BG|  BNT 2 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205451&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  BNT 3 FHD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/BHT 3.png" group-title="BG| BULGARIA",BG|  BNT 3 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205450&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  BNT 4 FHD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/BNT 4.png" group-title="BG| BULGARIA",BG|  BNT 4 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205449&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  BTV Cinema" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/bTV Cinema.png" group-title="BG| BULGARIA",BG|  BTV Cinema
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205448&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  BTV Action" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/bTV Action HD.png" group-title="BG| BULGARIA",BG|  BTV Action
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205447&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Film+ HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/F Plus.png" group-title="BG| BULGARIA",BG|  Film+ HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205437&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Filmbox Extra HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/FilmBox Extra HD.png" group-title="BG| BULGARIA",BG|  Filmbox Extra HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205435&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Filmbox Plus HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/F Plus.png" group-title="BG| BULGARIA",BG|  Filmbox Plus HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205434&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  FOX Crime HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/FOX Crime HD.png" group-title="BG| BULGARIA",BG|  FOX Crime HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205433&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  FOX HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/FOX HD.png" group-title="BG| BULGARIA",BG|  FOX HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205432&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  FOX Life HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/FOX Life HD.png" group-title="BG| BULGARIA",BG|  FOX Life HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205431&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  HBO HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/HBO HD.png" group-title="BG| BULGARIA",BG|  HBO HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205430&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  HBO2 FHD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/HBO 2 HD.png" group-title="BG| BULGARIA",BG|  HBO2 FHD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205429&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  HBO3 HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/HBO 3 HD.png" group-title="BG| BULGARIA",BG|  HBO3 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205428&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Cinemax HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/CineMax 1 HD.png" group-title="BG| BULGARIA",BG|  Cinemax HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205442&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  CINEMAX 2 HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/CineMax 2 HD.png" group-title="BG| BULGARIA",BG|  CINEMAX 2 HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205420&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Action Plus HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/Action Plus HD.png" group-title="BG| BULGARIA",BG|  Action Plus HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205454&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Balkanika Music HD" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/Balkanika Music TV HD.png" group-title="BG| BULGARIA",BG|  Balkanika Music HD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205453&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  bTV Lady" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/bTV Lady.png" group-title="BG| BULGARIA",BG|  bTV Lady
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205446&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Kino Nova" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/KinoNova.png" group-title="BG| BULGARIA",BG|  Kino Nova
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205445&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Nova TV" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/NOVA TV.png" group-title="BG| BULGARIA",BG|  Nova TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205444&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  BOX TV" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/Box TV.png" group-title="BG| BULGARIA",BG|  BOX TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205443&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  DIEMA FAMILY" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/Diema Family.png" group-title="BG| BULGARIA",BG|  DIEMA FAMILY
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205441&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Movie Strar" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/Movie Strar.png" group-title="BG| BULGARIA",BG|  Movie Strar
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205427&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  TV 1000" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/TV 1000.png" group-title="BG| BULGARIA",BG|  TV 1000
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205425&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  RING TV" tvg-logo="http://covers.dynns.com/PICON/OLD PICON/picon-bulgarie/RING BG HD.png" group-title="BG| BULGARIA",BG|  RING TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205424&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Roma TV" tvg-logo="" group-title="BG| BULGARIA",BG|  Roma TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205423&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Diema Sport 1" tvg-logo="" group-title="BG| BULGARIA",BG|  Diema Sport 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205422&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BG|  Diema Sport 2" tvg-logo="" group-title="BG| BULGARIA",BG|  Diema Sport 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:34:54:DC&stream=205421&extension=ts

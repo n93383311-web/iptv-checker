@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:0,101_BNT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a007
+#EXTINF:0,102_bTV HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00a
+#EXTINF:0,103_Nova HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00c
+#EXTINF:0,104_Diema HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00h
+#EXTINF:0,105_Kino Nova HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00d
+#EXTINF:0,106_Diema Family
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00i
+#EXTINF:0,107_bTV Action HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00v
+#EXTINF:0,108_bTV Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00s
+#EXTINF:0,121_bTV Comedy
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00t
+#EXTINF:0,122_Evrokom
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00o
+#EXTINF:0,123_Star Channel
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a013
+#EXTINF:0,124_Star Life
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00q
+#EXTINF:0,125_Star Crime
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00r
+#EXTINF:0,126_Filmbox
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a021
+#EXTINF:0,127_Eurosport HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a02c
+#EXTINF:0,141_RING HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00w
+#EXTINF:0,142_Nova Sport HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00l
+#EXTINF:0,143_Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a02e
+#EXTINF:0,144_TV1
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a02f
+#EXTINF:0,145_Diema Sport HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00b
+#EXTINF:0,146_Diema Sport 2
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a01j
+#EXTINF:0,161_Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00x
+#EXTINF:0,162_Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a01c
+#EXTINF:0,163_Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a010
+#EXTINF:0,164_E-Kids
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a011
+#EXTINF:0,165_City
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a001
+#EXTINF:0,166_Folklor TV
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a008
+#EXTINF:0,167_Max Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00k
+#EXTINF:0,168_Max Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a00f
+#EXTINF:0,169_BNT4
+#EXTVLCOPT:network-caching=1000
+http://87.120.179.187:8000/play/a02j

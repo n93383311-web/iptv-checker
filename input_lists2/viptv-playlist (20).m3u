@@ -1,0 +1,177 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="85e3c067d61f99c1cf1d39d9d3c1af83" tvg-chno="24",TVR2 HD
+http://79.115.145.39:9981/stream/channelid/1740694405?profile=pass
+#EXTINF:-1 tvg-id="03c3ab625ac716c6be611f75f4f10aaa" tvg-chno="26",TVR 3
+http://79.115.145.39:9981/stream/channelid/1655423747?profile=pass
+#EXTINF:-1 tvg-id="f8ba294751e6d1c96b9bcdb8a8004bf5" tvg-chno="27",PRO TV HD
+http://79.115.145.39:9981/stream/channelid/1193917176?profile=pass
+#EXTINF:-1 tvg-id="1c111be7aced6a8cbd4e8acb435fc19b" tvg-chno="29",Antena 1 HD
+http://79.115.145.39:9981/stream/channelid/1729827100?profile=pass
+#EXTINF:-1 tvg-id="539d9d3ec030b9ce4c65fe4d8310ec0a" tvg-chno="31",Kanal D HD
+http://79.115.145.39:9981/stream/channelid/1050516819?profile=pass
+#EXTINF:-1 tvg-id="a7023f81c0e09199e967c56578a2b81c" tvg-chno="33",PRIMA TV HD
+http://79.115.145.39:9981/stream/channelid/20906663?profile=pass
+#EXTINF:-1 tvg-id="eb07d6e50d638adac52987eae523c131" tvg-chno="33",PRIMA TV HD
+http://79.115.145.39:9981/stream/channelid/1708525547?profile=pass
+#EXTINF:-1 tvg-id="d4734570ef6b9fc60f679885d60620ec" tvg-chno="35",Happy Channel HD
+http://79.115.145.39:9981/stream/channelid/1883599828?profile=pass
+#EXTINF:-1 tvg-id="bee9516e4a7c8506571bdb2975c83aaf" tvg-chno="37",Antena Stars HD
+http://79.115.145.39:9981/stream/channelid/1850862014?profile=pass
+#EXTINF:-1 tvg-id="5d9917a00b68bca071e8d755580b675d" tvg-chno="38",Antena Stars
+http://79.115.145.39:9981/stream/channelid/538417501?profile=pass
+#EXTINF:-1 tvg-id="c633f48c11091c73d2e73a2f46ca5f39" tvg-chno="179",Party Mix
+http://79.115.145.39:9981/stream/channelid/217330630?profile=pass
+#EXTINF:-1 tvg-id="96b932a259ab31f020d82f682665f0ac" tvg-chno="179",Party Mix
+http://79.115.145.39:9981/stream/channelid/573749654?profile=pass
+#EXTINF:-1 tvg-id="fae6702fcb89ec206eba0defb890d113" tvg-chno="180",Emi Tv
+http://79.115.145.39:9981/stream/channelid/795928314?profile=pass
+#EXTINF:-1 tvg-id="06dac1c47edf2cbf5cd8c7a19d77f4f4" tvg-chno="180",Emi Tv
+http://79.115.145.39:9981/stream/channelid/1153554950?profile=pass
+#EXTINF:-1 tvg-id="ba6bff16ff9eeaf49ad693f0ab21980d" tvg-chno="181",Balcan Music TV
+http://79.115.145.39:9981/stream/channelid/385838010?profile=pass
+#EXTINF:-1 tvg-id="647883d7f49dfa9832609f29572782c5" tvg-chno="181",Balcan Music TV
+http://79.115.145.39:9981/stream/channelid/1468233828?profile=pass
+#EXTINF:-1 tvg-id="d940a950095972fd8135b1dad4d1081f" tvg-chno="182",TVR Folclor HD
+http://79.115.145.39:9981/stream/channelid/1353269465?profile=pass
+#EXTINF:-1 tvg-id="4a6a8e5a6d1f81cd07ed57edd8bcfc03" tvg-chno="183",TV AS
+http://79.115.145.39:9981/stream/channelid/1519282762?profile=pass
+#EXTINF:-1 tvg-id="16ec4be17172a83cf32e138b06d66ddb" tvg-chno="183",TV AS
+http://79.115.145.39:9981/stream/channelid/1632365590?profile=pass
+#EXTINF:-1 tvg-id="f8037e562cd7ba3b6a6c04d7feb423ff" tvg-chno="184",Traditional TV
+http://79.115.145.39:9981/stream/channelid/1451099128?profile=pass
+#EXTINF:-1 tvg-id="7825c2f21f8a2b0a1fa96db385d3967c" tvg-chno="184",Traditional TV
+http://79.115.145.39:9981/stream/channelid/1925326200?profile=pass
+#EXTINF:-1 tvg-id="7ffdcde2aee3c8b05f669303011dd423" tvg-chno="186",Orizont TV
+http://79.115.145.39:9981/stream/channelid/1657666943?profile=pass
+#EXTINF:-1 tvg-id="3a57a5b4d4bf1f759b31e516d44d5b16" tvg-chno="187",Taraf TV HD
+http://79.115.145.39:9981/stream/channelid/883251002?profile=pass
+#EXTINF:-1 tvg-id="b745644521ad9ffbefcc0bcb28ccbac4" tvg-chno="187",Taraf TV HD
+http://79.115.145.39:9981/stream/channelid/1164199351?profile=pass
+#EXTINF:-1 tvg-id="79b9a8de6c713edfb19be900c681fc1d" tvg-chno="189",Nasul TV
+http://79.115.145.39:9981/stream/channelid/1588115833?profile=pass
+#EXTINF:-1 tvg-id="9c52c1057e52cb3eabdaa20e8a6280e0" tvg-chno="192",TVR Cultural HD
+http://79.115.145.39:9981/stream/channelid/96555676?profile=pass
+#EXTINF:-1 tvg-id="b7e273381df6a7df1d101fd27d4fef11" tvg-chno="192",TVR Cultural HD
+http://79.115.145.39:9981/stream/channelid/947118775?profile=pass
+#EXTINF:-1 tvg-id="9caafb4a1a199771d1d632eb5e4f0651" tvg-chno="195",RTL Television
+http://79.115.145.39:9981/stream/channelid/1258007196?profile=pass
+#EXTINF:-1 tvg-id="9506739c4add853b99f8b5cf6c42cf68" tvg-chno="197",Rai 3
+http://79.115.145.39:9981/stream/channelid/477300373?profile=pass
+#EXTINF:-1 tvg-id="b2f54d15a169d19e092bde85ae87354d" tvg-chno="205",TVR Iasi
+http://79.115.145.39:9981/stream/channelid/357430706?profile=pass
+#EXTINF:-1 tvg-id="cc56e25bce5711e512e104d03fa7fb48" tvg-chno="206",Cromtel TV
+http://79.115.145.39:9981/stream/channelid/1541560012?profile=pass
+#EXTINF:-1 tvg-id="0294dc6a2ee59aec65ce57bbfa2481fb" tvg-chno="207",Tele 'M Botosani
+http://79.115.145.39:9981/stream/channelid/1792840706?profile=pass
+#EXTINF:-1 tvg-id="550395003d350458778bef85f61111b2" tvg-chno="208",SuperONE HD
+http://79.115.145.39:9981/stream/channelid/9765717?profile=pass
+#EXTINF:-1 tvg-id="858f0f615c7d7a4c974366c3014cc9fb" tvg-chno="41",Metropola TV HD
+http://79.115.145.39:9981/stream/channelid/1628409733?profile=pass
+#EXTINF:-1 tvg-id="84032fe2b6c13e580fe8fa28faf72d40" tvg-chno="41",Metropola TV HD
+http://79.115.145.39:9981/stream/channelid/1647248260?profile=pass
+#EXTINF:-1 tvg-id="05c73d8a78ca2ec34b89490f7c3af3bf" tvg-chno="42",Metropola TV
+http://79.115.145.39:9981/stream/channelid/171820805?profile=pass
+#EXTINF:-1 tvg-id="072a2cdeb46e62448793fdba5cfbcba5" tvg-chno="42",Metropola TV
+http://79.115.145.39:9981/stream/channelid/1579952647?profile=pass
+#EXTINF:-1 tvg-id="1e4b46bef6ebd6f75f618afd6be22652" tvg-chno="43",Etno TV HD
+http://79.115.145.39:9981/stream/channelid/1044794142?profile=pass
+#EXTINF:-1 tvg-id="de58467d4a2a60157192e7f3e7a11477" tvg-chno="43",Etno TV HD
+http://79.115.145.39:9981/stream/channelid/2101762270?profile=pass
+#EXTINF:-1 tvg-id="c11f011888707112f63c70ac88c10632" tvg-chno="45",Kanal D2 HD
+http://79.115.145.39:9981/stream/channelid/402726849?profile=pass
+#EXTINF:-1 tvg-id="1204ef72610d28fe2017209a60a14dfe" tvg-chno="45",Kanal D2 HD
+http://79.115.145.39:9981/stream/channelid/1928266770?profile=pass
+#EXTINF:-1 tvg-id="ea5f67eb14f18520c1505d70a99b50a4" tvg-chno="46",Kanal D2
+http://79.115.145.39:9981/stream/channelid/1801936874?profile=pass
+#EXTINF:-1 tvg-id="c27c818cc771a58b8e79ab9543167d41" tvg-chno="47",A7
+http://79.115.145.39:9981/stream/channelid/209812674?profile=pass
+#EXTINF:-1 tvg-id="0e4362f713cc24192994db061c052925" tvg-chno="47",A7
+http://79.115.145.39:9981/stream/channelid/2002928398?profile=pass
+#EXTINF:-1 tvg-id="59469798bd25b82b35e0fa3ebcfe59c4" tvg-chno="51",Travel Mix
+http://79.115.145.39:9981/stream/channelid/412567129?profile=pass
+#EXTINF:-1 tvg-id="342c41ade058ee9f9f18c475fb447881" tvg-chno="52",ACASA HD
+http://79.115.145.39:9981/stream/channelid/759245876?profile=pass
+#EXTINF:-1 tvg-id="f354be88ed8e73fcdd9e582f6ea5bc53" tvg-chno="54",TVR INFO HD
+http://79.115.145.39:9981/stream/channelid/146691315?profile=pass
+#EXTINF:-1 tvg-id="f3c318d383eccdad41543c93a6d06853" tvg-chno="54",TVR INFO HD
+http://79.115.145.39:9981/stream/channelid/1394131955?profile=pass
+#EXTINF:-1 tvg-id="72bcf49ffc472a0e8501d31a64285d57" tvg-chno="55",B1 HD
+http://79.115.145.39:9981/stream/channelid/536132722?profile=pass
+#EXTINF:-1 tvg-id="3e76328aff763798de5901f249679bd4" tvg-chno="57",Romania TV HD
+http://79.115.145.39:9981/stream/channelid/171079230?profile=pass
+#EXTINF:-1 tvg-id="d9e0091909d5fdec216371e81596669a" tvg-chno="57",Romania TV HD
+http://79.115.145.39:9981/stream/channelid/420077785?profile=pass
+#EXTINF:-1 tvg-id="ba7bc8799426aeb99e17e1a8eaa60a18" tvg-chno="61",Antena 3 HD
+http://79.115.145.39:9981/stream/channelid/2043182010?profile=pass
+#EXTINF:-1 tvg-id="f370576a8e9bcaf8d84a6755602a3a8a" tvg-chno="63",Realitatea Plus HD
+http://79.115.145.39:9981/stream/channelid/1784115443?profile=pass
+#EXTINF:-1 tvg-id="562f716a175c928a926d7402aafca2ab" tvg-chno="63",Realitatea Plus HD
+http://79.115.145.39:9981/stream/channelid/1785802582?profile=pass
+#EXTINF:-1 tvg-id="54b6b2044a756864f8a70f6b2f3c9508" tvg-chno="65",PRIMA NEWS
+http://79.115.145.39:9981/stream/channelid/78820948?profile=pass
+#EXTINF:-1 tvg-id="5ee15a9573f9effff9565c6bf94ccb75" tvg-chno="66",Euronews RO HD
+http://79.115.145.39:9981/stream/channelid/358277470?profile=pass
+#EXTINF:-1 tvg-id="339fff6b0982ddbb9f9f1babcef538b6" tvg-chno="66",Euronews RO HD
+http://79.115.145.39:9981/stream/channelid/1811914547?profile=pass
+#EXTINF:-1 tvg-id="7f176a2731e9346f4398cdf33c07589a" tvg-chno="67",Euronews RO
+http://79.115.145.39:9981/stream/channelid/661264255?profile=pass
+#EXTINF:-1 tvg-id="378ca7de659baebc8b7a836172cac6a4" tvg-chno="67",Euronews RO
+http://79.115.145.39:9981/stream/channelid/1588038711?profile=pass
+#EXTINF:-1 tvg-id="87ebed04f87c5bd8819021592fac2992" tvg-chno="68",Aleph News
+http://79.115.145.39:9981/stream/channelid/82701191?profile=pass
+#EXTINF:-1 tvg-id="c87ce7c72560fd6b5b3834619d9c619e" tvg-chno="68",Aleph News
+http://79.115.145.39:9981/stream/channelid/1206353096?profile=pass
+#EXTINF:-1 tvg-id="3d4b291e8f105aaeb04603bdf4b4dd6d" tvg-chno="69",NCN
+http://79.115.145.39:9981/stream/channelid/506022717?profile=pass
+#EXTINF:-1 tvg-id="3110899894b875c0958a2fe74a82d1ff" tvg-chno="70",CNN
+http://79.115.145.39:9981/stream/channelid/411635761?profile=pass
+#EXTINF:-1 tvg-id="b7681ad52cc19f0ac919e6587725def8" tvg-chno="71",DW
+http://79.115.145.39:9981/stream/channelid/1427794103?profile=pass
+#EXTINF:-1 tvg-id="1b2791ebb35c038410f64ecf29b6b164" tvg-chno="78",ACASA GOLD HD
+http://79.115.145.39:9981/stream/channelid/1804674843?profile=pass
+#EXTINF:-1 tvg-id="8176ae72ae507f1608207fac7e99242d" tvg-chno="80",FILM NOW HD
+http://79.115.145.39:9981/stream/channelid/1924036225?profile=pass
+#EXTINF:-1 tvg-id="90b0af32b5627154148925755c661d01" tvg-chno="82",PRO CINEMA HD
+http://79.115.145.39:9981/stream/channelid/850374800?profile=pass
+#EXTINF:-1 tvg-id="199b2b51065e5f02dc48cfaf9b06e6ed" tvg-chno="82",PRO CINEMA HD
+http://79.115.145.39:9981/stream/channelid/1361812249?profile=pass
+#EXTINF:-1 tvg-id="79597557eac5ba37f89dc83e5f3fc486" tvg-chno="86",Cinemaraton HD
+http://79.115.145.39:9981/stream/channelid/1467308409?profile=pass
+#EXTINF:-1 tvg-id="e4bba5555d0766b412dd94c5ee2da720" tvg-chno="89",AXN
+http://79.115.145.39:9981/stream/channelid/1436924900?profile=pass
+#EXTINF:-1 tvg-id="5b2621e8f3f30314aff5b0e46486102d" tvg-chno="90",AXN White
+http://79.115.145.39:9981/stream/channelid/1747002971?profile=pass
+#EXTINF:-1 tvg-id="a50c0a13d233ce5a40087eddf5589534" tvg-chno="93",Warner TV
+http://79.115.145.39:9981/stream/channelid/319425701?profile=pass
+#EXTINF:-1 tvg-id="aeaecbef75c5a31aae124b41e84dbbe6" tvg-chno="95",AMC HD
+http://79.115.145.39:9981/stream/channelid/1875619502?profile=pass
+#EXTINF:-1 tvg-id="2656bdf1995f14c071f35c1911f15ec0" tvg-chno="95",AMC HD
+http://79.115.145.39:9981/stream/channelid/1908233766?profile=pass
+#EXTINF:-1 tvg-id="28e341c63d80a1eea2f59bdf06919e10" tvg-chno="96",AMC
+http://79.115.145.39:9981/stream/channelid/1178723112?profile=pass
+#EXTINF:-1 tvg-id="e17beef599a66567bb2820562f3765f1" tvg-chno="96",AMC
+http://79.115.145.39:9981/stream/channelid/1978563553?profile=pass
+#EXTINF:-1 tvg-id="0e39f607f6cc98e0245f73e1a7848bfa" tvg-chno="97",Film Cafe
+http://79.115.145.39:9981/stream/channelid/133576974?profile=pass
+#EXTINF:-1 tvg-id="468df6d9d7764b1b9c3fe6d33d82f4f3" tvg-chno="100",BBC First HD
+http://79.115.145.39:9981/stream/channelid/1509330246?profile=pass
+#EXTINF:-1 tvg-id="d8825e9e1796de18e8915a4a2d7ffa8c" tvg-chno="101",HBO HD
+http://79.115.145.39:9981/stream/channelid/509510360?profile=pass
+#EXTINF:-1 tvg-id="f17173423806048dc2e1709c33275762" tvg-chno="103",HBO2 HD
+http://79.115.145.39:9981/stream/channelid/1114862065?profile=pass
+#EXTINF:-1 tvg-id="1612b1b4c5a7dfebc1e6e47c89b48d4b" tvg-chno="104",HBO 2
+http://79.115.145.39:9981/stream/channelid/884019734?profile=pass
+#EXTINF:-1 tvg-id="1b8c1d4e15ee4023de1fd5dff231b7aa" tvg-chno="109",Cinemax2 HD
+http://79.115.145.39:9981/stream/channelid/1310559259?profile=pass
+#EXTINF:-1 tvg-id="990121dca9f2ad07f8325240dbabbbc4" tvg-chno="109",Cinemax2 HD
+http://79.115.145.39:9981/stream/channelid/1545666969?profile=pass
+#EXTINF:-1 tvg-id="22c5772dc18376769ec5c6d3b665eb10" tvg-chno="110",SkyShowtime 1 HD
+http://79.115.145.39:9981/stream/channelid/762823970?profile=pass
+#EXTINF:-1 tvg-id="b23feeac42100d50d7320678ade1e5cd" tvg-chno="111",SkyShowtime 2 HD
+http://79.115.145.39:9981/stream/channelid/753811378?profile=pass
+#EXTINF:-1 tvg-id="34af5cc00c71c568cf45575afdcf4c7f" tvg-chno="111",SkyShowtime 2 HD
+http://79.115.145.39:9981/stream/channelid/1079815988?profile=pass
+#EXTINF:-1 tvg-id="bc16350fa50fb04152bac61d3682852b" tvg-chno="112",Bollywood Clasic HD
+http://79.115.145.39:9981/stream/channelid/255137468?profile=pass
+#EXTINF:-1 tvg-id="e671467b99c6bc3f989ba8562569f687" tvg-chno="112",Bollywood Clasic HD
+http://79.115.145.39:9981/stream/channelid/2068214246?profile=pass

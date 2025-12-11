@@ -1,0 +1,50 @@
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"=RO= ROMANIA =RO=\" tvg-logo=\"http://covers.dynns.com/PICON/entrepicon.png\" group-title=\"RO| ROMANIA\",=RO= ROMANIA =RO=
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71270&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO| TVR 1\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/tvr1.png\" group-title=\"RO| ROMANIA\",RO| TVR 1
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71271&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  TVR 2\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/tvr2.png\" group-title=\"RO| ROMANIA\",RO|  TVR 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71272&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  VIASAT NATURE\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/viasatnature.png\" group-title=\"RO| ROMANIA\",RO|  VIASAT NATURE
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71273&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  VIASAT HISTORY\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/viasathistory.png\" group-title=\"RO| ROMANIA\",RO|  VIASAT HISTORY
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71274&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  U TV\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/utv.png\" group-title=\"RO| ROMANIA\",RO|  U TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71275&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  TV1000\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/tv1000.png\" group-title=\"RO| ROMANIA\",RO|  TV1000
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71276&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  PROTV\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/protv.png\" group-title=\"RO| ROMANIA\",RO|  PROTV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71280&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  NATIONAL TV\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/nationaltv.png\" group-title=\"RO| ROMANIA\",RO|  NATIONAL TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71284&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  NAT GEO WILD\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/natgeowild.png\" group-title=\"RO| ROMANIA\",RO|  NAT GEO WILD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71286&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  KANAL D\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/kanald.png\" group-title=\"RO| ROMANIA\",RO|  KANAL D
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71291&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  HISTORY CHANNEL\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/historychannel.png\" group-title=\"RO| ROMANIA\",RO|  HISTORY CHANNEL
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71292&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  HBO 2\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/hbo2.png\" group-title=\"RO| ROMANIA\",RO|  HBO 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71294&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  HBO 3\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/hbo3.png\" group-title=\"RO| ROMANIA\",RO|  HBO 3
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71295&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  HAPPY CHANNEL\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/happychannel.png\" group-title=\"RO| ROMANIA\",RO|  HAPPY CHANNEL
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71296&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  EUROSPORT 2\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/eurosport2.png\" group-title=\"RO| ROMANIA\",RO|  EUROSPORT 2
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71298&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  DIGI WORLD\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/digiworld.png\" group-title=\"RO| ROMANIA\",RO|  DIGI WORLD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71302&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  DIGI LIFE\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/digilife.png\" group-title=\"RO| ROMANIA\",RO|  DIGI LIFE
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71303&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  DIGI FILM\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/digifilm.png\" group-title=\"RO| ROMANIA\",RO|  DIGI FILM
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71304&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  DIGI ANIMAL WORLD\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/digianimalworld.png\" group-title=\"RO| ROMANIA\",RO|  DIGI ANIMAL WORLD
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71305&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  B1 TV\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/b1tv.png\" group-title=\"RO| ROMANIA\",RO|  B1 TV
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71309&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  AXN WHITE\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/axnwhite.png\" group-title=\"RO| ROMANIA\",RO|  AXN WHITE
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71310&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  AXN ROMANIA\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/axnromania.png\" group-title=\"RO| ROMANIA\",RO|  AXN ROMANIA
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71311&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  ANTENA STARS\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/antenastars.png\" group-title=\"RO| ROMANIA\",RO|  ANTENA STARS
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71312&extension=ts
+#EXTINF:-1 tvg-id=\"\" tvg-name=\"RO|  ANTENA 3\" tvg-logo=\"http://covers.dynns.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-romania/antena3.png\" group-title=\"RO| ROMANIA\",RO|  ANTENA 3
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C7:EA:34&stream=71314&extension=ts

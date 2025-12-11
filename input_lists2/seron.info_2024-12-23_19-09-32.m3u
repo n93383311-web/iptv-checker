@@ -1,0 +1,311 @@
+#EXTM3U
+#EXTINF:0,BNT 1 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35710&extension=ts
+#EXTINF:0,BNT 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35865&extension=ts
+#EXTINF:0,BNT 2 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35805&extension=ts
+#EXTINF:0,BNT 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35711&extension=ts
+#EXTINF:0,BNT 3 FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35798&extension=ts
+#EXTINF:0,BNT 3 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35867&extension=ts
+#EXTINF:0,BNT 4 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35866&extension=ts
+#EXTINF:0,BNT 4
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35712&extension=ts
+#EXTINF:0,BTV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35714&extension=ts
+#EXTINF:0,BTV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35863&extension=ts
+#EXTINF:0,NOVA TV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35804&extension=ts
+#EXTINF:0,NOVA TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35713&extension=ts
+#EXTINF:0,BULGARIA ON AIR HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35858&extension=ts
+#EXTINF:0,BULGARIA ON AIR
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35723&extension=ts
+#EXTINF:0,BULGARIA 24 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35796&extension=ts
+#EXTINF:0,CODEFASHION TV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=535202&extension=ts
+#EXTINF:0,ALFA TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35708&extension=ts
+#EXTINF:0,TV EVROPA HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35727&extension=ts
+#EXTINF:0,TV EVROPA HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35794&extension=ts
+#EXTINF:0,EVROKOM HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35732&extension=ts
+#EXTINF:0,HOBBY LOV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35807&extension=ts
+#EXTINF:0,HOBBY LOV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35725&extension=ts
+#EXTINF:0,KANAL 3
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35726&extension=ts
+#EXTINF:0,BALKANIKA
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=535552&extension=ts
+#EXTINF:0,VIASAT EXPLORER
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=535551&extension=ts
+#EXTINF:0,WORLD FASHION CHANNEL FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=535204&extension=ts
+#EXTINF:0,FEN TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=535553&extension=ts
+#EXTINF:0,SKAT TV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35715&extension=ts
+#EXTINF:0,7/8 TV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35797&extension=ts
+#EXTINF:0,BLOOMBERG HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35730&extension=ts
+#EXTINF:0,AMC HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35707&extension=ts
+#EXTINF:0,RING BG HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35716&extension=ts
+#EXTINF:0,DIEMA TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35717&extension=ts
+#EXTINF:0,FOX HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35718&extension=ts
+#EXTINF:0,BON AIR
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35719&extension=ts
+#EXTINF:0,BOX TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35720&extension=ts
+#EXTINF:0,KINO NOVA HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35721&extension=ts
+#EXTINF:0,MAGIC TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35728&extension=ts
+#EXTINF:0,AXN HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35729&extension=ts
+#EXTINF:0,DSTV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35731&extension=ts
+#EXTINF:0,FOOD NETWORK HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35733&extension=ts
+#EXTINF:0,ROMA TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35734&extension=ts
+#EXTINF:0,TLC HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35735&extension=ts
+#EXTINF:0,FEN TV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35736&extension=ts
+#EXTINF:0,TV 1000 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35737&extension=ts
+#EXTINF:0,EPIC DRAMA HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35738&extension=ts
+#EXTINF:0,BTV ACTION HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35739&extension=ts
+#EXTINF:0,BTV CINEMA
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35740&extension=ts
+#EXTINF:0,BTV COMEDY FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35741&extension=ts
+#EXTINF:0,ACTION BOX
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35743&extension=ts
+#EXTINF:0,CINEMA PLUS HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35744&extension=ts
+#EXTINF:0,COMEDY BOX HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35745&extension=ts
+#EXTINF:0,DIEMA FAMILY
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35746&extension=ts
+#EXTINF:0,CINEMAX HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35751&extension=ts
+#EXTINF:0,CINEMAX 2 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35752&extension=ts
+#EXTINF:0,HBO FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35753&extension=ts
+#EXTINF:0,HBO 2 FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35754&extension=ts
+#EXTINF:0,HBO 3 FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35755&extension=ts
+#EXTINF:0,FOX CRIME
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35756&extension=ts
+#EXTINF:0,FOX LIFE HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35757&extension=ts
+#EXTINF:0,MOVIE STAR
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35758&extension=ts
+#EXTINF:0,FEN FOLK TV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35759&extension=ts
+#EXTINF:0,FOLKLOR TV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35760&extension=ts
+#EXTINF:0,TIANKOV ORIENT FOLK
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35761&extension=ts
+#EXTINF:0,HIT MIX HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35762&extension=ts
+#EXTINF:0,CITY TV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35763&extension=ts
+#EXTINF:0,PLANETA FOLK
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35764&extension=ts
+#EXTINF:0,PLANETA
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35765&extension=ts
+#EXTINF:0,THE VOICE
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35766&extension=ts
+#EXTINF:0,BG MUSIC HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35767&extension=ts
+#EXTINF:0,BALKANIKA MTV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35768&extension=ts
+#EXTINF:0,24 KITCHEN HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35776&extension=ts
+#EXTINF:0,MOVIE STAR FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35801&extension=ts
+#EXTINF:0,FOX CRIME HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35806&extension=ts
+#EXTINF:0,MUSIC
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35810&extension=ts
+#EXTINF:0,DSTV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35811&extension=ts
+#EXTINF:0,AXN
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35813&extension=ts
+#EXTINF:0,VIASAT TV 1000
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35815&extension=ts
+#EXTINF:0,THE VOICE
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35819&extension=ts
+#EXTINF:0,ROMA TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35821&extension=ts
+#EXTINF:0,RING
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35822&extension=ts
+#EXTINF:0,PLANETA FOLK
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35823&extension=ts
+#EXTINF:0,PLANETA FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35824&extension=ts
+#EXTINF:0,NICKELODEON
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35827&extension=ts
+#EXTINF:0,NAT GEO WILD HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35828&extension=ts
+#EXTINF:0,KINONOVA
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35829&extension=ts
+#EXTINF:0,HIT MIX BG
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35830&extension=ts
+#EXTINF:0,HBO 3
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35831&extension=ts
+#EXTINF:0,HBO 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35832&extension=ts
+#EXTINF:0,HBO
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35833&extension=ts
+#EXTINF:0,FOX LIFE
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35834&extension=ts
+#EXTINF:0,FOX CRIME
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35835&extension=ts
+#EXTINF:0,FOX
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35836&extension=ts
+#EXTINF:0,FOOD NETWORK HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35837&extension=ts
+#EXTINF:0,FOLKLOR TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35838&extension=ts
+#EXTINF:0,FINE LIVING
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35839&extension=ts
+#EXTINF:0,FILMBOX EXTRA FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35840&extension=ts
+#EXTINF:0,FAN TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35842&extension=ts
+#EXTINF:0,F PLUS
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35843&extension=ts
+#EXTINF:0,DIEMA TV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35848&extension=ts
+#EXTINF:0,COMEDY BOX
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35853&extension=ts
+#EXTINF:0,BTV STORY
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35859&extension=ts
+#EXTINF:0,BTV COMEDY HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35860&extension=ts
+#EXTINF:0,BTV CINEMA FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35861&extension=ts
+#EXTINF:0,BTV ACTION
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35862&extension=ts
+#EXTINF:0,BOX TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35864&extension=ts
+#EXTINF:0,BLOOMBERG
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35869&extension=ts
+#EXTINF:0,BALKANIKA TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35870&extension=ts
+#EXTINF:0,ANIMAL PLANET
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35872&extension=ts
+#EXTINF:0,AMC
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35873&extension=ts
+#EXTINF:0,ACTION PLUS HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35874&extension=ts
+#EXTINF:0,24 KITCHEN
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35875&extension=ts
+#EXTINF:0,BABY TV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35779&extension=ts
+#EXTINF:0,DISNEY CHANNEL HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35780&extension=ts
+#EXTINF:0,E-KIDS HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35781&extension=ts
+#EXTINF:0,NICKELODEON
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35783&extension=ts
+#EXTINF:0,CARTOON NETWORK
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35857&extension=ts
+#EXTINF:0,CARTOON NETWORK HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35778&extension=ts
+#EXTINF:0,TRAVEL TV HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35769&extension=ts
+#EXTINF:0,NAT GEO WILD HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35770&extension=ts
+#EXTINF:0,NATIONAL GEOGRAPHIC FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35771&extension=ts
+#EXTINF:0,ANIMAL PLANET HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35772&extension=ts
+#EXTINF:0,DISCOVERY CHANNEL
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35773&extension=ts
+#EXTINF:0,INVESTIGATION DISCOVERY
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35774&extension=ts
+#EXTINF:0,NATURE - HISTORY HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35775&extension=ts
+#EXTINF:0,VIASAT NATURE
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35777&extension=ts
+#EXTINF:0,TRAVEL CHANNEL
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35793&extension=ts
+#EXTINF:0,HISTORY CHANNEL HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35795&extension=ts
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35812&extension=ts
+#EXTINF:0,TRAVEL TV
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35816&extension=ts
+#EXTINF:0,DISCOVERY CHANNEL
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=35846&extension=ts
+#EXTINF:0,BG: DIEMA SPORT FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129262&extension=ts
+#EXTINF:0,BG: DIEMA SPORT HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129263&extension=ts
+#EXTINF:0,BG: DIEMA SPORT 2 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129264&extension=ts
+#EXTINF:0,BG: DIEMA SPORT 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129265&extension=ts
+#EXTINF:0,BG: DIEMA SPORT 3 FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129266&extension=ts
+#EXTINF:0,BG: DIEMA SPORT 3 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129267&extension=ts
+#EXTINF:0,BG: MAX SPORT 1 FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129268&extension=ts
+#EXTINF:0,BG: MAX SPORT 1 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129269&extension=ts
+#EXTINF:0,BG: MAX SPORT 2 FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129270&extension=ts
+#EXTINF:0,BG: MAX SPORT 2 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129271&extension=ts
+#EXTINF:0,BG: MAX SPORT 3 FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129272&extension=ts
+#EXTINF:0,BG: MAX SPORT 3 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129273&extension=ts
+#EXTINF:0,BG: MAX SPORT 4 FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129274&extension=ts
+#EXTINF:0,MAX SPORT 4 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129275&extension=ts
+#EXTINF:0,BG: NOVA SPORT FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129276&extension=ts
+#EXTINF:0,BG: NOVA SPORT HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129277&extension=ts
+#EXTINF:0,BG: NOVA SPORT 1 FHD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129290&extension=ts
+#EXTINF:0,BG: EUROSPORT 1 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129278&extension=ts
+#EXTINF:0,BG: EUROSPORT 1
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129279&extension=ts
+#EXTINF:0,BG: EUROSPORT 2 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129280&extension=ts
+#EXTINF:0,BG: EUROSPORT 2
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129281&extension=ts
+#EXTINF:0,BG: RING HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129282&extension=ts
+#EXTINF:0,BG: RING BG
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129283&extension=ts
+#EXTINF:0,BG:  SPORT+ HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E2:1E&stream=129286&extension=ts

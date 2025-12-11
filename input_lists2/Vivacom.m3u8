@@ -1,0 +1,160 @@
+#EXTM3U
+#EXTINF:0,101_BNT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a046
+#EXTINF:0,102_bTV HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a03w
+#EXTINF:0,103_Nova HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0cx
+#EXTINF:0,104_BTV Story
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a049
+#EXTINF:0,105_BNT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a063
+#EXTINF:0,107_NovaNews
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a08x
+#EXTINF:0,111_Diema
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0e0
+#EXTINF:0,112_Kino Nova
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0dz
+#EXTINF:0,113_bTV Action HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a04n
+#EXTINF:0,114_bTV Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a04i
+#EXTINF:0,115_bTV Comedy
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a04k
+#EXTINF:0,116_Euronews Bulgaria
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0e3
+#EXTINF:0,117_BNT 4
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0e5
+#EXTINF:0,118_TV1000
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0en
+#EXTINF:0,121_MAX Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0be
+#EXTINF:0,122_MAX Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0bf
+#EXTINF:0,123_MAX Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0bg
+#EXTINF:0,131_Diema Sport HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0bc
+#EXTINF:0,132_Diema Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0bd
+#EXTINF:0,133_Diema Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0cj
+#EXTINF:0,134_Max Sport 4
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0d6
+#EXTINF:0,141_Eurosport HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0bb
+#EXTINF:0,142_Eurosport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a04b
+#EXTINF:0,143_RING HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0bo
+#EXTINF:0,144_FilmBox 
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0cz
+#EXTINF:0,145_FilmBox Extra
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0c4
+#EXTINF:0,151_Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a044
+#EXTINF:0,152_Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a05r
+#EXTINF:0,153_Viasat History
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0bq
+#EXTINF:0,154_National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0bt
+#EXTINF:0,155_City TV
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0dy
+#EXTINF:0,156_Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a05k
+#EXTINF:0,157_Boomerang
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a056
+#EXTINF:0,161_BBC News
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0da
+#EXTINF:0,162_CNN Int 
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0e1
+#EXTINF:0,163_Euronews English
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0c7
+#EXTINF:0,164_TV Rus
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0aq
+#EXTINF:0,165_THT
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0an
+#EXTINF:0,166_Fashion HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a05n
+#EXTINF:0,167_Just Fishing
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0c9
+#EXTINF:0,168_ZDF
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0dm
+#EXTINF:0,169_Xplore
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0ea
+#EXTINF:0,171_3sat
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0dn
+#EXTINF:0,172_CT 24 HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0dw
+#EXTINF:0,173_Polonia 1
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0dp
+#EXTINF:0,174_TELE 5
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0do
+#EXTINF:0,175_TVR International HB
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0dq
+#EXTINF:0,176_Radio Kiss Kiss Tv
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0dr
+#EXTINF:0,177_Deluxe Dance
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0e2
+#EXTINF:0,178_Planeta TV HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a03t
+#EXTINF:0,Hip Trips
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0eb
+#EXTINF:0,Just Cooking
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0ee
+#EXTINF:0,TV Lux HD
+#EXTVLCOPT:network-caching=1000
+http://62.176.112.19:8008/play/a0e7
