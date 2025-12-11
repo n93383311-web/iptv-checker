@@ -4,7 +4,7 @@ import asyncio
 import aiohttp
 import uvloop
 
-INPUT_DIR = "input_lists"
+INPUT_DIR = "input_lists2"
 OUTPUT_FILE = "output/working.m3u"
 
 async def test_stream(session, url):
