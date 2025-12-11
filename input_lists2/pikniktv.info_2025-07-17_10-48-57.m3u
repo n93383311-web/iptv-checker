@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0,TVR 1 RO
+http://cdn.admuspeh.my/8700/video.m3u8?token=9uBCZnFwnTo7urik
+#EXTINF:0,TVR 2 RO
+http://cdn.admuspeh.my/8701/video.m3u8?token=9uBCZnFwnTo7urik
+#EXTINF:0,TVR 3 RO
+http://cdn.admuspeh.my/8702/video.m3u8?token=9uBCZnFwnTo7urik
+#EXTINF:0,Prima Sport 1 RO
+http://cdn.admuspeh.my/8554/video.m3u8?token=9uBCZnFwnTo7urik
+#EXTINF:0,Prima Sport 2 RO
+http://cdn.admuspeh.my/8555/video.m3u8?token=9uBCZnFwnTo7urik
+#EXTINF:0,Digi Sport 1 RO
+http://cdn.admuspeh.my/8556/video.m3u8?token=9uBCZnFwnTo7urik
+#EXTINF:0,Digi Sport 2 RO
+http://cdn.admuspeh.my/8558/video.m3u8?token=9uBCZnFwnTo7urik
+#EXTINF:0,Digi Sport 3 RO
+http://cdn.admuspeh.my/8561/video.m3u8?token=9uBCZnFwnTo7urik
+#EXTINF:0,Digi Sport 4 RO
+http://cdn.admuspeh.my/8563/video.m3u8?token=9uBCZnFwnTo7urik

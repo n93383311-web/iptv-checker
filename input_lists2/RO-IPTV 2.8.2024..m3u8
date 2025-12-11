@@ -1,0 +1,315 @@
+#EXTM3U
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvr1_ro.png",RO: TVR 1 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37177.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvr1_ro.png",RO: TVR 1
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11891.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvr2_ro.png",RO: TVR 2 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50330.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvr2_ro.png",RO: TVR 2
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11889.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tvr3_ro.png",RO: TVR 3
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11888.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/TVRCraiova.jpg",RO: TVR Info FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11786.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/pro_tv.png",RO: TVR Cultural FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/40668.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://play-lh.googleusercontent.com/AHtJ6-GyHHMDv3qU6h25rimcnCyOQaH-h9Li8cRduVdTJugMAKE4qBHEsBONy3X8_MNT",RO: Pro TV FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11897.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://play-lh.googleusercontent.com/AHtJ6-GyHHMDv3qU6h25rimcnCyOQaH-h9Li8cRduVdTJugMAKE4qBHEsBONy3X8_MNT",RO: Pro TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11898.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/pro_tv.png",RO: Pro International
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11882.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/PRO-2.jpg",RO: Acasa FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/29923.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/PRO-2.jpg",RO: Acasa
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11883.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/acasa_ro_gold.png",RO: Acasa Gold HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11827.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/acasa_ro_gold.png",RO: Acasa Gold
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11848.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Pro_TV_Chisinau_logo_2017.png",RO: ProTV Chisinau FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37210.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Pro_TV_Chisinau_logo_2017.png",RO: ProTV Chisinau
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37231.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/Tx8sTbW.png",RO: Pro TV News
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/30260.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/prima_tv_ro.png",RO: Prima TV FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/40673.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/prima_tv_ro.png",RO: Prima TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11880.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://fanc.tmsimg.com/assets/s73590_ll_h3_aa.png",RO: Kanal D FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11774.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://fanc.tmsimg.com/assets/s73590_ll_h3_aa.png",RO: Kanal D HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11893.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://fanc.tmsimg.com/assets/s73590_ll_h3_aa.png",RO: Kanal D
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11894.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://cdn.knd.ro/media/521/2865/1705/2865/1/maimultpentrutinekanald2v2.jpg",RO: Kanal D2 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11782.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://cdn.knd.ro/media/521/2865/1705/2865/1/maimultpentrutinekanald2v2.jpg",RO: Kanal D2
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/30262.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/antena1_ro.png",RO: Antena 1 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37178.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/antena1_ro.png",RO: Antena 1 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11906.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/antena1_ro.png",RO: Antena 1
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11907.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://www.media-max.ro/wp-content/uploads/2019/06/Aleph-Business-Aleph-News-si-Aleph-Comedy-vor-fi-lansate-alaturi-de-Smart-TV-2-218x150.jpg",RO: Aleph News HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50178.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/happy_channel_ro.png",RO: Happy Channel HD (1080P)
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11899.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/happy_channel_ro.png",RO: Happy Channel
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11900.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/antena_stars_ro.png",RO: Antena Stars FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11903.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/antena_stars_ro.png",RO: Antena Stars
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11904.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/tH624pc.png",RO: Antena Comedy
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/30261.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://play-lh.googleusercontent.com/X1ytExN9gX2P5pYOCK8eL5Y_qSl6NnfLA0WODH5iCh-KeWo8bb3fVOioiZsDtKvT2hc",RO: Agro TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/40667.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/B1_red.svg/revision/latest/scale-to-width-down/250?cb=20221203060409",RO: B1
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/69791.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/national_24_plus.png",RO: National 24 Plus
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11884.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nasul_tv.png",RO: Nasul TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11743.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/antena3_ro.png",RO: Antena 3 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11901.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/antena3_ro.png",RO: Antena 3
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11902.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_24_ro.png",RO: Digi 24 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37180.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_24_ro.png",RO: Digi 24 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11877.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_24_ro.png",RO: DIGI 24
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11878.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/realitatea_tv.png",RO: Realitatea Plus FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50172.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/realitatea_tv.png",RO: Realitatea Plus TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11892.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/romania_tv_ro.png",RO: Romania TV FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50541.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/romania_tv_ro.png",RO: Romania TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11886.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_sport1_hu.png",RO: Digi Sport 1 HD (1080P)
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/26117.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_sport1_hu.png",RO: DIGI Sport 1 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11431.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_sport1_hu.png",RO: DIGI Sport 1
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11876.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_sport2_hu.png",RO: DIGI Sport 2 HD (1080P)
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11432.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_sport2_hu.png",RO: DIGI Sport 2
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11875.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_sport3_ro.png",RO: DIGI Sport 3 HD (1080P)
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11433.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_sport3_ro.png",RO: DIGI Sport 3
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11874.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_sport4_sk.png",RO: Digi Sport 4 HD (1080P)
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37181.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_sport4_sk.png",RO: DIGI Sport 4
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11434.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.kooora.com/?i=amir_ganjvar%2Forengpol.jpg",RO: Orange Sport 1 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37182.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.kooora.com/?i=amir_ganjvar%2Forengpol.jpg",RO: Orange Sport 3 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/69794.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.kooora.com/?i=amir_ganjvar%2Forengpol.jpg",RO: Orange Sport 4 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11868.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hCpMIZAGAUHmpx-NfC-_vtxhG-jzmTAyqme7BvU6fGo-t-HRQAyrToDIhm79zRJA5Fk&usqp=CAU",RO: Prima Sport 1 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50177.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hCpMIZAGAUHmpx-NfC-_vtxhG-jzmTAyqme7BvU6fGo-t-HRQAyrToDIhm79zRJA5Fk&usqp=CAU",RO: Prima Sport 1 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37179.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hCpMIZAGAUHmpx-NfC-_vtxhG-jzmTAyqme7BvU6fGo-t-HRQAyrToDIhm79zRJA5Fk&usqp=CAU",RO: Prima Sport 1
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50533.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hCpMIZAGAUHmpx-NfC-_vtxhG-jzmTAyqme7BvU6fGo-t-HRQAyrToDIhm79zRJA5Fk&usqp=CAU",RO: Prima Sport 2 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50170.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hCpMIZAGAUHmpx-NfC-_vtxhG-jzmTAyqme7BvU6fGo-t-HRQAyrToDIhm79zRJA5Fk&usqp=CAU",RO: Prima Sport 3 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/53636.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hCpMIZAGAUHmpx-NfC-_vtxhG-jzmTAyqme7BvU6fGo-t-HRQAyrToDIhm79zRJA5Fk&usqp=CAU",RO: Prima Sport 3 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/38094.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hCpMIZAGAUHmpx-NfC-_vtxhG-jzmTAyqme7BvU6fGo-t-HRQAyrToDIhm79zRJA5Fk&usqp=CAU",RO: Prima Sport 4 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/38093.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0hCpMIZAGAUHmpx-NfC-_vtxhG-jzmTAyqme7BvU6fGo-t-HRQAyrToDIhm79zRJA5Fk&usqp=CAU",RO: Prima Sport 4 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50537.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/Pro_X.png",RO: Pro Arena FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11854.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/Pro_X.png",RO: Pro Arena
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11853.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://gtr24h.org/wp-content/uploads/sport-extra.png",RO: Sport Extra FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50171.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_1.png",RO: Eurosport 1
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11858.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_2.png",RO: Eurosport 2 FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11855.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_2.png",RO: Eurosport 2
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11856.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://www.automotosport.com.gr/images/logo.png",RO: Auto Moto Sport
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11861.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tv_paprika_ro.png",RO: TV Paprika
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11794.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/e_global_us.png",RO: E! Entertainment HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37183.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/e_global_us.png",RO: E! Entertainment
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11797.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_life_ro.png",RO: Digi Life FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37184.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_life_ro.png",RO: Digi Life
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11792.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/tlc_ie.png",RO: TLC
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11799.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/food_network_us.png",RO: Food Network
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37198.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hgtv_us.png",RO: HGTV HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50179.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/the_fishing_hunting_channel_se_eu.png",RO: Fishing and Hunting
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11807.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/91/Story_4_%282018-.n.v.%29.png/revision/latest?cb=20200223081150",RO: Story 4
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50510.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_world_ro.png",RO: DIGI World FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37185.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_world_ro.png",RO: DIGI World
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11801.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/digi_animal_world_ro.png",RO: DIGI Animal World FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37186.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png",RO: Discovery FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50175.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png",RO: Discovery
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11815.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_global_us.png",RO: Discovery ID
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11813.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/discovery_science_in.png",RO: Discovery Science
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11800.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://my-hd.tv/shared/img/channels/Docu-Box.png",RO: DocuBox HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/26121.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/crime_investigation_network_uk.png",RO: Crime Investigation
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11802.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/history_de_hd.png",RO: History HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37187.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us_hd.png",RO: Nat Geo FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11816.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us_hd.png",RO: Nat Geo HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50525.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_us_hd.png",RO: Nat Geo
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11811.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png",RO: Nat Geo Wild HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37188.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nat_geo_wild_us.png",RO: Nat Geo Wild
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11789.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/animal_planet_us_hd.png",RO: Animal Planet FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37189.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/animal_planet_us_hd.png",RO: Animal Planet
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11808.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/travel_channel_uk.png",RO: Travel Channel
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37190.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://www.travelxp.tv/wp-content/uploads/2016/12/travelxp-crystal-logo.png",RO: Travel XP HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11793.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://www.travelxp.tv/wp-content/uploads/2016/12/travelxp-crystal-logo.png",RO: Travel XP
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50513.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/tt/travel_mix.png",RO: Travel Mix
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11795.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/vv/viasat_explore.png",RO: Viasat Explore HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/38092.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/vv/viasat_explore.png",RO: Viasat Explore
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11804.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/vv/viasat_history.png",RO: Viasat History HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50180.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/vv/viasat_history.png",RO: Viasat History
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11805.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/vv/viasat_nature.png",RO: Viasat Nature FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11806.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/vv/viasat_nature.png",RO: Viasat Nature
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50181.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ll/love_nature.jpg",RO: Love Nature HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50507.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ll/love_nature.jpg",RO: Love Nature
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/56683.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://www.davincimedia.tv/sites/all/themes/davincimedia/images/Gen%20Logo%20-%20Grey.png",RO: DaVinci Learning
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11741.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/bbc_earth_uk.png",RO: BBC Earth FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37191.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/bbc_earth_uk.png",RO: BBC Earth
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11781.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",RO: DIGI 4K
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/40670.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://timelessdramachannel.com/wp-content/uploads/2019/02/timeless-drama-channel-tdc-dark-logo.png",RO: Timeless Drama Channel
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11851.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/pp/pro_cinema.png",RO: Pro Cinema
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11849.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://restxyz.akta.ro/assets/images/cinemaraton_poster.png",RO: Cinemaration
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37194.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/diva_global.png",RO: Diva TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11828.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://filmsubtitrat.net/wp-content/uploads/2014/11/viasat_tv1000_balkan.png",RO: TV 1000
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11831.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/comedy_central_us.png",RO: Comedy Central
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11830.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/EpicDrama.jpg",RO: Epic Drama FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/69790.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/EpicDrama.jpg",RO: Epic Drama HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11790.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_global.png",RO: AXN Romania FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11847.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_global.png",RO: AXN Romania
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11846.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_white_es.png",RO: AXN White
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11845.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_black_us.png",RO: AXN Black
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11844.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/axn_spin_ro.png",RO: AXN Spin
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11843.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/amc_us.png",RO: AMC FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50173.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/amc_us.png",RO: AMC
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11833.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2014/12/WB-Channel.png",RO: Warner TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/40672.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/film_cafe_hu.png",RO: Film Cafe
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11829.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hbo_cz.png",RO: HBO 1 HD (1080P)
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/26120.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hbo_cz.png",RO: HBO 1 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11842.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hbo_cz.png",RO: HBO 1
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/50506.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hbo2_ce.png",RO: HBO 2 HD (1080P)
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11839.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hbo2_ce.png",RO: HBO 2 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11840.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hbo3_ce.png",RO: HBO 3 HD (1080P)
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11837.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/hh/hbo3_ce.png",RO: HBO 3
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11838.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://my-hd.tv/shared/img/channels/Film-Box.png",RO: FilmBox
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/40675.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/filmbox_family.png",RO: FilmBox Family
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/40676.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/ff/filmbox_premium_pl.png",RO: FilmBox Premium
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/40677.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/film_now_wide.png",RO: Film Now FHD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/26119.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/film_now_wide.png",RO: Film Now
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/26118.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cinemax_ce.png",RO: Cinemax HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/37193.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cinemax_ce.png",RO: Cinemax
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11836.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cinemax_ce_2.png",RO: Cinemax 2 HD
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11835.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cinemax_ce_2.png",RO: Cinemax 2
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/69789.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/bollywood_tv_ro.png",RO: Bollywood TV
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11742.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_junior_us.png",RO: Disney Jr
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11823.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/dd/disney_channel_global.png",RO: Disney Channel
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11824.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nickelodeon_us.png",RO: Nickelodeon
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11820.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nick_toons_uk.png",RO: Nicktoons
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11814.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/nn/nick_jr_us.png",RO: Nick Jr
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11818.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/cc/cartoon_network_global.png",RO: Cartoon Network
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11822.ts
+#EXTINF:-1 group-title="Romania" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/minimax_ro.png",RO: Minimax
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/11826.ts

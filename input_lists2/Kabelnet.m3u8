@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1,Diema Sport HD
+http://87.246.54.249:8085/DiemaSport/mpegts
+#EXTINF:-1,Diema Sport 2
+http://87.246.54.249:8085/DiemaSport2/mpegts
+#EXTINF:-1,Karusel Intl.
+http://87.246.54.249:8085/Karusel/mpegts
+#EXTINF:-1,МИР
+http://87.246.54.249:8085/MIR/mpegts
+#EXTINF:-1,Победа
+http://87.246.54.249:8085/Pobeda/mpegts
+#EXTINF:-1,viju Explore
+http://87.246.54.249:8085/Viju_Explore/mpegts
+#EXTINF:-1,CTC Kids
+http://87.246.54.249:8085/CTC_Kids/mpegts
+#EXTINF:-1,Cartoon Network
+http://87.246.54.249:8085/CartoonNetwork/mpegts
+#EXTINF:-1,Eurosport 2 Bulgaria
+http://87.246.54.249:8085/Eurosport2/mpegts
+#EXTINF:-1,
+http://87.246.54.249:8085/HBO2/mpegts
+#EXTINF:-1,AXN
+http://87.246.54.249:8085/AXN/mpegts
+#EXTINF:-1,Kanal D
+http://87.246.54.249:8085/KanalD/mpegts
+#EXTINF:-1,Diema SD AVC
+http://87.246.54.249:8085/Diema/mpegts
+#EXTINF:-1,BNT 1
+http://87.246.54.249:8085/BNT1/mpegts
+#EXTINF:-1, HD
+http://87.246.54.249:8085/HGTV/mpegts
+#EXTINF:-1,
+http://87.246.54.249:8085/yabantv/mpegts
+#EXTINF:-1,
+http://87.246.54.249:8085/BabyTV/mpegts
+#EXTINF:-1,Disney Channel
+http://87.246.54.249:8085/DisneyChannel/mpegts
+#EXTINF:-1,CNN Int
+http://87.246.54.249:8085/CNN/mpegts
+#EXTINF:-1,Nat Geo Wild
+http://87.246.54.249:8085/NatGeoWild/mpegts
+#EXTINF:-1,TV1
+http://87.246.54.249:8085/TV1/mpegts
+#EXTINF:-1,TV 8
+http://87.246.54.249:8085/TV8/mpegts
+#EXTINF:-1,Boomerang
+http://87.246.54.249:8085/Boomerang/mpegts
+#EXTINF:-1,Наше Новое Кино HD
+http://87.246.54.249:8085/NasheKino/mpegts
+#EXTINF:-1,NOSTALGIA HD
+http://87.246.54.249:8085/Nostalgia/mpegts
+#EXTINF:-1,KHL Prime HD
+http://87.246.54.249:8085/KHL/mpegts
+#EXTINF:-1,
+http://87.246.54.249:8085/Nickelodeon/mpegts
+#EXTINF:-1,Animal Planet
+http://87.246.54.249:8085/AnimalPlanet/mpegts
+#EXTINF:-1,
+http://87.246.54.249:8085/ViasatHistory/mpegts
+#EXTINF:-1,
+http://87.246.54.249:8085/ViasatExplorer/mpegts
+#EXTINF:-1,
+http://87.246.54.249:8085/ViasatNature/mpegts
+#EXTINF:-1,TLC Bulgaria
+http://87.246.54.249:8085/TLC/mpegts
+#EXTINF:-1,TV1000
+http://87.246.54.249:8085/TV1000/mpegts
+#EXTINF:-1,Eurosport 1
+http://87.246.54.249:8085/Eurosport/mpegts
+#EXTINF:-1,Service01 HD
+http://87.246.54.249:8085/AgroTV/mpegts
+#EXTINF:-1,AMC
+http://87.246.54.249:8085/amc/mpegts
+#EXTINF:-1,Warner TV Italy HD
+http://87.246.54.249:8085/cartoonito/mpegts
+#EXTINF:-1,Food Network HD
+http://87.246.54.249:8085/FoodNetwork/mpegts
+#EXTINF:-1,ESPRESO TV
+http://87.246.54.249:8085/espressotv/mpegts
+#EXTINF:-1,TV1
+http://87.246.54.249:8085/TV1/mpegts
+#EXTINF:-1,TLC Bulgaria HD
+http://87.246.54.249:8085/TLC/mpegts
+#EXTINF:-1,Star TV
+http://87.246.54.249:8085/StarTV/mpegts
+#EXTINF:-1,Россия 24
+http://87.246.54.249:8085/Rossia24/mpegts
+#EXTINF:-1, HD
+http://87.246.54.249:8085/Planeta/mpegts
+#EXTINF:-1,National Geographic
+http://87.246.54.249:8085/NatGeo/mpegts
+#EXTINF:-1,Кинохит HD
+http://87.246.54.249:8085/KinoHit/mpegts
+#EXTINF:-1,ID Xtra
+http://87.246.54.249:8085/ID/mpegts
+#EXTINF:-1,Eurosport 1
+http://87.246.54.249:8085/Eurosport/mpegts
+#EXTINF:-1,Детский Мир
+http://87.246.54.249:8085/DetskiMir/mpegts
+#EXTINF:-1,DW English
+http://87.246.54.249:8085/DW/mpegts
+#EXTINF:-1,СТС I HD
+http://87.246.54.249:8085/CTC/mpegts
+#EXTINF:-1,aTV
+http://87.246.54.249:8085/ATV/mpegts
+#EXTINF:-1,TV1 HD
+http://87.246.54.249:8085/TV1/mpegts
+#EXTINF:-1,ID Xtra HD
+http://87.246.54.249:8085/ID/mpegts
+#EXTINF:-1,Eurosport 1
+http://87.246.54.249:8085/Eurosport/mpegts
+#EXTINF:-1,DW English
+http://87.246.54.249:8085/DW/mpegts

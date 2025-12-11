@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1,10_Kinopremyera
+http://212.0.211.102:9999/play/a01c/index.m3u8
+#EXTINF:-1,11_Kinohit
+http://212.0.211.102:9999/play/a01d/index.m3u8
+#EXTINF:-1,12_ Minimax
+http://212.0.211.102:9999/play/a01e/index.m3u8
+#EXTINF:-1,13_Indijskoe_Kino
+http://212.0.211.102:9999/play/a01f/index.m3u8
+#EXTINF:-1,14_Cartoon_Network_RO
+http://212.0.211.102:9999/play/a01g/index.m3u8
+#EXTINF:-1,15_Viasat Explore
+http://212.0.211.102:9999/play/a01h/index.m3u8
+#EXTINF:-1,16_Viju Nature
+http://212.0.211.102:9999/play/a01i/index.m3u8
+#EXTINF:-1,17_Atomic
+http://212.0.211.102:9999/play/a01j/index.m3u8
+#EXTINF:-1,183_Bolt
+http://212.0.211.102:9999/play/a002/index.m3u8
+#EXTINF:-1,184_STAR_CINEMA_HD
+http://212.0.211.102:9999/play/6/index.m3u8
+#EXTINF:-1,185_CTC_Kids
+http://212.0.211.102:9999/play/7/index.m3u8
+#EXTINF:-1,186_HDL
+http://212.0.211.102:9999/play/a003/index.m3u8
+#EXTINF:-1,188_Kvartal_TV
+http://212.0.211.102:9999/play/a004/index.m3u8
+#EXTINF:-1,189_Motosport_HD
+http://212.0.211.102:9999/play/a005/index.m3u8
+#EXTINF:-1,18_Nickelodeon Junior
+http://212.0.211.102:9999/play/a01k/index.m3u8
+#EXTINF:-1,190_CINEMA_HD
+http://212.0.211.102:9999/play/a00e/index.m3u8
+#EXTINF:-1,191_STAR_FAMILY_HD
+http://212.0.211.102:9999/play/1/index.m3u8
+#EXTINF:-1,192_Zagorodnaya Zhizn
+http://212.0.211.102:9999/play/a006/index.m3u8
+#EXTINF:-1,193_Zhivaya_Planeta
+http://212.0.211.102:9999/play/a007/index.m3u8
+#EXTINF:-1,194_Jivi
+http://212.0.211.102:9999/play/a00c/index.m3u8
+#EXTINF:-1,195_Trinitas
+http://212.0.211.102:9999/play/a00g/index.m3u8
+#EXTINF:-1,196_KUHNYA
+http://212.0.211.102:9999/play/a008/index.m3u8
+#EXTINF:-1,197_Match Planeta
+http://212.0.211.102:9999/play/a00b/index.m3u8
+#EXTINF:-1,198_Mulit
+http://212.0.211.102:9999/play/a001/index.m3u8
+#EXTINF:-1,199_Nauka_HD
+http://212.0.211.102:9999/play/a009/index.m3u8
+#EXTINF:-1,19_Boomerang
+http://212.0.211.102:9999/play/a01l/index.m3u8
+#EXTINF:-1,200_Orizont_TV
+http://212.0.211.102:9999/play/5/index.m3u8
+#EXTINF:-1,201_Sapfir
+http://212.0.211.102:9999/play/a00a/index.m3u8
+#EXTINF:-1,202_Cinema1
+http://212.0.211.102:9999/play/3/index.m3u8
+#EXTINF:-1,203_Canal_D
+http://212.0.211.102:9999/play/4/index.m3u8
+#EXTINF:-1,204_Nature
+http://212.0.211.102:9999/play/a00f/index.m3u8
+#EXTINF:-1,220_Telestar 1
+http://212.0.211.102:9999/play/a00h/index.m3u8
+#EXTINF:-1,221_TV1000 ACTION
+http://212.0.211.102:9999/play/a00i/index.m3u8
+#EXTINF:-1,222_ Prime
+http://212.0.211.102:9999/play/a00j/index.m3u8
+#EXTINF:-1,223_Canal 2
+http://212.0.211.102:9999/play/a00k/index.m3u8
+#EXTINF:-1,224_Canal 3
+http://212.0.211.102:9999/play/a00l/index.m3u8
+#EXTINF:-1,225_PUBLIKA TV
+http://212.0.211.102:9999/play/a00m/index.m3u8
+#EXTINF:-1,226_Moldova 1
+http://212.0.211.102:9999/play/a00n/index.m3u8
+#EXTINF:-1,227_Moldova 2
+http://212.0.211.102:9999/play/a00o/index.m3u8
+#EXTINF:-1,228_jurnal TV
+http://212.0.211.102:9999/play/a00p/index.m3u8
+#EXTINF:-1,229_ Mega TV
+http://212.0.211.102:9999/play/a00q/index.m3u8
+#EXTINF:-1,230_Familia
+http://212.0.211.102:9999/play/a00r/index.m3u8
+#EXTINF:-1,231_Ren TV
+http://212.0.211.102:9999/play/a00s/index.m3u8
+#EXTINF:-1,232_Vocea Basarabiei
+http://212.0.211.102:9999/play/a00t/index.m3u8
+#EXTINF:-1,233_ Pro TV
+http://212.0.211.102:9999/play/a00u/index.m3u8
+#EXTINF:-1,234_Canal 5
+http://212.0.211.102:9999/play/a00v/index.m3u8
+#EXTINF:-1,235_Exclusiv TV-TNT
+http://212.0.211.102:9999/play/a00x/index.m3u8
+#EXTINF:-1,236_N4
+http://212.0.211.102:9999/play/a00w/index.m3u8
+#EXTINF:-1,237_TV8
+http://212.0.211.102:9999/play/a011/index.m3u8
+#EXTINF:-1,238_R-Live
+http://212.0.211.102:9999/play/a00y/index.m3u8
+#EXTINF:-1,239_TVR Moldova
+http://212.0.211.102:9999/play/a00z/index.m3u8
+#EXTINF:-1,240_Tezaur Folc
+http://212.0.211.102:9999/play/a010/index.m3u8
+#EXTINF:-1,241_TV5 Monde
+http://212.0.211.102:9999/play/a012/index.m3u8
+#EXTINF:-1,242_Noroc TV
+http://212.0.211.102:9999/play/a013/index.m3u8
+#EXTINF:-1,243_N24 plus
+http://212.0.211.102:9999/play/a014/index.m3u8
+#EXTINF:-1,244_Busuioc TV
+http://212.0.211.102:9999/play/a015/index.m3u8
+#EXTINF:-1,245_Gurinel TV
+http://212.0.211.102:9999/play/a016/index.m3u8
+#EXTINF:-1,246_TVC21
+http://212.0.211.102:9999/play/a017/index.m3u8
+#EXTINF:-1,247_Agro TV
+http://212.0.211.102:9999/play/a018/index.m3u8
+#EXTINF:-1,248_Trinitas TV
+http://212.0.211.102:9999/play/a019/index.m3u8
+#EXTINF:-1,249_TV1000
+http://212.0.211.102:9999/play/a01a/index.m3u8
+#EXTINF:-1,250_TV1000 Rus
+http://212.0.211.102:9999/play/a01b/index.m3u8

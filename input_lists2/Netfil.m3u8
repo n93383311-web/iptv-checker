@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+http://85.122.151.4:6040/
+#EXTVLCOPT:network-caching=1000
+http://85.122.151.4:6427/
+#EXTVLCOPT:network-caching=1000
+http://85.122.151.4:9734/
+#EXTVLCOPT:network-caching=1000
+http://85.122.151.4:9735/
+#EXTVLCOPT:network-caching=1000
+http://85.122.151.4:10123/
+#EXTVLCOPT:network-caching=1000
+http://85.122.151.4:10124/
+#EXTVLCOPT:network-caching=1000
+http://85.122.151.4:10523/

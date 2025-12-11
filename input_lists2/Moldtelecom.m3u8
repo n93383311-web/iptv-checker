@@ -1,0 +1,22 @@
+#EXTINF:-1 group-title=\"Moldtelecom\",TVR Moldova MD
+http://212.0.211.102:9999/play/a00z/index.m3u8
+#EXTINF:-1 group-title=\"Moldtelecom\",Tezaur Folc
+http://212.0.211.102:9999/play/a010/index.m3u8
+#EXTINF:-1 group-title=\"Moldtelecom\",TV5 Monde
+http://212.0.211.102:9999/play/a012/index.m3u8
+#EXTINF:-1 group-title=\"Moldtelecom\",Noroc TV
+http://212.0.211.102:9999/play/a013/index.m3u8
+#EXTINF:-1 group-title=\"Moldtelecom\",N24 plus
+http://212.0.211.102:9999/play/a014/index.m3u8
+#EXTINF:-1 group-title=\"Moldtelecom\",Busuioc TV
+http://212.0.211.102:9999/play/a015/index.m3u8
+#EXTINF:-1 group-title=\"Moldtelecom\",Gurinel TV
+http://212.0.211.102:9999/play/a016/index.m3u8
+#EXTINF:-1 group-title=\"Moldtelecom\",СТС Kids
+http://212.0.211.102:9999/play/7/index.m3u8
+#EXTINF:-1 group-title=\"Moldtelecom\",TVC 21 MD
+http://212.0.211.102:9999/play/a017/index.m3u8
+#EXTINF:-1 group-title=\"Moldtelecom\",Agro TV
+http://212.0.211.102:9999/play/a018/index.m3u8
+#EXTINF:-1 group-title=\"Moldtelecom\",Trinitas TV
+http://212.0.211.102:9999/play/a019/index.m3u8

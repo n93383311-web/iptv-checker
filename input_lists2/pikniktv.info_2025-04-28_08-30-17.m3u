@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0,TISZA
+https://live.tiszatv.hu:443/tmp_hls/stream/index.m3u8
+#EXTINF:0,Tatai TV
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:0,Kecskeméti Televízió
+https://eurobioinvest.hu:444/live/ktv.m3u8
+#EXTINF:0,TV Keszthely
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
+#EXTINF:0,Bajai TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:0,Trimedio TV
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:0,Karcag TV
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:0,XVTV
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
+#EXTINF:0,16tv Budapest
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+#EXTINF:0,BerenteTV
+https://stream.streaming4u.hu:443/BerenteTV/index.m3u8

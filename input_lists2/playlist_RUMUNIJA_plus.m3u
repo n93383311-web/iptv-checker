@@ -1,0 +1,204 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR International" tvg-logo="" group-title="Romania",RO: TVR International
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2329.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR HD" tvg-logo="" group-title="Romania",RO: TVR HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2330.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 1 HD" tvg-logo="" group-title="Romania",RO: TVR 1 HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2331.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 1" tvg-logo="" group-title="Romania",RO: TVR 1
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2332.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 2 HD" tvg-logo="" group-title="Romania",RO: TVR 2 HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2333.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 2" tvg-logo="" group-title="Romania",RO: TVR 2
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2334.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 3 HD" tvg-logo="" group-title="Romania",RO: TVR 3 HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2335.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TVR 3" tvg-logo="" group-title="Romania",RO: TVR 3
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2336.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: KANAL D HD" tvg-logo="" group-title="Romania",RO: KANAL D HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2337.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: KANAL D" tvg-logo="" group-title="Romania",RO: KANAL D
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2338.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: ANTENA STARS HD" tvg-logo="" group-title="Romania",RO: ANTENA STARS HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2339.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena Stars" tvg-logo="" group-title="Romania",RO: Antena Stars
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2340.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena 1 HD" tvg-logo="" group-title="Romania",RO: Antena 1 HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2341.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: ANTENA 1" tvg-logo="" group-title="Romania",RO: ANTENA 1
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2342.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Antena 3 HD" tvg-logo="" group-title="Romania",RO: Antena 3 HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2343.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: ANTENA 3" tvg-logo="" group-title="Romania",RO: ANTENA 3
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2344.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Pro Tv INTERNATIONAL" tvg-logo="" group-title="Romania",RO: Pro Tv INTERNATIONAL
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2345.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRIMA TV RO" tvg-logo="" group-title="Romania",RO: PRIMA TV RO
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2346.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Acasa HD" tvg-logo="" group-title="Romania",RO: Acasa HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2347.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO TV" tvg-logo="" group-title="Romania",RO: PRO TV
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2348.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO 2 HD" tvg-logo="" group-title="Romania",RO: PRO 2 HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2349.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Canal 33" tvg-logo="" group-title="Romania",RO: Canal 33
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2350.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO CINEMA HD" tvg-logo="" group-title="Romania",RO: PRO CINEMA HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2351.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO CINEMA" tvg-logo="" group-title="Romania",RO: PRO CINEMA
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2352.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Acasa GOLD HD" tvg-logo="" group-title="Romania",RO: Acasa GOLD HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2353.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: PRO GOLD" tvg-logo="" group-title="Romania",RO: PRO GOLD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2354.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN WITH" tvg-logo="" group-title="Romania",RO: AXN WITH
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2355.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN SPIN" tvg-logo="" group-title="Romania",RO: AXN SPIN
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2356.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN HD" tvg-logo="" group-title="Romania",RO: AXN HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2357.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: AXN BLACK" tvg-logo="" group-title="Romania",RO: AXN BLACK
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2358.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: WarnerBros HD" tvg-logo="" group-title="Romania",RO: WarnerBros HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2359.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: AMC" tvg-logo="" group-title="Romania",RO: AMC
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2360.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TV 1000" tvg-logo="" group-title="Romania",RO: TV 1000
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2361.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: FILMBOX" tvg-logo="" group-title="Romania",RO: FILMBOX
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2362.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Film Now HD" tvg-logo="" group-title="Romania",RO: Film Now HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2363.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: FilmBox Premium" tvg-logo="" group-title="Romania",RO: FilmBox Premium
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2364.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: FilmBox Family" tvg-logo="" group-title="Romania",RO: FilmBox Family
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2365.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Filmbox Extra HD" tvg-logo="" group-title="Romania",RO: Filmbox Extra HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2366.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: FILM CAFE" tvg-logo="" group-title="Romania",RO: FILM CAFE
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2367.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood Clasic" tvg-logo="" group-title="Romania",RO: Bollywood Clasic
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2368.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Epic Drama HD" tvg-logo="" group-title="Romania",RO: Epic Drama HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2369.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinemax HD" tvg-logo="" group-title="Romania",RO: Cinemax HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2370.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinemaraton HD" tvg-logo="" group-title="Romania",RO: Cinemaraton HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2371.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Cinemax 2 HD" tvg-logo="" group-title="Romania",RO: Cinemax 2 HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2372.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood Tv HD" tvg-logo="" group-title="Romania",RO: Bollywood Tv HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2373.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood Film" tvg-logo="" group-title="Romania",RO: Bollywood Film
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2374.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood TV" tvg-logo="" group-title="Romania",RO: Bollywood TV
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2375.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: National Geografic HD" tvg-logo="" group-title="Romania",RO: National Geografic HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2376.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Nat Geo Wild HD" tvg-logo="" group-title="Romania",RO: Nat Geo Wild HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2377.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: ID Investigation Discovery HD" tvg-logo="" group-title="Romania",RO: ID Investigation Discovery HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2378.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HISTORY CHANNEL" tvg-logo="" group-title="Romania",RO: HISTORY CHANNEL
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2379.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: IDA HD" tvg-logo="" group-title="Romania",RO: IDA HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2380.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HGTV HD" tvg-logo="" group-title="Romania",RO: HGTV HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2381.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Discovery Channel HD" tvg-logo="" group-title="Romania",RO: Discovery Channel HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2382.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: VIASAT NATURE" tvg-logo="" group-title="Romania",RO: VIASAT NATURE
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2383.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: VIASAT HISTORY" tvg-logo="" group-title="Romania",RO: VIASAT HISTORY
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2384.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: VIASAT EXPORER" tvg-logo="" group-title="Romania",RO: VIASAT EXPORER
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2385.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: DTX HD" tvg-logo="" group-title="Romania",RO: DTX HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2386.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: DocuBox HD" tvg-logo="" group-title="Romania",RO: DocuBox HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2387.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: DAVINCI LEARNING" tvg-logo="" group-title="Romania",RO: DAVINCI LEARNING
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2388.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: CBS Reality" tvg-logo="" group-title="Romania",RO: CBS Reality
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2390.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: BBC Earth HD" tvg-logo="" group-title="Romania",RO: BBC Earth HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2391.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Animal Planet HD" tvg-logo="" group-title="Romania",RO: Animal Planet HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2392.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: E! Entertainment HD" tvg-logo="" group-title="Romania",RO: E! Entertainment HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2393.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIVA" tvg-logo="" group-title="Romania",RO: DIVA
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2394.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TLC" tvg-logo="" group-title="Romania",RO: TLC
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2395.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TARAF TV" tvg-logo="" group-title="Romania",RO: TARAF TV
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2396.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: ROMANIA TV" tvg-logo="" group-title="Romania",RO: ROMANIA TV
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2397.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Nickelodeon HD" tvg-logo="" group-title="Romania",RO: Nickelodeon HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2398.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Nick Jr." tvg-logo="" group-title="Romania",RO: Nick Jr.
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2399.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: NATIONAL TV" tvg-logo="" group-title="Romania",RO: NATIONAL TV
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2400.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: National 24 Plus" tvg-logo="" group-title="Romania",RO: National 24 Plus
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2401.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Music Channel" tvg-logo="" group-title="Romania",RO: Music Channel
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2402.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: MOOZ RO" tvg-logo="" group-title="Romania",RO: MOOZ RO
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2403.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Mooz Dance" tvg-logo="" group-title="Romania",RO: Mooz Dance
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2404.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: MOOZ DANCE" tvg-logo="" group-title="Romania",RO: MOOZ DANCE
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2405.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: MINIMAX" tvg-logo="" group-title="Romania",RO: MINIMAX
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2406.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HGTV HD" tvg-logo="" group-title="Romania",RO: HGTV HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2407.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: JimJam" tvg-logo="" group-title="Romania",RO: JimJam
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2408.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HAPPY CHANNEL HD" tvg-logo="" group-title="Romania",RO: HAPPY CHANNEL HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2409.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Extreme Sport RO" tvg-logo="" group-title="Romania",RO: Extreme Sport RO
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2410.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: DUCK TV" tvg-logo="" group-title="Romania",RO: DUCK TV
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2411.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISNEY JUNIOR" tvg-logo="" group-title="Romania",RO: DISNEY JUNIOR
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2412.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: DISNEY CHANNEL" tvg-logo="" group-title="Romania",RO: DISNEY CHANNEL
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2413.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi World HD" tvg-logo="" group-title="Romania",RO: Digi World HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2414.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Life HD" tvg-logo="" group-title="Romania",RO: Digi Life HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2415.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Digi Animal World HD" tvg-logo="" group-title="Romania",RO: Digi Animal World HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2416.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI 24 HD" tvg-logo="" group-title="Romania",RO: DIGI 24 HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2417.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: ComedyEst HD" tvg-logo="" group-title="Romania",RO: ComedyEst HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2418.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: COMEDY CENTRAL" tvg-logo="" group-title="Romania",RO: COMEDY CENTRAL
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2419.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: CARTOON NETWORK" tvg-logo="" group-title="Romania",RO: CARTOON NETWORK
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2420.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: BOOMERANG" tvg-logo="" group-title="Romania",RO: BOOMERANG
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2421.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: B1 TV" tvg-logo="" group-title="Romania",RO: B1 TV
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2422.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: A 7 TV" tvg-logo="" group-title="Romania",RO: A 7 TV
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2423.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: FightBox HD" tvg-logo="" group-title="Romania",RO: FightBox HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2424.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO" tvg-logo="" group-title="Romania",RO: HBO
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2425.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO 2 HD" tvg-logo="" group-title="Romania",RO: HBO 2 HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2426.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: HBO 3 HD" tvg-logo="" group-title="Romania",RO: HBO 3 HD
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2427.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: KISS TV" tvg-logo="" group-title="Romania",RO: KISS TV
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2428.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: TV Paprika" tvg-logo="" group-title="Romania",RO: TV Paprika
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/2429.ts
+#EXTINF:-1 tvg-id="" tvg-name="RO: Fishing & Hunting" tvg-logo="" group-title="Romania",RO: Fishing & Hunting
+http://tvip.world:80/RUMUNIJA/CTHdmRtYXD/5041.ts

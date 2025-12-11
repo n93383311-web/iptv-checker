@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:0,Bac Kan TV
+http://89.35.128.115:9981/stream/channelid/740235461
+#EXTINF:0,Bad Girls Club HD
+http://89.35.128.115:9981/stream/channelid/698882135
+#EXTINF:0,Bandung TV
+http://89.35.128.115:9981/stream/channelid/468559091
+#EXTINF:0,Baywatch HD [DE]
+http://89.35.128.115:9981/stream/channelid/1479179895
+#EXTINF:0,BBC Top Gear HD
+http://89.35.128.115:9981/stream/channelid/1289081668
+#EXTINF:0,BET Soul
+http://89.35.128.115:9981/stream/channelid/63388602
+#EXTINF:0,Big 12 Studios HD
+http://89.35.128.115:9981/stream/channelid/370057413
+#EXTINF:0,Big Time Rush HD [DE]
+http://89.35.128.115:9981/stream/channelid/2014687526
+#EXTINF:0,Blues TV
+http://89.35.128.115:9981/stream/channelid/1335854124
+#EXTINF:0,Canada One HD
+http://89.35.128.115:9981/stream/channelid/1763086905
+#EXTINF:0,Canal-2 (San Antonio) HD [ES]
+http://89.35.128.115:9981/stream/channelid/1560547939
+#EXTINF:0,Canal-10 Cancún HD [ES]
+http://89.35.128.115:9981/stream/channelid/1041933921
+#EXTINF:0,Canal-13 La Rioja HD [ES]
+http://89.35.128.115:9981/stream/channelid/41843509
+#EXTINF:0,Canal-14 San Carlos HD [ES]
+http://89.35.128.115:9981/stream/channelid/786259272
+#EXTINF:0,Canal-79 Mar del Plata [ES]
+http://89.35.128.115:9981/stream/channelid/1203285613
+#EXTINF:0,Canal-79 Santa Clara del Mar LQ [ES]
+http://89.35.128.115:9981/stream/channelid/1959207237
+#EXTINF:0,Canal-2000 La Solana HD [ES]
+http://89.35.128.115:9981/stream/channelid/681421567

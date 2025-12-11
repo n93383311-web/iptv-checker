@@ -1,0 +1,391 @@
+#EXTM3U
+#EXTINF:0  tvg-rec=\"14\", A7 HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/713/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"agro-tv-md\" tvg-logo=\"https://iptvx.one/picons/agro-tv-md.png\" tvg-rec=\"14\", AgRO
+#EXTGRP:RO
+http://serv3.iptv11.com/714/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3688\" tvg-logo=\"http://epg.it999.ru/img/3688.png\" tvg-rec=\"14\", Alfa omega RO
+#EXTGRP:RO
+http://serv3.iptv11.com/715/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3731\" tvg-logo=\"http://epg.it999.ru/img/365.png\" tvg-rec=\"14\", Animal Planet RO
+#EXTGRP:RO
+http://serv3.iptv11.com/716/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3691\" tvg-logo=\"http://epg.it999.ru/img/3691.png\" tvg-rec=\"14\", AMC RO
+#EXTGRP:RO
+http://serv3.iptv11.com/717/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3744\" tvg-logo=\"http://epg.it999.ru/img/3744.png\" tvg-rec=\"14\", Antena 1 HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/720/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3745\" tvg-logo=\"http://epg.it999.ru/img/3745.png\" tvg-rec=\"14\", Antena 3 HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/721/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3746\" tvg-logo=\"http://epg.it999.ru/img/3746.png\" tvg-rec=\"14\", Antena Stars RO
+#EXTGRP:RO
+http://serv3.iptv11.com/723/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3796\" tvg-logo=\"http://epg.it999.ru/img/3796.png\" tvg-rec=\"14\", Bollywood RO
+#EXTGRP:RO
+http://serv3.iptv11.com/627/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3716\" tvg-logo=\"http://epg.it999.ru/img/3716.png\" tvg-rec=\"14\", Boomerang RO
+#EXTGRP:RO
+http://serv3.iptv11.com/628/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3736\" tvg-logo=\"http://epg.it999.ru/img/3736.png\" tvg-rec=\"14\", Bucuresti TV HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/629/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3726\" tvg-logo=\"http://epg.it999.ru/img/3726.png\" tvg-rec=\"14\", Kanal D RO
+#EXTGRP:RO
+http://serv3.iptv11.com/631/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3708\" tvg-logo=\"http://epg.it999.ru/img/3708.png\" tvg-rec=\"14\", Cartoon Network RO
+#EXTGRP:RO
+http://serv3.iptv11.com/632/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3795\" tvg-logo=\"http://epg.it999.ru/img/3795.png\" tvg-rec=\"14\", CBS Reality RO
+#EXTGRP:RO
+http://serv3.iptv11.com/633/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3794\" tvg-logo=\"http://epg.it999.ru/img/3794.png\" tvg-rec=\"14\", Credo TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/635/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3780\" tvg-logo=\"http://epg.it999.ru/img/3780.png\" tvg-rec=\"14\", Digi Animal World RO
+#EXTGRP:RO
+http://serv3.iptv11.com/636/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv2907\" tvg-logo=\"http://epg.it999.ru/img/2907.png\" tvg-rec=\"14\", Digi sport 1 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/637/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv2906\" tvg-logo=\"http://epg.it999.ru/img/2906.png\" tvg-rec=\"14\", Digi sport 2 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/638/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv2908\" tvg-logo=\"http://epg.it999.ru/img/2908.png\" tvg-rec=\"14\", DIGI Sport 3 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/639/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv2922\" tvg-logo=\"http://epg.it999.ru/img/2922.png\" tvg-rec=\"14\", Digi sport 4 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/641/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3751\" tvg-logo=\"http://epg.it999.ru/img/3751.png\" tvg-rec=\"14\", Digi24 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/642/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3710\" tvg-logo=\"http://epg.it999.ru/img/325.png\" tvg-rec=\"14\", Discovery RO
+#EXTGRP:RO
+http://serv3.iptv11.com/643/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3698\" tvg-logo=\"http://epg.it999.ru/img/409.png\" tvg-rec=\"14\", Discovery Science RO
+#EXTGRP:RO
+http://serv3.iptv11.com/645/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3707\" tvg-logo=\"http://epg.it999.ru/img/3707.png\" tvg-rec=\"14\", Disney channel RO
+#EXTGRP:RO
+http://serv3.iptv11.com/646/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Disney Junio RO
+#EXTGRP:RO
+http://serv3.iptv11.com/647/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-logo=\"http://epg.it999.ru/img/2186.png\" tvg-rec=\"14\", Docubox HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/648/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", DTX HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/649/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-logo=\"https://iptvx.one/picons/ducktv.png\" tvg-rec=\"14\", Duck RO
+#EXTGRP:RO
+http://serv3.iptv11.com/650/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3090\" tvg-logo=\"http://epg.it999.ru/img/3090.png\" tvg-rec=\"14\", E! Entertainment HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/651/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Etno RO
+#EXTGRP:RO
+http://serv3.iptv11.com/652/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-logo=\"https://iptvx.one/picons/eurosport1.png\" tvg-rec=\"14\", Eurosport RO
+#EXTGRP:RO
+http://serv3.iptv11.com/655/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-logo=\"http://epg.it999.ru/img/4903.png\" tvg-rec=\"14\", Eurosport 2 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/654/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3695\" tvg-logo=\"http://epg.it999.ru/img/3695.png\" tvg-rec=\"14\", Film Cafe RO
+#EXTGRP:RO
+http://serv3.iptv11.com/656/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3690\" tvg-logo=\"http://epg.it999.ru/img/3690.png\" tvg-rec=\"14\", Filmbox Prem RO
+#EXTGRP:RO
+http://serv3.iptv11.com/657/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3777\" tvg-logo=\"http://epg.it999.ru/img/3777.png\" tvg-rec=\"14\", Happy Channel RO
+#EXTGRP:RO
+http://serv3.iptv11.com/659/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", HBO AXN RO
+#EXTGRP:RO
+http://serv3.iptv11.com/660/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3692\" tvg-logo=\"http://epg.it999.ru/img/3692.png\" tvg-rec=\"14\", AXN Whit RO
+#EXTGRP:RO
+http://serv3.iptv11.com/725/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3694\" tvg-logo=\"http://epg.it999.ru/img/3694.png\" tvg-rec=\"14\", AXN Black RO
+#EXTGRP:RO
+http://serv3.iptv11.com/661/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3728\" tvg-logo=\"http://epg.it999.ru/img/3728.png\" tvg-rec=\"14\", HBO HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/662/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3771\" tvg-logo=\"http://epg.it999.ru/img/3771.png\" tvg-rec=\"14\", HBO2 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/663/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3729\" tvg-logo=\"http://epg.it999.ru/img/3729.png\" tvg-rec=\"14\", HBO3 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/664/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-logo=\"http://epg.it999.ru/img/494.png\" tvg-rec=\"14\", Jim Jam RO
+#EXTGRP:RO
+http://serv3.iptv11.com/668/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3727\" tvg-logo=\"http://epg.it999.ru/img/3727.png\" tvg-rec=\"14\", CineMax RO
+#EXTGRP:RO
+http://serv3.iptv11.com/670/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3724\" tvg-logo=\"http://epg.it999.ru/img/3724.png\" tvg-rec=\"14\", CineMax 2 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/672/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3704\" tvg-logo=\"http://epg.it999.ru/img/3704.png\" tvg-rec=\"14\", Kiss RO
+#EXTGRP:RO
+http://serv3.iptv11.com/675/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3802\" tvg-logo=\"http://epg.it999.ru/img/3802.png\" tvg-rec=\"14\", Look Sport RO
+#EXTGRP:RO
+http://serv3.iptv11.com/676/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3702\" tvg-logo=\"http://epg.it999.ru/img/3702.png\" tvg-rec=\"14\", Minimax RO
+#EXTGRP:RO
+http://serv3.iptv11.com/681/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3798\" tvg-logo=\"http://epg.it999.ru/img/3798.png\" tvg-rec=\"14\", Mooz Dance HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/682/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"music-channel-ro\" tvg-logo=\"https://iptvx.one/picons/music-channel-ro.png\" tvg-rec=\"14\", Music Channel RO
+#EXTGRP:RO
+http://serv3.iptv11.com/683/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", N24 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/684/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3725\" tvg-logo=\"http://epg.it999.ru/img/3725.png\" tvg-rec=\"14\", National TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/686/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3784\" tvg-logo=\"http://epg.it999.ru/img/3784.png\" tvg-rec=\"14\", Nick JR RO
+#EXTGRP:RO
+http://serv3.iptv11.com/687/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3714\" tvg-logo=\"http://epg.it999.ru/img/3714.png\" tvg-rec=\"14\", Nickelodeon RO
+#EXTGRP:RO
+http://serv3.iptv11.com/688/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3737\" tvg-logo=\"http://epg.it999.ru/img/3737.png\" tvg-rec=\"14\", Prima TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/689/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Acasa HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/692/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Acasa Gold HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/693/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3739\" tvg-logo=\"http://epg.it999.ru/img/3739.png\" tvg-rec=\"14\", ProTV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/694/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", ProTV International RO
+#EXTGRP:RO
+http://serv3.iptv11.com/696/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"pro-arena\" tvg-logo=\"https://iptvx.one/picons/pro-arena.png\" tvg-rec=\"14\", PRO Arena HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/697/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3700\" tvg-logo=\"http://epg.it999.ru/img/3700.png\" tvg-rec=\"14\", Relitatea Plus HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/699/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3701\" tvg-logo=\"http://epg.it999.ru/img/3701.png\" tvg-rec=\"14\", Romania TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/700/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Speranta RO
+#EXTGRP:RO
+http://serv3.iptv11.com/701/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Taraf RO
+#EXTGRP:RO
+http://serv3.iptv11.com/702/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Telestar 1 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/704/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3721\" tvg-logo=\"http://epg.it999.ru/img/3721.png\" tvg-rec=\"14\", Favorit TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/705/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3696\" tvg-logo=\"http://epg.it999.ru/img/3696.png\" tvg-rec=\"14\", Travel ХР Channel HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/706/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3789\" tvg-logo=\"http://epg.it999.ru/img/3789.png\" tvg-rec=\"14\", Trinitas RO
+#EXTGRP:RO
+http://serv3.iptv11.com/707/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3697\" tvg-logo=\"http://epg.it999.ru/img/3697.png\" tvg-rec=\"14\", TV paprika RO
+#EXTGRP:RO
+http://serv3.iptv11.com/708/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3683\" tvg-logo=\"http://epg.it999.ru/img/3683.png\" tvg-rec=\"14\", TVR1 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/709/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3684\" tvg-logo=\"http://epg.it999.ru/img/3684.png\" tvg-rec=\"14\", TVR2 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/710/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3685\" tvg-logo=\"http://epg.it999.ru/img/3685.png\" tvg-rec=\"14\", TVR3 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/711/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-id=\"iptv3715\" tvg-logo=\"http://epg.it999.ru/img/3715.png\" tvg-rec=\"14\", ZU RO
+#EXTGRP:RO
+http://serv3.iptv11.com/712/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Diva TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/679/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", U TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/680/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", AXN Spin RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3161/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Aleph News HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3162/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", BBC Earth HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3163/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", BBC First HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3164/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Bollywood Classic RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3165/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Bollywood Film RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3166/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Cartoonito RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3168/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Cinetronix RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3169/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Comedy Central HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3170/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Crime+Investigation RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3171/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Emi HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3172/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Epic Drama HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3173/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Euronews Romania HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3174/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Exploris HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3175/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Extreme Sports RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3176/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Food Network HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3177/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Global News HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3178/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", HGTV HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3179/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", HIT Music Channel RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3180/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", History HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3181/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", ID HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3182/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Inedit TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3183/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Kanal D2 HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3184/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Magic TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3185/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Medika TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3186/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Mertopola HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3187/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Moldova TV HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3188/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Mooz Hit RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3189/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Mooz RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3190/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", NCN RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3191/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Nasul TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3192/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Nat Geo HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3193/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Nat Geo Willd HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3194/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", National 24 Plus RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3195/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Nicktoons RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3196/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Orizont TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3197/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Party Mix HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3198/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Pro Cinema HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3199/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", PRIMA SPORT 1 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3209/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Rock TV RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3201/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Sport Extra HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3202/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", TLC HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3203/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", TV 1000 RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3204/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", TV AS RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3205/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", TVR Cluj RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3206/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", TVR Craiova RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3207/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", TVR Cultura HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3208/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", TVR Targu Mures RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3210/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", TVR Timisoara RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3211/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Traditional TV HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3212/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", TralLaLa HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3213/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Viasat Explore HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3216/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Viasat History HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3217/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Viasat Nature HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3218/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Warner TV HD RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3219/video.m3u8?token=BAA5EC051ED74
+#EXTINF:0  tvg-rec=\"14\", Fishing&Hunting RO
+#EXTGRP:RO
+http://serv3.iptv11.com/3361/video.m3u8?token=BAA5EC051ED74
