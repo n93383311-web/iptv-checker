@@ -3,7 +3,7 @@ import re
 import requests
 
 INPUT_DIR = "input_lists3"
-OUTPUT_FILE = "output/working.m3u"
+OUTPUT_FILE = "working.m3u"
 
 # More accurate IPTV URL extractor
 URL_REGEX = r'(https?://[^\s"\']+)'
