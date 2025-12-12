@@ -1,0 +1,39 @@
+name: IPTV Scanner
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"     # every 6 hours
+  workflow_dispatch:          # allow manual start
+  push:                       # optional – run on commit
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write         # needed to commit updated files
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run IPTV scanner
+        run: |
+          python3 your_script.py
+
+      - name: Commit updated playlist
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add output/working.m3u
+          git commit -m "Auto-update working IPTV list" || echo "No changes to commit"
+          git push
