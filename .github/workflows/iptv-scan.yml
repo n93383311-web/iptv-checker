@@ -28,7 +28,7 @@ jobs:
 
       - name: Run IPTV scanner
         run: |
-          python3 your_script.py
+          python3 checker.py
 
       - name: Commit updated playlist
         run: |
